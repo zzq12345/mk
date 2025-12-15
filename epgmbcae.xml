@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251216090000 +0800" stop="20251216113000 +0800" channel="mbc max">
-    <title lang="en">Spider-Man 2</title>
-    <desc lang="en">Peter Parker is struggling to manage both his personal lifeand his duties as Spider-Man, facing Dr. Otto Octavius, who after a failed experiment and his wife's death, uses his mechanical tentacles and threatens to endanger the lives of New York City's residents. Spider-Man must stop him from annihilating the city.</desc>
-    <category lang="en">Movie
-               (2004)</category>
-  </programme>
   <programme start="20251216113000 +0800" stop="20251216140000 +0800" channel="mbc max">
     <title lang="en">Spider-Man 3</title>
     <desc lang="en">After (Spider-Man) gets the key to the city for saving  themayor's life and the city as a whole, he becomes vain and his relationship with (Mary Jane) is strained. He then encounters a parasitic creature from outer space who has the ability to create an evil aggressive spirit.</desc>
@@ -217,6 +211,13 @@
     <category lang="en">Movie
                (2012)</category>
   </programme>
+  <programme start="20251218203000 +0800" stop="20251218220500 +0800" channel="mbc max">
+    <title lang="en">The Grand Budapest Hotel</title>
+    <desc lang="en">The story of Gustave H (Ralph Fiennes) the legendaryconcerige at a famous Hotel ,who befriends the lobby boy Zero Mustafa (Tony Revolori). When Madame D.&#13;
+ (Tilda Swinton) is killed , her son Dmitry (Adrien Brody) decides to take revenge on Gustave, while everyone is after a priceless painting.</desc>
+    <category lang="en">Movie
+               (2014)</category>
+  </programme>
   <programme start="20251216093000 +0800" stop="20251216120000 +0800" channel="mbc 2">
     <title lang="en">Zodiac</title>
     <desc lang="en">A serial killer calling himself Zodiac taunts the police bysharing the details of his murders and sending cryptic messages to the press. A police officer, a journalist and a cartoonist form an unlikely team to hunt him down.</desc>
@@ -414,5 +415,11 @@
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
     <category lang="en">Program
                (2010)</category>
+  </programme>
+  <programme start="20251218203000 +0800" stop="20251218223500 +0800" channel="mbc 2">
+    <title lang="en">The Conjuring: The Devil Made Me Do It</title>
+    <desc lang="en">When a murder takes place, two top paranormal investigators,Ed and Lorraine, scrumble to figure out the truth of a murderer claiming to be possessed by a demon.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
