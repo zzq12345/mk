@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251215023000 +0800" stop="20251215030000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20251215030000 +0800" stop="20251215050000 +0800" channel="mbc max">
     <title lang="en">The Nice Guys</title>
     <desc lang="en">In 1970s Los Angeles, private investigator Holland March(Ryan Gosling) is forced to work with another private eye  Jackson Healey (Russell Crowe) to investigate the mysterious death of a porn star and a missing girl.</desc>
@@ -217,17 +211,17 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20251215013000 +0800" stop="20251215030000 +0800" channel="mbc 2">
-    <title lang="en">The Fountain</title>
-    <desc lang="en">Across three eras, three different men share one goal: tofind the tree of life that could grant them eternity with the women they love. Despite their different backgrounds and different times, they are all beset by their fight against human frailty and mortality, fighting to preserve their love.</desc>
-    <category lang="en">Movie
-               (2006)</category>
-  </programme>
-  <programme start="20251215030000 +0800" stop="20251215033000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+  <programme start="20251217133000 +0800" stop="20251217140000 +0800" channel="mbc max">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
     <category lang="en">Program
-               (2008)</category>
+               (2010)</category>
+  </programme>
+  <programme start="20251217140000 +0800" stop="20251217163000 +0800" channel="mbc max">
+    <title lang="en">Den of Thieves</title>
+    <desc lang="en">While planning a bank robbery, a thief is surrounded by twogroups of dangerous criminals.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
   <programme start="20251215033000 +0800" stop="20251215050000 +0800" channel="mbc 2">
     <title lang="en">Taken 2</title>
@@ -426,5 +420,11 @@
     <desc lang="en">After NBA superstar LeBron James finds himself trapped withhis son in a virtual space, he must join forces with Bugs Bunny and the rest of the Looney Tunes gang to win a fateful basketball game against the Goon Squad and get back home with his son.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20251217130000 +0800" stop="20251217150000 +0800" channel="mbc 2">
+    <title lang="en">Julie &amp; Julia</title>
+    <desc lang="en">Based on true events, the film juxtaposes the journey ofrenowned chef Julia Child and how she achieved her fame, and the story of an ordinary woman, Julie Powell, who tries to reinvent her life by documenting her year-long challenge to cook all the available recipes in Julia Child’s cookbook.</desc>
+    <category lang="en">Movie
+               (2009)</category>
   </programme>
 </tv>
