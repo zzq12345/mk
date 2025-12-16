@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251216053000 +0800" stop="20251216073000 +0800" channel="mbc max">
-    <title lang="en">Ender's Game</title>
-    <desc lang="en">Seventy years after a horrific war with aliens, anexceptionally gifted child is sent to an advanced military school in space to prepare for the future invasion.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20251216073000 +0800" stop="20251216080000 +0800" channel="mbc max">
     <title lang="en">Scoop Maa Raya</title>
     <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
@@ -206,11 +200,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20251216035000 +0800" stop="20251216060000 +0800" channel="mbc 2">
-    <title lang="en">Runaway Jury</title>
-    <desc lang="en">As a young widow takes a gun manufacturer to court, thetrial turns into a three-way struggle to control the verdict. Between the prosecution, the defense and its jury consultant, and one of the jurors, the attempt to sway the jury becomes a game of wits.</desc>
+  <programme start="20251218163000 +0800" stop="20251218183000 +0800" channel="mbc max">
+    <title lang="en">Rogue</title>
+    <desc lang="en">As Samantha O'Hara leads a team of mercenaries on a missionto rescue hostages in remote Africa, the mission goes haywire and the team becomes hunted by a group of rebels and wild lions.</desc>
     <category lang="en">Movie
-               (2003)</category>
+               (2020)</category>
   </programme>
   <programme start="20251216062500 +0800" stop="20251216083500 +0800" channel="mbc 2">
     <title lang="en">Parasite</title>
@@ -403,5 +397,11 @@
     <desc lang="en">When a young hero gets embroiled in a brutal,multi-dimensional battle, the experience gives him a new perspective on his limits and capabilities.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20251218170000 +0800" stop="20251218183000 +0800" channel="mbc 2">
+    <title lang="en">Underworld: Rise of the Lycans</title>
+    <desc lang="en">In continuation of the first two parts of the same series,bloody events unfold between bloodsucking vampires and their slaves, the Lycans. The Lycans are led by Lucian, who wants to destroy the vampires' leader, whose daughter is in love with Lucian. She joins in the bloody wars with her lover against her father.</desc>
+    <category lang="en">Movie
+               (2009)</category>
   </programme>
 </tv>
