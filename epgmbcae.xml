@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251217100000 +0800" stop="20251217113400 +0800" channel="mbc max">
-    <title lang="en">Goosebumps</title>
-    <desc lang="en">A young kid meets author R.L Stine's niece in the town ofGreendale, Maryland, following one of the writer's turns in which he uncovers his imagination's demons.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20251217120000 +0800" stop="20251217140000 +0800" channel="mbc max">
     <title lang="en">Dark Shadows</title>
     <desc lang="en">When Barnabas slights Angelique and breaks her heart, hediscovers that hell truly hath no fury like a woman scorned. Angelique, a witch, takes her revenge by burying him alive after cursing him with vampirism. When he is finally freed centuries later, he emerges to a whole new world.</desc>
@@ -200,11 +194,11 @@
     <category lang="en">Movie
                (2008)</category>
   </programme>
-  <programme start="20251217090000 +0800" stop="20251217110000 +0800" channel="mbc 2">
-    <title lang="en">Acrimony</title>
-    <desc lang="en">Melinda is an honest and faithful wife, who decides to turnthings against her cheating husband, after confirming his unfaithfulness.</desc>
+  <programme start="20251219203000 +0800" stop="20251219223000 +0800" channel="mbc max">
+    <title lang="en">The Transporter Refueled</title>
+    <desc lang="en">When former mercenary-turned-contract driver Frank Martin ishired by a mysterious woman for a job, he finds himself embroiled in a dangerous game, since the woman has her own vendetta that she wants to settle with a Russian mobster.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2015)</category>
   </programme>
   <programme start="20251217110000 +0800" stop="20251217123500 +0800" channel="mbc 2">
     <title lang="en">Alice, Darling</title>
@@ -391,5 +385,11 @@
     <desc lang="en">After NBA superstar LeBron James finds himself trapped withhis son in a virtual space, he must join forces with Bugs Bunny and the rest of the Looney Tunes gang to win a fateful basketball game against the Goon Squad and get back home with his son.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20251219203000 +0800" stop="20251219221500 +0800" channel="mbc 2">
+    <title lang="en">The Smurfs 2</title>
+    <desc lang="en">When Smurfette is kidnapped by the evil wizard Gargamel, herlittle blue cohorts rally their human friends to help rescue her. And the stakes are high, as she has discovered a secret spell that can turn Gargamel's newest creation, creatures called the Naughties, into real Smurfs.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
