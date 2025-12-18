@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251218070000 +0800" stop="20251218093000 +0800" channel="mbc max">
-    <title lang="en">Rescue Dawn</title>
-    <desc lang="en">A German/American plane goes out on a secret mission, butcrashes in a forest during the Laos bombing of 1965. The plane's crew are taken as hostages and tortured by Vietcong forces. US Navy Pilot successfully plans an escape method for the hostages, but they face plenty of unforeseen events.</desc>
-    <category lang="en">Movie
-               (2006)</category>
-  </programme>
   <programme start="20251218093000 +0800" stop="20251218113000 +0800" channel="mbc max">
     <title lang="en">The Good German</title>
     <desc lang="en">When an American war correspondent arrives in post-warBerlin to report on a conference, he is drawn into a murder investigation and an attempt to help his former sweetheart escape Germany which uncovers a larger government conspiracy.</desc>
@@ -179,12 +173,6 @@
     <desc lang="en">On the eve of the fall of the Berlin wall, spy LorraineBroughton goes on a mission to bring down the spy network that killed an undercover agent for an unknown reason.</desc>
     <category lang="en">Movie
                (2017)</category>
-  </programme>
-  <programme start="20251218070000 +0800" stop="20251218090000 +0800" channel="mbc 2">
-    <title lang="en">Long Shot</title>
-    <desc lang="en">When Fred Flarsky reunites with his high school crush,Charlotte Field, now one of the most influential women in the world, a new spark is born between them. She hires him to write her speeches, as she prepares to run for US presidency.</desc>
-    <category lang="en">Movie
-               (2019)</category>
   </programme>
   <programme start="20251218090000 +0800" stop="20251218110000 +0800" channel="mbc 2">
     <title lang="en">Blade</title>
@@ -359,5 +347,11 @@
     <desc lang="en">Frank Poncherello, an undercover federal agent, and JonBaker, a rookie, join the highway patrol in California for entirely different reasons. They team up and roam around putting a stop to speeding cars and vehicle thefts, helping those who are lost, and investigating crimes.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20251220190000 +0800" stop="20251220210000 +0800" channel="mbc 2">
+    <title lang="en">Jack the Giant Slayer</title>
+    <desc lang="en">An ancient war is reignited when a young farmhand, Jack,unwittingly opens a gateway between our world and that of a fearsome race of giants. Jack fights for a kingdom, its people, and the love of a princess.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
