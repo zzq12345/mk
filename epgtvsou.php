@@ -5,7 +5,7 @@ header('Content-Type: text/plain; charset=UTF-8');
 $dt1 = date('Ymd'); // 获取当前日期
 $dt2 = date('Ymd', time() + 24 * 3600); // 第二天日期
 $w1 = date("w"); // 当前第几周
-$fp="epgtvmao.xml";//压缩版本的扩展名后加.gz
+$fp="epgtvsou.xml";//压缩版本的扩展名后加.gz
 if ($w1 < '1') {
     $w1 = 7;
 }
