@@ -47,7 +47,7 @@ $id180=100637;
 $cid18=array(
 array('34d6b6de','湖南经视'),
 
-/*34d6b6de
+
 array('42688016','湖南都市'),
 array('63a3b196','CCTV-4欧洲'),
 array('9d22479f','CCTV-4美洲'),
@@ -270,7 +270,7 @@ array('f21d3136','福州少儿'),
 array('e211ffe8','南宁新闻'),
 array('b76cd361','厦门3'),
 array('1793d645','厦门4'),
-*/
+
 );
 $idn18=700110;
 $url180="https://www.tvsou.com/epg/";
