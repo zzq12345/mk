@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251222140000 +0800" stop="20251222160000 +0800" channel="mbc max">
-    <title lang="en">The Girl in the Spider's Web</title>
-    <desc lang="en">Young computer hacker (Lisbeth Salander) and journalist(Mikael Blomkvist) find themselves trapped in a web of spies, cybercriminals and corrupt government officials.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20251222160000 +0800" stop="20251222180000 +0800" channel="mbc max">
     <title lang="en">The Infiltrator</title>
     <desc lang="en">The true story of Customs Service agent Robert Mazur whoexposes a money laundering scheme by legendary drug lord Pablo Escobar</desc>
@@ -431,5 +425,11 @@
     <desc lang="en">A highly intelligent student wants to enroll in Harvard, butdoesn't have the tuition fees. He moves with his friends to Las Vegas, where they us their card counting skills to win large amounts of cash in the casinos of the city.</desc>
     <category lang="en">Movie
                (2008)</category>
+  </programme>
+  <programme start="20251225013000 +0800" stop="20251225033500 +0800" channel="mbc 2">
+    <title lang="en">Spider-Man: Homecoming</title>
+    <desc lang="en">With Tony Stark keeping an eye on him, Peter struggles tolive up to his mantle as a superhero and reconcile the responsibility with his ordinary life as a high school student. But when a new villain appears with advanced weapons, Peter has to face a threat to everything he holds dear.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
