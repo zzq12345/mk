@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251222120000 +0800" stop="20251222140000 +0800" channel="mbc max">
-    <title lang="en">American Made</title>
-    <desc lang="en">Recruited by the CIA, pilot Barry Seal's mission to provideinformation on communists soon gets him entangled with a drug cartel and arms smugglers.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20251222140000 +0800" stop="20251222160000 +0800" channel="mbc max">
     <title lang="en">The Girl in the Spider's Web</title>
     <desc lang="en">Young computer hacker (Lisbeth Salander) and journalist(Mikael Blomkvist) find themselves trapped in a web of spies, cybercriminals and corrupt government officials.</desc>
@@ -431,5 +425,11 @@
     <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20251224233500 +0800" stop="20251225013000 +0800" channel="mbc 2">
+    <title lang="en">21</title>
+    <desc lang="en">A highly intelligent student wants to enroll in Harvard, butdoesn't have the tuition fees. He moves with his friends to Las Vegas, where they us their card counting skills to win large amounts of cash in the casinos of the city.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
