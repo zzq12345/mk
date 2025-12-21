@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251222093000 +0800" stop="20251222120000 +0800" channel="mbc max">
-    <title lang="en">Blackhat</title>
-    <desc lang="en">After a case of high-level computer hacking arises, a man isreleased from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The cat-and-mouse chase leads them from the U.S.A to Hong Kong.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20251222120000 +0800" stop="20251222140000 +0800" channel="mbc max">
     <title lang="en">American Made</title>
     <desc lang="en">Recruited by the CIA, pilot Barry Seal's mission to provideinformation on communists soon gets him entangled with a drug cartel and arms smugglers.</desc>
@@ -431,5 +425,11 @@
     <desc lang="en">As a bunch of mercenaries storms the residence of a richfamily on Christmas Eve, it's up to Santa Claus to save the day.</desc>
     <category lang="en">Movie
                (2022)</category>
+  </programme>
+  <programme start="20251224213000 +0800" stop="20251224231000 +0800" channel="mbc 2">
+    <title lang="en">Peppermint</title>
+    <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
