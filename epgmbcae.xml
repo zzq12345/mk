@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251222033000 +0800" stop="20251222053000 +0800" channel="mbc max">
-    <title lang="en">The Girl in the Spider's Web</title>
-    <desc lang="en">Young computer hacker (Lisbeth Salander) and journalist(Mikael Blomkvist) find themselves trapped in a web of spies, cybercriminals and corrupt government officials.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20251222060000 +0800" stop="20251222080000 +0800" channel="mbc max">
     <title lang="en">American Made</title>
     <desc lang="en">Recruited by the CIA, pilot Barry Seal's mission to provideinformation on communists soon gets him entangled with a drug cartel and arms smugglers.</desc>
@@ -425,5 +419,11 @@
     <desc lang="en">Four youngsters are trapped in the Jumanji jungle world astheir avatars when they use a magical video game to play, and they have to complete the game to get back to reality.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20251224150000 +0800" stop="20251224170500 +0800" channel="mbc 2">
+    <title lang="en">Jumanji: The Next Level</title>
+    <desc lang="en">When a depressed Spencer starts fiddling with the brokenJumanji game in search of purpose, his friends reenter the game to rescue him, along with his grandfather and his old friend. As they encounter a landscape ravaged by drought, they must fight to find Spencer and save Jumanji.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
