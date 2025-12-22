@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251222213000 +0800" stop="20251222233000 +0800" channel="mbc max">
-    <title lang="en">Total Recall</title>
-    <desc lang="en">In a world devastated by a global war, except for WesternEurope (UFB) and Australia (the Colony), Douglas Quaid believes he is a factory worker until he discovers real memories of being a high-profile agent at UFB after visiting Rekall, a recreational company that implants false memories. A series of chases and clues reveal the plan to eliminate the Colony and only Quaid can "kill" the plan.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
   <programme start="20251222233000 +0800" stop="20251223010000 +0800" channel="mbc max">
     <title lang="en">Debt Collectors</title>
     <desc lang="en">The debt collectors, French and Sue, find themselves facingall kinds of trouble, when they do a job in Las Vegas that leads them to chasing down a dirty casino owner while evading a vengeful drug kingpin.</desc>
@@ -431,5 +425,17 @@
     <desc lang="en">After his battle in Metropolis, Bruce Wayne believes thatSuperman must be stopped, as the evil Lex Luthor manipulates Batman into defeating the Man of Steel.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20251225083000 +0800" stop="20251225085500 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20251225085500 +0800" stop="20251225103500 +0800" channel="mbc 2">
+    <title lang="en">My Spy</title>
+    <desc lang="en">The tough CIA agent JJ finds himself at the mercy of thewitty 9-year-old girl Sophie, after he is secretly sent to monitor her family.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
 </tv>
