@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251222010000 +0800" stop="20251222030000 +0800" channel="mbc max">
-    <title lang="en">Blackhat</title>
-    <desc lang="en">After a case of high-level computer hacking arises, a man isreleased from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The cat-and-mouse chase leads them from the U.S.A to Hong Kong.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20251222030000 +0800" stop="20251222033000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20251222033000 +0800" stop="20251222053000 +0800" channel="mbc max">
     <title lang="en">The Girl in the Spider's Web</title>
     <desc lang="en">Young computer hacker (Lisbeth Salander) and journalist(Mikael Blomkvist) find themselves trapped in a web of spies, cybercriminals and corrupt government officials.</desc>
@@ -221,12 +209,6 @@
     <desc lang="en">A mother lives a near-perfect life, but the progress of hercareer is frustrating even though she works double effort and is highly committed. With all the frustrations she faces, she gets to know a group of other mothers with whom she tries to overcome routine.</desc>
     <category lang="en">Movie
                (2016)</category>
-  </programme>
-  <programme start="20251222010000 +0800" stop="20251222030000 +0800" channel="mbc 2">
-    <title lang="en">The Walk</title>
-    <desc lang="en">The true story of how a French street performer undertookthe daunting task of walking a tightrope between the Twin Towers of the World Trade Center, all with the aid of a misfit group that he put together</desc>
-    <category lang="en">Movie
-               (2015)</category>
   </programme>
   <programme start="20251222030000 +0800" stop="20251222043000 +0800" channel="mbc 2">
     <title lang="en">Teen Spirit</title>
@@ -437,5 +419,11 @@
     <desc lang="en">Miles Morales becomes Spider-Man in the city of Brooklyn,reflecting the possibilities and abilities of the Spider-Man world, where more than one person can wear a mask and do whatever he likes, whether good or evil.</desc>
     <category lang="en">Movie - Cartoon
                (2018)</category>
+  </programme>
+  <programme start="20251224130000 +0800" stop="20251224150000 +0800" channel="mbc 2">
+    <title lang="en">Jumanji: Welcome to the Jungle</title>
+    <desc lang="en">Four youngsters are trapped in the Jumanji jungle world astheir avatars when they use a magical video game to play, and they have to complete the game to get back to reality.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
