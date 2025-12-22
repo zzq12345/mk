@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251222160000 +0800" stop="20251222180000 +0800" channel="mbc max">
-    <title lang="en">The Infiltrator</title>
-    <desc lang="en">The true story of Customs Service agent Robert Mazur whoexposes a money laundering scheme by legendary drug lord Pablo Escobar</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20251222180000 +0800" stop="20251222200000 +0800" channel="mbc max">
-    <title lang="en">Snowpiercer</title>
-    <desc lang="en">After a failed climate-change experiment , ice age destroyslife on the planet except some survivors, who take a huge train (Snowpiercer) as a place of survival. The elite live at the front, while the poor live at the back. But 17 years later, the tail's inhabitants start a rebellion led by Curtis (Chris Evans).</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20251222200000 +0800" stop="20251222213000 +0800" channel="mbc max">
     <title lang="en">After Earth</title>
     <desc lang="en">Will Smith and son Jaden co-star as the legendary Cypher andson Kitai, who crash land on an abandoned Earth a millennium after humanity's escape. With Cypher injured, teenage Kitai has to brave the hostile environment, brimming with aggressive evolved animal species and aliens, on his own to look for help.</desc>
@@ -228,11 +216,11 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20251222173000 +0800" stop="20251222190000 +0800" channel="mbc 2">
-    <title lang="en">Candyman</title>
-    <desc lang="en">In a sequel to the classic Candyman, the story takes placein the present day, as Anthony crosses paths with an old acquaintance and gets inspiration for his paintings, only for the encounter to unleash terror and violence.</desc>
+  <programme start="20251225053000 +0800" stop="20251225073000 +0800" channel="mbc max">
+    <title lang="en">Fury</title>
+    <desc lang="en">During the final chapter of WWII, Wardaddy, an inured armysergeant, leads a group of soldiers on a risky mission behind enemy lines. With the odds against them, Wardaddy and his crew go through hell as they attempt to carry out their heroic mission.</desc>
     <category lang="en">Movie
-               (2021)</category>
+               (2014)</category>
   </programme>
   <programme start="20251222190000 +0800" stop="20251222210000 +0800" channel="mbc 2">
     <title lang="en">Duplicity</title>
@@ -437,5 +425,23 @@
     <desc lang="en">With Tony Stark keeping an eye on him, Peter struggles tolive up to his mantle as a superhero and reconcile the responsibility with his ordinary life as a high school student. But when a new villain appears with advanced weapons, Peter has to face a threat to everything he holds dear.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20251225033500 +0800" stop="20251225040000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
+  </programme>
+  <programme start="20251225040000 +0800" stop="20251225060000 +0800" channel="mbc 2">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">Charlie's Angels always provided their investigative skillsto their clients. Now Townsend Agency has highly trained women from around the world who work on the most challenging missions. When a systems engineer reveals information about dangerous technology, the angels must face this threat.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
+  <programme start="20251225060000 +0800" stop="20251225083000 +0800" channel="mbc 2">
+    <title lang="en">Batman v Superman: Dawn of Justice</title>
+    <desc lang="en">After his battle in Metropolis, Bruce Wayne believes thatSuperman must be stopped, as the evil Lex Luthor manipulates Batman into defeating the Man of Steel.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
