@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251223120000 +0800" stop="20251223133000 +0800" channel="mbc max">
-    <title lang="en">Last Vegas</title>
-    <desc lang="en">Four childhood friends are reunited when the group's swornbachelor decides to get married. As they head to Las Vegas to relieve their glory days, they realize how much the Sin City has transformed.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20251223133000 +0800" stop="20251223140000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
@@ -216,17 +210,11 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20251223110000 +0800" stop="20251223123000 +0800" channel="mbc 2">
-    <title lang="en">Safe</title>
-    <desc lang="en">Luke finds himself responsible for the safety of 12-year-oldMei, who is pursued by the Chinese Triads and a group of Russians, for possessing priceless top-secret information in the form of numerical codes. While on the run, Luke decides that he will protect the little Mei at any cost.</desc>
+  <programme start="20251225230000 +0800" stop="20251226010000 +0800" channel="mbc max">
+    <title lang="en">Mr. Jones</title>
+    <desc lang="en">Gareth Jones is a Welsh journalist who just happens to be inthe Soviet Union during the time of the man-made Holodomor famine that ended the life of millions of people, as he grows determined to uncover the truth behind the famine, even if he loses his life for it.</desc>
     <category lang="en">Movie
-               (2012)</category>
-  </programme>
-  <programme start="20251223123000 +0800" stop="20251223130000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
+               (2019)</category>
   </programme>
   <programme start="20251223130000 +0800" stop="20251223144000 +0800" channel="mbc 2">
     <title lang="en">Peppermint</title>
@@ -419,5 +407,17 @@
     <desc lang="en">Charlie's Angels always provided their investigative skillsto their clients. Now Townsend Agency has highly trained women from around the world who work on the most challenging missions. When a systems engineer reveals information about dangerous technology, the angels must face this threat.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20251225213000 +0800" stop="20251225231000 +0800" channel="mbc 2">
+    <title lang="en">Venom</title>
+    <desc lang="en">One of the countless symbiotes that have invaded Earth, analien creature, bonds with a failed reporter. However, the creature grows fond of Earth and chooses to defend it.</desc>
+    <category lang="en">Movie
+               (2018)</category>
+  </programme>
+  <programme start="20251225231000 +0800" stop="20251226010000 +0800" channel="mbc 2">
+    <title lang="en">Hellboy</title>
+    <desc lang="en">At the end of WWII, the desperate Nazis summon a creaturefrom the depth of Hell to serve as a Nazi weapon. When US forces seize the half-blooded demon, Professor Trevor Bruttenholm takes him in and raises him to be a part of an elite supernatural team that defends the world against forces of evil.</desc>
+    <category lang="en">Movie
+               (2004)</category>
   </programme>
 </tv>
