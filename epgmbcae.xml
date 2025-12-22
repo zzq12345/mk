@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251223133000 +0800" stop="20251223140000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
-  </programme>
-  <programme start="20251223140000 +0800" stop="20251223153000 +0800" channel="mbc max">
-    <title lang="en">Due Date</title>
-    <desc lang="en">Peter Highman (Robert Downey Jr.) is expecting the birth ofhis first baby in 5 days. On his way home from Atlanta, he loses his wallet and therefore is not allowed to board the plane.   In order not to miss the birth of his son, he must accept a ride cross country with Ethan Tremblay (Zach Galifianakis). Chaos ensues as the two men with nothing in common drive each other crazy.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20251223153000 +0800" stop="20251223160000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
@@ -216,17 +204,12 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20251223130000 +0800" stop="20251223144000 +0800" channel="mbc 2">
-    <title lang="en">Peppermint</title>
-    <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
+  <programme start="20251226010000 +0800" stop="20251226033000 +0800" channel="mbc max">
+    <title lang="en">Selma</title>
+    <desc lang="en">The film focuses on the life of Dr. Martin Luther King, Jr.,in 1965 when he led marches from Selma to Montgomery, Alabama to demand equal voting rights.&#13;
+As the demonstrators faced the police forces, and after many hit-and-run ,their number began to increase in a way that could not be confronted with violence.</desc>
     <category lang="en">Movie
-               (2018)</category>
-  </programme>
-  <programme start="20251223144000 +0800" stop="20251223150000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
+               (2014)</category>
   </programme>
   <programme start="20251223150000 +0800" stop="20251223170000 +0800" channel="mbc 2">
     <title lang="en">Violent Night</title>
@@ -419,5 +402,11 @@
     <desc lang="en">At the end of WWII, the desperate Nazis summon a creaturefrom the depth of Hell to serve as a Nazi weapon. When US forces seize the half-blooded demon, Professor Trevor Bruttenholm takes him in and raises him to be a part of an elite supernatural team that defends the world against forces of evil.</desc>
     <category lang="en">Movie
                (2004)</category>
+  </programme>
+  <programme start="20251226010000 +0800" stop="20251226030000 +0800" channel="mbc 2">
+    <title lang="en">Spider-Man: Into the Spider-Verse</title>
+    <desc lang="en">Miles Morales becomes Spider-Man in the city of Brooklyn,reflecting the possibilities and abilities of the Spider-Man world, where more than one person can wear a mask and do whatever he likes, whether good or evil.</desc>
+    <category lang="en">Movie - Cartoon
+               (2018)</category>
   </programme>
 </tv>
