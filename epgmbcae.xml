@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251223023000 +0800" stop="20251223030000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20251223030000 +0800" stop="20251223043200 +0800" channel="mbc max">
     <title lang="en">Last Vegas</title>
     <desc lang="en">Four childhood friends are reunited when the group's swornbachelor decides to get married. As they head to Las Vegas to relieve their glory days, they realize how much the Sin City has transformed.</desc>
@@ -199,12 +193,6 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20251223025500 +0800" stop="20251223032000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20251223032000 +0800" stop="20251223045500 +0800" channel="mbc 2">
     <title lang="en">Burlesque</title>
     <desc lang="en">In a struggling burlesque club that is teetering on the edgeof closing, the owner, Tess, finds a possible saving grace in the arrival of Ali, a small-town girl who possesses a tremendous talent that she soon becomes the club's main attraction.</desc>
@@ -388,6 +376,12 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
   <programme start="20251225110000 +0800" stop="20251225130000 +0800" channel="mbc 2">
     <title lang="en">Forgetting Sarah Marshall</title>
     <desc lang="en">Peter goes to Hawaii on vacation to try to forget hisgirlfriend the TV star Sarah, who ended their relationship a short time ago, only to find her staying in the same resort with her new boyfriend.</desc>
+    <category lang="en">Movie
+               (2008)</category>
+  </programme>
+  <programme start="20251225130000 +0800" stop="20251225150000 +0800" channel="mbc 2">
+    <title lang="en">Four Christmases</title>
+    <desc lang="en">The story of a couple struggling to visit all four of theirdivorced parents, and it seems very difficult for everyone to regroup again because of the trouble it brings. Things may be harder than they seem.</desc>
     <category lang="en">Movie
                (2008)</category>
   </programme>
