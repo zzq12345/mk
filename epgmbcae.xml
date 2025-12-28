@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251228040000 +0800" stop="20251228060000 +0800" channel="mbc max">
-    <title lang="en">Into the Storm</title>
-    <desc lang="en">The town of Silverton is devastated by a wave of deadlytornadoes, and storm trackers predict the worst is yet to come. Meanwhile, a group of high school students document the events and aftermath of the disaster.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20251228060000 +0800" stop="20251228080000 +0800" channel="mbc max">
     <title lang="en">Adrift</title>
     <desc lang="en">The true story of, Tami Oldham and Richard Sharp, whosailed across the ocean, but didn't anticipate that they would be sailing directly into one of the most catastrophic hurricanes in recorded history and must stand against all difficulties throughout their journey.</desc>
@@ -228,11 +222,11 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20251228050000 +0800" stop="20251228070000 +0800" channel="mbc 2">
-    <title lang="en">My Super Ex-Girlfriend</title>
-    <desc lang="en">When Matt dumps Jenny, who is on the needy side, she usesher superpowers to make his life miserable.</desc>
+  <programme start="20251230160000 +0800" stop="20251230180000 +0800" channel="mbc max">
+    <title lang="en">Creed II</title>
+    <desc lang="en">Adonis Creed strives for revenge after finding the man whokilled his father.</desc>
     <category lang="en">Movie
-               (2006)</category>
+               (2018)</category>
   </programme>
   <programme start="20251228070000 +0800" stop="20251228090000 +0800" channel="mbc 2">
     <title lang="en">Bedazzled</title>
@@ -437,5 +431,11 @@
     <desc lang="en">A brilliant accountant moonlighting as an assassin helpsfacilitate the work of illicit outlaws.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20251230171000 +0800" stop="20251230173500 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
   </programme>
 </tv>
