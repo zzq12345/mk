@@ -1833,6 +1833,34 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
+  <programme start="20251228040000 +0800" stop="20251228060000 +0800" channel="mbc max">
+    <title lang="en">Into the Storm</title>
+    <desc lang="en">The town of Silverton is devastated by a wave of deadlytornadoes, and storm trackers predict the worst is yet to come. Meanwhile, a group of high school students document the events and aftermath of the disaster.</desc>
+  </programme>
+  <programme start="20251228060000 +0800" stop="20251228080000 +0800" channel="mbc max">
+    <title lang="en">Adrift</title>
+    <desc lang="en">The true story of, Tami Oldham and Richard Sharp, whosailed across the ocean, but didn't anticipate that they would be sailing directly into one of the most catastrophic hurricanes in recorded history and must stand against all difficulties throughout their journey.</desc>
+  </programme>
+  <programme start="20251228080000 +0800" stop="20251228100000 +0800" channel="mbc max">
+    <title lang="en">Line of Duty</title>
+    <desc lang="en">After accidentally killing a child abductor, the disgracedcop Frank Penny enters a race against time to find the daughter of the police chief before it's too late.</desc>
+  </programme>
+  <programme start="20251228100000 +0800" stop="20251228120000 +0800" channel="mbc max">
+    <title lang="en">211</title>
+    <desc lang="en">When a group of ex-mercenaries carry out a risky bank heist,police detectives Steve MacAvoy and Mike Chandler find themselves dreadfully unprepared.</desc>
+  </programme>
+  <programme start="20251228120000 +0800" stop="20251228140000 +0800" channel="mbc max">
+    <title lang="en">Non-Stop</title>
+    <desc lang="en">The movie is set in an international flight from New York toLondon. During that trip, Bill Marks (Liam Neeson) receives several threats from an unknown threat that every 20 minutes a passenger will be killed unless $ 150 million is transferred to a bank account. The twist occurs when the owner of this account is revealed.</desc>
+  </programme>
+  <programme start="20251228140000 +0800" stop="20251228160000 +0800" channel="mbc max">
+    <title lang="en">Bullet Head</title>
+    <desc lang="en">After a robbery goes south, three criminals hide from thepolice in a warehouse. Unbeknownst to them, a bigger threat awaits them inside, forcing them into a fight for survival.</desc>
+  </programme>
+  <programme start="20251228160000 +0800" stop="20251228180000 +0800" channel="mbc max">
+    <title lang="en">Those Who Wish Me Dead</title>
+    <desc lang="en">A thriller that sees a teenager who witnessed a murder andis now pursued by two ruthless assassins who chase him into the Montana wilderness, with only a survival expert as his protector. But can his protector save him from a forest fire so fierce that it can consume them all?</desc>
+  </programme>
   <programme start="20251228030000 +0800" stop="20251228050000 +0800" channel="mbc 2">
     <title lang="en">Tower Heist</title>
     <desc lang="en">A group of men who work at a tower discover that they arevictims of a wealthy businessman, and that they are part of a plan to steal the tower.</desc>
@@ -1860,10 +1888,6 @@
   <programme start="20251228153000 +0800" stop="20251228173000 +0800" channel="mbc 2">
     <title lang="en">Sicario: Day of the Soldado</title>
     <desc lang="en">In this sequel to the 2015 film Sicario, the drug war on theUS-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border.</desc>
-  </programme>
-  <programme start="20251228023000 +0800" stop="20251228033000 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-    <desc lang="en">Kirito finds himself trapped, along with thousands of players, inside new virtual MMORPG games, where he decides to take on the challenge of escaping this world. However, he faces great dangers and powerful enemies on his adventure-filled journey. | Type: Series (2012) | Rating: 5.8/10</desc>
   </programme>
   <programme start="20251228033000 +0800" stop="20251228050000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -20114,11 +20138,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251227012000 +0800" stop="20251227012000 +0800" channel="spot on news">
-    <title lang="zh">In Beijing museum: Child knocks gold crown off pedestal</title>
+    <title lang="zh">Personal background: Why Taylor Swift donates millions</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251227012000 +0800" stop="20251227012000 +0800" channel="spot on news">
-    <title lang="zh">Personal background: Why Taylor Swift donates millions</title>
+    <title lang="zh">In Beijing museum: Child knocks gold crown off pedestal</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251227012000 +0800" stop="20251227012100 +0800" channel="spot on news">
@@ -24650,11 +24674,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251227182600 +0800" stop="20251227182600 +0800" channel="spot on news">
-    <title lang="zh">Inferno on the Nile: Cruise ship engulfed in flames</title>
+    <title lang="zh">Cute! Golden Retriever wants to jump into television</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251227182600 +0800" stop="20251227182600 +0800" channel="spot on news">
-    <title lang="zh">Cute! Golden Retriever wants to jump into television</title>
+    <title lang="zh">Inferno on the Nile: Cruise ship engulfed in flames</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251227182600 +0800" stop="20251227182700 +0800" channel="spot on news">
@@ -31061,7 +31085,555 @@
     <title lang="zh">These celebrities passed away in 2025</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251228183800 +0800" stop="20251228235959 +0800" channel="spot on news">
+  <programme start="20251228183800 +0800" stop="20251228184100 +0800" channel="spot on news">
+    <title lang="zh">Catastrophic images: Hurricane "Melissa" devastates Jamaica</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184100 +0800" stop="20251228184100 +0800" channel="spot on news">
+    <title lang="zh">"Mothership": Monstrous storm cloud passes over Kansas</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184100 +0800" stop="20251228184200 +0800" channel="spot on news">
+    <title lang="zh">Rare public appearance by Rachel Weisz and Daniel Craig</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184200 +0800" stop="20251228184300 +0800" channel="spot on news">
+    <title lang="zh">Dangerous walk: Duck family causes chaos on freeway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184300 +0800" stop="20251228184300 +0800" channel="spot on news">
+    <title lang="zh">Cara Delevingne pays tribute to the Beatles at fashion show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184300 +0800" stop="20251228184400 +0800" channel="spot on news">
+    <title lang="zh">Chrissy Teigen loses a tooth during Christmas magic</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184400 +0800" stop="20251228184500 +0800" channel="spot on news">
+    <title lang="zh">Skydiver dangles from aircraft at an altitude of 4,500 meters</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184500 +0800" stop="20251228184600 +0800" channel="spot on news">
+    <title lang="zh">On the darts throne at 18: Luke Littler makes history</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184600 +0800" stop="20251228184600 +0800" channel="spot on news">
+    <title lang="zh">Dog hears her name in "Stranger Things": reaction goes viral</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184600 +0800" stop="20251228184900 +0800" channel="spot on news">
+    <title lang="zh">Fire in the sky: Condor plane forced to make emergency landing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228184900 +0800" stop="20251228185000 +0800" channel="spot on news">
+    <title lang="zh">Surprise visit: Seal pup waddles into pub</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185000 +0800" stop="20251228185000 +0800" channel="spot on news">
+    <title lang="zh">Dakota Johnson causes a stir in a see-through dress</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185000 +0800" stop="20251228185100 +0800" channel="spot on news">
+    <title lang="zh">More than 50 vehicles: Mass pile-up on slippery highway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185100 +0800" stop="20251228185200 +0800" channel="spot on news">
+    <title lang="zh">New York: Timothée Chalamet stands out again in orange</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185200 +0800" stop="20251228185300 +0800" channel="spot on news">
+    <title lang="zh">Mega discovery: NASA finds evidence of life on Mars</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185300 +0800" stop="20251228185300 +0800" channel="spot on news">
+    <title lang="zh">The Cure mourns Perry Bamonte: "He will be very greatly missed"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185300 +0800" stop="20251228185400 +0800" channel="spot on news">
+    <title lang="zh">Next to gas station: Smoker causes fireball with cigarette</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185400 +0800" stop="20251228185400 +0800" channel="spot on news">
+    <title lang="zh">Landslide collapses Chinese mega bridge</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185400 +0800" stop="20251228185500 +0800" channel="spot on news">
+    <title lang="zh">German-Israeli twins Gali and Ziv embrace after being released</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185500 +0800" stop="20251228185800 +0800" channel="spot on news">
+    <title lang="zh">Prince William jokes while baking: "You'll get what you're given"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185800 +0800" stop="20251228185900 +0800" channel="spot on news">
+    <title lang="zh">Amanda Seyfried copies Julia Roberts' look</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185900 +0800" stop="20251228185900 +0800" channel="spot on news">
+    <title lang="zh">Pajama date on the ice: Heidi Klum and Tom Kaulitz in matching outfits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228185900 +0800" stop="20251228190000 +0800" channel="spot on news">
+    <title lang="zh">Robot conquers the red carpet: Jared Leto duels with Optimus</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190000 +0800" stop="20251228190000 +0800" channel="spot on news">
+    <title lang="zh">Violent sandstorm paralyzes "Burning Man" festival</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190000 +0800" stop="20251228190100 +0800" channel="spot on news">
+    <title lang="zh">Kathleen Turner appears on the red carpet with a walking stick</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190100 +0800" stop="20251228190200 +0800" channel="spot on news">
+    <title lang="zh">Crane operator rescues worker from burning skyscraper</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190200 +0800" stop="20251228190200 +0800" channel="spot on news">
+    <title lang="zh">Mega typhoon Kajiki devastates holiday island in China</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190200 +0800" stop="20251228190300 +0800" channel="spot on news">
+    <title lang="zh">Due to engine failure: Cessna makes emergency landing on beach</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190300 +0800" stop="20251228190500 +0800" channel="spot on news">
+    <title lang="zh">Sensation: Tourists spot albino dolphin on the east coast of the USA</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190500 +0800" stop="20251228190600 +0800" channel="spot on news">
+    <title lang="zh">New species: Wild bee with devil horns discovered in Australia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190600 +0800" stop="20251228190700 +0800" channel="spot on news">
+    <title lang="zh">Rihanna shines on the red carpet after her maternity leave</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190700 +0800" stop="20251228190700 +0800" channel="spot on news">
+    <title lang="zh">"Last Chance U" star John Beam dies after being shot in the head</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190700 +0800" stop="20251228190800 +0800" channel="spot on news">
+    <title lang="zh">Two planes collide on the runway at Manchester</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190800 +0800" stop="20251228190800 +0800" channel="spot on news">
+    <title lang="zh">Spectacular images: Kilauea volcano spews lava</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190800 +0800" stop="20251228190900 +0800" channel="spot on news">
+    <title lang="zh">Scientists amazed: Clever wolf steals fish from trap</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228190900 +0800" stop="20251228191000 +0800" channel="spot on news">
+    <title lang="zh">Spectacular: Car flies over roundabout and two other vehicles</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191000 +0800" stop="20251228191000 +0800" channel="spot on news">
+    <title lang="zh">Duchess Meghan shares cute backstage clip with Prince Harry</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191000 +0800" stop="20251228191100 +0800" channel="spot on news">
+    <title lang="zh">Aircraft skids off runway and crashes into the sea</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191100 +0800" stop="20251228191300 +0800" channel="spot on news">
+    <title lang="zh">Eleven dead and 29 injured in attack in Australia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191300 +0800" stop="20251228191400 +0800" channel="spot on news">
+    <title lang="zh">Off the coast of Venezuela: US seizes mega oil tanker by helicopter</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191400 +0800" stop="20251228191500 +0800" channel="spot on news">
+    <title lang="zh">Crash in India: Passenger train pushes onto freight car</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191500 +0800" stop="20251228191600 +0800" channel="spot on news">
+    <title lang="zh">"SATC" star Sarah Jessica Parker meets Queen Camilla</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191600 +0800" stop="20251228191700 +0800" channel="spot on news">
+    <title lang="zh">Emmy Awards: These stars shine at the awards ceremony</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191700 +0800" stop="20251228191800 +0800" channel="spot on news">
+    <title lang="zh">Céline Dion: Despite illness, she attends concert with her sons</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191800 +0800" stop="20251228191800 +0800" channel="spot on news">
+    <title lang="zh">Fire alarm on plane: Hand luggage catches fire</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191800 +0800" stop="20251228191900 +0800" channel="spot on news">
+    <title lang="zh">On the hook: Police stop car in unusual way</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228191900 +0800" stop="20251228192100 +0800" channel="spot on news">
+    <title lang="zh">Turkish military aircraft crashes in Georgia: 20 dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192100 +0800" stop="20251228192200 +0800" channel="spot on news">
+    <title lang="zh">Angry rhino attacks pick-up truck</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192200 +0800" stop="20251228192300 +0800" channel="spot on news">
+    <title lang="zh">Scotland is going to the World Cup: fans are going completely crazy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192300 +0800" stop="20251228192300 +0800" channel="spot on news">
+    <title lang="zh">Cara Delevingne pays tribute to the Beatles at fashion show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192300 +0800" stop="20251228192400 +0800" channel="spot on news">
+    <title lang="zh">Oscar winner Tom Stoppard dies at the age of 88</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192400 +0800" stop="20251228192500 +0800" channel="spot on news">
+    <title lang="zh">Stolen car flips three times in the air</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192500 +0800" stop="20251228192500 +0800" channel="spot on news">
+    <title lang="zh">Prince Harry and Duchess Meghan: With the kids at the pumpkin farm</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192500 +0800" stop="20251228192600 +0800" channel="spot on news">
+    <title lang="zh">Dancing Trump: US president kicks off Asia trip with a dance routine</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192600 +0800" stop="20251228192700 +0800" channel="spot on news">
+    <title lang="zh">Sydney Sweeney shows off her curves in a glittery dress</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192700 +0800" stop="20251228192700 +0800" channel="spot on news">
+    <title lang="zh">Fiery natural spectacle: Kilauea volcano erupts again</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228192700 +0800" stop="20251228193000 +0800" channel="spot on news">
+    <title lang="zh">Super cute: kittens build a human ladder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193000 +0800" stop="20251228193000 +0800" channel="spot on news">
+    <title lang="zh">Parachute fails: Soldier crashes to the ground</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193000 +0800" stop="20251228193100 +0800" channel="spot on news">
+    <title lang="zh">For $236.5 million: Worlds second most expensive painting auctioned</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193100 +0800" stop="20251228193200 +0800" channel="spot on news">
+    <title lang="zh">Fabergé egg cracks record with $30.2 million at auction</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193200 +0800" stop="20251228193200 +0800" channel="spot on news">
+    <title lang="zh">Windshield shattered: Aircraft forced to make emergency landing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193200 +0800" stop="20251228193300 +0800" channel="spot on news">
+    <title lang="zh">Greta Thunberg dyes Venice's Grand Canal bright green</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193300 +0800" stop="20251228193400 +0800" channel="spot on news">
+    <title lang="zh">Red meets gold: Cindy Crawford and Kaia Gerber dazzle in matching glam</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193400 +0800" stop="20251228193500 +0800" channel="spot on news">
+    <title lang="zh">Louvre thieves: New video of the escape emerges</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193500 +0800" stop="20251228193500 +0800" channel="spot on news">
+    <title lang="zh">Skydiver gets caught on traffic light</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193500 +0800" stop="20251228193600 +0800" channel="spot on news">
+    <title lang="zh">Snowstorm traps around 1000 hikers on Mount Everest</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193600 +0800" stop="20251228193900 +0800" channel="spot on news">
+    <title lang="zh">After crash landing: Passengers flee burning jet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193900 +0800" stop="20251228193900 +0800" channel="spot on news">
+    <title lang="zh">"Dances with Wolves" actor Graham Greene is dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228193900 +0800" stop="20251228194000 +0800" channel="spot on news">
+    <title lang="zh">Tragedy in plane crash: NASCAR star and family die</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194000 +0800" stop="20251228194100 +0800" channel="spot on news">
+    <title lang="zh">Brazil: Golf ball-sized hailstones destroy houses and cars</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194100 +0800" stop="20251228194100 +0800" channel="spot on news">
+    <title lang="zh">Iman, 70, Stuns in Rare Red Carpet Appearance at Ballet Gala</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194100 +0800" stop="20251228194200 +0800" channel="spot on news">
+    <title lang="zh">Silent honor: The royals remember fallen heroes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194200 +0800" stop="20251228194300 +0800" channel="spot on news">
+    <title lang="zh">Zendaya und Robert Pattinson: Erster Teaser zu "The Drama" (OV)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194300 +0800" stop="20251228194400 +0800" channel="spot on news">
+    <title lang="zh">Hundreds of Koreans are flocking to this Swiss village - here's why</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194400 +0800" stop="20251228194700 +0800" channel="spot on news">
+    <title lang="zh">Halloween decorations keep firefighters busy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194700 +0800" stop="20251228194800 +0800" channel="spot on news">
+    <title lang="zh">Fans appalled: Tina Turner statue draws heavy criticism</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194800 +0800" stop="20251228194800 +0800" channel="spot on news">
+    <title lang="zh">Man gets stuck on giant American flag at NFL game</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194800 +0800" stop="20251228194900 +0800" channel="spot on news">
+    <title lang="zh">Taylor Swift and Travis Kelce: A love note in a cornfield</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228194900 +0800" stop="20251228195000 +0800" channel="spot on news">
+    <title lang="zh">Dancing, soccer, and lots of falls: Olympics for robots</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195000 +0800" stop="20251228195000 +0800" channel="spot on news">
+    <title lang="zh">Shock at the airport: machine catches fire shortly before takeoff</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195000 +0800" stop="20251228195100 +0800" channel="spot on news">
+    <title lang="zh">George Clooney drags himself sick to the movie premiere of "Jay Kelly"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195100 +0800" stop="20251228195200 +0800" channel="spot on news">
+    <title lang="zh">SUV crashes into restaurant: guests escape with a scare</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195200 +0800" stop="20251228195200 +0800" channel="spot on news">
+    <title lang="zh">Burning minibus crashes into gas station</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195200 +0800" stop="20251228195500 +0800" channel="spot on news">
+    <title lang="zh">Shock on safari: Suddenly, a leopard attacks</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195500 +0800" stop="20251228195600 +0800" channel="spot on news">
+    <title lang="zh">Very motivated: Melania Trump receives Christmas tree for White House</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195600 +0800" stop="20251228195600 +0800" channel="spot on news">
+    <title lang="zh">35 train cars derail near Fort Worth, Texas</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195600 +0800" stop="20251228195700 +0800" channel="spot on news">
+    <title lang="zh">Man battles mega cobra for over an hour</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195700 +0800" stop="20251228195700 +0800" channel="spot on news">
+    <title lang="zh">Hollywood star Robert Redford dies at 89</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195700 +0800" stop="20251228195800 +0800" channel="spot on news">
+    <title lang="zh">Like a Christmas star: Meteor lights up the night sky above Mount Fuji</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195800 +0800" stop="20251228195900 +0800" channel="spot on news">
+    <title lang="zh">After heavy rain: Landslide sweeps away entire house</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195900 +0800" stop="20251228195900 +0800" channel="spot on news">
+    <title lang="zh">Employee sets fire to shelf with paper products in supermarket</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228195900 +0800" stop="20251228200000 +0800" channel="spot on news">
+    <title lang="zh">Man steals ambulance - dashcam shows police chase</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200000 +0800" stop="20251228200000 +0800" channel="spot on news">
+    <title lang="zh">Burglary on Christmas Eve: ATM robbers destroy store</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200000 +0800" stop="20251228200300 +0800" channel="spot on news">
+    <title lang="zh">Gigantic fireball: Car explodes in the middle of New York</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200300 +0800" stop="20251228200400 +0800" channel="spot on news">
+    <title lang="zh">Pajama date on the ice: Heidi Klum and Tom Kaulitz in matching outfits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200400 +0800" stop="20251228200400 +0800" channel="spot on news">
+    <title lang="zh">Violent gas explosion destroys retirement home</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200400 +0800" stop="20251228200500 +0800" channel="spot on news">
+    <title lang="zh">"O'zapft is!" Mayor Dieter Reiter opens Oktoberfest 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200500 +0800" stop="20251228200500 +0800" channel="spot on news">
+    <title lang="zh">Human or machine? Chinese robot divides the internet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200500 +0800" stop="20251228200600 +0800" channel="spot on news">
+    <title lang="zh">Huge sinkhole swallows two cars</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200600 +0800" stop="20251228200600 +0800" channel="spot on news">
+    <title lang="zh">Masked man shocks thousands of guests in Cologne Cathedral</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200600 +0800" stop="20251228200800 +0800" channel="spot on news">
+    <title lang="zh">How to get through the Christmas season stress-free</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200800 +0800" stop="20251228200900 +0800" channel="spot on news">
+    <title lang="zh">Rare appearance: Matt Smith shows up with his sister Laura</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228200900 +0800" stop="20251228201100 +0800" channel="spot on news">
+    <title lang="zh">Perpetrator at large: shots fired at elite US university</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201100 +0800" stop="20251228201200 +0800" channel="spot on news">
+    <title lang="zh">Deer storms into classroom and devours exam papers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201200 +0800" stop="20251228201300 +0800" channel="spot on news">
+    <title lang="zh">New album leaked hours before release: this is how Taylor Swift reacts</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201300 +0800" stop="20251228201300 +0800" channel="spot on news">
+    <title lang="zh">Adam Brody and Leighton Meester celebrate premiere of Netflix series</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201300 +0800" stop="20251228201400 +0800" channel="spot on news">
+    <title lang="zh">Camels in the snow: desert landscape transforms into winter wonderland</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201400 +0800" stop="20251228201500 +0800" channel="spot on news">
+    <title lang="zh">374 bagpipers break world record with AC/DC</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201500 +0800" stop="20251228201500 +0800" channel="spot on news">
+    <title lang="zh">Chaos in the Knesset: Protest disrupts Trump's historic speech</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201500 +0800" stop="20251228201600 +0800" channel="spot on news">
+    <title lang="zh">Rare tornado topples construction cranes in Paris - one person dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201600 +0800" stop="20251228201700 +0800" channel="spot on news">
+    <title lang="zh">New Banksy emerges: Mystery surrounds second painting</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201700 +0800" stop="20251228201900 +0800" channel="spot on news">
+    <title lang="zh">"Train Dreams" premiere: Harrison Ford supports Star Wars colleagues</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228201900 +0800" stop="20251228202000 +0800" channel="spot on news">
+    <title lang="zh">Zendaya, Lisa, and Sophie Turner make new style statements in Paris</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202000 +0800" stop="20251228202000 +0800" channel="spot on news">
+    <title lang="zh">At the last second: security guard saves woman from tram</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202000 +0800" stop="20251228202100 +0800" channel="spot on news">
+    <title lang="zh">Police officer convicted: He stole underwear during a house search</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202100 +0800" stop="20251228202200 +0800" channel="spot on news">
+    <title lang="zh">Hate speech: Donald Trump insults Somalis as "garbage"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202200 +0800" stop="20251228202300 +0800" channel="spot on news">
+    <title lang="zh">Pubic hair thong: Kim Kardashian is "shocked" by the reactions</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202300 +0800" stop="20251228202300 +0800" channel="spot on news">
+    <title lang="zh">Meteor or fireball? Mysterious ball of light illuminates night sky</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202300 +0800" stop="20251228202400 +0800" channel="spot on news">
+    <title lang="zh">Monster wave floods tourists on bridge</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202400 +0800" stop="20251228202400 +0800" channel="spot on news">
+    <title lang="zh">Meteor or UFO? Speculation surrounds mysterious light in the sky</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202400 +0800" stop="20251228202600 +0800" channel="spot on news">
+    <title lang="zh">Crown Princess Mette-Marit needs a lung transplant</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202600 +0800" stop="20251228202800 +0800" channel="spot on news">
+    <title lang="zh">Tidal wave sweeps away bridge in Indonesia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202800 +0800" stop="20251228202900 +0800" channel="spot on news">
+    <title lang="zh">Skydiving in front of the sun: photographer captures incredible shot</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202900 +0800" stop="20251228202900 +0800" channel="spot on news">
+    <title lang="zh">Car drives into group: Deadly attack outside synagogue in Manchester</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228202900 +0800" stop="20251228203000 +0800" channel="spot on news">
+    <title lang="zh">Call of Duty creator Vince Zampella dies in Ferrari crash</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203000 +0800" stop="20251228203100 +0800" channel="spot on news">
+    <title lang="zh">Incredibly funny: these are the funniest animal photos of the year</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203100 +0800" stop="20251228203100 +0800" channel="spot on news">
+    <title lang="zh">At the railroad crossing: Freight train crashes into car transporter</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203100 +0800" stop="20251228203200 +0800" channel="spot on news">
+    <title lang="zh">Stunning video shows the interior of Hurricane Melissa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203200 +0800" stop="20251228203300 +0800" channel="spot on news">
+    <title lang="zh">Pete Davidson has become a father</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203300 +0800" stop="20251228203300 +0800" channel="spot on news">
+    <title lang="zh">Liam Hemsworth and Gabriella Brooks: Newly engaged on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203300 +0800" stop="20251228203400 +0800" channel="spot on news">
+    <title lang="zh">For a new ballroom: Trump has part of the White House demolished</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203400 +0800" stop="20251228203700 +0800" channel="spot on news">
+    <title lang="zh">Huge waves kills a woman, injures nine on Tenerife</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203700 +0800" stop="20251228203700 +0800" channel="spot on news">
+    <title lang="zh">World's oldest Olympic champion dies at 101</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203700 +0800" stop="20251228203800 +0800" channel="spot on news">
+    <title lang="zh">Norway: Landslide tears road and railway tracks into the depths</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203800 +0800" stop="20251228203800 +0800" channel="spot on news">
+    <title lang="zh">Filming begins: The stars of "Scrubs" are back</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203800 +0800" stop="20251228203900 +0800" channel="spot on news">
+    <title lang="zh">Burning minibus crashes into gas station</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228203900 +0800" stop="20251228204000 +0800" channel="spot on news">
+    <title lang="zh">St. Petersburg: Massive fire erupts at historic market</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251228204000 +0800" stop="20251228235959 +0800" channel="spot on news">
     <title lang="zh">節目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -67605,10 +68177,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20251228080000 +0000" stop="20251228095700 +0000" channel="中視">
-    <title lang="zh">綜藝玩很大</title>
-    <desc lang="zh">由本土天王吳宗憲主持，打造台灣電視史上第一個最真實的外景實境秀。每趟旅程帶領8位藝人，挑戰時間內募集返家所需旅費。成功隊伍可以順利回家，失敗隊則直接被流放當地，露宿街頭。綜藝玩很大，要玩就玩大的！</desc>
-  </programme>
   <programme start="20251228095700 +0000" stop="20251228105700 +0000" channel="中視">
     <title lang="zh">大陸尋奇</title>
     <desc lang="zh">您不必跋山涉水就可以將奇峰峻嶺壯闊山河盡收眼底，「大陸尋奇」不惜巨資的大製作足跡踏遍各現代城市，窮鄉僻壤，深入各民族村落，記錄了外人難得一見的生活情況，以準確的地理、歷史定位、用現代化思維，把中華文化忠實的呈現。</desc>
@@ -68076,14 +68644,6 @@
   <programme start="20260102060000 +0000" stop="20260102075500 +0000" channel="華視">
     <title lang="zh">警世劇場</title>
     <desc lang="zh">社會寫實單元劇，劇情效法《X檔案》，以現代辦案的角度來切入鬼神之說，用以警惕世人。篤信科學辦案精神的刑警尚智（謝祖武）有心理學博士學位，他與先天具有陰陽眼的搭檔王玉芳（趙英華），共同調查各種無法用科學解釋的案件，為死者伸冤…</desc>
-  </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="好消息2台">
-    <title lang="zh">葉光明講座</title>
-    <desc lang="zh">由全球肯定的聖經教師與作家葉光明（Derek Prince）牧師，向世界宣揚上帝啟示的話語。五十多年來，葉牧師已經以50多種語言，向全球一百多個國家宣示上帝的旨意，牧養無數教友。</desc>
-  </programme>
-  <programme start="20251228100000 +0000" stop="20251228101500 +0000" channel="好消息2台">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
   </programme>
   <programme start="20251228101500 +0000" stop="20251228103000 +0000" channel="好消息2台">
     <title lang="zh">共享觀點</title>
@@ -68712,10 +69272,6 @@
   <programme start="20251231230000 +0000" stop="20251231233000 +0000" channel="好消息2台">
     <title lang="zh">共享觀點</title>
     <desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
-  <programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="好消息">
-    <title lang="zh">神奇故事屋</title>
-    <desc lang="zh">一直致力推廣兒童閱讀的 GOOD TV，再次與劉清彥老師（阿達叔叔）攜手，推出結合兒童閱讀和行腳的節目《神奇故事屋》，期盼打開兒童視野，讓閱讀走進生活，越讀越有趣。</desc>
   </programme>
   <programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="好消息">
     <title lang="zh">好消息國度瞭望</title>
@@ -69485,10 +70041,6 @@
     <title lang="zh">禱告大軍迎接復興</title>
     <desc lang="zh">好消息電視台為全球信徒提供一個大家共同禱告的園地，由來自各地的牧師帶領觀眾進行禱告，節選聖經中切合人生際遇的章節，為各位教友傳達神的旨意，灌溉心靈園地。</desc>
   </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="ELTV生活英語台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一隻充滿好奇心的小企鵝-Pororo，因為喜歡嘗試新的事物，且用盡方法了解它們，進而惹來許多小麻煩，但在嘗試新事物的過程中也為大家帶來無限歡樂。</desc>
-  </programme>
   <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="ELTV生活英語台">
     <title lang="zh">森林偵探隊</title>
     <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
@@ -69980,10 +70532,6 @@
   <programme start="20260101220000 +0000" stop="20260101230000 +0000" channel="ELTV生活英語台">
     <title lang="zh">貓頭鷹探險隊</title>
     <desc lang="zh">貓頭鷹探險隊出發了，三隻可愛的貓頭鷹，每天要面對各種挑戰。但是友誼和團隊合作，就能戰勝一切。全英語發音卡通，小朋友學習英語的好伙伴！</desc>
-  </programme>
-  <programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="龍華卡通台">
-    <title lang="zh">蜂蜜山丘事件簿</title>
-    <desc lang="zh">位於海邊的蜂蜜山丘是個友好的社區，但常常發生神秘且無法解釋的事件，幸好有天才偵探貓頭鷹索菲，和她年輕的助手松鼠奇普，針對所有大大小小的事件展開調查！</desc>
   </programme>
   <programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="龍華卡通台">
     <title lang="zh">森林偵探隊</title>
@@ -70929,10 +71477,6 @@
     <title lang="zh">彼得與狼奇遇記</title>
     <desc lang="zh">擅長解決問題的小學生彼得，在路上救了一隻狼後，意外展開穿越時空的奇幻冒險！勇者與惡龍、精靈與半人馬、複製人與隱形人……彼得與狼的精采奇遇，就此展開！</desc>
   </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="亞洲旅遊台">
     <title lang="zh">型男闖世界</title>
     <desc lang="zh">《型男闖世界》前往世界各地的特殊景點或深山秘境，挑戰極限運動，尋找奇人異事、踏尋隱身在叢林邊境的傳說、進行各種挑戰及探險。</desc>
@@ -71405,10 +71949,6 @@
     <title lang="zh">世界跟我這Young玩</title>
     <desc lang="zh">《世界跟我這YOUNG玩》，由劉沛穎擔任主持人，不同於以往行腳節目內容，採用時下年輕人最愛的隨拍紀錄、熱門景點打卡，即時記錄獨自出遊的狀況與趣事，並以女性的角度出發，鼓勵女生可以帶著勇敢與熱情踏上環遊世界的夢想之旅，也可獨立解決所有困難，強調一個女生的旅行也可以很精采。</desc>
   </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="Smart知識台">
-    <title lang="zh">一次搞定</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="Smart知識台">
     <title lang="zh">全民星攻略</title>
     <desc lang="zh">東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</desc>
@@ -71844,10 +72384,6 @@
   <programme start="20260101220000 +0000" stop="20260101230000 +0000" channel="Smart知識台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</desc>
-  </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="龍華戲劇台">
-    <title lang="zh">朱元璋</title>
-    <desc lang="zh">元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</desc>
   </programme>
   <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="龍華戲劇台">
     <title lang="zh">一代名相陳廷敬</title>
@@ -72320,14 +72856,6 @@
   <programme start="20260102070000 +0000" stop="20260102080000 +0000" channel="龍華戲劇台">
     <title lang="zh">大漢天子2</title>
     <desc lang="zh">接續第一集的劇情，武帝歎息當年如兄如弟的「太子黨」，具已煙散。張湯、郭舍人、灌夫已死，唯一仍在人世的李陵陷落匈奴。他倚為智囊的東方朔也一去不返。如今，他希望再集合一群那樣的賢才猛士，做他的左膀右臂。</desc>
-  </programme>
-  <programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="台灣戲劇台">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20251228103000 +0000" stop="20251228110000 +0000" channel="台灣戲劇台">
     <title lang="zh">親戚不計較</title>
@@ -72812,10 +73340,6 @@
   <programme start="20260102070000 +0000" stop="20260102080000 +0000" channel="台灣戲劇台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20251228092000 +0000" stop="20251228100000 +0000" channel="東森購物1台">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251228100000 +0000" stop="20251228104000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -73473,10 +73997,6 @@
     <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20251228093000 +0000" stop="20251228103000 +0000" channel="龍華偶像台">
-    <title lang="zh">愛情是Beautiful，人生是Wonderful</title>
-    <desc lang="zh">韓國KBS電視台家庭劇，由薛仁雅、金宰永、趙胤熙、尹博、吳珉錫主演。講述一些費盡心機卻未能實現夢想的普通人，再次愛上崎嶇不平的人生，尋找瑣碎但切實的「小確幸」幸福感的故事。</desc>
-  </programme>
   <programme start="20251228103000 +0000" stop="20251228113000 +0000" channel="龍華偶像台">
     <title lang="zh">愛情是Beautiful，人生是Wonderful</title>
     <desc lang="zh">韓國KBS電視台家庭劇，由薛仁雅、金宰永、趙胤熙、尹博、吳珉錫主演。講述一些費盡心機卻未能實現夢想的普通人，再次愛上崎嶇不平的人生，尋找瑣碎但切實的「小確幸」幸福感的故事。</desc>
@@ -73957,10 +74477,6 @@
     <title lang="zh">紅天機</title>
     <desc lang="zh">架空韓國歷史劇。御容畫師之女紅天機（金裕貞）是命定擁有神力的天才畫工，出生時因魔王詛咒而失明，後來又意外復明。她與貴族出身擁有喚水靈力的書文觀主簿河覽（安孝燮）有命定緣份，但熱愛藝術的三王子李律（孔明）卻也愛上了她…</desc>
   </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="龍華日韓台">
-    <title lang="zh">兩個女人的房間</title>
-    <desc lang="zh">晴彩（朴恩惠）誤以為自己撞死熙秀（王嬪娜）的父親，對她滿懷虧欠還將熙秀母女親接來同住，熙秀見晴彩與自己年紀相仿，擁有的卻有如天壤之別，起了貪念的熙秀一步步奪去晴彩的一切，淪為這家女傭的晴彩發現了事實的真相後決心找回自己的清白，以及所擁有的一切…</desc>
-  </programme>
   <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="龍華日韓台">
     <title lang="zh">兩個女人的房間</title>
     <desc lang="zh">晴彩（朴恩惠）誤以為自己撞死熙秀（王嬪娜）的父親，對她滿懷虧欠還將熙秀母女親接來同住，熙秀見晴彩與自己年紀相仿，擁有的卻有如天壤之別，起了貪念的熙秀一步步奪去晴彩的一切，淪為這家女傭的晴彩發現了事實的真相後決心找回自己的清白，以及所擁有的一切…</desc>
@@ -74204,10 +74720,6 @@
   <programme start="20251230220000 +0000" stop="20251230230000 +0000" channel="龍華日韓台">
     <title lang="zh">紅色高跟鞋</title>
     <desc lang="zh">閔熙瓊（崔明吉）多年前為追求成功的野心拋夫棄子。熙瓊的女兒金珍雅（蘇怡賢）長大後雖才貌兼具，內心卻隱藏著傷痛，並對媽媽產生怨恨。當她發現母親如今成為知名製鞋品牌的實權者，父親死亡那天還對他見死不救，決心為父親討回公道…</desc>
-  </programme>
-  <programme start="20251228092000 +0000" stop="20251228100000 +0000" channel="東森購物2台">
-    <title lang="zh">12/1-12/31全月消費實付滿5,000元送進口【紅心芭樂飲】一箱</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251228100000 +0000" stop="20251228104000 +0000" channel="東森購物2台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -75293,10 +75805,6 @@
     <title lang="zh">華視1500整點新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
   </programme>
-  <programme start="20251228040000 +0000" stop="20251228100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20251228100000 +0000" stop="20251228160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh">暂无描述</desc>
@@ -75376,10 +75884,6 @@
   <programme start="20260102040000 +0000" stop="20260102080000 +0000" channel="倪珍播新聞">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS財經晚報</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，每天晚間由最專業的主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20251228100000 +0000" stop="20251228120000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -75760,10 +76264,6 @@
   <programme start="20260101220000 +0000" stop="20260101230000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">2300iNEWS財經夜世界</title>
     <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="寰宇財經台">
-    <title lang="zh">美食打卡趣</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="寰宇財經台">
     <title lang="zh">巷弄美食家</title>
@@ -76201,10 +76701,6 @@
     <title lang="zh">小食光台味誌</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="中視新聞">
-    <title lang="zh">60分鐘</title>
-    <desc lang="zh">新聞雜誌節目，深入探討新聞時事與議題，將帶給你全方位的報導。</desc>
-  </programme>
   <programme start="20251228100000 +0000" stop="20251228105700 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -76256,10 +76752,6 @@
   <programme start="20251228220000 +0000" stop="20251228230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
   </programme>
   <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="中天新聞台">
     <title lang="zh">中天辣晚報</title>
@@ -76733,10 +77225,6 @@
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20251228085500 +0000" stop="20251228095500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
   <programme start="20251228095500 +0000" stop="20251228105500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
@@ -77189,10 +77677,6 @@
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
   </programme>
-  <programme start="20251228085500 +0000" stop="20251228095500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20251228095500 +0000" stop="20251228105500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -77644,18 +78128,6 @@
   <programme start="20260102040000 +0000" stop="20260102080000 +0000" channel="寰宇新聞台">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20251228090000 +0000" stop="20251228093000 +0000" channel="第1商業台">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="第1商業台">
-    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="第1商業台">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20251228103000 +0000" stop="20251228110000 +0000" channel="第1商業台">
     <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
@@ -79088,10 +79560,6 @@
   <programme start="20251231160000 +0000" stop="20251231200000 +0000" channel="龍華電影台">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20251228073500 +0000" stop="20251228091500 +0000" channel="龍華洋片台">
-    <title lang="zh">被偷走的公主</title>
-    <desc lang="zh">流浪藝術家魯斯蘭夢想成為一名騎士，偶遇了美麗的公主米拉並墜入愛河。然而邪惡的魔法師切諾莫為了達成陰謀，在魯斯蘭的眼前用魔法漩渦劫走了米拉。魯斯蘭試圖穿越魔法森林尋找公主，經過一系列奇妙生物的助攻後克服了重重障礙，最終戰勝邪惡魔法，與公主幸福地生活在一起。</desc>
   </programme>
   <programme start="20251228091500 +0000" stop="20251228110000 +0000" channel="龍華洋片台">
     <title lang="zh">父愁者聯盟</title>
@@ -180643,11 +181111,11 @@ RM突喊話公司「多愛我們一點」好心酸...</desc>
     <title lang="zh">Guntur Kaaram</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251228180000 +0800" stop="20251228183000 +0800" channel="SUN_TV_HD">
+  <programme start="20251228180000 +0800" stop="20251228183200 +0800" channel="SUN_TV_HD">
     <title lang="zh">News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251228183000 +0800" stop="20251228213000 +0800" channel="SUN_TV_HD">
+  <programme start="20251228183200 +0800" stop="20251228213000 +0800" channel="SUN_TV_HD">
     <title lang="zh">Motta Shiva Ketta Shiva</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -201727,11 +202195,11 @@ RM突喊話公司「多愛我們一點」好心酸...</desc>
     <title lang="zh">Eat, Sleep, Dance, Repeat!</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251228150000 +0800" stop="20251228183500 +0800" channel="MTV_Live">
+  <programme start="20251228150000 +0800" stop="20251228183700 +0800" channel="MTV_Live">
     <title lang="zh">MTV's Singalong Hits of the 2010s</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251228183500 +0800" stop="20251228190000 +0800" channel="MTV_Live">
+  <programme start="20251228183700 +0800" stop="20251228190000 +0800" channel="MTV_Live">
     <title lang="zh">Best of MTV Live: Iconic Videos!</title>
     <desc lang="zh"> </desc>
   </programme>
