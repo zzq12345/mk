@@ -1833,10 +1833,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20251229000000 +0800" stop="20251229013000 +0800" channel="mbc max">
-    <title lang="en">Poseidon</title>
-    <desc lang="en">On New Year's Eve, a huge passenger ship is exposed to adangerous wave that capsizes it, and the passengers try to survive at all costs.</desc>
-  </programme>
   <programme start="20251229013000 +0800" stop="20251229032500 +0800" channel="mbc max">
     <title lang="en">Non-Stop</title>
     <desc lang="en">The movie is set in an international flight from New York toLondon. During that trip, Bill Marks (Liam Neeson) receives several threats from an unknown threat that every 20 minutes a passenger will be killed unless $ 150 million is transferred to a bank account. The twist occurs when the owner of this account is revealed.</desc>
@@ -1985,10 +1981,6 @@
     <title lang="en">The Hustle</title>
     <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
   </programme>
-  <programme start="20251229005500 +0800" stop="20251229013000 +0800" channel="mbc 2">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-  </programme>
   <programme start="20251229013000 +0800" stop="20251229033000 +0800" channel="mbc 2">
     <title lang="en">G.I. Jane</title>
     <desc lang="en">Under pressure from a female Senator, the U.S. Navyintegrates women into their team, and the first woman to join is Lieutenant Jordan O'Neil, who undergoes arduous training under the command of a man who pushes her to her limits as everyone else expects her to fail.</desc>
@@ -2125,9 +2117,13 @@
     <title lang="en">Flipped</title>
     <desc lang="en">Juli Baker believes in three things: the holiness of trees,the eggs in her backyard, and that one day she will kiss Bryce Loski. She has been in love with him since the second grade, but he doesn't seem to know that she exists, until the eighth grade, where things begin to change at a time where Juli has started to lose hope.</desc>
   </programme>
-  <programme start="20251229000000 +0800" stop="20251229013000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  <programme start="20251231103500 +0800" stop="20251231110000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+  </programme>
+  <programme start="20251231110000 +0800" stop="20251231123500 +0800" channel="mbc 2">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Dracula runs a high-end resort for monsters far away fromthe human world. The Count's monster-haven bubble is burst when a boy named Jonathan stumbles upon his resort and falls in love with his daughter.</desc>
   </programme>
   <programme start="20251229013000 +0800" stop="20251229023000 +0800" channel="mbc action">
     <title lang="en">برنامج bear grylls</title>
@@ -2360,6 +2356,10 @@
   <programme start="20251231100000 +0800" stop="20251231110000 +0800" channel="mbc action">
     <title lang="en">برنامج bricks&amp;brain </title>
     <desc lang=""/>
+  </programme>
+  <programme start="20251231110000 +0800" stop="20251231120000 +0800" channel="mbc action">
+    <title lang="en">Sword Art Online</title>
+    <desc lang="en">Kirito finds himself trapped, along with thousands of players, inside new virtual MMORPG games, where he decides to take on the challenge of escaping this world. However, he faces great dangers and powerful enemies on his adventure-filled journey. | Type: Series (2012) | Rating: 5.8/10</desc>
   </programme>
   <programme start="20251229060000 +0800" stop="20251229063300 +0800" channel="第一财经">
     <title lang="zh">基金时间</title>
@@ -26098,11 +26098,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251229040600 +0800" stop="20251229040600 +0800" channel="spot on news">
-    <title lang="zh">Massive fireball as tanker explodes on Italian motorway</title>
+    <title lang="zh">Australia: Giant wave throws water 40 meters high</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251229040600 +0800" stop="20251229040600 +0800" channel="spot on news">
-    <title lang="zh">Australia: Giant wave throws water 40 meters high</title>
+    <title lang="zh">Massive fireball as tanker explodes on Italian motorway</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251229040600 +0800" stop="20251229040700 +0800" channel="spot on news">
@@ -27294,11 +27294,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251229084400 +0800" stop="20251229084400 +0800" channel="spot on news">
-    <title lang="zh">Dakota Johnson causes a stir in a see-through dress</title>
+    <title lang="zh">Scary moment: Lightning strikes car</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251229084400 +0800" stop="20251229084400 +0800" channel="spot on news">
-    <title lang="zh">Scary moment: Lightning strikes car</title>
+    <title lang="zh">Dakota Johnson causes a stir in a see-through dress</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251229084400 +0800" stop="20251229084500 +0800" channel="spot on news">
@@ -211506,20 +211506,20 @@ Energy也宣布共同捐赠500万元
     <title lang="zh">LFCTV 2025/26: LIV Vs WOL</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251230090000 +0700" stop="20251230093000 +0700" channel="beIN Sports 1">
+  <programme start="20251230090000 +0700" stop="20251230093500 +0700" channel="beIN Sports 1">
     <title lang="zh">LFCTV Specials 2025/26</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251230093000 +0700" stop="20251230094500 +0700" channel="beIN Sports 1">
+  <programme start="20251230093500 +0700" stop="20251230095500 +0700" channel="beIN Sports 1">
     <title lang="zh">LFCTV Specials 2025/26</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251230094500 +0700" stop="20251230100000 +0700" channel="beIN Sports 1">
+  <programme start="20251230095500 +0700" stop="20251230101000 +0700" channel="beIN Sports 1">
     <title lang="zh">LaLiga Goals Galore 2024/25</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251230100000 +0700" stop="20251230131000 +0700" channel="beIN Sports 1">
-    <title lang="zh">Ultimate Pool 2025: Review</title>
+  <programme start="20251230101000 +0700" stop="20251230131000 +0700" channel="beIN Sports 1">
+    <title lang="zh">Ultimate Pool 2025: Pro Cup</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251230131000 +0700" stop="20251230150000 +0700" channel="beIN Sports 1">
@@ -211574,122 +211574,6 @@ Energy也宣布共同捐赠500万元
     <title lang="zh">LaLiga Goals Galore 2024/25</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251229000000 +0700" stop="20251229001000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Premier Padel Match HL 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229001000 +0700" stop="20251229001800 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Premier Padel Match HL 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229001800 +0700" stop="20251229023000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">AFCON 2025: ALG Vs BFA (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229023000 +0700" stop="20251229024000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Premier Padel Match HL 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229024000 +0700" stop="20251229024800 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Premier Padel Match HL 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229024800 +0700" stop="20251229050000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">AFCON 2025: CIV Vs CMR (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229050000 +0700" stop="20251229060000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Goodwood Highlights 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229060000 +0700" stop="20251229070000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">DTM HL 2025: Red Bull Ring</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229070000 +0700" stop="20251229073000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Mini Match LaLiga: ATM Vs OVI</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229073000 +0700" stop="20251229080000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Mini Match LaLiga: ATH Vs ATM</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229080000 +0700" stop="20251229083000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Mini Match LaLiga: ATM Vs VAL</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229083000 +0700" stop="20251229090000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Mini Match LaLiga: GIR Vs ATM</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229090000 +0700" stop="20251229100000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">FIM World Supercross C'ship</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229100000 +0700" stop="20251229115000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">CAF Champions: MCA Vs MSU</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229115000 +0700" stop="20251229122500 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LaLiga FC Futures: ATH Vs ATM</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229122500 +0700" stop="20251229130000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LaLiga FC Futures: RMA Vs VIL</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229130000 +0700" stop="20251229145000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Pacific Nations Cup: CAN Vs USA</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229145000 +0700" stop="20251229164000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">UYL 2025/26: JUV Vs BVB</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229164000 +0700" stop="20251229165500 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LaLiga Goals Galore 2024/25</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229165500 +0700" stop="20251229173000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LaLiga FC Futures: SEV Vs ESP</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229173000 +0700" stop="20251229180000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LaLiga FC Futures: BAR Vs VAL</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229180000 +0700" stop="20251229200000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LFCTV 2025/26: LIV Vs WOL</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229200000 +0700" stop="20251229203000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LFCTV Specials 2025/26</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229203000 +0700" stop="20251229204500 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LFCTV Specials 2025/26</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229204500 +0700" stop="20251229210000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LaLiga Goals Galore 2024/25</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229210000 +0700" stop="20251229213000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Mini Match LaLiga: ATH Vs ATM</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229213000 +0700" stop="20251229220000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Mini Match LaLiga: ATM Vs VAL</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229220000 +0700" stop="20251229223000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Mini Match LaLiga: GIR Vs ATM</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20251229223000 +0700" stop="20251229224800 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">LaLiga Goals Galore 2024/25</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20251230010000 +0700" stop="20251230013000 +0700" channel="beIN Sports 1 HD">
     <title lang="zh">Gearing Up 2025: January</title>
     <desc lang="zh"> </desc>
@@ -211722,20 +211606,20 @@ Energy也宣布共同捐赠500万元
     <title lang="zh">LFCTV 2025/26: LIV Vs WOL</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251230090000 +0700" stop="20251230093000 +0700" channel="beIN Sports 1 HD">
+  <programme start="20251230090000 +0700" stop="20251230093500 +0700" channel="beIN Sports 1 HD">
     <title lang="zh">LFCTV Specials 2025/26</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251230093000 +0700" stop="20251230094500 +0700" channel="beIN Sports 1 HD">
+  <programme start="20251230093500 +0700" stop="20251230095500 +0700" channel="beIN Sports 1 HD">
     <title lang="zh">LFCTV Specials 2025/26</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251230094500 +0700" stop="20251230100000 +0700" channel="beIN Sports 1 HD">
+  <programme start="20251230095500 +0700" stop="20251230101000 +0700" channel="beIN Sports 1 HD">
     <title lang="zh">LaLiga Goals Galore 2024/25</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20251230100000 +0700" stop="20251230131000 +0700" channel="beIN Sports 1 HD">
-    <title lang="zh">Ultimate Pool 2025: Review</title>
+  <programme start="20251230101000 +0700" stop="20251230131000 +0700" channel="beIN Sports 1 HD">
+    <title lang="zh">Ultimate Pool 2025: Pro Cup</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251230131000 +0700" stop="20251230150000 +0700" channel="beIN Sports 1 HD">
@@ -228268,6 +228152,74 @@ Energy也宣布共同捐赠500万元
   </programme>
   <programme start="20251230223000 +0700" stop="20251230230000 +0700" channel="Outdoor channel HD">
     <title lang="zh">Yukon For Sale S1, Ep 13</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229013000 +0700" stop="20251229020000 +0700" channel="RCTI">
+    <title lang="zh">Kompleks Pengabdi Istri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229020000 +0700" stop="20251229030000 +0700" channel="RCTI">
+    <title lang="zh">Kompleks Pengabdi Istri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229030000 +0700" stop="20251229054500 +0700" channel="RCTI">
+    <title lang="zh">Preman Pensiun S2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229054500 +0700" stop="20251229064500 +0700" channel="RCTI">
+    <title lang="zh">Go Spot</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229064500 +0700" stop="20251229081500 +0700" channel="RCTI">
+    <title lang="zh">Upin Ipin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229081500 +0700" stop="20251229083000 +0700" channel="RCTI">
+    <title lang="zh">Kiko</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229083000 +0700" stop="20251229103000 +0700" channel="RCTI">
+    <title lang="zh">Doraemon Series</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229103000 +0700" stop="20251229113000 +0700" channel="RCTI">
+    <title lang="zh">Silet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229113000 +0700" stop="20251229121500 +0700" channel="RCTI">
+    <title lang="zh">Seputar iNews Siang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229121500 +0700" stop="20251229140000 +0700" channel="RCTI">
+    <title lang="zh">Sule Racun Cinta Di Kedai Kopi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229140000 +0700" stop="20251229150000 +0700" channel="RCTI">
+    <title lang="zh">Cinlock: Love, Camera, Action!</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229150000 +0700" stop="20251229160000 +0700" channel="RCTI">
+    <title lang="zh">Preman Pensiun X</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229160000 +0700" stop="20251229173000 +0700" channel="RCTI">
+    <title lang="zh">Manda Curhat</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229173000 +0700" stop="20251229184500 +0700" channel="RCTI">
+    <title lang="zh">Terbelenggu Rindu</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229184500 +0700" stop="20251229201500 +0700" channel="RCTI">
+    <title lang="zh">Mencintai Ipar Sendiri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229201500 +0700" stop="20251229211500 +0700" channel="RCTI">
+    <title lang="zh">Cinta Sepenuh Jiwa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20251229211500 +0700" stop="20251229234500 +0700" channel="RCTI">
+    <title lang="zh">Indonesian Idol 2025</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251230013000 +0700" stop="20251230020000 +0700" channel="RCTI">
