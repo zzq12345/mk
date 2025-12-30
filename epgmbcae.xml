@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251231140000 +0800" stop="20251231160000 +0800" channel="mbc max">
-    <title lang="en">Bleed for This</title>
-    <desc lang="en">The true story of how World Champion Boxer Vinny Pazienzamade a stunning comeback after a near-fatal car accident left him almost paralyzed.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20251231160000 +0800" stop="20251231180000 +0800" channel="mbc max">
     <title lang="en">Creed II</title>
     <desc lang="en">Adonis Creed strives for revenge after finding the man whokilled his father.</desc>
@@ -209,5 +203,11 @@
     <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260103030000 +0800" stop="20260103033000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
 </tv>
