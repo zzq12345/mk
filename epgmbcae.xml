@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20251231060000 +0800" stop="20251231080000 +0800" channel="mbc max">
-    <title lang="en">Grudge Match</title>
-    <desc lang="en">Three decades after they last came head to head (or glove toglove), two aging boxing rivals are convinced to enter the ring one last time to settle a long-festering feud.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20251231080000 +0800" stop="20251231093000 +0800" channel="mbc max">
     <title lang="en">One for the Money</title>
     <desc lang="en">Stephanie Plum (Katherine Heigl) loses her job, and workswith her cousin Finney as a bounty hunter . Her first case is to find officer Joe Morelli (Jason O'Mara), who's accused of murder but she faces obstacles because of his skills . During her search, she believes that he's innocent and tries to prove it.</desc>
@@ -203,5 +197,11 @@
     <desc lang="en">The life of an unemployed family living in a poor apartmentchanges completely when the son becomes the English tutor for the daughter of a wealthy family. As the lives of the wealthy Park family and the destitute Kim family intersect, what follows is a web of deceit and disturbing violence.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260102180000 +0800" stop="20260102183000 +0800" channel="mbc max">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
   </programme>
 </tv>
