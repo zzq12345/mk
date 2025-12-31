@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260101140000 +0800" stop="20260101160000 +0800" channel="mbc max">
-    <title lang="en">A Simple Favor</title>
-    <desc lang="en">Stephanie, a mother who works as a blogger, seeks todiscover the mystery of the disappearance of her friend Emily from the city by joining her friend's husband, where everyone is subjected to love and loyalty tests and secrets that could cause murder and revenge.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260101160000 +0800" stop="20260101180000 +0800" channel="mbc max">
     <title lang="en">The Family</title>
     <desc lang="en">An infamous mafia family, the Manzonis, headed by GiovanniManzoni (Robert De Niro) is relocated to Normandy, France under the witness protection program. Written and directed by the man who made "The Fifth Element" and "Léon: The Professional."</desc>
@@ -215,5 +209,11 @@
     <desc lang="en">A woman and her daughter's first night in theirnewly-purchased house takes a dark turn when they are forced to take refuge in the house's panic room during a home invasion. But the burglars know that they are in the room, which also houses the fortune the burglars are after.</desc>
     <category lang="en">Movie
                (2002)</category>
+  </programme>
+  <programme start="20260104030000 +0800" stop="20260104033000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
 </tv>
