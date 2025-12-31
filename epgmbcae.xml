@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260101120000 +0800" stop="20260101140000 +0800" channel="mbc max">
-    <title lang="en">Now You See Me 2</title>
-    <desc lang="en">In the world of magic and optical illusions, the FourHorsemen face a tech genius who tries to exploit them, and they must clear their names before society and reveal the truth through one last stunt.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260101140000 +0800" stop="20260101160000 +0800" channel="mbc max">
     <title lang="en">A Simple Favor</title>
     <desc lang="en">Stephanie, a mother who works as a blogger, seeks todiscover the mystery of the disappearance of her friend Emily from the city by joining her friend's husband, where everyone is subjected to love and loyalty tests and secrets that could cause murder and revenge.</desc>
@@ -209,5 +203,17 @@
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
     <category lang="en">Program
                (1998)</category>
+  </programme>
+  <programme start="20260103233000 +0800" stop="20260104010000 +0800" channel="mbc max">
+    <title lang="en">50 First Dates</title>
+    <desc lang="en">When Henry meets Lucy and thinks he has found the girl ofhis dreams, he discovers she has short-term memory loss and forgets him everyday.</desc>
+    <category lang="en">Movie
+               (2004)</category>
+  </programme>
+  <programme start="20260104010000 +0800" stop="20260104030000 +0800" channel="mbc max">
+    <title lang="en">Panic Room</title>
+    <desc lang="en">A woman and her daughter's first night in theirnewly-purchased house takes a dark turn when they are forced to take refuge in the house's panic room during a home invasion. But the burglars know that they are in the room, which also houses the fortune the burglars are after.</desc>
+    <category lang="en">Movie
+               (2002)</category>
   </programme>
 </tv>
