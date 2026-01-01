@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260101222500 +0800" stop="20260101230000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
-  </programme>
   <programme start="20260101230000 +0800" stop="20260102010000 +0800" channel="mbc max">
     <title lang="en">We Are Marshall</title>
     <desc lang="en">When a tragic plane crash takes the lives of most of theMarshall University football team, it's up to the new coach and the surviving players to continue to play without their teammates.</desc>
@@ -215,5 +209,11 @@
     <desc lang="en">Two cops partner up in order to uncover how a group of bankrobbers managed to escape from a bank during a heist that apparently has other motives than just stealing money.</desc>
     <category lang="en">Movie
                (2005)</category>
+  </programme>
+  <programme start="20260104100000 +0800" stop="20260104120000 +0800" channel="mbc max">
+    <title lang="en">3 Days to Kill</title>
+    <desc lang="en">International spy Ethan Renner (Kevin Costner) decides toleave his risky life behind to build a stronger relationship with his daughter and wife. but Ethan has to complete one final mission before he retires , to catch the most dangerous terrorist in the world, while taking care of his daughter.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
