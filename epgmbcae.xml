@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260102140000 +0800" stop="20260102160000 +0800" channel="mbc max">
-    <title lang="en">Life as We Know It</title>
-    <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260102160000 +0800" stop="20260102173000 +0800" channel="mbc max">
     <title lang="en">Kajillionaire</title>
     <desc lang="en">As the daughter of two con artists, Old Dolio Dyne has livedan unusual life that saw her act as an accomplice to her parents' crime. But as they set their eyes on a new target, Old Dolio soon finds her world shaken as they invite their newest target to take part in one of their schemes.</desc>
@@ -221,5 +215,11 @@
     <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260105013000 +0800" stop="20260105033000 +0800" channel="mbc max">
+    <title lang="en">3 Days to Kill</title>
+    <desc lang="en">International spy Ethan Renner (Kevin Costner) decides toleave his risky life behind to build a stronger relationship with his daughter and wife. but Ethan has to complete one final mission before he retires , to catch the most dangerous terrorist in the world, while taking care of his daughter.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
