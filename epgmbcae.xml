@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260101160000 +0800" stop="20260101180000 +0800" channel="mbc max">
-    <title lang="en">The Family</title>
-    <desc lang="en">An infamous mafia family, the Manzonis, headed by GiovanniManzoni (Robert De Niro) is relocated to Normandy, France under the witness protection program. Written and directed by the man who made "The Fifth Element" and "Léon: The Professional."</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
-  <programme start="20260101180000 +0800" stop="20260101200000 +0800" channel="mbc max">
-    <title lang="en">American Underdog</title>
-    <desc lang="en">Follows Kurt Warner, one of the best quarterbacks in theNational Football League, and the many challenges he faced in his life to achieve his dream and fame in his favorite sport. </desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260101203000 +0800" stop="20260101222500 +0800" channel="mbc max">
     <title lang="en">Bleed for This</title>
     <desc lang="en">The true story of how World Champion Boxer Vinny Pazienzamade a stunning comeback after a near-fatal car accident left him almost paralyzed.</desc>
@@ -215,5 +203,17 @@
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
     <category lang="en">Program
                (1998)</category>
+  </programme>
+  <programme start="20260104033000 +0800" stop="20260104053000 +0800" channel="mbc max">
+    <title lang="en">Parasite</title>
+    <desc lang="en">The life of an unemployed family living in a poor apartmentchanges completely when the son becomes the English tutor for the daughter of a wealthy family. As the lives of the wealthy Park family and the destitute Kim family intersect, what follows is a web of deceit and disturbing violence.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
+  <programme start="20260104060000 +0800" stop="20260104073000 +0800" channel="mbc max">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">After years of growing apart, two high-class teenage girlsrevive their friendship again, and try to figure out a way to solve their problems together no matter what they have to do.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
