@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260101053000 +0800" stop="20260101071000 +0800" channel="mbc max">
-    <title lang="en">A Simple Favor</title>
-    <desc lang="en">Stephanie, a mother who works as a blogger, seeks todiscover the mystery of the disappearance of her friend Emily from the city by joining her friend's husband, where everyone is subjected to love and loyalty tests and secrets that could cause murder and revenge.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260101080000 +0800" stop="20260101100000 +0800" channel="mbc max">
     <title lang="en">50 First Dates</title>
     <desc lang="en">When Henry meets Lucy and thinks he has found the girl ofhis dreams, he discovers she has short-term memory loss and forgets him everyday.</desc>
@@ -209,5 +203,11 @@
     <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260103160000 +0800" stop="20260103180000 +0800" channel="mbc max">
+    <title lang="en">John Wick: Chapter 3 - Parabellum</title>
+    <desc lang="en">In this sequel, John Wick has killed a member of the HighTable, a shadowy international assassin's guild, deeming him an excommunicado (excluded member) and raising a US$ 14 million price tag for his head. A whole world of ruthless hit men and women are pursuing him around every corner.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
