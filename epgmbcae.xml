@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260101010000 +0800" stop="20260101033000 +0800" channel="mbc max">
-    <title lang="en">Now You See Me 2</title>
-    <desc lang="en">In the world of magic and optical illusions, the FourHorsemen face a tech genius who tries to exploit them, and they must clear their names before society and reveal the truth through one last stunt.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20260101033000 +0800" stop="20260101045500 +0800" channel="mbc max">
-    <title lang="en">The Hustle</title>
-    <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260101053000 +0800" stop="20260101071000 +0800" channel="mbc max">
     <title lang="en">A Simple Favor</title>
     <desc lang="en">Stephanie, a mother who works as a blogger, seeks todiscover the mystery of the disappearance of her friend Emily from the city by joining her friend's husband, where everyone is subjected to love and loyalty tests and secrets that could cause murder and revenge.</desc>
@@ -215,5 +203,11 @@
     <desc lang="en">After returning from combat, the former soldier Ali works asa doorman in an apartment building in NYC. But things take a turn, when a gang of thieves attack the building in order to retrieve a valuable artwork, as she becomes the only one standing in their way.</desc>
     <category lang="en">Movie
                (2020)</category>
+  </programme>
+  <programme start="20260103140000 +0800" stop="20260103160000 +0800" channel="mbc max">
+    <title lang="en">John Wick: Chapter 2</title>
+    <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>

@@ -1824,14 +1824,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260101010000 +0800" stop="20260101033000 +0800" channel="mbc max">
-    <title lang="en">Now You See Me 2</title>
-    <desc lang="en">In the world of magic and optical illusions, the FourHorsemen face a tech genius who tries to exploit them, and they must clear their names before society and reveal the truth through one last stunt.</desc>
-  </programme>
-  <programme start="20260101033000 +0800" stop="20260101045500 +0800" channel="mbc max">
-    <title lang="en">The Hustle</title>
-    <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
-  </programme>
   <programme start="20260101053000 +0800" stop="20260101071000 +0800" channel="mbc max">
     <title lang="en">A Simple Favor</title>
     <desc lang="en">Stephanie, a mother who works as a blogger, seeks todiscover the mystery of the disappearance of her friend Emily from the city by joining her friend's husband, where everyone is subjected to love and loyalty tests and secrets that could cause murder and revenge.</desc>
@@ -1964,9 +1956,9 @@
     <title lang="en">The Doorman</title>
     <desc lang="en">After returning from combat, the former soldier Ali works asa doorman in an apartment building in NYC. But things take a turn, when a gang of thieves attack the building in order to retrieve a valuable artwork, as she becomes the only one standing in their way.</desc>
   </programme>
-  <programme start="20260101023000 +0800" stop="20260101033000 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-    <desc lang="en">Kirito finds himself trapped, along with thousands of players, inside new virtual MMORPG games, where he decides to take on the challenge of escaping this world. However, he faces great dangers and powerful enemies on his adventure-filled journey. | Type: Series (2012) | Rating: 5.8/10</desc>
+  <programme start="20260103140000 +0800" stop="20260103160000 +0800" channel="mbc max">
+    <title lang="en">John Wick: Chapter 2</title>
+    <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
   </programme>
   <programme start="20260101033000 +0800" stop="20260101050000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -14032,11 +14024,55 @@
     <title lang="zh">第45届黄金海岸马拉松精华 第2集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260103175500 +0800" stop="20260103235959 +0800" channel="HOY体育台">
+  <programme start="20260103175500 +0800" stop="20260103200000 +0800" channel="HOY体育台">
+    <title lang="zh">澳洲女子职业足球联赛 - 珀斯光辉 对 纽卡素喷射机 (直播)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260103200000 +0800" stop="20260103205000 +0800" channel="HOY体育台">
+    <title lang="zh">2025年个人赛车赛事 第2集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260103205000 +0800" stop="20260103230000 +0800" channel="HOY体育台">
+    <title lang="zh">阿联酋职业足球联赛 - 阿吉曼会 对 卡尔巴FC (直播)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260103230000 +0800" stop="20260103234000 +0800" channel="HOY体育台">
+    <title lang="zh">大众参与 2025 第5集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260103234000 +0800" stop="20260104014500 +0800" channel="HOY体育台">
+    <title lang="zh">阿联酋职业足球联赛 - 艾查捷拉 对 杜拜艾阿里 (直播)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260104014500 +0800" stop="20260104023000 +0800" channel="HOY体育台">
+    <title lang="zh">2025年个人赛车赛事 第2集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260104023000 +0800" stop="20260104033000 +0800" channel="HOY体育台">
     <title lang="zh">节目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260104000000 +0800" stop="20260104235959 +0800" channel="HOY体育台">
+  <programme start="20260104033000 +0800" stop="20260104040000 +0800" channel="HOY体育台">
+    <title lang="zh">第45届黄金海岸马拉松精华 第2集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260104040000 +0800" stop="20260104060000 +0800" channel="HOY体育台">
+    <title lang="zh">阿联酋职业足球联赛 - 卡尔巴FC 对 艾查捷拉</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260104060000 +0800" stop="20260104073000 +0800" channel="HOY体育台">
+    <title lang="zh">东亚超级篮球联赛 - 琉球黄金帝王 对 澳门黑熊</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260104073000 +0800" stop="20260104080000 +0800" channel="HOY体育台">
+    <title lang="zh">大众参与 2025 第2集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260104080000 +0800" stop="20260104100000 +0800" channel="HOY体育台">
+    <title lang="zh">亚洲联赛冠军杯二级联赛 - 艾纳斯 对 萨乌拉</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260104100000 +0800" stop="20260104235959 +0800" channel="HOY体育台">
     <title lang="zh">节目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -19937,11 +19973,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251231035900 +0800" stop="20251231035900 +0800" channel="spot on news">
-    <title lang="zh">Monster wave floods tourists on bridge</title>
+    <title lang="zh">Fire alarm on plane: Hand luggage catches fire</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251231035900 +0800" stop="20251231035900 +0800" channel="spot on news">
-    <title lang="zh">Fire alarm on plane: Hand luggage catches fire</title>
+    <title lang="zh">Monster wave floods tourists on bridge</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20251231035900 +0800" stop="20251231040000 +0800" channel="spot on news">
@@ -28785,11 +28821,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101132600 +0800" stop="20260101132600 +0800" channel="spot on news">
-    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
+    <title lang="zh">State of Indiana: Mass pile-up caused by winter storm</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101132600 +0800" stop="20260101132600 +0800" channel="spot on news">
-    <title lang="zh">State of Indiana: Mass pile-up caused by winter storm</title>
+    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101132600 +0800" stop="20260101132900 +0800" channel="spot on news">
@@ -68772,18 +68808,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="中视">
-    <title lang="zh">唱歌给你听</title>
-    <desc lang="zh">新生代脱颖而出的全新主持阵容─全能歌手许志豪、疗愈男声李子森、甜美歌姬杜忻恬携手搭档， 广邀台语歌坛中实力唱将，共同打造动人的音乐飨宴。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101092800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260101092800 +0000" stop="20260101095800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
   <programme start="20260101095800 +0000" stop="20260101105800 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
@@ -69095,14 +69119,6 @@
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101085300 +0000" channel="华视">
-    <title lang="zh">华视在地新闻</title>
-    <desc lang="zh">以台语发音，提供观众朋友不一样的国内外新闻。</desc>
-  </programme>
-  <programme start="20260101085300 +0000" stop="20260101085800 +0000" channel="华视">
-    <title lang="zh">华视生活广场</title>
-    <desc lang="zh">华视生活广场。</desc>
   </programme>
   <programme start="20260101085800 +0000" stop="20260101105800 +0000" channel="华视">
     <title lang="zh">华视新闻晚报</title>
@@ -69427,14 +69443,6 @@
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="华视">
     <title lang="zh">三国演议</title>
     <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">森林侦探队</title>
-    <desc lang="zh">南韩EBS与Bigstar Global共同制播的卡通，可轻松认识大自然的样貌。各个谜团揉合在森林的浩瀚中，期待观众跟著侦探队，细细品味在这森林的每个故事。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一只充满好奇心的小企鹅-Pororo，因为喜欢尝试新的事物，且用尽方法了解它们，进而惹来许多小麻烦，但在尝试新事物的过程中也为大家带来无限欢乐。</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="ELTV生活英语台">
     <title lang="zh">森林侦探队</title>
@@ -69819,26 +69827,6 @@
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="ELTV生活英语台">
     <title lang="zh">猫头鹰探险队</title>
     <desc lang="zh">猫头鹰探险队出发了，三只可爱的猫头鹰，每天要面对各种挑战。但是友谊和团队合作，就能战胜一切。全英语发音卡通，小朋友学习英语的好伙伴！</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="龙华卡通台">
-    <title lang="zh">酷奇银河游骑队</title>
-    <desc lang="zh">聪明仓鼠吉克、勇敢松鼠露比、大力狗狗阿力，还有疾速猫咪闪电，组成了宇宙最酷的超级英雄组合！他们帮助其他星球的居民解决问题，保护银河系，并对抗邪恶又神秘的铁鹰怪！</desc>
-  </programme>
-  <programme start="20260101083000 +0000" stop="20260101090000 +0000" channel="龙华卡通台">
-    <title lang="zh">酷奇银河游骑队</title>
-    <desc lang="zh">聪明仓鼠吉克、勇敢松鼠露比、大力狗狗阿力，还有疾速猫咪闪电，组成了宇宙最酷的超级英雄组合！他们帮助其他星球的居民解决问题，保护银河系，并对抗邪恶又神秘的铁鹰怪！</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="龙华卡通台">
-    <title lang="zh">月月、阿奇与小墨：森林保卫队GO</title>
-    <desc lang="zh">当小动物们需要帮助，猫头鹰月月、河狸阿奇和章鱼小墨组成的森林保卫队就会出动，结合海陆空视角制定完美计划！因为帮助他人不只是对的事，也是有趣的事！森林保卫队GO！</desc>
-  </programme>
-  <programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="龙华卡通台">
-    <title lang="zh">月月、阿奇与小墨：森林保卫队GO</title>
-    <desc lang="zh">当小动物们需要帮助，猫头鹰月月、河狸阿奇和章鱼小墨组成的森林保卫队就会出动，结合海陆空视角制定完美计划！因为帮助他人不只是对的事，也是有趣的事！森林保卫队GO！</desc>
-  </programme>
-  <programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="龙华卡通台">
-    <title lang="zh">彼得与狼奇遇记</title>
-    <desc lang="zh">擅长解决问题的小学生彼得，在路上救了一只狼后，意外展开穿越时空的奇幻冒险！勇者与恶龙、精灵与半人马、复制人与隐形人……彼得与狼的精采奇遇，就此展开！</desc>
   </programme>
   <programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="龙华卡通台">
     <title lang="zh">彼得与狼奇遇记</title>
@@ -70288,14 +70276,6 @@
     <title lang="zh">呱张爆音团</title>
     <desc lang="zh">12岁的柯阿瑞和他的三个好朋友一起在车库里成立了一支乐队，但是很快的他们就发现他们的乐队很烂 - 真的很烂。问题不在他们的音乐或是百变造型，而是因为柯阿瑞写不出歌词。他就是想不出酷炫的歌词嘛，直到......柯阿瑞找到了他姊姊翠娜的日记。</desc>
   </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="亚洲旅游台">
     <title lang="zh">型男闯世界</title>
     <desc lang="zh">《型男闯世界》前往世界各地的特殊景点或深山秘境，挑战极限运动，寻找奇人异事、踏寻隐身在丛林边境的传说、进行各种挑战及探险。</desc>
@@ -70635,14 +70615,6 @@
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="亚洲旅游台">
     <title lang="zh">型男闯世界</title>
     <desc lang="zh">《型男闯世界》前往世界各地的特殊景点或深山秘境，挑战极限运动，寻找奇人异事、踏寻隐身在丛林边境的传说、进行各种挑战及探险。</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="Smart知识台">
     <title lang="zh">健康2.0</title>
@@ -70984,14 +70956,6 @@
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
   </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="龙华戏剧台">
-    <title lang="zh">三国</title>
-    <desc lang="zh">距今一千八百多年前，汉帝国衰败积重难返，长安城内董卓荒淫无度、滥杀无辜，引起举国义愤，而以曹操为首歼灭董卓，造就了群雄割据，至赤壁之战后三国鼎立，再到司马氏篡魏，天下归晋为止，这个英雄辈出、波澜壮阔的大传奇时代终于结束。而其中的英雄人物和动人故事，仍被传颂至今。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="龙华戏剧台">
-    <title lang="zh">三国</title>
-    <desc lang="zh">距今一千八百多年前，汉帝国衰败积重难返，长安城内董卓荒淫无度、滥杀无辜，引起举国义愤，而以曹操为首歼灭董卓，造就了群雄割据，至赤壁之战后三国鼎立，再到司马氏篡魏，天下归晋为止，这个英雄辈出、波澜壮阔的大传奇时代终于结束。而其中的英雄人物和动人故事，仍被传颂至今。</desc>
-  </programme>
   <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="龙华戏剧台">
     <title lang="zh">上阳赋</title>
     <desc lang="zh">郡主王儇（章子怡）与三皇子（杨祐宁）青梅竹马，却因被卷入朝堂争斗，在15岁时被父亲当作棋子，嫁给出身寒门的豫章王萧綦（周一围）。这段权力交易下的婚姻，却在历经种种考验后让两人先婚后爱，最后两人携手共定天下，守护家国百姓…</desc>
@@ -71235,22 +71199,6 @@
   <programme start="20260103220000 +0000" stop="20260103230000 +0000" channel="龙华戏剧台">
     <title lang="zh">名不虚传</title>
     <desc lang="zh">许任（金南佶）是朝鲜时代的顶尖韩医，却怀才不遇而过著双面生活，直到他在生死存亡之际，穿越到四百年后的首尔，结识了笃信现代医学却不认可针灸技艺的胸部外科医师崔延京（金亚中）。两人跨越时空被卷入命运漩涡中，却也在过程中得到成长…</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="台湾戏剧台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="台湾戏剧台">
-    <title lang="zh">亲戚不计较</title>
-    <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="台湾戏剧台">
     <title lang="zh">亲戚不计较</title>
@@ -71587,18 +71535,6 @@
   <programme start="20260104223000 +0000" stop="20260104230000 +0000" channel="台湾戏剧台">
     <title lang="zh">亲戚不计较</title>
     <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101084000 +0000" channel="东森购物1台">
-    <title lang="zh">12/1-12/31全月消费实付满5,000元送进口【红心芭乐饮】一箱</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101084000 +0000" stop="20260101092000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101092000 +0000" stop="20260101100000 +0000" channel="东森购物1台">
-    <title lang="zh">12/1-12/31全月消费实付满5,000元送进口【红心芭乐饮】一箱</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101104000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -72112,14 +72048,6 @@
     <title lang="zh">12/1-12/31全月消费实付满5,000元送进口【红心芭乐饮】一箱</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="龙华偶像台">
-    <title lang="zh">圣水洞之吻</title>
-    <desc lang="zh">▲ MZ 世代浪漫奇幻剧-意外之吻展开爱恋 ▲灵魂交换「以下犯上」展开爆笑罗曼史 ▲朴所罗门化身暖男实习生爱上傲娇上司 【年下实习生朴所罗门恋年上工作狂金智恩，吻出姊弟恋化学效应！！】</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="龙华偶像台">
-    <title lang="zh">圣水洞之吻</title>
-    <desc lang="zh">▲ MZ 世代浪漫奇幻剧-意外之吻展开爱恋 ▲灵魂交换「以下犯上」展开爆笑罗曼史 ▲朴所罗门化身暖男实习生爱上傲娇上司 【年下实习生朴所罗门恋年上工作狂金智恩，吻出姊弟恋化学效应！！】</desc>
-  </programme>
   <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="龙华偶像台">
     <title lang="zh">风起西州</title>
     <desc lang="zh">风起霓裳续集。库狄琉璃与裴行俭婚后琴瑟和鸣，夫唱妇随。后裴行俭被贬。琉璃陪伴丈夫远赴西州上任，与当地世子曲崇裕相识的故事。</desc>
@@ -72423,14 +72351,6 @@
   <programme start="20260104160000 +0000" stop="20260104200000 +0000" channel="龙华偶像台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="龙华日韩台">
-    <title lang="zh">追踪者</title>
-    <desc lang="zh">聪明又狠毒、宛如恶棍般的黄东柱（任时完）曾是检查大企业贿赂的优秀会计师，却忽然辞去工作，转任大韩民国国税厅税收五局一组的组长，剧情讲述他如何带领拥有「垃圾回收场」之称的税收五局，来搅乱国税厅内部斗争的一池春水。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="龙华日韩台">
-    <title lang="zh">欧若拉公主</title>
-    <desc lang="zh">大企业天王食品会长家，晚来得到的独生女欧若拉竟对完美挑剔男的小说家黄马马一见钟情，而这两家族之间会因为这两人间所发生的事情，有何改变呢？</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="龙华日韩台">
     <title lang="zh">欧若拉公主</title>
@@ -72771,18 +72691,6 @@
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="龙华日韩台">
     <title lang="zh">红色高跟鞋</title>
     <desc lang="zh">闵熙琼（崔明吉）多年前为追求成功的野心抛夫弃子。熙琼的女儿金珍雅（苏怡贤）长大后虽才貌兼具，内心却隐藏著伤痛，并对妈妈产生怨恨。当她发现母亲如今成为知名制鞋品牌的实权者，父亲死亡那天还对他见死不救，决心为父亲讨回公道…</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101084000 +0000" channel="东森购物2台">
-    <title lang="zh">12/1-12/31全月消费实付满5,000元送进口【红心芭乐饮】一箱</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101084000 +0000" stop="20260101092000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101092000 +0000" stop="20260101100000 +0000" channel="东森购物2台">
-    <title lang="zh">12/1-12/31全月消费实付满5,000元送进口【红心芭乐饮】一箱</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101104000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -73296,10 +73204,6 @@
     <title lang="zh">12/1-12/31全月消费实付满5,000元送进口【红心芭乐饮】一箱</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260101080000 +0000" stop="20260101085300 +0000" channel="华视新闻">
-    <title lang="zh">华视在地新闻</title>
-    <desc lang="zh">以台语发音，提供观众朋友不一样的国内外新闻。</desc>
-  </programme>
   <programme start="20260101085300 +0000" stop="20260101120000 +0000" channel="华视新闻">
     <title lang="zh">华视新闻晚报</title>
     <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
@@ -73628,10 +73532,6 @@
     <title lang="zh">华视2400夜间新闻</title>
     <desc lang="zh">由专业华视主播带来最即时、最完整、最专业的新闻报导。</desc>
   </programme>
-  <programme start="20260101040000 +0000" stop="20260101100000 +0000" channel="倪珍播新闻">
-    <title lang="zh">午安新闻</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260101100000 +0000" stop="20260101160000 +0000" channel="倪珍播新闻">
     <title lang="zh">晚安新闻</title>
     <desc lang="zh">暂无描述</desc>
@@ -73707,14 +73607,6 @@
   <programme start="20260105160000 +0000" stop="20260105200000 +0000" channel="倪珍播新闻">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1600整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1700整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101115500 +0000" channel="三立新闻iNEWS">
     <title lang="zh">1819钱进大头条</title>
@@ -74027,14 +73919,6 @@
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">360大世界</title>
     <desc lang="zh">带你360度看世界，介绍世界各地奇闻轶事，每个故事都令人啧啧称奇！</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="寰宇财经台">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="寰宇财经台">
-    <title lang="zh">古今风云</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="寰宇财经台">
     <title lang="zh">美食打卡趣</title>
@@ -74376,14 +74260,6 @@
     <title lang="zh">台湾大代志</title>
     <desc lang="zh">时间播回1996年，当时爆发了两国论台海危机，李登辉总统抛出了两国论，大陆方面做出对台导弹试射进行威胁，不过李登辉总统说出了一句话：「他说不用怕啦！他们射出的都是哑巴弹空包弹，根本就是在作秀」大陆查到底是谁掀底牌的，分别是刘连昆、邵正宗，谁为他们牵线布下整个情报脉络的呢？</desc>
   </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
   <programme start="20260101100000 +0000" stop="20260101105800 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -74723,14 +74599,6 @@
   <programme start="20260104220000 +0000" stop="20260104230000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101090000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1600整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1700整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="中天新闻台">
     <title lang="zh">中天辣晚报</title>
@@ -75204,14 +75072,6 @@
     <title lang="zh">15大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播陪你一起来解卦！！！</desc>
   </programme>
-  <programme start="20260101075500 +0000" stop="20260101085500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
-  <programme start="20260101085500 +0000" stop="20260101095500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
   <programme start="20260101095500 +0000" stop="20260101105500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
     <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
@@ -75580,14 +75440,6 @@
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
   </programme>
-  <programme start="20260101075500 +0000" stop="20260101085500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
-  <programme start="20260101085500 +0000" stop="20260101095500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
   <programme start="20260101095500 +0000" stop="20260101105500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
     <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
@@ -75955,26 +75807,6 @@
   <programme start="20260105160000 +0000" stop="20260105200000 +0000" channel="寰宇新闻台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="第1商业台">
-    <title lang="zh">股市全攻略-丰银投顾-龚鸿彬分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101083000 +0000" stop="20260101090000 +0000" channel="第1商业台">
-    <title lang="zh">汪海华_操盘的智慧</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="第1商业台">
-    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="第1商业台">
-    <title lang="zh">赢家应对-顾德投顾-林泓橡分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260101100000 +0000" stop="20260101103000 +0000" channel="第1商业台">
-    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260101103000 +0000" stop="20260101110000 +0000" channel="第1商业台">
     <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
@@ -76836,10 +76668,6 @@
     <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260101010000 +0000" stop="20260101100000 +0000" channel="国会频道1台">
-    <title lang="zh">立法院会议直播</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260101100000 +0000" stop="20260101160000 +0000" channel="国会频道1台">
     <title lang="zh">当日立法院会议转播</title>
     <desc lang="zh">暂无描述</desc>
@@ -76983,10 +76811,6 @@
   <programme start="20260105160000 +0000" stop="20260105200000 +0000" channel="国会频道1台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260101010000 +0000" stop="20260101100000 +0000" channel="国会频道2台">
-    <title lang="zh">立法院会议直播</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101160000 +0000" channel="国会频道2台">
     <title lang="zh">当日立法院会议转播</title>
@@ -77140,10 +76964,6 @@
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
   </programme>
-  <programme start="20260101063000 +0000" stop="20260101092000 +0000" channel="龙华经典台">
-    <title lang="zh">决死突击队</title>
-    <desc lang="zh">1944年盟军诺曼第大反攻前，美方策划了一场前哨入侵「大赦计划」、由莱斯曼少校挑选训练12名军事重刑犯，准备潜入法国暗杀渡假中的德军高阶将领。在历经一场红蓝军大对抗且成功掳获死对头布立德上校的演习后，这群重刑犯杂牌军将前往法国执行任务。这支渴望重生的决死突击队最终能否达成使命？</desc>
-  </programme>
   <programme start="20260101092000 +0000" stop="20260101110000 +0000" channel="龙华经典台">
     <title lang="zh">报告班长3</title>
     <desc lang="zh">一次突击式的军事演习中，乌龙班的小颖因一时紧张，误触引爆炸药的按钮，令整个演习大乱，全连也因而被上级派赴基地再受训。在视察中连长怕乌龙班再出疪漏，于是命乌龙班负责寝室和厕所清洁。视察当日，乌龙班眼看李班长带的魔鬼班受到上级嘉许，激起了他们的斗志…</desc>
@@ -77287,10 +77107,6 @@
   <programme start="20260104180000 +0000" stop="20260104220000 +0000" channel="龙华经典台">
     <title lang="zh">收播</title>
     <desc lang="zh">目前无播出节目。</desc>
-  </programme>
-  <programme start="20260101074500 +0000" stop="20260101100000 +0000" channel="龙华电影台">
-    <title lang="zh">黄飞鸿之铁鸡斗蜈蚣</title>
-    <desc lang="zh">黄飞鸿武术超群，捕快笑面虎早有心与黄一较高下，故其放出江洋大盗，再亲自制伏大盗，继而向黄挑战，黄借故退席。一天，黄飞鸿见到一对父女在外卖艺，遂命徒弟打了赏钱，父女甚为感激。夜晚，父女二人听到两个僧人在谈论黄飞鸿，便一路跟踪，竟发现笑面虎正在商议贩卖人口的计策，不料行踪曝光…</desc>
   </programme>
   <programme start="20260101100000 +0000" stop="20260101130000 +0000" channel="龙华电影台">
     <title lang="zh">风再起时</title>
@@ -77543,10 +77359,6 @@
   <programme start="20260106072000 +0000" stop="20260106075000 +0000" channel="龙华电影台">
     <title lang="zh">超人力霸王杰特</title>
     <desc lang="zh">过去曾经四散在宇宙各处的恶魔碎片，现在又再度让全宇宙陷入了混乱。 为了夺回和平的生活，超人力霸王们不停地在宇宙中奋战。与此同时，滥用恶魔碎片并陆续毁灭行星的神秘存在，也正在私底下进行卑劣的活动。 随后，邪恶的魔掌也终于伸向了「光之国」…</desc>
-  </programme>
-  <programme start="20260101064500 +0000" stop="20260101082500 +0000" channel="龙华洋片台">
-    <title lang="zh">森林特攻队：大脚丫家族</title>
-    <desc lang="zh">平凡的亚当，和母亲、大脚怪父亲以及他们的朋友一起在森林里定居。某天动保团体找上父亲，打算阻止石油公司污染环境，没想到父亲在追查的过程中竟然失踪了！亚当和他的动物家人，决定联手找出大脚怪父亲的下落，并揭发石油公司的邪恶阴谋，他们一家人还有机会再次团聚吗？</desc>
   </programme>
   <programme start="20260101082500 +0000" stop="20260101110000 +0000" channel="龙华洋片台">
     <title lang="zh">星际特工瓦雷诺：千星之城</title>
@@ -180380,11 +180192,11 @@
     <title lang="zh">Aambala</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260101180000 +0800" stop="20260101183000 +0800" channel="SUN_TV_HD">
+  <programme start="20260101180000 +0800" stop="20260101183100 +0800" channel="SUN_TV_HD">
     <title lang="zh">News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260101183000 +0800" stop="20260101190000 +0800" channel="SUN_TV_HD">
+  <programme start="20260101183100 +0800" stop="20260101190000 +0800" channel="SUN_TV_HD">
     <title lang="zh">Chellame Chellame Ep15</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -181365,7 +181177,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101173000 +0800" stop="20260101183000 +0800" channel="Sun_Life">
-    <title lang="zh">Colourful Comedy</title>
+    <title lang="zh">Kutties Chutties</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101183000 +0800" stop="20260101213000 +0800" channel="Sun_Life">
@@ -185080,11 +184892,11 @@
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102080300 +0800" stop="20260102090000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102080300 +0800" stop="20260102085900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102090000 +0800" stop="20260102090300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102085900 +0800" stop="20260102090300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185096,11 +184908,11 @@
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102100300 +0800" stop="20260102110000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102100300 +0800" stop="20260102105900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102110000 +0800" stop="20260102110300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102105900 +0800" stop="20260102110300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185112,35 +184924,35 @@
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102120300 +0800" stop="20260102125800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102120300 +0800" stop="20260102125700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102125800 +0800" stop="20260102130300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102125700 +0800" stop="20260102130200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102130300 +0800" stop="20260102133300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102130200 +0800" stop="20260102133200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102133300 +0800" stop="20260102140300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102133200 +0800" stop="20260102140200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">We Are One Ep150</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102140300 +0800" stop="20260102143300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102140200 +0800" stop="20260102143300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Hong Kong Perspectives</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102143300 +0800" stop="20260102150300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102143300 +0800" stop="20260102150200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102150300 +0800" stop="20260102160000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102150200 +0800" stop="20260102155900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102160000 +0800" stop="20260102160300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102155900 +0800" stop="20260102160300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185168,19 +184980,19 @@
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102183300 +0800" stop="20260102190300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102183300 +0800" stop="20260102190200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102190300 +0800" stop="20260102193300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102190200 +0800" stop="20260102193300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102193300 +0800" stop="20260102200300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102193300 +0800" stop="20260102200200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102200300 +0800" stop="20260102203300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102200200 +0800" stop="20260102203300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185188,23 +185000,23 @@
     <title lang="zh">Top View</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102210300 +0800" stop="20260102215800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102210300 +0800" stop="20260102215600 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102215800 +0800" stop="20260102220300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102215600 +0800" stop="20260102220200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102220300 +0800" stop="20260102223300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102220200 +0800" stop="20260102223200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102223300 +0800" stop="20260102230300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102223200 +0800" stop="20260102230300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102230300 +0800" stop="20260102233300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260102230300 +0800" stop="20260102233200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185520,11 +185332,11 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102063000 +0800" stop="20260102063300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102063000 +0800" stop="20260102063200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102063300 +0800" stop="20260102070300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102063200 +0800" stop="20260102070300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185536,11 +185348,11 @@
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102080300 +0800" stop="20260102090000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102080300 +0800" stop="20260102085900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102090000 +0800" stop="20260102090300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102085900 +0800" stop="20260102090300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185556,11 +185368,11 @@
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102100300 +0800" stop="20260102110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102100300 +0800" stop="20260102105900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102110000 +0800" stop="20260102110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102105900 +0800" stop="20260102110300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185568,27 +185380,27 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102113000 +0800" stop="20260102113300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102113000 +0800" stop="20260102113200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102113300 +0800" stop="20260102120300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102113200 +0800" stop="20260102120300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102120300 +0800" stop="20260102125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102120300 +0800" stop="20260102125700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102125800 +0800" stop="20260102130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102125700 +0800" stop="20260102130300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102130300 +0800" stop="20260102134300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102130300 +0800" stop="20260102134500 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102134300 +0800" stop="20260102134800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102134500 +0800" stop="20260102134800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185608,19 +185420,19 @@
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102150300 +0800" stop="20260102160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102150300 +0800" stop="20260102155900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102160000 +0800" stop="20260102160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102155900 +0800" stop="20260102160300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102160300 +0800" stop="20260102164300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102160300 +0800" stop="20260102164500 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102164300 +0800" stop="20260102164800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102164500 +0800" stop="20260102164800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185628,15 +185440,15 @@
     <title lang="zh">Year Ender 2025</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102170300 +0800" stop="20260102173000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102170300 +0800" stop="20260102172900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102173000 +0800" stop="20260102173300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102172900 +0800" stop="20260102173200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102173300 +0800" stop="20260102180300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102173200 +0800" stop="20260102180300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185648,19 +185460,19 @@
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102183300 +0800" stop="20260102190300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102183300 +0800" stop="20260102190200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102190300 +0800" stop="20260102200000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102190200 +0800" stop="20260102195900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102200000 +0800" stop="20260102200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102195900 +0800" stop="20260102200200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102200300 +0800" stop="20260102203000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102200200 +0800" stop="20260102203000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -185672,27 +185484,27 @@
     <title lang="zh">Phoenix Financial Daily Report</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102210300 +0800" stop="20260102215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102210300 +0800" stop="20260102215600 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102215800 +0800" stop="20260102220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102215600 +0800" stop="20260102220200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102220300 +0800" stop="20260102223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102220200 +0800" stop="20260102223200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102223300 +0800" stop="20260102230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102223200 +0800" stop="20260102230200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102230300 +0800" stop="20260102234300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102230200 +0800" stop="20260102234500 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102234300 +0800" stop="20260102234800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260102234500 +0800" stop="20260102234700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -204028,11 +203840,11 @@
     <title lang="zh">BBL 2025/26: AS v BH</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260101125000 +0800" stop="20260101161500 +0800" channel="Astro_Cricket">
+  <programme start="20260101125000 +0800" stop="20260101163000 +0800" channel="Astro_Cricket">
     <title lang="zh">(L) BBL 2025/26: MR v SS</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260101161500 +0800" stop="20260101193000 +0800" channel="Astro_Cricket">
+  <programme start="20260101163000 +0800" stop="20260101193000 +0800" channel="Astro_Cricket">
     <title lang="zh">(L) BBL 2025/26: HH v PS</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -206824,94 +206636,6 @@
     <title lang="zh">News (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260101000000 +0700" stop="20260101020000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101020000 +0700" stop="20260101040000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101040000 +0700" stop="20260101060000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101060000 +0700" stop="20260101080000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101080000 +0700" stop="20260101100000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101100000 +0700" stop="20260101120000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101120000 +0700" stop="20260101140000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101140000 +0700" stop="20260101160000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101160000 +0700" stop="20260101180000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101180000 +0700" stop="20260101200000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101200000 +0700" stop="20260101220000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102000000 +0700" stop="20260102020000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020000 +0700" stop="20260102040000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102060000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102060000 +0700" stop="20260102080000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102080000 +0700" stop="20260102100000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102120000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120000 +0700" stop="20260102140000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140000 +0700" stop="20260102160000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160000 +0700" stop="20260102180000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180000 +0700" stop="20260102200000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200000 +0700" stop="20260102220000 +0700" channel="Al Quran Al Kareem">
-    <title lang="zh">Live From Mekkah</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260101000000 +0700" stop="20260101003000 +0700" channel="Animax">
     <title lang="zh">Nyaight Of The Living Cat, Ep 3</title>
     <desc lang="zh"> </desc>
@@ -208217,206 +207941,6 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101225500 +0700" stop="20260101235500 +0700" channel="BBC Earth">
-    <title lang="zh">Joanna Lumley's Japan S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102005000 +0700" stop="20260102020000 +0700" channel="BBC Earth">
-    <title lang="zh">Human S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020000 +0700" stop="20260102025000 +0700" channel="BBC Earth">
-    <title lang="zh">Running Wild S2, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102025000 +0700" stop="20260102035000 +0700" channel="BBC Earth">
-    <title lang="zh">Joanna Lumley's Japan S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102035000 +0700" stop="20260102050000 +0700" channel="BBC Earth">
-    <title lang="zh">Human S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102055500 +0700" channel="BBC Earth">
-    <title lang="zh">Joanna Lumley's Japan S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102055500 +0700" stop="20260102070000 +0700" channel="BBC Earth">
-    <title lang="zh">Solar System S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102070000 +0700" stop="20260102075000 +0700" channel="BBC Earth">
-    <title lang="zh">Running Wild S2, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102075000 +0700" stop="20260102084500 +0700" channel="BBC Earth">
-    <title lang="zh">Lumley's Unseen Adv. S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102084500 +0700" stop="20260102094000 +0700" channel="BBC Earth">
-    <title lang="zh">Joanna Lumley's Japan S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102094000 +0700" stop="20260102104000 +0700" channel="BBC Earth">
-    <title lang="zh">Griff's Canadian Adv. S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102104000 +0700" stop="20260102113500 +0700" channel="BBC Earth">
-    <title lang="zh">Lumley's Unseen Adv. S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102113500 +0700" stop="20260102123000 +0700" channel="BBC Earth">
-    <title lang="zh">Frozen Planet S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102123000 +0700" stop="20260102133500 +0700" channel="BBC Earth">
-    <title lang="zh">Solar System S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102133500 +0700" stop="20260102142500 +0700" channel="BBC Earth">
-    <title lang="zh">Engineering Reborn S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102142500 +0700" stop="20260102152500 +0700" channel="BBC Earth">
-    <title lang="zh">Saving Venice</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102152500 +0700" stop="20260102161500 +0700" channel="BBC Earth">
-    <title lang="zh">Running Wild S2, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102161500 +0700" stop="20260102171000 +0700" channel="BBC Earth">
-    <title lang="zh">Griff's Canadian Adv. S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102171000 +0700" stop="20260102180500 +0700" channel="BBC Earth">
-    <title lang="zh">Lumley's Unseen Adv. S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180500 +0700" stop="20260102185500 +0700" channel="BBC Earth">
-    <title lang="zh">Running Wild S2, Ep 9</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102185500 +0700" stop="20260102195500 +0700" channel="BBC Earth">
-    <title lang="zh">Zoo Quest In Colour S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102195500 +0700" stop="20260102202500 +0700" channel="BBC Earth">
-    <title lang="zh">Greatest Train Journeys, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102202500 +0700" stop="20260102205500 +0700" channel="BBC Earth">
-    <title lang="zh">Greatest Train Journeys, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102205500 +0700" stop="20260102215500 +0700" channel="BBC Earth">
-    <title lang="zh">Deadliest Weather S6, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102215500 +0700" stop="20260102224500 +0700" channel="BBC Earth">
-    <title lang="zh">Running Wild S2, Ep 9</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102224500 +0700" stop="20260102234500 +0700" channel="BBC Earth">
-    <title lang="zh">Zoo Quest In Colour S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101003000 +0700" stop="20260101013000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Saving Venice</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101013000 +0700" stop="20260101021500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Running Wild S2, Ep 7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101021500 +0700" stop="20260101031000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Secrets Of Jurassic... S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101031000 +0700" stop="20260101040000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Big Adv.: Mississippi S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101040000 +0700" stop="20260101050000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Solar System S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101050000 +0700" stop="20260101055500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Saving Venice</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101055500 +0700" stop="20260101065500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Saving Venice</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101065500 +0700" stop="20260101074500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Running Wild S2, Ep 7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101074500 +0700" stop="20260101084500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Solar System S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101084500 +0700" stop="20260101094000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Wild Scandinavia S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101094000 +0700" stop="20260101104000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Saving Venice</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101104000 +0700" stop="20260101113500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Incredible Journeys S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101113500 +0700" stop="20260101123000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Frozen Planet S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101123000 +0700" stop="20260101132500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Wild Scandinavia S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101132500 +0700" stop="20260101142500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Saving Venice</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101142500 +0700" stop="20260101153000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Solar System S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101153000 +0700" stop="20260101162000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Running Wild S2, Ep 7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101162000 +0700" stop="20260101172000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Wild Scandinavia S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101172000 +0700" stop="20260101181500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Incredible Journeys S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101181500 +0700" stop="20260101190500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Running Wild S2, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101190500 +0700" stop="20260101200000 +0700" channel="BBC Earth HD">
-    <title lang="zh">Joanna Lumley's Japan S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101200000 +0700" stop="20260101205500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Lumley's Unseen Adv. S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101205500 +0700" stop="20260101220500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Human S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101220500 +0700" stop="20260101225500 +0700" channel="BBC Earth HD">
-    <title lang="zh">Running Wild S2, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101225500 +0700" stop="20260101235500 +0700" channel="BBC Earth HD">
     <title lang="zh">Joanna Lumley's Japan S1, Ep 1</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -209956,166 +209480,6 @@
     <title lang="zh">AFCON 2025: MOZ Vs CMR</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102010000 +0700" stop="20260102013000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">Blue 85: Part 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102013000 +0700" stop="20260102033000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">AFCON 2025: TAN Vs TUN</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102033000 +0700" stop="20260102040000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">Nedbank Gravel Burn 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102043000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">Mini Match UEL: CEL Vs BOL</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102043000 +0700" stop="20260102050000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">Mini Match UCL: RMA Vs MCI</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102053000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">Epic Series Global MTB 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053000 +0700" stop="20260102072000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">AFCON 2025: BEN Vs SEN</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102072000 +0700" stop="20260102091000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">AFCON 2025: ZAM Vs MAR</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102091000 +0700" stop="20260102110000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">UECL 2025/26: LSP Vs FIO</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102110000 +0700" stop="20260102113000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">MUTV HL 2025/26: MUN Vs NEW</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102113000 +0700" stop="20260102133000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">MUTV 2025/26: MUN Vs WOL</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102133000 +0700" stop="20260102140000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">MUTV Match Day: MUN Vs WOL</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140000 +0700" stop="20260102155000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">UWCL 2025/26: WOB Vs CHE</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102155000 +0700" stop="20260102160000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">UCL Classic Matches: RMA Vs TOT</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160000 +0700" stop="20260102180000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">Ultimate Pool 2025: Pro Cup</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180000 +0700" stop="20260102213000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">Ultimate Pool 2025: Pro Cup</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102213000 +0700" stop="20260102220000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">UIM X-Cat World C'ship 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102220000 +0700" stop="20260102230000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">UCL Classic Matches: INT Vs ARS</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101000000 +0700" stop="20260101020000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101020000 +0700" stop="20260101040000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101040000 +0700" stop="20260101060000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101060000 +0700" stop="20260101080000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101080000 +0700" stop="20260101100000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101100000 +0700" stop="20260101120000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101120000 +0700" stop="20260101140000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101140000 +0700" stop="20260101160000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101160000 +0700" stop="20260101191500 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101191500 +0700" stop="20260101213000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102000000 +0700" stop="20260102020000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020000 +0700" stop="20260102040000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102060000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102060000 +0700" stop="20260102080000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102080000 +0700" stop="20260102100000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102120000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120000 +0700" stop="20260102140000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140000 +0700" stop="20260102160000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160000 +0700" stop="20260102180000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180000 +0700" stop="20260102200000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200000 +0700" stop="20260102213000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102213000 +0700" stop="20260102233000 +0700" channel="beIN SPORTS 4">
-    <title lang="zh">beIN Sports 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260101000000 +0700" stop="20260101020000 +0700" channel="beIN SPORTS 5">
     <title lang="zh">beIN Sports 5</title>
     <desc lang="zh"> </desc>
@@ -210338,158 +209702,6 @@
   </programme>
   <programme start="20260101220000 +0700" stop="20260101223000 +0700" channel="Bloomberg">
     <title lang="zh">Bloomberg Chief Future Officer</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102000000 +0700" stop="20260102003000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102003000 +0700" stop="20260102010000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102010000 +0700" stop="20260102013000 +0700" channel="Bloomberg">
-    <title lang="zh">The David Rubenstein Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102013000 +0700" stop="20260102020000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020000 +0700" stop="20260102023000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102023000 +0700" stop="20260102030000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102030000 +0700" stop="20260102033000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102033000 +0700" stop="20260102040000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102043000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102043000 +0700" stop="20260102050000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102053000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053000 +0700" stop="20260102060000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102060000 +0700" stop="20260102063000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Primer</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102063000 +0700" stop="20260102070000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Primer</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102070000 +0700" stop="20260102073000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Primer</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102073000 +0700" stop="20260102080000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Primer</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102080000 +0700" stop="20260102083000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Primer</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102083000 +0700" stop="20260102090000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Primer</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102090000 +0700" stop="20260102093000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg New Economy</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093000 +0700" stop="20260102100000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Screentime</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102103000 +0700" channel="Bloomberg">
-    <title lang="zh">Women, Money &amp; Power Event</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102103000 +0700" stop="20260102110000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102110000 +0700" stop="20260102113000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102113000 +0700" stop="20260102120000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120000 +0700" stop="20260102123000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102123000 +0700" stop="20260102130000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Wealth With David R.</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102130000 +0700" stop="20260102133000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102133000 +0700" stop="20260102140000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140000 +0700" stop="20260102143000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102143000 +0700" stop="20260102150000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102150000 +0700" stop="20260102153000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102153000 +0700" stop="20260102160000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160000 +0700" stop="20260102163000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102163000 +0700" stop="20260102170000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102170000 +0700" stop="20260102173000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102173000 +0700" stop="20260102180000 +0700" channel="Bloomberg">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180000 +0700" stop="20260102210000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Surveillance</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102210000 +0700" stop="20260102230000 +0700" channel="Bloomberg">
-    <title lang="zh">Bloomberg Markets</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101003000 +0700" stop="20260101010000 +0700" channel="BTV">
@@ -212512,334 +211724,6 @@
     <title lang="zh">Headline News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102000000 +0700" stop="20260102010000 +0700" channel="Channel News Asia">
-    <title lang="zh">New Stirrings, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102010000 +0700" stop="20260102013000 +0700" channel="Channel News Asia">
-    <title lang="zh">Singapore Tonight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102013000 +0700" stop="20260102020000 +0700" channel="Channel News Asia">
-    <title lang="zh">Sour, Salty &amp; Alive, Ep 7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020000 +0700" stop="20260102030000 +0700" channel="Channel News Asia">
-    <title lang="zh">Extraordinary People, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102030000 +0700" stop="20260102033000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Tonight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102033000 +0700" stop="20260102040000 +0700" channel="Channel News Asia">
-    <title lang="zh">Byte The Habit, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102050000 +0700" channel="Channel News Asia">
-    <title lang="zh">Insight, Ep 12</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102053000 +0700" channel="Channel News Asia">
-    <title lang="zh">Singapore Tonight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053000 +0700" stop="20260102060000 +0700" channel="Channel News Asia">
-    <title lang="zh">Hobsessions, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102060000 +0700" stop="20260102063000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102063000 +0700" stop="20260102070000 +0700" channel="Channel News Asia">
-    <title lang="zh">Singapore After Work, Ep 9</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102070000 +0700" stop="20260102073000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102073000 +0700" stop="20260102080000 +0700" channel="Channel News Asia">
-    <title lang="zh">What's The Big Deal?, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102080000 +0700" stop="20260102083000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102083000 +0700" stop="20260102090000 +0700" channel="Channel News Asia">
-    <title lang="zh">On The Red Dot, Ep 9</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102090000 +0700" stop="20260102090200 +0700" channel="Channel News Asia">
-    <title lang="zh">Headline News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102090200 +0700" stop="20260102100000 +0700" channel="Channel News Asia">
-    <title lang="zh">Insight, Ep 12</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102103000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102103000 +0700" stop="20260102110000 +0700" channel="Channel News Asia">
-    <title lang="zh">Byte The Habit, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102110000 +0700" stop="20260102113000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102113000 +0700" stop="20260102120000 +0700" channel="Channel News Asia">
-    <title lang="zh">Hobsessions, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120000 +0700" stop="20260102120200 +0700" channel="Channel News Asia">
-    <title lang="zh">Headline News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120200 +0700" stop="20260102130000 +0700" channel="Channel News Asia">
-    <title lang="zh">Echoes Of Change, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102130000 +0700" stop="20260102133000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102133000 +0700" stop="20260102140000 +0700" channel="Channel News Asia">
-    <title lang="zh">CNA Correspondent, Ep 7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140000 +0700" stop="20260102143000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102143000 +0700" stop="20260102150000 +0700" channel="Channel News Asia">
-    <title lang="zh">Singapore After Work, Ep 9</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102150000 +0700" stop="20260102150200 +0700" channel="Channel News Asia">
-    <title lang="zh">Headline News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102150200 +0700" stop="20260102160000 +0700" channel="Channel News Asia">
-    <title lang="zh">New Stirrings, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160000 +0700" stop="20260102163000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102163000 +0700" stop="20260102170000 +0700" channel="Channel News Asia">
-    <title lang="zh">On The Red Dot, Ep 9</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102170000 +0700" stop="20260102173000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Now</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102173000 +0700" stop="20260102180000 +0700" channel="Channel News Asia">
-    <title lang="zh">CNA Correspondent, Ep 9</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180000 +0700" stop="20260102180200 +0700" channel="Channel News Asia">
-    <title lang="zh">Headline News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180200 +0700" stop="20260102190000 +0700" channel="Channel News Asia">
-    <title lang="zh">New Stirrings, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102190000 +0700" stop="20260102193000 +0700" channel="Channel News Asia">
-    <title lang="zh">Asia Tonight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102193000 +0700" stop="20260102200000 +0700" channel="Channel News Asia">
-    <title lang="zh">Sour, Salty &amp; Alive, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200000 +0700" stop="20260102200200 +0700" channel="Channel News Asia">
-    <title lang="zh">Headline News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200200 +0700" stop="20260102210000 +0700" channel="Channel News Asia">
-    <title lang="zh">Japan Hour, Ep 52</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102210000 +0700" stop="20260102213000 +0700" channel="Channel News Asia">
-    <title lang="zh">Singapore Tonight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102213000 +0700" stop="20260102220000 +0700" channel="Channel News Asia">
-    <title lang="zh">Byte The Habit, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102220000 +0700" stop="20260102220300 +0700" channel="Channel News Asia">
-    <title lang="zh">Headline News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102220300 +0700" stop="20260102230000 +0700" channel="Channel News Asia">
-    <title lang="zh">Singapore Hour, Ep 27</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102230000 +0700" stop="20260102230300 +0700" channel="Channel News Asia">
-    <title lang="zh">Headline News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101010600 +0700" stop="20260101024700 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101024700 +0700" stop="20260101042500 +0700" channel="CINEEDGE">
-    <title lang="zh">One Way</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101042500 +0700" stop="20260101051100 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101051100 +0700" stop="20260101065100 +0700" channel="CINEEDGE">
-    <title lang="zh">Sweepers</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101065100 +0700" stop="20260101084800 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101084800 +0700" stop="20260101105100 +0700" channel="CINEEDGE">
-    <title lang="zh">The Grey</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101105100 +0700" stop="20260101125000 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101125000 +0700" stop="20260101142900 +0700" channel="CINEEDGE">
-    <title lang="zh">Gasoline Alley</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101142900 +0700" stop="20260101160000 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101160000 +0700" stop="20260101174900 +0700" channel="CINEEDGE">
-    <title lang="zh">Control</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101174900 +0700" stop="20260101193800 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101193800 +0700" stop="20260101211900 +0700" channel="CINEEDGE">
-    <title lang="zh">The Silencing</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101211900 +0700" stop="20260101225900 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102004800 +0700" stop="20260102024200 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102024200 +0700" stop="20260102041800 +0700" channel="CINEEDGE">
-    <title lang="zh">The 2nd</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102041800 +0700" stop="20260102061600 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102061600 +0700" stop="20260102075900 +0700" channel="CINEEDGE">
-    <title lang="zh">Waist Deep</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102075900 +0700" stop="20260102102400 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102102400 +0700" stop="20260102120000 +0700" channel="CINEEDGE">
-    <title lang="zh">Poker Face</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120000 +0700" stop="20260102142000 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102142000 +0700" stop="20260102160700 +0700" channel="CINEEDGE">
-    <title lang="zh">A Day To Die</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160700 +0700" stop="20260102182200 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102182200 +0700" stop="20260102200400 +0700" channel="CINEEDGE">
-    <title lang="zh">American Sicario</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200400 +0700" stop="20260102220300 +0700" channel="CINEEDGE">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102220300 +0700" stop="20260102234100 +0700" channel="CINEEDGE">
-    <title lang="zh">Blowback</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101010600 +0700" stop="20260101024700 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101024700 +0700" stop="20260101042500 +0700" channel="CINEEDGE HD">
-    <title lang="zh">One Way</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101042500 +0700" stop="20260101051100 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101051100 +0700" stop="20260101065100 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Sweepers</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101065100 +0700" stop="20260101084800 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101084800 +0700" stop="20260101105100 +0700" channel="CINEEDGE HD">
-    <title lang="zh">The Grey</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101105100 +0700" stop="20260101125000 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101125000 +0700" stop="20260101142900 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Gasoline Alley</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101142900 +0700" stop="20260101160000 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101160000 +0700" stop="20260101174900 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Control</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101174900 +0700" stop="20260101193800 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101193800 +0700" stop="20260101211900 +0700" channel="CINEEDGE HD">
-    <title lang="zh">The Silencing</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101211900 +0700" stop="20260101225900 +0700" channel="CINEEDGE HD">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260102004800 +0700" stop="20260102024200 +0700" channel="CINEEDGE HD">
     <title lang="zh">Platinum</title>
     <desc lang="zh"> </desc>
@@ -213174,410 +212058,6 @@
   </programme>
   <programme start="20260102230000 +0700" stop="20260102233000 +0700" channel="CNBC">
     <title lang="zh">Money Movers</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101002000 +0700" stop="20260101011500 +0700" channel="Crime Investigation">
-    <title lang="zh">After The First 48 S14, Ep 88</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101011500 +0700" stop="20260101021000 +0700" channel="Crime Investigation">
-    <title lang="zh">Accused: Did I Do It?, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101021000 +0700" stop="20260101030500 +0700" channel="Crime Investigation">
-    <title lang="zh">Hoarders S14, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101030500 +0700" stop="20260101040000 +0700" channel="Crime Investigation">
-    <title lang="zh">Cold Case Files S3, Ep 39</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101040000 +0700" stop="20260101050000 +0700" channel="Crime Investigation">
-    <title lang="zh">Cold Case Files: Bayou, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101050000 +0700" stop="20260101052500 +0700" channel="Crime Investigation">
-    <title lang="zh">Court Cam S5, Ep 126</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101052500 +0700" stop="20260101055000 +0700" channel="Crime Investigation">
-    <title lang="zh">Court Cam S5, Ep 127</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101055000 +0700" stop="20260101064500 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S25, Ep 495</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101064500 +0700" stop="20260101074000 +0700" channel="Crime Investigation">
-    <title lang="zh">Accused: Guilty Or... S4, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101074000 +0700" stop="20260101083500 +0700" channel="Crime Investigation">
-    <title lang="zh">Hoarders S14, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101083500 +0700" stop="20260101093000 +0700" channel="Crime Investigation">
-    <title lang="zh">Cold Case Files S3, Ep 39</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101093000 +0700" stop="20260101102500 +0700" channel="Crime Investigation">
-    <title lang="zh">Cold Case Files: Bayou, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101102500 +0700" stop="20260101112000 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S26, Ep 512</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101112000 +0700" stop="20260101121500 +0700" channel="Crime Investigation">
-    <title lang="zh">After The First 48 S14, Ep 88</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101121500 +0700" stop="20260101131000 +0700" channel="Crime Investigation">
-    <title lang="zh">Accused: Did I Do It?, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101131000 +0700" stop="20260101133500 +0700" channel="Crime Investigation">
-    <title lang="zh">Court Cam S5, Ep 126</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101133500 +0700" stop="20260101140500 +0700" channel="Crime Investigation">
-    <title lang="zh">Court Cam S5, Ep 127</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101140500 +0700" stop="20260101150000 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S25, Ep 495</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101150000 +0700" stop="20260101155500 +0700" channel="Crime Investigation">
-    <title lang="zh">Accused: Guilty Or... S4, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101155500 +0700" stop="20260101164500 +0700" channel="Crime Investigation">
-    <title lang="zh">Hoarders S14, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101164500 +0700" stop="20260101173500 +0700" channel="Crime Investigation">
-    <title lang="zh">City Confidential S8, Ep 13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101173500 +0700" stop="20260101182500 +0700" channel="Crime Investigation">
-    <title lang="zh">City Confidential S8, Ep 14</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101182500 +0700" stop="20260101191500 +0700" channel="Crime Investigation">
-    <title lang="zh">Cold Case Files S3, Ep 45</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101191500 +0700" stop="20260101200500 +0700" channel="Crime Investigation">
-    <title lang="zh">Booked: First Day In S2, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101200500 +0700" stop="20260101214500 +0700" channel="Crime Investigation">
-    <title lang="zh">Lie Detector: Truth Or..., Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101214500 +0700" stop="20260101223500 +0700" channel="Crime Investigation">
-    <title lang="zh">Interrogation Raw S2, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101223500 +0700" stop="20260101232500 +0700" channel="Crime Investigation">
-    <title lang="zh">Evil Up Close S6, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102011500 +0700" stop="20260102021000 +0700" channel="Crime Investigation">
-    <title lang="zh">Interrogation Raw S2, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102021000 +0700" stop="20260102030500 +0700" channel="Crime Investigation">
-    <title lang="zh">Hoarders S14, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102030500 +0700" stop="20260102040000 +0700" channel="Crime Investigation">
-    <title lang="zh">City Confidential S8, Ep 13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102050000 +0700" channel="Crime Investigation">
-    <title lang="zh">City Confidential S8, Ep 14</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102055000 +0700" channel="Crime Investigation">
-    <title lang="zh">Cold Case Files S3, Ep 45</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102055000 +0700" stop="20260102064500 +0700" channel="Crime Investigation">
-    <title lang="zh">Booked: First Day In S2, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102064500 +0700" stop="20260102074000 +0700" channel="Crime Investigation">
-    <title lang="zh">Evil Up Close S6, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102074000 +0700" stop="20260102083500 +0700" channel="Crime Investigation">
-    <title lang="zh">Hoarders S14, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102083500 +0700" stop="20260102093000 +0700" channel="Crime Investigation">
-    <title lang="zh">City Confidential S8, Ep 13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093000 +0700" stop="20260102102500 +0700" channel="Crime Investigation">
-    <title lang="zh">City Confidential S8, Ep 14</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102102500 +0700" stop="20260102121500 +0700" channel="Crime Investigation">
-    <title lang="zh">Lie Detector: Truth Or..., Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102121500 +0700" stop="20260102131000 +0700" channel="Crime Investigation">
-    <title lang="zh">Interrogation Raw S2, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102131000 +0700" stop="20260102140500 +0700" channel="Crime Investigation">
-    <title lang="zh">Cold Case Files S3, Ep 45</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140500 +0700" stop="20260102150000 +0700" channel="Crime Investigation">
-    <title lang="zh">Booked: First Day In S2, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102150000 +0700" stop="20260102155500 +0700" channel="Crime Investigation">
-    <title lang="zh">Evil Up Close S6, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102155500 +0700" stop="20260102164500 +0700" channel="Crime Investigation">
-    <title lang="zh">Hoarders S14, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102164500 +0700" stop="20260102173500 +0700" channel="Crime Investigation">
-    <title lang="zh">Murder At The Motel, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102173500 +0700" stop="20260102182500 +0700" channel="Crime Investigation">
-    <title lang="zh">Cold Case Files: Bayou, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102182500 +0700" stop="20260102185000 +0700" channel="Crime Investigation">
-    <title lang="zh">Interrogation Cam, Ep 11</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102185000 +0700" stop="20260102191500 +0700" channel="Crime Investigation">
-    <title lang="zh">Interrogation Cam, Ep 12</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102191500 +0700" stop="20260102200500 +0700" channel="Crime Investigation">
-    <title lang="zh">Evil Up Close S6, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200500 +0700" stop="20260102205500 +0700" channel="Crime Investigation">
-    <title lang="zh">Meet, Marry, Murder S1, Ep 8</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102205500 +0700" stop="20260102214500 +0700" channel="Crime Investigation">
-    <title lang="zh">Taking The Stand S3, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102214500 +0700" stop="20260102223500 +0700" channel="Crime Investigation">
-    <title lang="zh">#TextMeWhenYouGet... S2, Ep 9</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102223500 +0700" stop="20260102232500 +0700" channel="Crime Investigation">
-    <title lang="zh">First Blood S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101001000 +0700" stop="20260101003500 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101003500 +0700" stop="20260101010000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101010000 +0700" stop="20260101012500 +0700" channel="Dreamworks">
-    <title lang="zh">Dragons: Race To The Edge</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101012500 +0700" stop="20260101015000 +0700" channel="Dreamworks">
-    <title lang="zh">Dragons: Race To The Edge</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101015000 +0700" stop="20260101021500 +0700" channel="Dreamworks">
-    <title lang="zh">Voltron: Legendary Defender</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101021500 +0700" stop="20260101024000 +0700" channel="Dreamworks">
-    <title lang="zh">Dawn Of The Croods</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101024000 +0700" stop="20260101030500 +0700" channel="Dreamworks">
-    <title lang="zh">Spirit Riding Free</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101030500 +0700" stop="20260101033000 +0700" channel="Dreamworks">
-    <title lang="zh">Dinotrux</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101033000 +0700" stop="20260101034500 +0700" channel="Dreamworks">
-    <title lang="zh">Raa Raa The Noisy Lion</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101034500 +0700" stop="20260101040000 +0700" channel="Dreamworks">
-    <title lang="zh">Raa Raa The Noisy Lion</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101040000 +0700" stop="20260101041500 +0700" channel="Dreamworks">
-    <title lang="zh">Raa Raa The Noisy Lion</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101041500 +0700" stop="20260101043000 +0700" channel="Dreamworks">
-    <title lang="zh">Raa Raa The Noisy Lion</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101043000 +0700" stop="20260101044500 +0700" channel="Dreamworks">
-    <title lang="zh">Raa Raa The Noisy Lion</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101044500 +0700" stop="20260101050000 +0700" channel="Dreamworks">
-    <title lang="zh">Raa Raa The Noisy Lion</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101050000 +0700" stop="20260101052500 +0700" channel="Dreamworks">
-    <title lang="zh">Dragons: Rescue Riders</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101052500 +0700" stop="20260101055000 +0700" channel="Dreamworks">
-    <title lang="zh">Go, Dog. Go!</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101055000 +0700" stop="20260101061500 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101061500 +0700" stop="20260101064000 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101064000 +0700" stop="20260101070500 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101070500 +0700" stop="20260101073000 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101073000 +0700" stop="20260101075500 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101075500 +0700" stop="20260101082000 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101082000 +0700" stop="20260101084500 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101084500 +0700" stop="20260101091000 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101091000 +0700" stop="20260101093500 +0700" channel="Dreamworks">
-    <title lang="zh">Kung Fu Panda: Dragon Knight</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101093500 +0700" stop="20260101100000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101100000 +0700" stop="20260101102500 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101102500 +0700" stop="20260101105000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101105000 +0700" stop="20260101111500 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101111500 +0700" stop="20260101114000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101114000 +0700" stop="20260101120500 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101120500 +0700" stop="20260101123000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101123000 +0700" stop="20260101125500 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101125500 +0700" stop="20260101132000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101132000 +0700" stop="20260101134500 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101134500 +0700" stop="20260101141000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101141000 +0700" stop="20260101143500 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101143500 +0700" stop="20260101150000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101150000 +0700" stop="20260101152500 +0700" channel="Dreamworks">
-    <title lang="zh">Boss Baby: Back In Business</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101152500 +0700" stop="20260101155000 +0700" channel="Dreamworks">
-    <title lang="zh">Boss Baby: Back In Business</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101155000 +0700" stop="20260101161500 +0700" channel="Dreamworks">
-    <title lang="zh">Boss Baby: Back In Business</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101161500 +0700" stop="20260101164000 +0700" channel="Dreamworks">
-    <title lang="zh">The Croods: Family Tree</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101164000 +0700" stop="20260101170500 +0700" channel="Dreamworks">
-    <title lang="zh">The Croods: Family Tree</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101170500 +0700" stop="20260101173000 +0700" channel="Dreamworks">
-    <title lang="zh">The Croods: Family Tree</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101173000 +0700" stop="20260101175500 +0700" channel="Dreamworks">
-    <title lang="zh">Dragons: The Nine Realms</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101175500 +0700" stop="20260101182000 +0700" channel="Dreamworks">
-    <title lang="zh">Dragons: The Nine Realms</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101182000 +0700" stop="20260101184500 +0700" channel="Dreamworks">
-    <title lang="zh">Dragons: The Nine Realms</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101184500 +0700" stop="20260101191000 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101191000 +0700" stop="20260101193500 +0700" channel="Dreamworks">
-    <title lang="zh">The Epic Tales Of Captain...</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260102001000 +0700" stop="20260102003500 +0700" channel="Dreamworks">
@@ -214610,454 +213090,6 @@
   </programme>
   <programme start="20260101193000 +0700" stop="20260101210000 +0700" channel="Entertainment">
     <title lang="zh">New Family 100</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102000000 +0700" stop="20260102013000 +0700" channel="Entertainment">
-    <title lang="zh">Mega Konser: Raisa X Afgan</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102013000 +0700" stop="20260102040000 +0700" channel="Entertainment">
-    <title lang="zh">Anugerah Dangdut Indonesia '25</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102053000 +0700" channel="Entertainment">
-    <title lang="zh">Family 100</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053000 +0700" stop="20260102063000 +0700" channel="Entertainment">
-    <title lang="zh">Manda Curhat</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102063000 +0700" stop="20260102070000 +0700" channel="Entertainment">
-    <title lang="zh">Hot Spot Viral</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102070000 +0700" stop="20260102083000 +0700" channel="Entertainment">
-    <title lang="zh">Super Deal</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102083000 +0700" stop="20260102100000 +0700" channel="Entertainment">
-    <title lang="zh">New Family 100</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102113000 +0700" channel="Entertainment">
-    <title lang="zh">Family 100</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102113000 +0700" stop="20260102130000 +0700" channel="Entertainment">
-    <title lang="zh">Mega Konser: Raisa X Afgan</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102130000 +0700" stop="20260102160000 +0700" channel="Entertainment">
-    <title lang="zh">Indonesian Music Awards 2025</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160000 +0700" stop="20260102170000 +0700" channel="Entertainment">
-    <title lang="zh">Balada Orang Tangguh</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102170000 +0700" stop="20260102180000 +0700" channel="Entertainment">
-    <title lang="zh">OK Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180000 +0700" stop="20260102193000 +0700" channel="Entertainment">
-    <title lang="zh">Super Deal</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102193000 +0700" stop="20260102210000 +0700" channel="Entertainment">
-    <title lang="zh">New Family 100</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101000000 +0700" stop="20260101001500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101001500 +0700" stop="20260101003000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101003000 +0700" stop="20260101004800 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101004800 +0700" stop="20260101010000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101010000 +0700" stop="20260101011500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101011500 +0700" stop="20260101013000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101013000 +0700" stop="20260101020000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101020000 +0700" stop="20260101021400 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101021400 +0700" stop="20260101022900 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101022900 +0700" stop="20260101025200 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101025200 +0700" stop="20260101030000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101030000 +0700" stop="20260101031500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101031500 +0700" stop="20260101033000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101033000 +0700" stop="20260101040000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101040000 +0700" stop="20260101041500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101041500 +0700" stop="20260101043000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101043000 +0700" stop="20260101050000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101050000 +0700" stop="20260101051400 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101051400 +0700" stop="20260101052800 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101052800 +0700" stop="20260101055000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101055000 +0700" stop="20260101060000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101060000 +0700" stop="20260101061500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101061500 +0700" stop="20260101063000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101063000 +0700" stop="20260101064600 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101064600 +0700" stop="20260101070000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101070000 +0700" stop="20260101071500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101071500 +0700" stop="20260101073100 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101073100 +0700" stop="20260101080000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101080000 +0700" stop="20260101081500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101081500 +0700" stop="20260101083000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101083000 +0700" stop="20260101090000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101090000 +0700" stop="20260101091400 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101091400 +0700" stop="20260101093000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101093000 +0700" stop="20260101100000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101100000 +0700" stop="20260101101500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101101500 +0700" stop="20260101103000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101103000 +0700" stop="20260101110000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101110000 +0700" stop="20260101111500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101111500 +0700" stop="20260101113000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101113000 +0700" stop="20260101120000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101120000 +0700" stop="20260101121500 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101121500 +0700" stop="20260101123000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101123000 +0700" stop="20260101130000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101130000 +0700" stop="20260101131500 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101131500 +0700" stop="20260101133000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101133000 +0700" stop="20260101140000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101140000 +0700" stop="20260101141500 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101141500 +0700" stop="20260101143000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101143000 +0700" stop="20260101150000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102000000 +0700" stop="20260102001500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102001500 +0700" stop="20260102003000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102003000 +0700" stop="20260102010000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102010000 +0700" stop="20260102011400 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102011400 +0700" stop="20260102012900 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102012900 +0700" stop="20260102015200 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102015200 +0700" stop="20260102020000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020000 +0700" stop="20260102021400 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102021400 +0700" stop="20260102024400 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102024400 +0700" stop="20260102030000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102030000 +0700" stop="20260102031500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102031500 +0700" stop="20260102033000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102033000 +0700" stop="20260102040000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102041400 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102041400 +0700" stop="20260102043100 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102043100 +0700" stop="20260102044600 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102044600 +0700" stop="20260102050000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102051500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102051500 +0700" stop="20260102053000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053000 +0700" stop="20260102060000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102060000 +0700" stop="20260102061500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102061500 +0700" stop="20260102063000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102063000 +0700" stop="20260102070000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102070000 +0700" stop="20260102071500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102071500 +0700" stop="20260102073000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102073000 +0700" stop="20260102080000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102080000 +0700" stop="20260102081500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102081500 +0700" stop="20260102083000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102083000 +0700" stop="20260102090000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102090000 +0700" stop="20260102091400 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102091400 +0700" stop="20260102093000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093000 +0700" stop="20260102093700 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093700 +0700" stop="20260102094500 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102094500 +0700" stop="20260102100000 +0700" channel="EURONEWS">
-    <title lang="zh">News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102101500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102101500 +0700" stop="20260102103000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102103000 +0700" stop="20260102110000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102110000 +0700" stop="20260102111500 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102111500 +0700" stop="20260102113000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102113000 +0700" stop="20260102120000 +0700" channel="EURONEWS">
-    <title lang="zh">The European Debrief</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120000 +0700" stop="20260102121500 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102121500 +0700" stop="20260102123000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102123000 +0700" stop="20260102130000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102130000 +0700" stop="20260102131500 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102131500 +0700" stop="20260102133000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102133000 +0700" stop="20260102140000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140000 +0700" stop="20260102141500 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102141500 +0700" stop="20260102143000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102143000 +0700" stop="20260102150000 +0700" channel="EURONEWS">
-    <title lang="zh">Wake Up Europe</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101000000 +0700" stop="20260101010000 +0700" channel="Fight Sports">
@@ -216236,250 +214268,6 @@
     <title lang="zh">News (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102000000 +0700" stop="20260102001000 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102001000 +0700" stop="20260102003000 +0700" channel="France 24 English">
-    <title lang="zh">Reporters Plus</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102003000 +0700" stop="20260102004000 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102004000 +0700" stop="20260102010000 +0700" channel="France 24 English">
-    <title lang="zh">Revisited</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102010000 +0700" stop="20260102013000 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102013000 +0700" stop="20260102020000 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020000 +0700" stop="20260102021500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102021500 +0700" stop="20260102023000 +0700" channel="France 24 English">
-    <title lang="zh">ENTR Long</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102023000 +0700" stop="20260102024500 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102024500 +0700" stop="20260102030000 +0700" channel="France 24 English">
-    <title lang="zh">Eye On Africa (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102030000 +0700" stop="20260102031500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102031500 +0700" stop="20260102033000 +0700" channel="France 24 English">
-    <title lang="zh">Tete A Tete</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102033000 +0700" stop="20260102034500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102034500 +0700" stop="20260102040000 +0700" channel="France 24 English">
-    <title lang="zh">Eye On Africa (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102041500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102041500 +0700" stop="20260102042000 +0700" channel="France 24 English">
-    <title lang="zh">Focus Alone</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102042000 +0700" stop="20260102043000 +0700" channel="France 24 English">
-    <title lang="zh">The Observers</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102043000 +0700" stop="20260102044500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102044500 +0700" stop="20260102050000 +0700" channel="France 24 English">
-    <title lang="zh">French Connections Plus</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102051000 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102051000 +0700" stop="20260102053000 +0700" channel="France 24 English">
-    <title lang="zh">Paris Des Arts</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053000 +0700" stop="20260102054000 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102054000 +0700" stop="20260102055200 +0700" channel="France 24 English">
-    <title lang="zh">ENTR Long</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102055200 +0700" stop="20260102060000 +0700" channel="France 24 English">
-    <title lang="zh">Entre Nous</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102060000 +0700" stop="20260102061500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102061500 +0700" stop="20260102062000 +0700" channel="France 24 English">
-    <title lang="zh">Focus Alone</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102062000 +0700" stop="20260102063000 +0700" channel="France 24 English">
-    <title lang="zh">French Connections</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102063000 +0700" stop="20260102064500 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102064500 +0700" stop="20260102070000 +0700" channel="France 24 English">
-    <title lang="zh">Arts24</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102070000 +0700" stop="20260102071500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102071500 +0700" stop="20260102073000 +0700" channel="France 24 English">
-    <title lang="zh">Tete A Tete</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102073000 +0700" stop="20260102074500 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102074500 +0700" stop="20260102080000 +0700" channel="France 24 English">
-    <title lang="zh">Eye On Africa</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102080000 +0700" stop="20260102081500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102081500 +0700" stop="20260102083000 +0700" channel="France 24 English">
-    <title lang="zh">Reporters</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102083000 +0700" stop="20260102084500 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102084500 +0700" stop="20260102090000 +0700" channel="France 24 English">
-    <title lang="zh">The 51%</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102090000 +0700" stop="20260102091500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102091500 +0700" stop="20260102093000 +0700" channel="France 24 English">
-    <title lang="zh">French Connections Plus</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093000 +0700" stop="20260102094500 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102094500 +0700" stop="20260102100000 +0700" channel="France 24 English">
-    <title lang="zh">France In Focus</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102101500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102101500 +0700" stop="20260102103000 +0700" channel="France 24 English">
-    <title lang="zh">Eye On Africa</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102103000 +0700" stop="20260102104500 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102104500 +0700" stop="20260102110000 +0700" channel="France 24 English">
-    <title lang="zh">Arts24</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102110000 +0700" stop="20260102111500 +0700" channel="France 24 English">
-    <title lang="zh">News (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102111500 +0700" stop="20260102113000 +0700" channel="France 24 English">
-    <title lang="zh">The 51%</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102113000 +0700" stop="20260102114500 +0700" channel="France 24 English">
-    <title lang="zh">Bulletin (L)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102114500 +0700" stop="20260102115000 +0700" channel="France 24 English">
-    <title lang="zh">Focus Alone</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101012000 +0700" stop="20260101030000 +0700" channel="Galaxy">
-    <title lang="zh">Accident Man</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101030000 +0700" stop="20260101050000 +0700" channel="Galaxy">
-    <title lang="zh">The Last Champion</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101050000 +0700" stop="20260101064000 +0700" channel="Galaxy">
-    <title lang="zh">Force Of Execution</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101064000 +0700" stop="20260101082000 +0700" channel="Galaxy">
-    <title lang="zh">The Bird Catcher</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101082000 +0700" stop="20260101100000 +0700" channel="Galaxy">
-    <title lang="zh">Sin City: A Dame To Kill For</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101100000 +0700" stop="20260101121500 +0700" channel="Galaxy">
-    <title lang="zh">A.I. Artificial Intelligence</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101121500 +0700" stop="20260101141500 +0700" channel="Galaxy">
-    <title lang="zh">The Company You Keep</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101141500 +0700" stop="20260101155000 +0700" channel="Galaxy">
-    <title lang="zh">Once Upon A Time At Christmas</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101155000 +0700" stop="20260101172500 +0700" channel="Galaxy">
-    <title lang="zh">Killer Joe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101172500 +0700" stop="20260101190000 +0700" channel="Galaxy">
-    <title lang="zh">Mythica: A Quest For Heroes</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101190000 +0700" stop="20260101203000 +0700" channel="Galaxy">
-    <title lang="zh">Shut In</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101203000 +0700" stop="20260101223500 +0700" channel="Galaxy">
-    <title lang="zh">The Professor And The Madman</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260102000500 +0700" stop="20260102014000 +0700" channel="Galaxy">
     <title lang="zh">The Last Son</title>
     <desc lang="zh"> </desc>
@@ -216538,58 +214326,6 @@
   </programme>
   <programme start="20260102215000 +0700" stop="20260102231500 +0700" channel="Galaxy">
     <title lang="zh">Shaolin Soccer</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101010500 +0700" stop="20260101030500 +0700" channel="Galaxy Premium">
-    <title lang="zh">The Vanishing Of Sidney Hall</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101030500 +0700" stop="20260101043000 +0700" channel="Galaxy Premium">
-    <title lang="zh">Peter Rabbit</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101043000 +0700" stop="20260101062000 +0700" channel="Galaxy Premium">
-    <title lang="zh">Ghostbusters</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101062000 +0700" stop="20260101075000 +0700" channel="Galaxy Premium">
-    <title lang="zh">Freaks Of Nature</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101075000 +0700" stop="20260101092000 +0700" channel="Galaxy Premium">
-    <title lang="zh">Kill 'Em All</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101092000 +0700" stop="20260101105000 +0700" channel="Galaxy Premium">
-    <title lang="zh">A Quiet Place</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101105000 +0700" stop="20260101122500 +0700" channel="Galaxy Premium">
-    <title lang="zh">Monster Hunter</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101122500 +0700" stop="20260101141500 +0700" channel="Galaxy Premium">
-    <title lang="zh">Jumanji: Welcome To The Jungle</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101141500 +0700" stop="20260101160500 +0700" channel="Galaxy Premium">
-    <title lang="zh">Last Vegas</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101160500 +0700" stop="20260101174500 +0700" channel="Galaxy Premium">
-    <title lang="zh">Daddy's Home 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101174500 +0700" stop="20260101191000 +0700" channel="Galaxy Premium">
-    <title lang="zh">Bad Santa 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101191000 +0700" stop="20260101210000 +0700" channel="Galaxy Premium">
-    <title lang="zh">Insidious: Chapter 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101210000 +0700" stop="20260101224500 +0700" channel="Galaxy Premium">
-    <title lang="zh">28 Days Later</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260102002500 +0700" stop="20260102020000 +0700" channel="Galaxy Premium">
@@ -217940,42 +215676,6 @@
     <title lang="zh">RoboCop 3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260102014500 +0700" stop="20260102044500 +0700" channel="HITS MOVIES">
-    <title lang="zh">The Curious Case Of B. Button</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102044500 +0700" stop="20260102073000 +0700" channel="HITS MOVIES">
-    <title lang="zh">Apollo 13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102073000 +0700" stop="20260102093000 +0700" channel="HITS MOVIES">
-    <title lang="zh">RoboCop 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093000 +0700" stop="20260102111500 +0700" channel="HITS MOVIES">
-    <title lang="zh">Stop! Or My Mom Will Shoot</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102111500 +0700" stop="20260102141500 +0700" channel="HITS MOVIES">
-    <title lang="zh">The Curious Case Of B. Button</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102141500 +0700" stop="20260102170000 +0700" channel="HITS MOVIES">
-    <title lang="zh">Apollo 13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102170000 +0700" stop="20260102190000 +0700" channel="HITS MOVIES">
-    <title lang="zh">RoboCop 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102190000 +0700" stop="20260102213000 +0700" channel="HITS MOVIES">
-    <title lang="zh">Fallen</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102213000 +0700" stop="20260102233000 +0700" channel="HITS MOVIES">
-    <title lang="zh">Megamind</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260101021500 +0700" stop="20260101041500 +0700" channel="HITS MOVIES HD">
     <title lang="zh">Stop! Or My Mom Will Shoot</title>
     <desc lang="zh"> </desc>
@@ -218010,42 +215710,6 @@
   </programme>
   <programme start="20260101214500 +0700" stop="20260101234500 +0700" channel="HITS MOVIES HD">
     <title lang="zh">RoboCop 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102014500 +0700" stop="20260102044500 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">The Curious Case Of B. Button</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102044500 +0700" stop="20260102073000 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">Apollo 13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102073000 +0700" stop="20260102093000 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">RoboCop 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093000 +0700" stop="20260102111500 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">Stop! Or My Mom Will Shoot</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102111500 +0700" stop="20260102141500 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">The Curious Case Of B. Button</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102141500 +0700" stop="20260102170000 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">Apollo 13</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102170000 +0700" stop="20260102190000 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">RoboCop 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102190000 +0700" stop="20260102213000 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">Fallen</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102213000 +0700" stop="20260102233000 +0700" channel="HITS MOVIES HD">
-    <title lang="zh">Megamind</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101003000 +0700" stop="20260101013000 +0700" channel="IDX">
@@ -219200,214 +216864,6 @@
     <title lang="zh">iNews Sport (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260101050000 +0700" stop="20260101053000 +0700" channel="JAKTV">
-    <title lang="zh">Senyum Quran</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101053000 +0700" stop="20260101060000 +0700" channel="JAKTV">
-    <title lang="zh">Chess Player</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101060000 +0700" stop="20260101063000 +0700" channel="JAKTV">
-    <title lang="zh">Kara Dan Mayi</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101063000 +0700" stop="20260101070000 +0700" channel="JAKTV">
-    <title lang="zh">Cave And Cavern</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101070000 +0700" stop="20260101080000 +0700" channel="JAKTV">
-    <title lang="zh">Medika Natura</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101080000 +0700" stop="20260101090000 +0700" channel="JAKTV">
-    <title lang="zh">Lejel</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101090000 +0700" stop="20260101100000 +0700" channel="JAKTV">
-    <title lang="zh">Lejel</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101100000 +0700" stop="20260101103000 +0700" channel="JAKTV">
-    <title lang="zh">Creative Talk</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101103000 +0700" stop="20260101110000 +0700" channel="JAKTV">
-    <title lang="zh">Animal Action</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101110000 +0700" stop="20260101113000 +0700" channel="JAKTV">
-    <title lang="zh">Everyday Chinese</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101113000 +0700" stop="20260101120000 +0700" channel="JAKTV">
-    <title lang="zh">Khazanah Kenyalang</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101120000 +0700" stop="20260101130000 +0700" channel="JAKTV">
-    <title lang="zh">Lejel</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101130000 +0700" stop="20260101133000 +0700" channel="JAKTV">
-    <title lang="zh">Inovator</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101133000 +0700" stop="20260101140000 +0700" channel="JAKTV">
-    <title lang="zh">Cooking Time</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101140000 +0700" stop="20260101150000 +0700" channel="JAKTV">
-    <title lang="zh">Medika Natura</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101150000 +0700" stop="20260101160000 +0700" channel="JAKTV">
-    <title lang="zh">Berkah Shop</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101160000 +0700" stop="20260101170000 +0700" channel="JAKTV">
-    <title lang="zh">Berdoa Yuk</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101170000 +0700" stop="20260101180000 +0700" channel="JAKTV">
-    <title lang="zh">Douluo Continent</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101180000 +0700" stop="20260101183000 +0700" channel="JAKTV">
-    <title lang="zh">Muslimpedia</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101183000 +0700" stop="20260101190000 +0700" channel="JAKTV">
-    <title lang="zh">Dunia Kita</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101190000 +0700" stop="20260101193000 +0700" channel="JAKTV">
-    <title lang="zh">Khazanah Kenyalang</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101193000 +0700" stop="20260101200000 +0700" channel="JAKTV">
-    <title lang="zh">Cave And Cavern</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101200000 +0700" stop="20260101210000 +0700" channel="JAKTV">
-    <title lang="zh">Medika Natura</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101210000 +0700" stop="20260101220000 +0700" channel="JAKTV">
-    <title lang="zh">Medika Natura</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101220000 +0700" stop="20260101223000 +0700" channel="JAKTV">
-    <title lang="zh">Mirror Story</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101223000 +0700" stop="20260101230000 +0700" channel="JAKTV">
-    <title lang="zh">Pak Kobra</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102053000 +0700" channel="JAKTV">
-    <title lang="zh">Senyum Quran</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053000 +0700" stop="20260102060000 +0700" channel="JAKTV">
-    <title lang="zh">Chess Player</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102060000 +0700" stop="20260102063000 +0700" channel="JAKTV">
-    <title lang="zh">Kara Dan Mayi</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102063000 +0700" stop="20260102070000 +0700" channel="JAKTV">
-    <title lang="zh">Cave And Cavern</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102070000 +0700" stop="20260102080000 +0700" channel="JAKTV">
-    <title lang="zh">Medika Natura</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102080000 +0700" stop="20260102090000 +0700" channel="JAKTV">
-    <title lang="zh">Lejel</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102090000 +0700" stop="20260102100000 +0700" channel="JAKTV">
-    <title lang="zh">Lejel</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102103000 +0700" channel="JAKTV">
-    <title lang="zh">Creative Talk</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102103000 +0700" stop="20260102110000 +0700" channel="JAKTV">
-    <title lang="zh">Animal Action</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102110000 +0700" stop="20260102113000 +0700" channel="JAKTV">
-    <title lang="zh">Everyday Chinese</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102113000 +0700" stop="20260102120000 +0700" channel="JAKTV">
-    <title lang="zh">Khazanah Kenyalang</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120000 +0700" stop="20260102130000 +0700" channel="JAKTV">
-    <title lang="zh">Lejel</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102130000 +0700" stop="20260102133000 +0700" channel="JAKTV">
-    <title lang="zh">Inovator</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102133000 +0700" stop="20260102140000 +0700" channel="JAKTV">
-    <title lang="zh">Cooking Time</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140000 +0700" stop="20260102150000 +0700" channel="JAKTV">
-    <title lang="zh">Medika Natura</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102150000 +0700" stop="20260102160000 +0700" channel="JAKTV">
-    <title lang="zh">Berkah Shop</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160000 +0700" stop="20260102170000 +0700" channel="JAKTV">
-    <title lang="zh">Berdoa Yuk</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102170000 +0700" stop="20260102180000 +0700" channel="JAKTV">
-    <title lang="zh">Douluo Continent</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180000 +0700" stop="20260102183000 +0700" channel="JAKTV">
-    <title lang="zh">Muslimpedia</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102183000 +0700" stop="20260102190000 +0700" channel="JAKTV">
-    <title lang="zh">Dunia Kita</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102190000 +0700" stop="20260102193000 +0700" channel="JAKTV">
-    <title lang="zh">Khazanah Kenyalang</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102193000 +0700" stop="20260102200000 +0700" channel="JAKTV">
-    <title lang="zh">Cave And Cavern</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200000 +0700" stop="20260102210000 +0700" channel="JAKTV">
-    <title lang="zh">Medika Natura</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102210000 +0700" stop="20260102220000 +0700" channel="JAKTV">
-    <title lang="zh">Medika Natura</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102220000 +0700" stop="20260102223000 +0700" channel="JAKTV">
-    <title lang="zh">Mirror Story</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102223000 +0700" stop="20260102230000 +0700" channel="JAKTV">
-    <title lang="zh">Pak Kobra</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260101003000 +0700" stop="20260101040000 +0700" channel="Kids TV">
     <title lang="zh">SpongeBob SquarePants Spc.</title>
     <desc lang="zh"> </desc>
@@ -220018,74 +217474,6 @@
   </programme>
   <programme start="20260101214000 +0700" stop="20260101234500 +0700" channel="KIX">
     <title lang="zh">Iron Squad W, Ep 11</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102012500 +0700" stop="20260102024500 +0700" channel="KIX">
-    <title lang="zh">Iron Ball, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102024500 +0700" stop="20260102031000 +0700" channel="KIX">
-    <title lang="zh">RUTE: Toughness Redefined</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102031000 +0700" stop="20260102040000 +0700" channel="KIX">
-    <title lang="zh">The Ultimate BROcation, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040000 +0700" stop="20260102054000 +0700" channel="KIX">
-    <title lang="zh">A Sealed Book</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102054000 +0700" stop="20260102074500 +0700" channel="KIX">
-    <title lang="zh">Iron Squad W, Ep 11</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102074500 +0700" stop="20260102092500 +0700" channel="KIX">
-    <title lang="zh">Cruel War</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102092500 +0700" stop="20260102104500 +0700" channel="KIX">
-    <title lang="zh">Iron Ball, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102104500 +0700" stop="20260102111000 +0700" channel="KIX">
-    <title lang="zh">RUTE: Toughness Redefined</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102111000 +0700" stop="20260102120000 +0700" channel="KIX">
-    <title lang="zh">The Ultimate BROcation, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102120000 +0700" stop="20260102134000 +0700" channel="KIX">
-    <title lang="zh">A Sealed Book</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102134000 +0700" stop="20260102154500 +0700" channel="KIX">
-    <title lang="zh">Iron Squad W, Ep 11</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102154500 +0700" stop="20260102172500 +0700" channel="KIX">
-    <title lang="zh">Cruel War</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102172500 +0700" stop="20260102184500 +0700" channel="KIX">
-    <title lang="zh">Iron Ball, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102184500 +0700" stop="20260102191000 +0700" channel="KIX">
-    <title lang="zh">RUTE: Toughness Redefined</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102191000 +0700" stop="20260102200000 +0700" channel="KIX">
-    <title lang="zh">The Ultimate BROcation, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200000 +0700" stop="20260102213000 +0700" channel="KIX">
-    <title lang="zh">Kowloon Walled City</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102213000 +0700" stop="20260102233500 +0700" channel="KIX">
-    <title lang="zh">Iron Squad W, Ep 12</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101000000 +0700" stop="20260101010000 +0700" channel="Kompas TV">
@@ -220917,214 +218305,6 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260102224000 +0700" stop="20260102233500 +0700" channel="Love Nature">
-    <title lang="zh">America's Wild Seasons S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101002500 +0700" stop="20260101012000 +0700" channel="Love Nature HD">
-    <title lang="zh">Alien Abyss S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101012000 +0700" stop="20260101021500 +0700" channel="Love Nature HD">
-    <title lang="zh">Alien Abyss S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101021500 +0700" stop="20260101031000 +0700" channel="Love Nature HD">
-    <title lang="zh">Beasts Of The Big Blue S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101031000 +0700" stop="20260101040500 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101040500 +0700" stop="20260101050000 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101050000 +0700" stop="20260101052500 +0700" channel="Love Nature HD">
-    <title lang="zh">Strange Creatures S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101052500 +0700" stop="20260101062000 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101062000 +0700" stop="20260101071500 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101071500 +0700" stop="20260101081000 +0700" channel="Love Nature HD">
-    <title lang="zh">A Wild Year On Earth S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101081000 +0700" stop="20260101090500 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101090500 +0700" stop="20260101100000 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101100000 +0700" stop="20260101105000 +0700" channel="Love Nature HD">
-    <title lang="zh">America's Wild Seasons S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101105000 +0700" stop="20260101114000 +0700" channel="Love Nature HD">
-    <title lang="zh">Land Of Primates S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101114000 +0700" stop="20260101123500 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101123500 +0700" stop="20260101133000 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101133000 +0700" stop="20260101142500 +0700" channel="Love Nature HD">
-    <title lang="zh">Beasts Of The Big Blue S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101142500 +0700" stop="20260101152000 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101152000 +0700" stop="20260101161500 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101161500 +0700" stop="20260101171000 +0700" channel="Love Nature HD">
-    <title lang="zh">America's Wild Seasons S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101171000 +0700" stop="20260101180500 +0700" channel="Love Nature HD">
-    <title lang="zh">Land Of Primates S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101180500 +0700" stop="20260101190000 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101190000 +0700" stop="20260101195500 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101195500 +0700" stop="20260101205000 +0700" channel="Love Nature HD">
-    <title lang="zh">A Wild Year On Earth S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101205000 +0700" stop="20260101214500 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101214500 +0700" stop="20260101224000 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101224000 +0700" stop="20260101233500 +0700" channel="Love Nature HD">
-    <title lang="zh">America's Wild Seasons S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102002500 +0700" stop="20260102012000 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102012000 +0700" stop="20260102021500 +0700" channel="Love Nature HD">
-    <title lang="zh">Deep Dive North... S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102021500 +0700" stop="20260102031000 +0700" channel="Love Nature HD">
-    <title lang="zh">Beasts Of The Big Blue S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102031000 +0700" stop="20260102040500 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040500 +0700" stop="20260102050000 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102050000 +0700" stop="20260102052500 +0700" channel="Love Nature HD">
-    <title lang="zh">Strange Creatures S1, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102052500 +0700" stop="20260102062000 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102062000 +0700" stop="20260102071500 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102071500 +0700" stop="20260102081000 +0700" channel="Love Nature HD">
-    <title lang="zh">A Wild Year On Earth S1, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102081000 +0700" stop="20260102090500 +0700" channel="Love Nature HD">
-    <title lang="zh">Airborne S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102090500 +0700" stop="20260102100000 +0700" channel="Love Nature HD">
-    <title lang="zh">Airborne S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102100000 +0700" stop="20260102105000 +0700" channel="Love Nature HD">
-    <title lang="zh">America's Wild Seasons S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102105000 +0700" stop="20260102114000 +0700" channel="Love Nature HD">
-    <title lang="zh">Land Of Primates S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102114000 +0700" stop="20260102123500 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102123500 +0700" stop="20260102133000 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102133000 +0700" stop="20260102142500 +0700" channel="Love Nature HD">
-    <title lang="zh">Beasts Of The Big Blue S1, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102142500 +0700" stop="20260102152000 +0700" channel="Love Nature HD">
-    <title lang="zh">Airborne S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102152000 +0700" stop="20260102161500 +0700" channel="Love Nature HD">
-    <title lang="zh">Airborne S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102161500 +0700" stop="20260102171000 +0700" channel="Love Nature HD">
-    <title lang="zh">America's Wild Seasons S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102171000 +0700" stop="20260102180500 +0700" channel="Love Nature HD">
-    <title lang="zh">Land Of Primates S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180500 +0700" stop="20260102190000 +0700" channel="Love Nature HD">
-    <title lang="zh">Orangutan Jungle... S3, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102190000 +0700" stop="20260102195500 +0700" channel="Love Nature HD">
-    <title lang="zh">Wild Pacific Rescue S1, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102195500 +0700" stop="20260102205000 +0700" channel="Love Nature HD">
-    <title lang="zh">A Wild Year On Earth S1, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102205000 +0700" stop="20260102214500 +0700" channel="Love Nature HD">
-    <title lang="zh">Airborne S1, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102214500 +0700" stop="20260102224000 +0700" channel="Love Nature HD">
-    <title lang="zh">Airborne S1, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102224000 +0700" stop="20260102233500 +0700" channel="Love Nature HD">
     <title lang="zh">America's Wild Seasons S1, Ep 3</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -222546,162 +219726,6 @@
   </programme>
   <programme start="20260101210000 +0700" stop="20260101223000 +0700" channel="Music TV HD">
     <title lang="zh">Music Of The Day Raisa</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102000000 +0700" stop="20260102010000 +0700" channel="Music TV HD">
-    <title lang="zh">Music Platinum: Aerosmith</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102010000 +0700" stop="20260102020000 +0700" channel="Music TV HD">
-    <title lang="zh">K-Hits</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020000 +0700" stop="20260102030000 +0700" channel="Music TV HD">
-    <title lang="zh">Bucin (Bursa Music Indonesia)</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102030000 +0700" stop="20260102033000 +0700" channel="Music TV HD">
-    <title lang="zh">Music Files</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102033000 +0700" stop="20260102043000 +0700" channel="Music TV HD">
-    <title lang="zh">Juke Box</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102043000 +0700" stop="20260102053000 +0700" channel="Music TV HD">
-    <title lang="zh">K-Hits</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053000 +0700" stop="20260102071500 +0700" channel="Music TV HD">
-    <title lang="zh">One Hour With</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102071500 +0700" stop="20260102093000 +0700" channel="Music TV HD">
-    <title lang="zh">DMD Panggung Rezeki</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093000 +0700" stop="20260102101500 +0700" channel="Music TV HD">
-    <title lang="zh">The Best Concert 2017</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102101500 +0700" stop="20260102104500 +0700" channel="Music TV HD">
-    <title lang="zh">Music Files</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102104500 +0700" stop="20260102111500 +0700" channel="Music TV HD">
-    <title lang="zh">Terbaik</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102111500 +0700" stop="20260102131500 +0700" channel="Music TV HD">
-    <title lang="zh">DMD Panggung Rezeki</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102131500 +0700" stop="20260102140000 +0700" channel="Music TV HD">
-    <title lang="zh">Godain</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102140000 +0700" stop="20260102143000 +0700" channel="Music TV HD">
-    <title lang="zh">Cidro Asmoro</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102143000 +0700" stop="20260102153000 +0700" channel="Music TV HD">
-    <title lang="zh">Idolove</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102153000 +0700" stop="20260102170000 +0700" channel="Music TV HD">
-    <title lang="zh">Idolyfe</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102170000 +0700" stop="20260102180000 +0700" channel="Music TV HD">
-    <title lang="zh">Godain</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180000 +0700" stop="20260102190000 +0700" channel="Music TV HD">
-    <title lang="zh">K-Hits</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102190000 +0700" stop="20260102200000 +0700" channel="Music TV HD">
-    <title lang="zh">Juke Box</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102200000 +0700" stop="20260102210000 +0700" channel="Music TV HD">
-    <title lang="zh">FWB</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102210000 +0700" stop="20260102223000 +0700" channel="Music TV HD">
-    <title lang="zh">We Love Disney Concert</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101004500 +0700" stop="20260101014500 +0700" channel="Muslim TV">
-    <title lang="zh">Titik Balik: R. Harun &amp; Herfiza</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101014500 +0700" stop="20260101030000 +0700" channel="Muslim TV">
-    <title lang="zh">Cahaya Hati Indonesia Spesial</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101030000 +0700" stop="20260101040000 +0700" channel="Muslim TV">
-    <title lang="zh">Satu Spesial Tahun Baru</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101040000 +0700" stop="20260101050000 +0700" channel="Muslim TV">
-    <title lang="zh">Aisyah Putri: Jilbab In Love</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101050000 +0700" stop="20260101063000 +0700" channel="Muslim TV">
-    <title lang="zh">Hafiz Indonesia 2020</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101063000 +0700" stop="20260101074500 +0700" channel="Muslim TV">
-    <title lang="zh">Siraman Qolbu, Ust. Dhanu</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101074500 +0700" stop="20260101084500 +0700" channel="Muslim TV">
-    <title lang="zh">Kun Anta</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101084500 +0700" stop="20260101111500 +0700" channel="Muslim TV">
-    <title lang="zh">Amanah Wali</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101111500 +0700" stop="20260101121500 +0700" channel="Muslim TV">
-    <title lang="zh">Tangan Di Atas</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101121500 +0700" stop="20260101123000 +0700" channel="Muslim TV">
-    <title lang="zh">Cahaya Tauhid Aa Gym</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101123000 +0700" stop="20260101143000 +0700" channel="Muslim TV">
-    <title lang="zh">Doa Yang Mengancam</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101143000 +0700" stop="20260101153000 +0700" channel="Muslim TV">
-    <title lang="zh">Titik Balik: Mulan Jameelah</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101153000 +0700" stop="20260101160000 +0700" channel="Muslim TV">
-    <title lang="zh">Kajian Bioskop</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101160000 +0700" stop="20260101170000 +0700" channel="Muslim TV">
-    <title lang="zh">Lentera Hati Spesial Tahun Baru</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101170000 +0700" stop="20260101193000 +0700" channel="Muslim TV">
-    <title lang="zh">Amanah Wali</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101193000 +0700" stop="20260101203000 +0700" channel="Muslim TV">
-    <title lang="zh">Aisyah Putri: Jilbab In Love</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101203000 +0700" stop="20260101220000 +0700" channel="Muslim TV">
-    <title lang="zh">Cahaya Hati Indonesia Doa...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101220000 +0700" stop="20260101230000 +0700" channel="Muslim TV">
-    <title lang="zh">Catatan Hati Seorang Istri</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260102001500 +0700" stop="20260102023000 +0700" channel="Muslim TV">
@@ -225040,98 +222064,6 @@
     <title lang="zh">Running Man, Ep 762</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260101004700 +0700" stop="20260101032000 +0700" channel="ORIGINALS">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101032000 +0700" stop="20260101050000 +0700" channel="ORIGINALS">
-    <title lang="zh">On The Line</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101050000 +0700" stop="20260101063900 +0700" channel="ORIGINALS">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101063900 +0700" stop="20260101084400 +0700" channel="ORIGINALS">
-    <title lang="zh">Dark Places</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101084400 +0700" stop="20260101103000 +0700" channel="ORIGINALS">
-    <title lang="zh">Gold</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101103000 +0700" stop="20260101124200 +0700" channel="ORIGINALS">
-    <title lang="zh">Logan Lucky</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101124200 +0700" stop="20260101141200 +0700" channel="ORIGINALS">
-    <title lang="zh">A Snow Globe Christmas</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101141200 +0700" stop="20260101155400 +0700" channel="ORIGINALS">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101155400 +0700" stop="20260101173600 +0700" channel="ORIGINALS">
-    <title lang="zh">Playing God</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101173600 +0700" stop="20260101195100 +0700" channel="ORIGINALS">
-    <title lang="zh">Gold</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101195100 +0700" stop="20260101214900 +0700" channel="ORIGINALS">
-    <title lang="zh">Hollywoo</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260101214900 +0700" stop="20260101232100 +0700" channel="ORIGINALS">
-    <title lang="zh">Ride Like A Girl</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102010300 +0700" stop="20260102024400 +0700" channel="ORIGINALS">
-    <title lang="zh">Lymelife</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102024400 +0700" stop="20260102061100 +0700" channel="ORIGINALS">
-    <title lang="zh">Gold</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102061100 +0700" stop="20260102074300 +0700" channel="ORIGINALS">
-    <title lang="zh">Noel</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102074300 +0700" stop="20260102093600 +0700" channel="ORIGINALS">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102093600 +0700" stop="20260102112400 +0700" channel="ORIGINALS">
-    <title lang="zh">Boy Wonder</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102112400 +0700" stop="20260102134300 +0700" channel="ORIGINALS">
-    <title lang="zh">Gold</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102134300 +0700" stop="20260102152600 +0700" channel="ORIGINALS">
-    <title lang="zh">Aardvark</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102152600 +0700" stop="20260102165100 +0700" channel="ORIGINALS">
-    <title lang="zh">The Christmas Miracle Of...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102165100 +0700" stop="20260102185800 +0700" channel="ORIGINALS">
-    <title lang="zh">Platinum</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102185800 +0700" stop="20260102204500 +0700" channel="ORIGINALS">
-    <title lang="zh">Never Grow Old</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102204500 +0700" stop="20260102225300 +0700" channel="ORIGINALS">
-    <title lang="zh">Gold</title>
-    <desc lang="zh"> </desc>
-  </programme>
   <programme start="20260101004700 +0700" stop="20260101032000 +0700" channel="ORIGINALS HD">
     <title lang="zh">Platinum</title>
     <desc lang="zh"> </desc>
@@ -226242,54 +223174,6 @@
   </programme>
   <programme start="20260101210000 +0700" stop="20260101223000 +0700" channel="Rock Entertainment">
     <title lang="zh">Tin Man, Pt 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102000000 +0700" stop="20260102020500 +0700" channel="Rock Entertainment">
-    <title lang="zh">The Karate Kid</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102020500 +0700" stop="20260102040500 +0700" channel="Rock Entertainment">
-    <title lang="zh">Hitch</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102040500 +0700" stop="20260102053500 +0700" channel="Rock Entertainment">
-    <title lang="zh">Smurfs: The Lost Village</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102053500 +0700" stop="20260102074000 +0700" channel="Rock Entertainment">
-    <title lang="zh">Jurassic Park</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102074000 +0700" stop="20260102092000 +0700" channel="Rock Entertainment">
-    <title lang="zh">Zathura: A Space Adventure</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102092000 +0700" stop="20260102111000 +0700" channel="Rock Entertainment">
-    <title lang="zh">The Karate Kid, Pt 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102111000 +0700" stop="20260102124000 +0700" channel="Rock Entertainment">
-    <title lang="zh">Twin Dragons</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102124000 +0700" stop="20260102142500 +0700" channel="Rock Entertainment">
-    <title lang="zh">Pixels</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102142500 +0700" stop="20260102160500 +0700" channel="Rock Entertainment">
-    <title lang="zh">Made Of Honor</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102160500 +0700" stop="20260102180500 +0700" channel="Rock Entertainment">
-    <title lang="zh">Miami Vice</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102180500 +0700" stop="20260102201000 +0700" channel="Rock Entertainment">
-    <title lang="zh">Jurassic Park</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260102201000 +0700" stop="20260102222000 +0700" channel="Rock Entertainment">
-    <title lang="zh">The Legend Of Zorro</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260101010000 +0700" stop="20260101031500 +0700" channel="SCTV">
