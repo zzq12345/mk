@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260101203000 +0800" stop="20260101222500 +0800" channel="mbc max">
-    <title lang="en">Bleed for This</title>
-    <desc lang="en">The true story of how World Champion Boxer Vinny Pazienzamade a stunning comeback after a near-fatal car accident left him almost paralyzed.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260101222500 +0800" stop="20260101230000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
@@ -215,5 +209,11 @@
     <desc lang="en">After years of growing apart, two high-class teenage girlsrevive their friendship again, and try to figure out a way to solve their problems together no matter what they have to do.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260104080000 +0800" stop="20260104100000 +0800" channel="mbc max">
+    <title lang="en">Chaos</title>
+    <desc lang="en">Two cops partner up in order to uncover how a group of bankrobbers managed to escape from a bank during a heist that apparently has other motives than just stealing money.</desc>
+    <category lang="en">Movie
+               (2005)</category>
   </programme>
 </tv>
