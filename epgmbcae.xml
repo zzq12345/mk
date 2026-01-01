@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260102120000 +0800" stop="20260102140000 +0800" channel="mbc max">
-    <title lang="en">How Do You Know</title>
-    <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260102140000 +0800" stop="20260102160000 +0800" channel="mbc max">
     <title lang="en">Life as We Know It</title>
     <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
@@ -221,5 +215,11 @@
     <desc lang="en">The life of an unemployed family living in a poor apartmentchanges completely when the son becomes the English tutor for the daughter of a wealthy family. As the lives of the wealthy Park family and the destitute Kim family intersect, what follows is a web of deceit and disturbing violence.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260105000000 +0800" stop="20260105013000 +0800" channel="mbc max">
+    <title lang="en">All I See Is You</title>
+    <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
