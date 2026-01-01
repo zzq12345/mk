@@ -1911,7 +1911,11 @@
   <title lang="zh">Profil Mualim Muda Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260102131000 +0800" stop="20260102140000 +0800" channel="Astro_Oasis">
+<programme start="20260102131000 +0800" stop="20260102131300 +0800" channel="Astro_Oasis">
+  <title lang="zh">Kata-kata Mutiara Ep108</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260102131300 +0800" stop="20260102140000 +0800" channel="Astro_Oasis">
   <title lang="zh">(L) Solat Jumaat</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -2167,8 +2171,12 @@
   <title lang="zh">Alif Tanya Mufti Ep06</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260103213000 +0800" stop="20260103230000 +0800" channel="Astro_Oasis">
+<programme start="20260103213000 +0800" stop="20260103220000 +0800" channel="Astro_Oasis">
   <title lang="zh">Rockstar Ke Masjid Ep02</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103220000 +0800" stop="20260103230000 +0800" channel="Astro_Oasis">
+  <title lang="zh">Syamsul Debat : Dakwah Santai Ep20</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260102010000 +0800" stop="20260102020200 +0800" channel="Astro_Citra">
@@ -3279,11 +3287,11 @@
   <title lang="zh">Binddii Ep26</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260102000000 +0800" stop="20260102030000 +0800" channel="Z_Cinema_HD">
+<programme start="20260102000000 +0800" stop="20260102025200 +0800" channel="Z_Cinema_HD">
   <title lang="zh">Gadar 2</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260102030000 +0800" stop="20260102060000 +0800" channel="Z_Cinema_HD">
+<programme start="20260102025200 +0800" stop="20260102060000 +0800" channel="Z_Cinema_HD">
   <title lang="zh">Dil Dhadakne Do</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -3309,6 +3317,30 @@
 </programme>
 <programme start="20260103000000 +0800" stop="20260103030000 +0800" channel="Z_Cinema_HD">
   <title lang="zh">Jawan</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103030000 +0800" stop="20260103060000 +0800" channel="Z_Cinema_HD">
+  <title lang="zh">Don 2</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103060000 +0800" stop="20260103090000 +0800" channel="Z_Cinema_HD">
+  <title lang="zh">Veere Di Wedding</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103090000 +0800" stop="20260103120000 +0800" channel="Z_Cinema_HD">
+  <title lang="zh">Satyaprem Ki Katha</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103120000 +0800" stop="20260103150000 +0800" channel="Z_Cinema_HD">
+  <title lang="zh">Vivah</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150000 +0800" stop="20260103180000 +0800" channel="Z_Cinema_HD">
+  <title lang="zh">Happy Bhag Jayegi</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103180000 +0800" stop="20260103210000 +0800" channel="Z_Cinema_HD">
+  <title lang="zh">Sooryavanshi</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260102000000 +0800" stop="20260102003000 +0800" channel="TV_Sarawak">
@@ -5379,12 +5411,24 @@
   <title lang="zh">Minsara Kanna</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260103120000 +0800" stop="20260103150000 +0800" channel="Astro_Vellithirai_HD">
+<programme start="20260103120000 +0800" stop="20260103143000 +0800" channel="Astro_Vellithirai_HD">
   <title lang="zh">Agilan</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260103150000 +0800" stop="20260103180000 +0800" channel="Astro_Vellithirai_HD">
+<programme start="20260103143000 +0800" stop="20260103150000 +0800" channel="Astro_Vellithirai_HD">
+  <title lang="zh">Celebrity Platform Ep316</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150000 +0800" stop="20260103170000 +0800" channel="Astro_Vellithirai_HD">
   <title lang="zh">Ippadiku Kadhal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103170000 +0800" stop="20260103173000 +0800" channel="Astro_Vellithirai_HD">
+  <title lang="zh">Hit O Hit Ep302</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103173000 +0800" stop="20260103180000 +0800" channel="Astro_Vellithirai_HD">
+  <title lang="zh">Star Hits Ep385</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260103180000 +0800" stop="20260103210000 +0800" channel="Astro_Vellithirai_HD">
@@ -6201,6 +6245,150 @@
 </programme>
 <programme start="20260103051000 +0800" stop="20260103054000 +0800" channel="Sun_News">
   <title lang="zh">News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103054000 +0800" stop="20260103061000 +0800" channel="Sun_News">
+  <title lang="zh">News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103061000 +0800" stop="20260103064000 +0800" channel="Sun_News">
+  <title lang="zh">News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103064000 +0800" stop="20260103071000 +0800" channel="Sun_News">
+  <title lang="zh">News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103071000 +0800" stop="20260103074000 +0800" channel="Sun_News">
+  <title lang="zh">News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103074000 +0800" stop="20260103081000 +0800" channel="Sun_News">
+  <title lang="zh">News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103081000 +0800" stop="20260103084000 +0800" channel="Sun_News">
+  <title lang="zh">News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103084000 +0800" stop="20260103091000 +0800" channel="Sun_News">
+  <title lang="zh">6 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103091000 +0800" stop="20260103094000 +0800" channel="Sun_News">
+  <title lang="zh">6 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103094000 +0800" stop="20260103101000 +0800" channel="Sun_News">
+  <title lang="zh">7 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103101000 +0800" stop="20260103104000 +0800" channel="Sun_News">
+  <title lang="zh">100/100 Speed News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103104000 +0800" stop="20260103111000 +0800" channel="Sun_News">
+  <title lang="zh">8 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103111000 +0800" stop="20260103114000 +0800" channel="Sun_News">
+  <title lang="zh">100/100 Speed News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103114000 +0800" stop="20260103121000 +0800" channel="Sun_News">
+  <title lang="zh">9 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103121000 +0800" stop="20260103124000 +0800" channel="Sun_News">
+  <title lang="zh">9 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103124000 +0800" stop="20260103131000 +0800" channel="Sun_News">
+  <title lang="zh">10 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103131000 +0800" stop="20260103134000 +0800" channel="Sun_News">
+  <title lang="zh">10 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103134000 +0800" stop="20260103141000 +0800" channel="Sun_News">
+  <title lang="zh">11 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103141000 +0800" stop="20260103144000 +0800" channel="Sun_News">
+  <title lang="zh">11 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103144000 +0800" stop="20260103151000 +0800" channel="Sun_News">
+  <title lang="zh">12 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103151000 +0800" stop="20260103154000 +0800" channel="Sun_News">
+  <title lang="zh">12 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103154000 +0800" stop="20260103161000 +0800" channel="Sun_News">
+  <title lang="zh">1 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103161000 +0800" stop="20260103164000 +0800" channel="Sun_News">
+  <title lang="zh">100/100 Speed News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103164000 +0800" stop="20260103171000 +0800" channel="Sun_News">
+  <title lang="zh">FIR- Kutramum Pinnaniyum</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103171000 +0800" stop="20260103174000 +0800" channel="Sun_News">
+  <title lang="zh">Current Affairs</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103174000 +0800" stop="20260103181000 +0800" channel="Sun_News">
+  <title lang="zh">3 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103181000 +0800" stop="20260103184000 +0800" channel="Sun_News">
+  <title lang="zh">3 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103184000 +0800" stop="20260103191000 +0800" channel="Sun_News">
+  <title lang="zh">4 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103191000 +0800" stop="20260103194000 +0800" channel="Sun_News">
+  <title lang="zh">100/100 Speed News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103194000 +0800" stop="20260103201000 +0800" channel="Sun_News">
+  <title lang="zh">5 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103201000 +0800" stop="20260103204000 +0800" channel="Sun_News">
+  <title lang="zh">5 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103204000 +0800" stop="20260103211000 +0800" channel="Sun_News">
+  <title lang="zh">6 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103211000 +0800" stop="20260103214000 +0800" channel="Sun_News">
+  <title lang="zh">100/100 Speed News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103214000 +0800" stop="20260103221000 +0800" channel="Sun_News">
+  <title lang="zh">Kelvi Kalam</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103221000 +0800" stop="20260103224000 +0800" channel="Sun_News">
+  <title lang="zh">Kelvi Kalam</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103224000 +0800" stop="20260103231000 +0800" channel="Sun_News">
+  <title lang="zh">8 Mani Seithigal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103231000 +0800" stop="20260103234000 +0800" channel="Sun_News">
+  <title lang="zh">8 Mani Seithigal</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260102013000 +0800" stop="20260102043000 +0800" channel="KTV">
@@ -9171,6 +9359,78 @@
   <title lang="zh">Entertainment News</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20260103050000 +0800" stop="20260103060000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103060000 +0800" stop="20260103070000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103070000 +0800" stop="20260103080000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103080000 +0800" stop="20260103090000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103090000 +0800" stop="20260103100000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103100000 +0800" stop="20260103110000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103110000 +0800" stop="20260103120000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103120000 +0800" stop="20260103130000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103130000 +0800" stop="20260103140000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103140000 +0800" stop="20260103150000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150000 +0800" stop="20260103160000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103160000 +0800" stop="20260103170000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103170000 +0800" stop="20260103180000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103180000 +0800" stop="20260103190000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103190000 +0800" stop="20260103200000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103200000 +0800" stop="20260103210000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103210000 +0800" stop="20260103220000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103220000 +0800" stop="20260103230000 +0800" channel="TVB_Entertainment_News_HD">
+  <title lang="zh">Entertainment News</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20260102001000 +0800" stop="20260102011000 +0800" channel="TVB_Xing_He_HD">
   <title lang="zh">Gods of Honour Ep34</title>
   <desc lang="zh"> </desc>
@@ -11259,6 +11519,14 @@
   <title lang="zh">The Woman Who Swallowed the Sun Ep89</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20260103195000 +0800" stop="20260103203500 +0800" channel="ONE_HD">
+  <title lang="zh">The Woman Who Swallowed the Sun Ep90</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103203500 +0800" stop="20260103220500 +0800" channel="ONE_HD">
+  <title lang="zh">The Red Sleeve Ep05</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20260102003500 +0800" stop="20260102015000 +0800" channel="tvN_HD">
   <title lang="zh">Love Me Ep03</title>
   <desc lang="zh"> </desc>
@@ -13023,6 +13291,42 @@
   <title lang="zh">On the Line</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20260103055500 +0800" stop="20260103080000 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">Rebound</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103080000 +0800" stop="20260103095000 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">Usury Academy</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103095000 +0800" stop="20260103115000 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">Marriage Blue</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103115000 +0800" stop="20260103135000 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">6/45: Lucky Lotto</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103135000 +0800" stop="20260103154500 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">Midnight Runners</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103154500 +0800" stop="20260103175500 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">Train to Busan</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103175500 +0800" stop="20260103200000 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">I, the Executioner</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103200000 +0800" stop="20260103220500 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">The Swindlers</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103220500 +0800" stop="20260103235000 +0800" channel="tvN_Movies_HD">
+  <title lang="zh">Once Again</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20260102000000 +0800" stop="20260102003000 +0800" channel="Astro_Awani_HD">
   <title lang="zh">(L) Buletin Awani</title>
   <desc lang="zh"> </desc>
@@ -13371,8 +13675,12 @@
   <title lang="zh">Buletin Awani</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260103140000 +0800" stop="20260103150000 +0800" channel="Astro_Awani_HD">
+<programme start="20260103140000 +0800" stop="20260103140100 +0800" channel="Astro_Awani_HD">
   <title lang="zh">AWANI Ringkas</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103140100 +0800" stop="20260103150000 +0800" channel="Astro_Awani_HD">
+  <title lang="zh">Dialog Poket Rakyat</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260103150000 +0800" stop="20260103150100 +0800" channel="Astro_Awani_HD">
@@ -13428,15 +13736,19 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260103191500 +0800" stop="20260103194500 +0800" channel="Astro_Awani_HD">
-  <title lang="zh">No information available Ep260</title>
+  <title lang="zh">Fokus Minggu Depan</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260103194500 +0800" stop="20260103200000 +0800" channel="Astro_Awani_HD">
   <title lang="zh">(L) AWANI 7:45</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260103200000 +0800" stop="20260103220000 +0800" channel="Astro_Awani_HD">
+<programme start="20260103200000 +0800" stop="20260103203000 +0800" channel="Astro_Awani_HD">
   <title lang="zh">(L) AWANI 7:45/ Sinar AWANI</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103203000 +0800" stop="20260103220000 +0800" channel="Astro_Awani_HD">
+  <title lang="zh">(L) Buletin Awani Khas- I Lite You</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260103220000 +0800" stop="20260103223000 +0800" channel="Astro_Awani_HD">
@@ -24683,8 +24995,12 @@
   <title lang="zh">Entertainment Tonight Ep11559</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260103071000 +0800" stop="20260103091000 +0800" channel="HITS_NOW">
+<programme start="20260103071000 +0800" stop="20260103081000 +0800" channel="HITS_NOW">
   <title lang="zh">Project Runway S21 Ep05</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103081000 +0800" stop="20260103091000 +0800" channel="HITS_NOW">
+  <title lang="zh">Hell&apos;s Kitchen S24 Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260103091000 +0800" stop="20260103101000 +0800" channel="HITS_NOW">
@@ -24707,8 +25023,12 @@
   <title lang="zh">Project Runway S21 Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260103134000 +0800" stop="20260103154000 +0800" channel="HITS_NOW">
+<programme start="20260103134000 +0800" stop="20260103144000 +0800" channel="HITS_NOW">
   <title lang="zh">Fear Thy Neighbor S8 Ep05</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103144000 +0800" stop="20260103154000 +0800" channel="HITS_NOW">
+  <title lang="zh">Hell&apos;s Kitchen S24 Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260103154000 +0800" stop="20260103164000 +0800" channel="HITS_NOW">
@@ -28471,6 +28791,54 @@
   <title lang="zh">Vendee Globe 24/25 HL&apos;s</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20260103053000 +0800" stop="20260103073000 +0800" channel="W-Sport">
+  <title lang="zh">Serie a Women 25/26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103073000 +0800" stop="20260103080000 +0800" channel="W-Sport">
+  <title lang="zh">Heroines</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103080000 +0800" stop="20260103083000 +0800" channel="W-Sport">
+  <title lang="zh">MP Series 25</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103083000 +0800" stop="20260103103000 +0800" channel="W-Sport">
+  <title lang="zh">Damallsvenskan 25</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103103000 +0800" stop="20260103123000 +0800" channel="W-Sport">
+  <title lang="zh">USL 25/26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103123000 +0800" stop="20260103140000 +0800" channel="W-Sport">
+  <title lang="zh">Netball Super League 25</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103140000 +0800" stop="20260103160000 +0800" channel="W-Sport">
+  <title lang="zh">Frauen Bundesliga 25/26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103160000 +0800" stop="20260103180000 +0800" channel="W-Sport">
+  <title lang="zh">Serie a Women 25/26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103180000 +0800" stop="20260103183000 +0800" channel="W-Sport">
+  <title lang="zh">Spartan Race 25</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103183000 +0800" stop="20260103203000 +0800" channel="W-Sport">
+  <title lang="zh">Barclays WSL 25/26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103203000 +0800" stop="20260103210000 +0800" channel="W-Sport">
+  <title lang="zh">Heroines</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103210000 +0800" stop="20260103230000 +0800" channel="W-Sport">
+  <title lang="zh">Damallsvenskan 25</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20260102051200 +0800" stop="20260102060000 +0800" channel="Astro_Golf">
   <title lang="zh">Legends Tour Highlights 2025</title>
   <desc lang="zh"> </desc>
@@ -28803,6 +29171,34 @@
   <title lang="zh">Club Hitz</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20260103030000 +0800" stop="20260103090000 +0800" channel="HITZ_FM">
+  <title lang="zh">Back to Back Hitz</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103090000 +0800" stop="20260103100000 +0800" channel="HITZ_FM">
+  <title lang="zh">Hitz Stripped</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103100000 +0800" stop="20260103120000 +0800" channel="HITZ_FM">
+  <title lang="zh">Hitz Weekend Brunch</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103120000 +0800" stop="20260103150000 +0800" channel="HITZ_FM">
+  <title lang="zh">The Hitz Weekend</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150000 +0800" stop="20260103170000 +0800" channel="HITZ_FM">
+  <title lang="zh">The Hitz RIM Chart Show</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103170000 +0800" stop="20260103200000 +0800" channel="HITZ_FM">
+  <title lang="zh">The Hitz Weekend</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103200000 +0800" stop="20260103220000 +0800" channel="HITZ_FM">
+  <title lang="zh">Hitz, Your Playlist</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20260102000000 +0800" stop="20260102060000 +0800" channel="MY_FM">
   <title lang="zh">MY FM Hao Wan</title>
   <desc lang="zh"> </desc>
@@ -28821,6 +29217,62 @@
 </programme>
 <programme start="20260102160000 +0800" stop="20260102200000 +0800" channel="MY_FM">
   <title lang="zh">MY FM Evening Drive with Jack Yap &amp; Yoon</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103000000 +0800" stop="20260103070000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Hao Wan !</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103070000 +0800" stop="20260103080000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM What Do You Know? (Full Version Repeat) with Jack Yap &amp; Yoon</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103080000 +0800" stop="20260103090000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Honestly Speak (Full Version Repeat) with Jack Yap &amp; Yoon</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103090000 +0800" stop="20260103100000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM I Want to Test (Full Version Repeat) with Jack Lim, Mei Yan and Joe</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103100000 +0800" stop="20260103110000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Did You Listen To It with Jie Ying</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103110000 +0800" stop="20260103130000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Music 20 Chart Show with Joe and Maq</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103130000 +0800" stop="20260103140000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Bing Yun Talk</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103140000 +0800" stop="20260103150000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Super Nice (Full Version Repeat) with Jack Lim, Mei Yan and Joe</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150000 +0800" stop="20260103160000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Drama Time with Yi Wen</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103160000 +0800" stop="20260103170000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Global Hits with Daniel</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103170000 +0800" stop="20260103180000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Let&apos;s Hunt with Aaron Bosco</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103180000 +0800" stop="20260103190000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Offcial Malaysia Chart - Chinese with Jie Ying</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103190000 +0800" stop="20260103210000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Phei Yong &amp; Tong Tong Let You Know</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103210000 +0800" stop="20260103220000 +0800" channel="MY_FM">
+  <title lang="zh">MY FM Hip Hop Hour with Maq</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260102000000 +0800" stop="20260102060000 +0800" channel="LITE_FM">
@@ -28873,6 +29325,38 @@
 </programme>
 <programme start="20260102150000 +0800" stop="20260102200000 +0800" channel="MIX_FM">
   <title lang="zh">Mix Drive with Hafiz &amp; Guibo</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103000000 +0800" stop="20260103080000 +0800" channel="MIX_FM">
+  <title lang="zh">Mix Today&apos;s Best Music</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103080000 +0800" stop="20260103120000 +0800" channel="MIX_FM">
+  <title lang="zh">Mix Brunch with Vit</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103120000 +0800" stop="20260103160000 +0800" channel="MIX_FM">
+  <title lang="zh">Mix Weekend With Zoey</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103160000 +0800" stop="20260103170000 +0800" channel="MIX_FM">
+  <title lang="zh">Mix Today&apos;s Best Music</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103170000 +0800" stop="20260103180000 +0800" channel="MIX_FM">
+  <title lang="zh">Mix Today&apos;s Best Music</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103180000 +0800" stop="20260103190000 +0800" channel="MIX_FM">
+  <title lang="zh">Mix Today&apos;s Best Music</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103190000 +0800" stop="20260103200000 +0800" channel="MIX_FM">
+  <title lang="zh">MIX Session With Victor</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103200000 +0800" stop="20260103210000 +0800" channel="MIX_FM">
+  <title lang="zh">R&amp;B Hour With Guibo</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260102000000 +0800" stop="20260102060000 +0800" channel="SINAR_FM">
@@ -29147,6 +29631,34 @@
   <title lang="zh">CARTA HITS GEGAR</title>
   <desc lang="zh"> </desc>
 </programme>
+<programme start="20260103000000 +0800" stop="20260103060000 +0800" channel="THR_GEGAR">
+  <title lang="zh">GEGAR Pilihan #1 Pantai Timur</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103060000 +0800" stop="20260103100000 +0800" channel="THR_GEGAR">
+  <title lang="zh">TERBAIK BRO PAGI GEGAR</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103100000 +0800" stop="20260103110000 +0800" channel="THR_GEGAR">
+  <title lang="zh">LAGU BARU @SELEKSI GEGAR</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103110000 +0800" stop="20260103140000 +0800" channel="THR_GEGAR">
+  <title lang="zh">SELEKSI GEGAR</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103140000 +0800" stop="20260103190000 +0800" channel="THR_GEGAR">
+  <title lang="zh">SELEKSI GEGAR</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103190000 +0800" stop="20260103200000 +0800" channel="THR_GEGAR">
+  <title lang="zh">SENJA PANTAI TIMUR</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103200000 +0800" stop="20260103220000 +0800" channel="THR_GEGAR">
+  <title lang="zh">90-AN GEGAR</title>
+  <desc lang="zh"> </desc>
+</programme>
 <programme start="20260102000000 +0800" stop="20260102060000 +0800" channel="INDIA_BEAT">
   <title lang="zh">SYOK INDIA BEAT : All Hindi Hits</title>
   <desc lang="zh"> </desc>
@@ -29192,6 +29704,22 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260102150000 +0800" stop="20260102200000 +0800" channel="JAZZ">
+  <title lang="zh">SYOK JAZZ : Jazz for every mood</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103000000 +0800" stop="20260103060000 +0800" channel="JAZZ">
+  <title lang="zh">SYOK JAZZ : Jazz for every mood</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103060000 +0800" stop="20260103100000 +0800" channel="JAZZ">
+  <title lang="zh">SYOK JAZZ : Jazz for every mood</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103100000 +0800" stop="20260103150000 +0800" channel="JAZZ">
+  <title lang="zh">SYOK JAZZ : Jazz for every mood</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150000 +0800" stop="20260103200000 +0800" channel="JAZZ">
   <title lang="zh">SYOK JAZZ : Jazz for every mood</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -29272,6 +29800,22 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260102150000 +0800" stop="20260102200000 +0800" channel="KENYALANG">
+  <title lang="zh">SYOK KENYALANG : Made In Sarawak</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103000000 +0800" stop="20260103060000 +0800" channel="KENYALANG">
+  <title lang="zh">SYOK KENYALANG : Made In Sarawak</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103060000 +0800" stop="20260103100000 +0800" channel="KENYALANG">
+  <title lang="zh">SYOK KENYALANG : Made In Sarawak</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103100000 +0800" stop="20260103150000 +0800" channel="KENYALANG">
+  <title lang="zh">SYOK KENYALANG : Made In Sarawak</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150000 +0800" stop="20260103200000 +0800" channel="KENYALANG">
   <title lang="zh">SYOK KENYALANG : Made In Sarawak</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -30233,6 +30777,202 @@
 </programme>
 <programme start="20260103043000 +0800" stop="20260103050000 +0800" channel="MINNAL_FM">
   <title lang="zh">Udhaya Kaalam</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103050000 +0800" stop="20260103060000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Udhaya Kaalam</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103060000 +0800" stop="20260103060300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103060300 +0800" stop="20260103063000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Then Thuli</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103063000 +0800" stop="20260103070000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Kaalai Kathir</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103070000 +0800" stop="20260103071000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103071000 +0800" stop="20260103080000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Kaalai Kathir</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103080000 +0800" stop="20260103080300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103080300 +0800" stop="20260103090000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Kaalai Kathir</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103090000 +0800" stop="20260103091000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103091000 +0800" stop="20260103100000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Hello Minnal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103100000 +0800" stop="20260103100300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103100300 +0800" stop="20260103101500 +0800" channel="MINNAL_FM">
+  <title lang="zh">Ullaasam Urchagam</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103101500 +0800" stop="20260103103000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Nyana Vaasal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103103000 +0800" stop="20260103110000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Ullaasam Urchagam</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103110000 +0800" stop="20260103110500 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103110500 +0800" stop="20260103120000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Ullaasam Urchagam</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103120000 +0800" stop="20260103120300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103120300 +0800" stop="20260103130000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Mannin Natchathiram</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103130000 +0800" stop="20260103131000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103131000 +0800" stop="20260103140000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Mannin Natchathiram</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103140000 +0800" stop="20260103140300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103140300 +0800" stop="20260103150000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Ennanggal Vannanggal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150000 +0800" stop="20260103150300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103150300 +0800" stop="20260103153000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Ennanggal Vannanggal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103153000 +0800" stop="20260103154000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Ennanggal Vannanggal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103154000 +0800" stop="20260103160000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Suara 34 - Pelancongan</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103160000 +0800" stop="20260103160300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103160300 +0800" stop="20260103161400 +0800" channel="MINNAL_FM">
+  <title lang="zh">Suara 34 - Pelancongan</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103161400 +0800" stop="20260103163000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Ennanggal Vannanggal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103163000 +0800" stop="20260103170000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Ennanggal Vannanggal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103170000 +0800" stop="20260103171000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103171000 +0800" stop="20260103180000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Aanantha Thenkaatru</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103180000 +0800" stop="20260103180300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103180300 +0800" stop="20260103190000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Aanantha Thenkaatru</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103190000 +0800" stop="20260103190500 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103190500 +0800" stop="20260103191500 +0800" channel="MINNAL_FM">
+  <title lang="zh">Aanantha Thenkaatru</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103191500 +0800" stop="20260103193000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Cerpen</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103193000 +0800" stop="20260103200000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Aanantha Thenkaatru</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103200000 +0800" stop="20260103200300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103200300 +0800" stop="20260103210000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Natchathira Megham</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103210000 +0800" stop="20260103211000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103211000 +0800" stop="20260103211500 +0800" channel="MINNAL_FM">
+  <title lang="zh">Natchathira Megham</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103211500 +0800" stop="20260103213000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Islamiya Nadagam</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103213000 +0800" stop="20260103220000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Natchathira Megham</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103220000 +0800" stop="20260103220300 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103220300 +0800" stop="20260103220500 +0800" channel="MINNAL_FM">
+  <title lang="zh">Natchathira Megham</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103220500 +0800" stop="20260103230000 +0800" channel="MINNAL_FM">
+  <title lang="zh">Natchathira Megham</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103230000 +0800" stop="20260103230500 +0800" channel="MINNAL_FM">
+  <title lang="zh">Berita</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260103230500 +0800" stop="20260103235500 +0800" channel="MINNAL_FM">
+  <title lang="zh">Malarum Ninaivugal</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260102000000 +0800" stop="20260102060000 +0800" channel="AI_FM">
