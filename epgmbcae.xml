@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260102200000 +0800" stop="20260102220000 +0800" channel="mbc max">
-    <title lang="en">The Family</title>
-    <desc lang="en">An infamous mafia family, the Manzonis, headed by GiovanniManzoni (Robert De Niro) is relocated to Normandy, France under the witness protection program. Written and directed by the man who made "The Fifth Element" and "Léon: The Professional."</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260102220000 +0800" stop="20260102233000 +0800" channel="mbc max">
     <title lang="en">The Hustle</title>
     <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
@@ -222,11 +216,11 @@
     <category lang="en">Movie
                (2020)</category>
   </programme>
-  <programme start="20260102210000 +0800" stop="20260102222200 +0800" channel="mbc 2">
-    <title lang="en">Flipped</title>
-    <desc lang="en">Juli Baker believes in three things: the holiness of trees,the eggs in her backyard, and that one day she will kiss Bryce Loski. She has been in love with him since the second grade, but he doesn't seem to know that she exists, until the eighth grade, where things begin to change at a time where Juli has started to lose hope.</desc>
+  <programme start="20260105080000 +0800" stop="20260105100000 +0800" channel="mbc max">
+    <title lang="en">Just Go with It</title>
+    <desc lang="en">Plastic surgeon Danny Maccabee fakes being married in orderto enjoy future dates. He fabricates a web of lies with his assistant as she poses as his soon-to-be-ex-wife, but that apparently gets him into more trouble and pushes away his crush.</desc>
     <category lang="en">Movie
-               (2010)</category>
+               (2011)</category>
   </programme>
   <programme start="20260102230000 +0800" stop="20260103010000 +0800" channel="mbc 2">
     <title lang="en">New Year's Eve</title>
@@ -431,5 +425,11 @@
     <desc lang="en">Paul Blart works as a security guard at the New Jerseymall. For many years, Paul was applying to work as a policeman, but he always failed the physical test because of his diabetes. One day, an armed gang robbed the mall,  and held hostages inside, including his daughter. Because of Paul's sense of security, he becomes the police's eye inside the mall, and the only one able to stand to them.</desc>
     <category lang="en">Movie
                (2009)</category>
+  </programme>
+  <programme start="20260105073000 +0800" stop="20260105091000 +0800" channel="mbc 2">
+    <title lang="en">Get Him to the Greek</title>
+    <desc lang="en">British rock star Aldous Snow lives in a whirlwind ofalcohol and drugs. When Aaron interns at a record company, his manager assigns him to get Aldous from London to Los Angeles for a concert. When he reaches London and Aldous, he finds himself in chaos and unable to get him to the concert, while Aldous postpones their trip numerous times.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
 </tv>
