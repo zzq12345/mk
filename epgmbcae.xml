@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260102010000 +0800" stop="20260102030000 +0800" channel="mbc max">
-    <title lang="en">Life as We Know It</title>
-    <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
-  <programme start="20260102030000 +0800" stop="20260102033000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260102033000 +0800" stop="20260102053000 +0800" channel="mbc max">
     <title lang="en">How Do You Know</title>
     <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
@@ -216,11 +204,11 @@
     <category lang="en">Movie
                (2020)</category>
   </programme>
-  <programme start="20260102010000 +0800" stop="20260102030000 +0800" channel="mbc 2">
-    <title lang="en">Kill the Messenger</title>
-    <desc lang="en">The reporter Gary Webb's life becomes threatened , when heuncovers a CIA inside plot that involves arming Contra rebels in Nicaragua and trafficking cocaine into California.</desc>
+  <programme start="20260104120000 +0800" stop="20260104140000 +0800" channel="mbc max">
+    <title lang="en">Mamma Mia!</title>
+    <desc lang="en">After she discovers that her father might be one of threeold lovers of her mother's, a bride-to-be decides to secretly invite them to her wedding, in an attempt to find out who is her real father.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2008)</category>
   </programme>
   <programme start="20260102030000 +0800" stop="20260102045500 +0800" channel="mbc 2">
     <title lang="en">Edge of Darkness</title>
@@ -437,5 +425,17 @@
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
     <category lang="en">Program
                (2010)</category>
+  </programme>
+  <programme start="20260104113000 +0800" stop="20260104130000 +0800" channel="mbc 2">
+    <title lang="en">Seized</title>
+    <desc lang="en">When his son gets kidnapped by a mysterious entity, formerspecial forces agent Niro finds himself embroiled in a dangerous situation, as he must take out three dangerous crime syndicates in order to get his son back.</desc>
+    <category lang="en">Movie
+               (2020)</category>
+  </programme>
+  <programme start="20260104130000 +0800" stop="20260104133000 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
+    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
+    <category lang="en">Program
+               (2012)</category>
   </programme>
 </tv>
