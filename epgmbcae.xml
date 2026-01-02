@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260102220000 +0800" stop="20260102233000 +0800" channel="mbc max">
-    <title lang="en">The Hustle</title>
-    <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260102233000 +0800" stop="20260103010000 +0800" channel="mbc max">
     <title lang="en">One for the Money</title>
     <desc lang="en">Stephanie Plum (Katherine Heigl) loses her job, and workswith her cousin Finney as a bounty hunter . Her first case is to find officer Joe Morelli (Jason O'Mara), who's accused of murder but she faces obstacles because of his skills . During her search, she believes that he's innocent and tries to prove it.</desc>
@@ -430,6 +424,12 @@
     <title lang="en">Get Him to the Greek</title>
     <desc lang="en">British rock star Aldous Snow lives in a whirlwind ofalcohol and drugs. When Aaron interns at a record company, his manager assigns him to get Aldous from London to Los Angeles for a concert. When he reaches London and Aldous, he finds himself in chaos and unable to get him to the concert, while Aldous postpones their trip numerous times.</desc>
     <category lang="en">Movie
+               (2010)</category>
+  </programme>
+  <programme start="20260105091000 +0800" stop="20260105093000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
                (2010)</category>
   </programme>
 </tv>
