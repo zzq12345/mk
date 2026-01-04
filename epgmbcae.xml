@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260105120000 +0800" stop="20260105140000 +0800" channel="mbc max">
-    <title lang="en">Mamma Mia!</title>
-    <desc lang="en">After she discovers that her father might be one of threeold lovers of her mother's, a bride-to-be decides to secretly invite them to her wedding, in an attempt to find out who is her real father.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
   <programme start="20260105140000 +0800" stop="20260105160000 +0800" channel="mbc max">
     <title lang="en">Mamma Mia! Here We Go Again</title>
     <desc lang="en">As Sophie finds out more about her mother's past five yearsafter the events of Mamma Mia! (2008), she gets ready for the hotel Bella Donna's grand reopening.</desc>
@@ -232,11 +226,13 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260105133000 +0800" stop="20260105150000 +0800" channel="mbc 2">
-    <title lang="en">Escape Plan: The Extractors</title>
-    <desc lang="en">When the daughter of a Hong Kong tech mogul goes missing,thinking that it’s for ransom, Breslin and his team are hired to find her. They discover that the man behind it is the deranged son of one of their former enemies who also kidnapped Breslin’s girlfriend and has her locked in a massive prison known as Devil's Station.</desc>
+  <programme start="20260108000000 +0800" stop="20260108013000 +0800" channel="mbc max">
+    <title lang="en">The Darkest Hour</title>
+    <desc lang="en">Aliens are finally here !!!
+
+In Moscow, 5 teenagers findthemselves forced to work together in order to survive after an alien race has invaded Earth for power and minerals. The Aliens' secret is then revealed and teenagers are now capable of destroying them.</desc>
     <category lang="en">Movie
-               (2019)</category>
+               (2011)</category>
   </programme>
   <programme start="20260105153000 +0800" stop="20260105180500 +0800" channel="mbc 2">
     <title lang="en">Blade Runner 2049</title>
@@ -435,5 +431,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">When a celebrated war hero is defeated by the leader of avicious race of alien invaders that attack Earth every six years, an ancient order of jiu-jitsu fighters must find a way to save mankind from destruction.</desc>
     <category lang="en">Movie
                (2020)</category>
+  </programme>
+  <programme start="20260107233500 +0800" stop="20260108010500 +0800" channel="mbc 2">
+    <title lang="en">Hancock</title>
+    <desc lang="en">A super hero works for civil security in Los Angeles, anddue to his recklessness causes millions of dollars worth of damages which he then tries to make up for by improving his image.</desc>
+    <category lang="en">Movie
+               (2008)</category>
+  </programme>
+  <programme start="20260108010500 +0800" stop="20260108023500 +0800" channel="mbc 2">
+    <title lang="en">Turbo</title>
+    <desc lang="en">Due to circumstances, a driver named Jose must leave Idukkiand travel to Chennai, where his close friend Jerry lives. The two encounter a lot of interesting and surprising circumstances there.</desc>
+    <category lang="en">Movie
+               (2024)</category>
   </programme>
 </tv>
