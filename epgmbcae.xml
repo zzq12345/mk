@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260105100000 +0800" stop="20260105113000 +0800" channel="mbc max">
-    <title lang="en">I Used to Go Here</title>
-    <desc lang="en">Right after her new novel is published, the 35-year-old Kateis invited by her professor to speak at her alma matter, but little did Kate know that her journey will get her involved with a group of college students.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
   <programme start="20260105120000 +0800" stop="20260105140000 +0800" channel="mbc max">
     <title lang="en">Mamma Mia!</title>
     <desc lang="en">After she discovers that her father might be one of threeold lovers of her mother's, a bride-to-be decides to secretly invite them to her wedding, in an attempt to find out who is her real father.</desc>
@@ -226,17 +220,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2022)</category>
   </programme>
-  <programme start="20260105093000 +0800" stop="20260105110000 +0800" channel="mbc 2">
-    <title lang="en">Salt</title>
-    <desc lang="en">As a CIA agent, Evelyn Salt vowed to do her duty and protectthe country, but her loyalty is tested when she's accused by being a spy by a Russian defector. She uses all her skills and experience as a secret agent to escape arrest.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
-  <programme start="20260105110000 +0800" stop="20260105113000 +0800" channel="mbc 2">
+  <programme start="20260107210000 +0800" stop="20260107213000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
     <category lang="en">Program
                (2010)</category>
+  </programme>
+  <programme start="20260107213000 +0800" stop="20260107233000 +0800" channel="mbc max">
+    <title lang="en">Passengers</title>
+    <desc lang="en">On a spacecraft that is supposed to carry people to a newplanet to colonize it, things go wrong when a technical problem affects the sleeping rooms, prompting two passengers to wake up before the scheduled time for their awakening.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
   <programme start="20260105113000 +0800" stop="20260105130000 +0800" channel="mbc 2">
     <title lang="en">Seized</title>
@@ -447,5 +441,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">Being the first human being born on Mars, Gardner Elliotreads a lot about Earth, his mother's planet. After 16 years, he is eager to visit Earth to get to experience its wonders himself, hoping to learn how he came into being. Meanwhile, he strikes an online friendship with a girl on Earth.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260107213000 +0800" stop="20260107231000 +0800" channel="mbc 2">
+    <title lang="en">Jiu Jitsu</title>
+    <desc lang="en">When a celebrated war hero is defeated by the leader of avicious race of alien invaders that attack Earth every six years, an ancient order of jiu-jitsu fighters must find a way to save mankind from destruction.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
 </tv>
