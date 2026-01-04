@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260104033000 +0800" stop="20260104053000 +0800" channel="mbc max">
-    <title lang="en">Lion</title>
-    <desc lang="en">A five-year-old Indian boy gets lost at the railroads whilewaiting for his elder brother. He drifts thousands of miles away from Calcutta, looking for his brother, and gets sent to Australia for adoption. However, he decides 25 years later to return to Calcutta to find his real mother and brother.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20260104053000 +0800" stop="20260104060000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
-  <programme start="20260104060000 +0800" stop="20260104073000 +0800" channel="mbc max">
-    <title lang="en">The Doorman</title>
-    <desc lang="en">After returning from combat, the former soldier Ali works asa doorman in an apartment building in NYC. But things take a turn, when a gang of thieves attack the building in order to retrieve a valuable artwork, as she becomes the only one standing in their way.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
   <programme start="20260104080000 +0800" stop="20260104100000 +0800" channel="mbc max">
     <title lang="en">Just Go with It</title>
     <desc lang="en">Plastic surgeon Danny Maccabee fakes being married in orderto enjoy future dates. He fabricates a web of lies with his assistant as she poses as his soon-to-be-ex-wife, but that apparently gets him into more trouble and pushes away his crush.</desc>
@@ -232,17 +214,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260104030000 +0800" stop="20260104050000 +0800" channel="mbc 2">
-    <title lang="en">Jurassic Park</title>
-    <desc lang="en">Businessman John Hammond opens a wildlife park containingcloned dinosaurs, but when a power failure causes the dinosaurs to roam freely, a group of visitors struggle to escape the lethal creatures.</desc>
+  <programme start="20260106160000 +0800" stop="20260106180000 +0800" channel="mbc max">
+    <title lang="en">T2 Trainspotting</title>
+    <desc lang="en">Twenty years later, Mark returns to Scotland to find hisfriends Spud, Sick Boy and Begbie waiting for him. As well as reuniting with his friends, he also has to deal with regret, love, friendship and vengeance.</desc>
     <category lang="en">Movie
-               (1993)</category>
-  </programme>
-  <programme start="20260104053000 +0800" stop="20260104070500 +0800" channel="mbc 2">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">Paul Blart works as a security guard at the New Jerseymall. For many years, Paul was applying to work as a policeman, but he always failed the physical test because of his diabetes. One day, an armed gang robbed the mall,  and held hostages inside, including his daughter. Because of Paul's sense of security, he becomes the police's eye inside the mall, and the only one able to stand to them.</desc>
-    <category lang="en">Movie
-               (2009)</category>
+               (2017)</category>
   </programme>
   <programme start="20260104073000 +0800" stop="20260104091000 +0800" channel="mbc 2">
     <title lang="en">Get Him to the Greek</title>
@@ -453,5 +429,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">Based on a true story, the film tells the story of a SpecialForces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260106143000 +0800" stop="20260106150000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260106150000 +0800" stop="20260106173000 +0800" channel="mbc 2">
+    <title lang="en">The Revenant</title>
+    <desc lang="en">In the 19th century America, deep in the uncharted Americanwilderness, hunter Hugh Glass is severely injured and left for dead. With sheer will as his only weapon, Glass must navigate a hostile environment, a brutal winter, and warring Native American tribes in a relentless quest to survive.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
