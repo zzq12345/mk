@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260105200000 +0800" stop="20260105220000 +0800" channel="mbc max">
-    <title lang="en">John Wick: Chapter 2</title>
-    <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260105220000 +0800" stop="20260105234000 +0800" channel="mbc max">
     <title lang="en">The Doorman</title>
     <desc lang="en">After returning from combat, the former soldier Ali works asa doorman in an apartment building in NYC. But things take a turn, when a gang of thieves attack the building in order to retrieve a valuable artwork, as she becomes the only one standing in their way.</desc>
@@ -234,18 +228,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260105193000 +0800" stop="20260105210100 +0800" channel="mbc 2">
-    <title lang="en">Mr. Right</title>
-    <desc lang="en">When she starts a relationship with a seemingly perfect man,the last thing Martha expects is for him to turn out to be an assassin. When the past comes back to haunt her new beau, Martha must make a choice as she is thrust into a manic world.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20260105210100 +0800" stop="20260105223900 +0800" channel="mbc 2">
-    <title lang="en">The Art of Self-Defense</title>
-    <desc lang="en">In an attempt to learn how to defend himself after an attackleft him feeling helpless, Casey joins a local karate studio and quickly attracts the attention of the instructor, Sensei, earning himself an invitation to the elusive night classes where a shocking discovery awaits him.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260105230500 +0800" stop="20260106004000 +0800" channel="mbc 2">
     <title lang="en">Get Him to the Greek</title>
     <desc lang="en">British rock star Aldous Snow lives in a whirlwind ofalcohol and drugs. When Aaron interns at a record company, his manager assigns him to get Aldous from London to Los Angeles for a concert. When he reaches London and Aldous, he finds himself in chaos and unable to get him to the concert, while Aldous postpones their trip numerous times.</desc>
@@ -449,5 +431,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">Paul Conroy is US truck driver who works as a contractor inIraq. He finds himself buried alive in a wooden coffin, with a cellphone that proved to be useless , he's forced to rely on himself to survive.</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260108063500 +0800" stop="20260108084000 +0800" channel="mbc 2">
+    <title lang="en">Rescue Dawn</title>
+    <desc lang="en">A German/American plane goes out on a secret mission, butcrashes in a forest during the Laos bombing of 1965. The plane's crew are taken as hostages and tortured by Vietcong forces. US Navy Pilot successfully plans an escape method for the hostages, but they face plenty of unforeseen events.</desc>
+    <category lang="en">Movie
+               (2006)</category>
   </programme>
 </tv>
