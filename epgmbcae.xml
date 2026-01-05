@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260106100000 +0800" stop="20260106113000 +0800" channel="mbc max">
-    <title lang="en">Nerve</title>
-    <desc lang="en">The film revolves around a high school senior, who becomescompletely immersed in an online game of Truth or Dare, where her every move is manipulated by  an anonymous community of "watchers.".</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260106120000 +0800" stop="20260106135800 +0800" channel="mbc max">
     <title lang="en">Passengers</title>
     <desc lang="en">On a spacecraft that is supposed to carry people to a newplanet to colonize it, things go wrong when a technical problem affects the sleeping rooms, prompting two passengers to wake up before the scheduled time for their awakening.</desc>
@@ -232,11 +226,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2017)</category>
   </programme>
-  <programme start="20260106103000 +0800" stop="20260106123000 +0800" channel="mbc 2">
-    <title lang="en">The Maze Runner</title>
-    <desc lang="en">When Thomas wakes up in the lift, the only thing he canremember is his first name. When the lift's doors open, Thomas finds himself surrounded by kids who welcome him to the Glade, a large maze enclosed by stone walls, and just like Thomas, the Gladers don't know why or how they got to the Glade, and they all must escape the deadly-creatures-infested place.</desc>
+  <programme start="20260108213000 +0800" stop="20260108220000 +0800" channel="mbc max">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260108220000 +0800" stop="20260109000000 +0800" channel="mbc max">
+    <title lang="en">T2 Trainspotting</title>
+    <desc lang="en">Twenty years later, Mark returns to Scotland to find hisfriends Spud, Sick Boy and Begbie waiting for him. As well as reuniting with his friends, he also has to deal with regret, love, friendship and vengeance.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2017)</category>
   </programme>
   <programme start="20260106123000 +0800" stop="20260106143500 +0800" channel="mbc 2">
     <title lang="en">Maze Runner: The Scorch Trials</title>
@@ -429,5 +429,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">When her father vanishes after putting their family home onthe line, the teenage Ree is left with no choice but to go looking for him in the hopes of saving her family from a grim fate.</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260108211000 +0800" stop="20260108233500 +0800" channel="mbc 2">
+    <title lang="en">The Revenant</title>
+    <desc lang="en">In the 19th century America, deep in the uncharted Americanwilderness, hunter Hugh Glass is severely injured and left for dead. With sheer will as his only weapon, Glass must navigate a hostile environment, a brutal winter, and warring Native American tribes in a relentless quest to survive.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
