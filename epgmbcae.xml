@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260105173500 +0800" stop="20260105180300 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
-  <programme start="20260105180300 +0800" stop="20260105200000 +0800" channel="mbc max">
-    <title lang="en">3 Days to Kill</title>
-    <desc lang="en">International spy Ethan Renner (Kevin Costner) decides toleave his risky life behind to build a stronger relationship with his daughter and wife. but Ethan has to complete one final mission before he retires , to catch the most dangerous terrorist in the world, while taking care of his daughter.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260105200000 +0800" stop="20260105220000 +0800" channel="mbc max">
     <title lang="en">John Wick: Chapter 2</title>
     <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
@@ -228,17 +216,23 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260105153000 +0800" stop="20260105180500 +0800" channel="mbc 2">
-    <title lang="en">Blade Runner 2049</title>
-    <desc lang="en">After learning of a long-kept secret, young Blade Runner Ksets out to find the thirty-year-missing former Blade Runner Rick Deckard.</desc>
-    <category lang="en">Movie
-               (2017)</category>
+  <programme start="20260108033000 +0800" stop="20260108040000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
-  <programme start="20260105180500 +0800" stop="20260105193000 +0800" channel="mbc 2">
-    <title lang="en">Dreamkatcher</title>
-    <desc lang="en">Plagued by bad dreams, young Josh resorts to desperatemeasures as he steals a talisman from a neighbor, unaware that he has just made himself the target of a vicious entity. With Josh slowly getting possessed and pushed to kill his new step-mother, can his father and step-mother save him and themselves?</desc>
+  <programme start="20260108040000 +0800" stop="20260108053000 +0800" channel="mbc max">
+    <title lang="en">Charlie St. Cloud</title>
+    <desc lang="en">After his brother Sam dies in a car crash, Charlie is ableto see him as he works in a cemetery, but when he falls for Tess he becomes torn between losing his new love or loses seeing his brother.</desc>
     <category lang="en">Movie
-               (2020)</category>
+               (2010)</category>
+  </programme>
+  <programme start="20260108060000 +0800" stop="20260108080000 +0800" channel="mbc max">
+    <title lang="en">A Million Little Pieces</title>
+    <desc lang="en">A young writer who reached rock bottom because of his drugaddiction checks himself into a treatment facility in Minnesota to recover.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
   <programme start="20260105193000 +0800" stop="20260105210100 +0800" channel="mbc 2">
     <title lang="en">Mr. Right</title>
@@ -443,5 +437,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">Based on a true story, the film tells the story of a SpecialForces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260108043500 +0800" stop="20260108050000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
+  </programme>
+  <programme start="20260108050000 +0800" stop="20260108063500 +0800" channel="mbc 2">
+    <title lang="en">Buried</title>
+    <desc lang="en">Paul Conroy is US truck driver who works as a contractor inIraq. He finds himself buried alive in a wooden coffin, with a cellphone that proved to be useless , he's forced to rely on himself to survive.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
 </tv>
