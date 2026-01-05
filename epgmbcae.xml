@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260105013100 +0800" stop="20260105032900 +0800" channel="mbc max">
-    <title lang="en">Just Go with It</title>
-    <desc lang="en">Plastic surgeon Danny Maccabee fakes being married in orderto enjoy future dates. He fabricates a web of lies with his assistant as she poses as his soon-to-be-ex-wife, but that apparently gets him into more trouble and pushes away his crush.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260105032900 +0800" stop="20260105040000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
@@ -443,5 +437,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">The evil master mind Gru lives in a mansion with his smallarmy of minions, as he prepares for his most daring heist, he comes across three orphaned girls who disrupt his wicked plans.</desc>
     <category lang="en">Movie - Cartoon
                (2010)</category>
+  </programme>
+  <programme start="20260107130000 +0800" stop="20260107144000 +0800" channel="mbc 2">
+    <title lang="en">Penguins of Madagascar</title>
+    <desc lang="en">The four penguins Skipper, Kowalski, Rico, and Private, teamup with a secret organization led by Agent Classified to foil the evil Dr. Octavius Brine's plot to destroy the world.</desc>
+    <category lang="en">Movie - Cartoon
+               (2014)</category>
   </programme>
 </tv>
