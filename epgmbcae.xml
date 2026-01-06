@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260107140000 +0800" stop="20260107160000 +0800" channel="mbc max">
-    <title lang="en">A Million Little Pieces</title>
-    <desc lang="en">A young writer who reached rock bottom because of his drugaddiction checks himself into a treatment facility in Minnesota to recover.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260107160000 +0800" stop="20260107180000 +0800" channel="mbc max">
     <title lang="en">T2 Trainspotting</title>
     <desc lang="en">Twenty years later, Mark returns to Scotland to find hisfriends Spud, Sick Boy and Begbie waiting for him. As well as reuniting with his friends, he also has to deal with regret, love, friendship and vengeance.</desc>
@@ -211,6 +205,12 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A group of troublemakers are forced to attend night schoolin the hope that they'll pass the GED exam to finish high school.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260110013000 +0800" stop="20260110033000 +0800" channel="mbc max">
+    <title lang="en">Grown Ups 2</title>
+    <desc lang="en">Lenny (Adam Sandler) decides to take his family back to hishometown where he grew up with his friends, and throughout the film, Lenny and his friends believe their kids are still children, but they eventually accept the idea that they have grown up and learn from them.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
   <programme start="20260107150000 +0800" stop="20260107173000 +0800" channel="mbc 2">
     <title lang="en">The Revenant</title>
