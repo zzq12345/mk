@@ -1809,10 +1809,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260106013000 +0800" stop="20260106033000 +0800" channel="mbc max">
-    <title lang="en">Battleship</title>
-    <desc lang="en">In the Hawaiian Islands, an international naval engage anintense battle against an alien species known as "The Regents". The aliens come to planet Earth to build a power source in the ocean</desc>
-  </programme>
   <programme start="20260106033000 +0800" stop="20260106040000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
@@ -2083,9 +2079,9 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="en">The Hunger Games: Catching Fire</title>
     <desc lang="en">The repressed Panem is on the verge of rebellion as 74thHunger Game victors Katniss and Peeta visit the districts on their victory tour. The two have become symbols of defiance against the Capitol, and for that they will be targeted by the despotic President Snow and his regime.</desc>
   </programme>
-  <programme start="20260106023000 +0800" stop="20260106033000 +0800" channel="mbc action">
-    <title lang="en">Sword Art Online</title>
-    <desc lang="en">Kirito finds himself trapped, along with thousands of players, inside new virtual MMORPG games, where he decides to take on the challenge of escaping this world. However, he faces great dangers and powerful enemies on his adventure-filled journey. | Type: Series (2012) | Rating: 5.8/10</desc>
+  <programme start="20260108130000 +0800" stop="20260108150000 +0800" channel="mbc 2">
+    <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
+    <desc lang="en">Katniss finds herself in District 13 after she literallyshatters the game forever, faced with a decision that could sway the fate of her nation. Under the leadership of President Coin and the advice of her trusted friends, Katniss reluctantly becomes the symbol of mass revolution against the autocratic Capitol.</desc>
   </programme>
   <programme start="20260106033000 +0800" stop="20260106050000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -2313,6 +2309,10 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260108120000 +0800" stop="20260108123000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260108123000 +0800" stop="20260108140000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
   </programme>
   <programme start="20260105060000 +0800" stop="20260105063300 +0800" channel="第一财经">
@@ -66587,10 +66587,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="中视">
-    <title lang="zh">旧金山美容院</title>
-    <desc lang="zh">三个家庭牵扯出的商战、家庭和情感纠葛的故事。</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106092800 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
@@ -67103,14 +67099,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106085300 +0000" channel="华视">
-    <title lang="zh">华视在地新闻</title>
-    <desc lang="zh">以台语发音，提供观众朋友不一样的国内外新闻。</desc>
-  </programme>
-  <programme start="20260106085300 +0000" stop="20260106085800 +0000" channel="华视">
-    <title lang="zh">华视生活广场</title>
-    <desc lang="zh">华视生活广场。</desc>
-  </programme>
   <programme start="20260106085800 +0000" stop="20260106105800 +0000" channel="华视">
     <title lang="zh">华视新闻晚报</title>
     <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
@@ -67574,10 +67562,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111050000 +0000" stop="20260111070000 +0000" channel="华视">
     <title lang="zh">天才冲冲冲</title>
     <desc lang="zh">本节目由徐乃麟、曾国城主持，带领最青春洋溢、最具笑果的主持群，与来宾一起挑战精心设计的游戏内容，包括上梁不正下梁歪、ABC大对决、BINGO大连线、谁是老鼠屎等单元，考验现场来宾的机智反应。</desc>
-  </programme>
-  <programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="好消息2台">
-    <title lang="zh">空中圣经学院</title>
-    <desc lang="zh">由GOOD TV和中华福音神学院共同制作推出。这是历史性的一刻，神的话语要透过卫星传送至全世界，实现平信徒神学教育之梦。</desc>
   </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="好消息2台">
     <title lang="zh">大卫鲍森讲座</title>
@@ -68474,22 +68458,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="好消息2台">
     <title lang="zh">相约在会幕</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="好消息">
-    <title lang="zh">爱＋好医生</title>
-    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
-  </programme>
-  <programme start="20260106090000 +0000" stop="20260106093000 +0000" channel="好消息">
-    <title lang="zh">大家说英语</title>
-    <desc lang="zh">将最受欢迎的美语生活会话杂志《大家说英语》内容制作成电视教学节目，教学轻松活泼，以生活实用会话为单元主题，是新闻局推荐的优质节目。不仅能帮助您轻松开口说英语，更提供许多实用的英语语汇与技巧，让您用简单的单字，就能说一口漂亮英语。</desc>
-  </programme>
-  <programme start="20260106093000 +0000" stop="20260106093700 +0000" channel="好消息">
-    <title lang="zh">莉莉的异想世界</title>
-    <desc lang="zh">好消息电视台推出的教育节目。</desc>
-  </programme>
-  <programme start="20260106093700 +0000" stop="20260106094500 +0000" channel="好消息">
-    <title lang="zh">莉莉的异想世界</title>
-    <desc lang="zh">好消息电视台推出的教育节目。</desc>
   </programme>
   <programme start="20260106094500 +0000" stop="20260106100000 +0000" channel="好消息">
     <title lang="zh">牦牛侦探夏洛克</title>
@@ -69391,10 +69359,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">与天使有约</title>
     <desc lang="zh">天使莫妮卡（萝玛道尼）被派下凡帮助遇上人生十字路口的凡人解决困难，而黛丝（黛拉丽丝）则是辅导她的上级天使，总是能适时指引莫妮卡做出正确判断；加上常与两人合作、身兼"死亡天使"之职的安德鲁（约翰戴），这三位天使虽无法完满解决所有人的问题，却总能为人们带来希望…</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">旗旗号巡洋舰</title>
-    <desc lang="zh">一天晚上，皮皮鲁收到旗旗号模型的召唤，进入到了玩具世界。为了回家，必须寻找传说中的童童港并搜集碎片，在途中，收获了五名船员伙伴，皮皮鲁要如何和他们一起完成冒险呢？</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="ELTV生活英语台">
     <title lang="zh">PORORO</title>
     <desc lang="zh">一只充满好奇心的小企鹅-Pororo，因为喜欢尝试新的事物，且用尽方法了解它们，进而惹来许多小麻烦，但在尝试新事物的过程中也为大家带来无限欢乐。</desc>
@@ -69930,10 +69894,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="ELTV生活英语台">
     <title lang="zh">快乐DoReMi</title>
     <desc lang="zh">学习英文的方法千百种，练唱英文歌曲是最轻松愉快的方式之一。本清单节目集结了动听的英文儿歌MV，适合父母带著孩子一起欣赏，在唱唱跳跳的过程中，增进亲子情感，也配合动人旋律，学习英文。</desc>
-  </programme>
-  <programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="龙华卡通台">
-    <title lang="zh">酷奇银河游骑队</title>
-    <desc lang="zh">聪明仓鼠吉克、勇敢松鼠露比、大力狗狗阿力，还有疾速猫咪闪电，组成了宇宙最酷的超级英雄组合！他们帮助其他星球的居民解决问题，保护银河系，并对抗邪恶又神秘的铁鹰怪！</desc>
   </programme>
   <programme start="20260106090000 +0000" stop="20260106093000 +0000" channel="龙华卡通台">
     <title lang="zh">月月、阿奇与小墨：森林保卫队GO</title>
@@ -70887,10 +70847,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">呱张爆音团</title>
     <desc lang="zh">12岁的柯阿瑞和他的三个好朋友一起在车库里成立了一支乐队，但是很快的他们就发现他们的乐队很烂 - 真的很烂。问题不在他们的音乐或是百变造型，而是因为柯阿瑞写不出歌词。他就是想不出酷炫的歌词嘛，直到......柯阿瑞找到了他姊姊翠娜的日记。</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="亚洲旅游台">
     <title lang="zh">效廉出发吧</title>
     <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
@@ -71366,10 +71322,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="亚洲旅游台">
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
-  </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
   </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="Smart知识台">
     <title lang="zh">全民星攻略</title>
@@ -71847,10 +71799,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">台湾60赫兹</title>
     <desc lang="zh">邀请您一起了解台湾各产业发展的脉络，发现台湾的另一种美！</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="龙华戏剧台">
-    <title lang="zh">三国</title>
-    <desc lang="zh">距今一千八百多年前，汉帝国衰败积重难返，长安城内董卓荒淫无度、滥杀无辜，引起举国义愤，而以曹操为首歼灭董卓，造就了群雄割据，至赤壁之战后三国鼎立，再到司马氏篡魏，天下归晋为止，这个英雄辈出、波澜壮阔的大传奇时代终于结束。而其中的英雄人物和动人故事，仍被传颂至今。</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="龙华戏剧台">
     <title lang="zh">三国</title>
     <desc lang="zh">距今一千八百多年前，汉帝国衰败积重难返，长安城内董卓荒淫无度、滥杀无辜，引起举国义愤，而以曹操为首歼灭董卓，造就了群雄割据，至赤壁之战后三国鼎立，再到司马氏篡魏，天下归晋为止，这个英雄辈出、波澜壮阔的大传奇时代终于结束。而其中的英雄人物和动人故事，仍被传颂至今。</desc>
@@ -72326,10 +72274,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="龙华戏剧台">
     <title lang="zh">沉香</title>
     <desc lang="zh">金处长等对京和实施监控，千代却从众人眼皮底下脱逃，最终也未向周秀章透露真实身份。吴春潮跟四川人摊牌，以为可以重金了结，不料对方完全视其为小开，结束了他性命后，帮主位置即刻被取代。水根潜伏到叶公挟持二少爷的船上，叶公死到临头仍盛气凌人地与水根谈什么命价，被疯狂的二少爷用绳索勒死…</desc>
-  </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="台湾戏剧台">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
   </programme>
   <programme start="20260106090000 +0000" stop="20260106093000 +0000" channel="台湾戏剧台">
     <title lang="zh">亲戚不计较</title>
@@ -72810,10 +72754,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="台湾戏剧台">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期间，包拯（金超群）升任开封府府尹执掌京畿，刚直耿介、铁面无私、明察秋毫、断案如神，百姓爱戴敬仰尊称为“包青天”。并有公孙策（范鸿轩）与南侠展昭（何家劲）一文一武两员大将，使得包拯屡破奇案屡建奇功。</desc>
-  </programme>
-  <programme start="20260106084000 +0000" stop="20260106092000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260106092000 +0000" stop="20260106100000 +0000" channel="东森购物1台">
     <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
@@ -73527,10 +73467,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="龙华偶像台">
-    <title lang="zh">圣水洞之吻</title>
-    <desc lang="zh">▲ MZ 世代浪漫奇幻剧-意外之吻展开爱恋 ▲灵魂交换「以下犯上」展开爆笑罗曼史 ▲朴所罗门化身暖男实习生爱上傲娇上司 【年下实习生朴所罗门恋年上工作狂金智恩，吻出姊弟恋化学效应！！】</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="龙华偶像台">
     <title lang="zh">圣水洞之吻</title>
     <desc lang="zh">▲ MZ 世代浪漫奇幻剧-意外之吻展开爱恋 ▲灵魂交换「以下犯上」展开爆笑罗曼史 ▲朴所罗门化身暖男实习生爱上傲娇上司 【年下实习生朴所罗门恋年上工作狂金智恩，吻出姊弟恋化学效应！！】</desc>
@@ -74019,10 +73955,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">向风而行</title>
     <desc lang="zh">严苛自律的飞行部副部长顾南亭，因公司改制意外，与性格飒爽不羁的程霄成上下属和师徒关系。面对接踵而来的突发航空事件，两人携手绝地反击、化险为夷。在解决危机的途中，追求稳定秩序的顾南亭时常被不按常理出牌的程霄打乱计划，但仍然能够解决困难，并在过程中克服著自身的缺点，一路朝着梦想前进。</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="龙华日韩台">
-    <title lang="zh">追踪者</title>
-    <desc lang="zh">聪明又狠毒、宛如恶棍般的黄东柱（任时完）曾是检查大企业贿赂的优秀会计师，却忽然辞去工作，转任大韩民国国税厅税收五局一组的组长，剧情讲述他如何带领拥有「垃圾回收场」之称的税收五局，来搅乱国税厅内部斗争的一池春水。</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="龙华日韩台">
     <title lang="zh">欧若拉公主</title>
     <desc lang="zh">大企业天王食品会长家，晚来得到的独生女欧若拉竟对完美挑剔男的小说家黄马马一见钟情，而这两家族之间会因为这两人间所发生的事情，有何改变呢？</desc>
@@ -74498,10 +74430,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="龙华日韩台">
     <title lang="zh">绅士与小姐</title>
     <desc lang="zh">朴丹丹（李世熙）因受不了父亲偏心继母而离家出走，在山上散心时遇到穿西装健行的李英国（智铉寓），后来丹丹住进李家，成为三个熊孩子的家教。因为朴老师的关系，英国与孩子的关系越来越亲近，他还发现自己的心渐渐因丹丹而动摇了…</desc>
-  </programme>
-  <programme start="20260106084000 +0000" stop="20260106092000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260106092000 +0000" stop="20260106100000 +0000" channel="东森购物2台">
     <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
@@ -75215,10 +75143,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106085300 +0000" channel="华视新闻">
-    <title lang="zh">华视在地新闻</title>
-    <desc lang="zh">以台语发音，提供观众朋友不一样的国内外新闻。</desc>
-  </programme>
   <programme start="20260106085300 +0000" stop="20260106120000 +0000" channel="华视新闻">
     <title lang="zh">华视新闻晚报</title>
     <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
@@ -75743,10 +75667,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">早安新闻</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1600整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">iNEWS1700整点新闻</title>
     <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
@@ -76174,10 +76094,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111070000 +0000" stop="20260111080000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">吃货请跟上</title>
     <desc lang="zh">节目前身为智富食代和旅行东西军，致力于搜罗全台湾值得用心体会的美食滋味与背后主人家的创业故事，每天填饱肚子的料理不再只是一盘盘的食物，透过画面和记者的笔触，更深刻的了解台湾的饮食文化与发展。</desc>
-  </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="寰宇财经台">
-    <title lang="zh">打卡吧!我的炫FOOD日记</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="寰宇财经台">
     <title lang="zh">铜板美食呷透透</title>
@@ -76655,10 +76571,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">打卡吧!我的炫FOOD日记</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="中视新闻">
     <title lang="zh">新庶民大头家</title>
     <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
@@ -77135,10 +77047,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">中视新闻即时现场</title>
     <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
   </programme>
-  <programme start="20260106080000 +0000" stop="20260106090000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1600整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
   <programme start="20260106090000 +0000" stop="20260106100000 +0000" channel="中天新闻台">
     <title lang="zh">中天新闻 1700整点新闻</title>
     <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
@@ -77482,10 +77390,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260109220000 +0000" stop="20260109230000 +0000" channel="中天新闻台">
     <title lang="zh">中天新闻 中天晨报</title>
     <desc lang="zh">每天早晨时段，由早报主播与您一起读报，看遍天下事。</desc>
-  </programme>
-  <programme start="20260106075500 +0000" stop="20260106085500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
   </programme>
   <programme start="20260106085500 +0000" stop="20260106095500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
@@ -77962,10 +77866,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111065500 +0000" stop="20260111075500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">嘘你不知道的事</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260106075500 +0000" stop="20260106085500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
   </programme>
   <programme start="20260106085500 +0000" stop="20260106095500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
@@ -78445,14 +78345,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260111065500 +0000" stop="20260111075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球现场</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260106083000 +0000" stop="20260106090000 +0000" channel="第1商业台">
-    <title lang="zh">汪海华_操盘的智慧</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260106090000 +0000" stop="20260106093000 +0000" channel="第1商业台">
-    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260106093000 +0000" stop="20260106100000 +0000" channel="第1商业台">
@@ -79595,10 +79487,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">程序委员会</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260106071500 +0000" stop="20260106090500 +0000" channel="龙华经典台">
-    <title lang="zh">追男仔</title>
-    <desc lang="zh">吴汉假扮罹患绝症迫使三位女儿结婚以偿自己心愿。长女小东（林青霞）是女督察，在牛郎店遇上谢晒（梁家辉），迫使他作她的男友。二女小南（张曼玉）是社工，用钱收买古惑仔乌蝇（张学友）扮其男友。三女小西（邱淑贞）在健身中心骗害羞的李志（郑伊健）充当其男友。三对欢喜冤家开始擦出浪漫的火花…</desc>
-  </programme>
   <programme start="20260106090500 +0000" stop="20260106110000 +0000" channel="龙华经典台">
     <title lang="zh">蝙蝠侠</title>
     <desc lang="zh">高谭市四大恶徒：猫女、企鹅人、谜天大圣、小丑，这次他们一起联手结盟，驾著拥有洲际飞弹的企鹅核动力潜艇，劫持了一艘正驶往高谭市、载有最新脱水科技仪器的游艇。这次，坏蛋们除了要除掉蝙蝠侠和罗宾的正义二人组外，最终目标是即将在高谭市召开的联合国九大安理会员国会议，欲借机控制全球！</desc>
@@ -80058,10 +79946,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   <programme start="20260111052000 +0000" stop="20260111072000 +0000" channel="龙华电影台">
     <title lang="zh">赌侠大战拉斯维加斯</title>
     <desc lang="zh">阿King与化骨龙二人为老千拍档，加上化骨龙的表哥阿叻，三人在大眼文的赌场骗了一大笔钱，大眼文派人追杀，在酒店掳去化骨龙，而阿King及阿叻则被警方带走。二人会见警方高层，被邀往拉斯维加斯，协助办案，捉拿过去五年在中国境内骗走四十亿人民币的大老千Peter朱…</desc>
-  </programme>
-  <programme start="20260106071500 +0000" stop="20260106090500 +0000" channel="龙华洋片台">
-    <title lang="zh">特斯拉</title>
-    <desc lang="zh">描写传奇发明家「交流电之父」特斯拉（伊森霍克）的传奇人生，包括特斯拉与爱迪生（凯尔麦克拉兰）之间的恩怨纠葛、与西屋电气创始人的合作、以及他和知名投资家JP摩根的女儿安妮摩根的关系，与现代交流电电力系统的发展过程。</desc>
   </programme>
   <programme start="20260106090500 +0000" stop="20260106104500 +0000" channel="龙华洋片台">
     <title lang="zh">红鞋公主与七矮人</title>
@@ -231582,23 +231466,19 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260107140000 +0700" stop="20260107150000 +0700" channel="Vision Prime">
-    <title lang="zh">Hati Yang Memilih</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260107150000 +0700" stop="20260107160000 +0700" channel="Vision Prime">
-    <title lang="zh">Dusta Di Balik Cinta</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260107160000 +0700" stop="20260107170000 +0700" channel="Vision Prime">
     <title lang="zh">Sayap Cinta Terindah</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260107170000 +0700" stop="20260107190000 +0700" channel="Vision Prime">
+  <programme start="20260107150000 +0700" stop="20260107170000 +0700" channel="Vision Prime">
     <title lang="zh">Mencintai Ipar Sendiri</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260107190000 +0700" stop="20260107200000 +0700" channel="Vision Prime">
+  <programme start="20260107170000 +0700" stop="20260107190000 +0700" channel="Vision Prime">
     <title lang="zh">Cinta Sepenuh Jiwa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260107190000 +0700" stop="20260107200000 +0700" channel="Vision Prime">
+    <title lang="zh">Ikatan Cinta</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260107200000 +0700" stop="20260107210000 +0700" channel="Vision Prime">
@@ -231746,23 +231626,19 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260107140000 +0700" stop="20260107150000 +0700" channel="Vision Prime HD">
-    <title lang="zh">Hati Yang Memilih</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260107150000 +0700" stop="20260107160000 +0700" channel="Vision Prime HD">
-    <title lang="zh">Dusta Di Balik Cinta</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260107160000 +0700" stop="20260107170000 +0700" channel="Vision Prime HD">
     <title lang="zh">Sayap Cinta Terindah</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260107170000 +0700" stop="20260107190000 +0700" channel="Vision Prime HD">
+  <programme start="20260107150000 +0700" stop="20260107170000 +0700" channel="Vision Prime HD">
     <title lang="zh">Mencintai Ipar Sendiri</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260107190000 +0700" stop="20260107200000 +0700" channel="Vision Prime HD">
+  <programme start="20260107170000 +0700" stop="20260107190000 +0700" channel="Vision Prime HD">
     <title lang="zh">Cinta Sepenuh Jiwa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260107190000 +0700" stop="20260107200000 +0700" channel="Vision Prime HD">
+    <title lang="zh">Ikatan Cinta</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260107200000 +0700" stop="20260107210000 +0700" channel="Vision Prime HD">
