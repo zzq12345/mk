@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260106200500 +0800" stop="20260106221500 +0800" channel="mbc max">
-    <title lang="en">John Wick: Chapter 3 - Parabellum</title>
-    <desc lang="en">In this sequel, John Wick has killed a member of the HighTable, a shadowy international assassin's guild, deeming him an excommunicado (excluded member) and raising a US$ 14 million price tag for his head. A whole world of ruthless hit men and women are pursuing him around every corner.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260106221500 +0800" stop="20260107000000 +0800" channel="mbc max">
     <title lang="en">Second Act</title>
     <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
@@ -224,17 +218,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260106194000 +0800" stop="20260106211000 +0800" channel="mbc 2">
-    <title lang="en">Seized</title>
-    <desc lang="en">When his son gets kidnapped by a mysterious entity, formerspecial forces agent Niro finds himself embroiled in a dangerous situation, as he must take out three dangerous crime syndicates in order to get his son back.</desc>
+  <programme start="20260109070000 +0800" stop="20260109100000 +0800" channel="mbc max">
+    <title lang="en">The Good Shepherd</title>
+    <desc lang="en">The film explores the turbulent history of the earlyestablishment of the CIA through the perspective of one man, Edward Wilson (Matt Damon), who has been chosen since his studying at Yale University, which affects all his life's choices.</desc>
     <category lang="en">Movie
-               (2020)</category>
-  </programme>
-  <programme start="20260106213500 +0800" stop="20260106230000 +0800" channel="mbc 2">
-    <title lang="en">Dreamkatcher</title>
-    <desc lang="en">Plagued by bad dreams, young Josh resorts to desperatemeasures as he steals a talisman from a neighbor, unaware that he has just made himself the target of a vicious entity. With Josh slowly getting possessed and pushed to kill his new step-mother, can his father and step-mother save him and themselves?</desc>
-    <category lang="en">Movie
-               (2020)</category>
+               (2006)</category>
   </programme>
   <programme start="20260106232500 +0800" stop="20260107010000 +0800" channel="mbc 2">
     <title lang="en">Escape Plan: The Extractors</title>
@@ -421,5 +409,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">The evil master mind Gru lives in a mansion with his smallarmy of minions, as he prepares for his most daring heist, he comes across three orphaned girls who disrupt his wicked plans.</desc>
     <category lang="en">Movie - Cartoon
                (2010)</category>
+  </programme>
+  <programme start="20260109063000 +0800" stop="20260109083000 +0800" channel="mbc 2">
+    <title lang="en">Pixels</title>
+    <desc lang="en">An alien invasion of Earth takes the form of old-schoolarcade video games that are misinterpreted as a war cry. The president decides to seek help from an old friend by assigning him to lead a team of old-school arcaders to defeat the aliens.</desc>
+    <category lang="en">Movie
+               (2015)</category>
+  </programme>
+  <programme start="20260109083000 +0800" stop="20260109103000 +0800" channel="mbc 2">
+    <title lang="en">E.T. the Extra-Terrestrial</title>
+    <desc lang="en">An alien is accidentally left behind on earth, andbefriended by a boy named Elliott and later he meets his brother and sister. E.T. tries to get used to life on earth while trying hard to return home.</desc>
+    <category lang="en">Movie
+               (1982)</category>
   </programme>
 </tv>
