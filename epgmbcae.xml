@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260107120000 +0800" stop="20260107140000 +0800" channel="mbc max">
-    <title lang="en">Welcome to Marwen</title>
-    <desc lang="en">The true story of Mark Hogancamp, ​​who was the victim of abrutal attack when five men severely beat him up, but during his recovery he finds a unique and beautiful therapeutic outlet.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260107140000 +0800" stop="20260107160000 +0800" channel="mbc max">
     <title lang="en">A Million Little Pieces</title>
     <desc lang="en">A young writer who reached rock bottom because of his drugaddiction checks himself into a treatment facility in Minnesota to recover.</desc>
@@ -212,9 +206,9 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260107123000 +0800" stop="20260107143000 +0800" channel="mbc 2">
-    <title lang="en">12 Strong</title>
-    <desc lang="en">Based on a true story, the film tells the story of a SpecialForces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.</desc>
+  <programme start="20260109233000 +0800" stop="20260110013000 +0800" channel="mbc max">
+    <title lang="en">Night School</title>
+    <desc lang="en">A group of troublemakers are forced to attend night schoolin the hope that they'll pass the GED exam to finish high school.</desc>
     <category lang="en">Movie
                (2018)</category>
   </programme>
@@ -403,5 +397,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A young kid meets author R.L Stine's niece in the town ofGreendale, Maryland, following one of the writer's turns in which he uncovers his imagination's demons.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260109233000 +0800" stop="20260110010000 +0800" channel="mbc 2">
+    <title lang="en">Penguins of Madagascar</title>
+    <desc lang="en">The four penguins Skipper, Kowalski, Rico, and Private, teamup with a secret organization led by Agent Classified to foil the evil Dr. Octavius Brine's plot to destroy the world.</desc>
+    <category lang="en">Movie - Cartoon
+               (2014)</category>
   </programme>
 </tv>
