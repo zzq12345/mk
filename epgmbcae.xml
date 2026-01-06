@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260106033000 +0800" stop="20260106040000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260106040000 +0800" stop="20260106060000 +0800" channel="mbc max">
     <title lang="en">Mamma Mia! Here We Go Again</title>
     <desc lang="en">As Sophie finds out more about her mother's past five yearsafter the events of Mamma Mia! (2008), she gets ready for the hotel Bella Donna's grand reopening.</desc>
@@ -217,6 +211,12 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A look into the aftermath of JFK's assassination and thetremendous struggle his wife Jacqueline Kennedy found herself facing. Struggling to balance her familial and political responsibilities, Jacqueline's trauma had to be put aside for the sake of her children's welfare and her husband's legacy.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260108140000 +0800" stop="20260108160000 +0800" channel="mbc max">
+    <title lang="en">Green Book</title>
+    <desc lang="en">An Italian American bouncer is hired by an African Americanpianist to accompany him around his venues in the 1960s when prejudice was still pervasive in southern America. Through their travels, they get closer.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
   <programme start="20260106025000 +0800" stop="20260106050000 +0800" channel="mbc 2">
     <title lang="en">Maze Runner: The Scorch Trials</title>
