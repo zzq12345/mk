@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260108160000 +0800" stop="20260108173000 +0800" channel="mbc max">
-    <title lang="en">The Campaign</title>
-    <desc lang="en">Two businessmen are trying to get the US Congressman Cam(Will Ferrell) out of the way ahead of the next election in an attempt to take control of the North Carolina area and gain greater power, by pushing Marty Huggins (Zach Galifianakis) to run against him.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
   <programme start="20260108173000 +0800" stop="20260108180000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
@@ -192,11 +186,11 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20260108150500 +0800" stop="20260108170000 +0800" channel="mbc 2">
-    <title lang="en">Pixels</title>
-    <desc lang="en">An alien invasion of Earth takes the form of old-schoolarcade video games that are misinterpreted as a war cry. The president decides to seek help from an old friend by assigning him to lead a team of old-school arcaders to defeat the aliens.</desc>
+  <programme start="20260111030000 +0800" stop="20260111053000 +0800" channel="mbc max">
+    <title lang="en">Gone Girl</title>
+    <desc lang="en">On the occasion of his fifth wedding anniversary, Nick Dunnereports that his wife, Amy, has gone missing. Under pressure from the police and a growing media frenzy, Nick's portrait of a blissful union begins to crumble. Soon his lies, deceits and strange behavior have everyone asking the same dark question: Did Nick Dunne kill his wife?</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (2014)</category>
   </programme>
   <programme start="20260108170000 +0800" stop="20260108184000 +0800" channel="mbc 2">
     <title lang="en">Goosebumps</title>
@@ -365,5 +359,11 @@
     <desc lang="en">Katniss finds herself in District 13 after she literallyshatters the game forever, faced with a decision that could sway the fate of her nation. Under the leadership of President Coin and the advice of her trusted friends, Katniss reluctantly becomes the symbol of mass revolution against the autocratic Capitol.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260111030000 +0800" stop="20260111050000 +0800" channel="mbc 2">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
+    <desc lang="en">Following the closure of Jurassic World theme park, theeruption of a dormant volcano on the island makes Owen and Claire return to Isla Nublar to save the dinosaurs from extinction.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
