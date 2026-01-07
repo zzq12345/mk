@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260107013000 +0800" stop="20260107033000 +0800" channel="mbc max">
-    <title lang="en">Welcome to Marwen</title>
-    <desc lang="en">The true story of Mark Hogancamp, ​​who was the victim of abrutal attack when five men severely beat him up, but during his recovery he finds a unique and beautiful therapeutic outlet.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260107033000 +0800" stop="20260107040000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
@@ -381,6 +375,12 @@
   <programme start="20260109110000 +0800" stop="20260109130000 +0800" channel="mbc 2">
     <title lang="en">Mortal Engines</title>
     <desc lang="en">After the 60-minute war, the survived cities thrive to stayon the now infertile Earth. The strong survivors then decide to attack the smaller ones using huge wheels to take their resources.</desc>
+    <category lang="en">Movie
+               (2018)</category>
+  </programme>
+  <programme start="20260109130000 +0800" stop="20260109150000 +0800" channel="mbc 2">
+    <title lang="en">Jurassic World: Fallen Kingdom</title>
+    <desc lang="en">Following the closure of Jurassic World theme park, theeruption of a dormant volcano on the island makes Owen and Claire return to Isla Nublar to save the dinosaurs from extinction.</desc>
     <category lang="en">Movie
                (2018)</category>
   </programme>
