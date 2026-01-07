@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260107193000 +0800" stop="20260107210000 +0800" channel="mbc max">
-    <title lang="en">Firestarter</title>
-    <desc lang="en">A young girl begins to feel the changes happening to herwhen she discovers that she can set fire to anything around her through her mind, while her father seeks to protect her from the outside world.</desc>
-    <category lang="en">Movie
-               (2022)</category>
-  </programme>
-  <programme start="20260107210000 +0800" stop="20260107213000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
-  </programme>
   <programme start="20260107213000 +0800" stop="20260107233000 +0800" channel="mbc max">
     <title lang="en">Passengers</title>
     <desc lang="en">On a spacecraft that is supposed to carry people to a newplanet to colonize it, things go wrong when a technical problem affects the sleeping rooms, prompting two passengers to wake up before the scheduled time for their awakening.</desc>
@@ -212,11 +200,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260107193000 +0800" stop="20260107213000 +0800" channel="mbc 2">
-    <title lang="en">The Space Between Us</title>
-    <desc lang="en">Being the first human being born on Mars, Gardner Elliotreads a lot about Earth, his mother's planet. After 16 years, he is eager to visit Earth to get to experience its wonders himself, hoping to learn how he came into being. Meanwhile, he strikes an online friendship with a girl on Earth.</desc>
+  <programme start="20260110080000 +0800" stop="20260110100000 +0800" channel="mbc max">
+    <title lang="en">Christine</title>
+    <desc lang="en">In the 1970s, the film revolves around the life oftelevision reporter Christine Chubbuck, who suffered from depression while trying to advance in her career..</desc>
     <category lang="en">Movie
-               (2017)</category>
+               (2016)</category>
   </programme>
   <programme start="20260107213000 +0800" stop="20260107231000 +0800" channel="mbc 2">
     <title lang="en">Jiu Jitsu</title>
@@ -397,5 +385,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A continuation of the events after the first film, as theCrawley family returns with new secrets and stories are revealed.</desc>
     <category lang="en">Movie
                (2022)</category>
+  </programme>
+  <programme start="20260110063000 +0800" stop="20260110083000 +0800" channel="mbc 2">
+    <title lang="en">Above Suspicion</title>
+    <desc lang="en">The true story of how an affair between an FBI sketch artistand a local Kentucky woman turned into a complete disaster between his marriage and her role as an informant, leading to a murder and a scandal that shook the FBI.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
