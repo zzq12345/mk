@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260107160000 +0800" stop="20260107180000 +0800" channel="mbc max">
-    <title lang="en">T2 Trainspotting</title>
-    <desc lang="en">Twenty years later, Mark returns to Scotland to find hisfriends Spud, Sick Boy and Begbie waiting for him. As well as reuniting with his friends, he also has to deal with regret, love, friendship and vengeance.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
-  <programme start="20260107180000 +0800" stop="20260107193000 +0800" channel="mbc max">
-    <title lang="en">Nerve</title>
-    <desc lang="en">The film revolves around a high school senior, who becomescompletely immersed in an online game of Truth or Dare, where her every move is manipulated by  an anonymous community of "watchers.".</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260107193000 +0800" stop="20260107210000 +0800" channel="mbc max">
     <title lang="en">Firestarter</title>
     <desc lang="en">A young girl begins to feel the changes happening to herwhen she discovers that she can set fire to anything around her through her mind, while her father seeks to protect her from the outside world.</desc>
@@ -212,11 +200,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260107173000 +0800" stop="20260107193000 +0800" channel="mbc 2">
-    <title lang="en">Rescue Dawn</title>
-    <desc lang="en">A German/American plane goes out on a secret mission, butcrashes in a forest during the Laos bombing of 1965. The plane's crew are taken as hostages and tortured by Vietcong forces. US Navy Pilot successfully plans an escape method for the hostages, but they face plenty of unforeseen events.</desc>
+  <programme start="20260110033000 +0800" stop="20260110053000 +0800" channel="mbc max">
+    <title lang="en">The Iron Lady</title>
+    <desc lang="en">Tells the story of Margaret Thatcher, a woman who smashedbarriers of gender and class to be heard in a male-dominated world. The story concerns power and the price that is paid for it, and is a surprising and insightful portrait of an extraordinary and complex woman.</desc>
     <category lang="en">Movie
-               (2006)</category>
+               (2011)</category>
+  </programme>
+  <programme start="20260110053000 +0800" stop="20260110080000 +0800" channel="mbc max">
+    <title lang="en">Green Book</title>
+    <desc lang="en">An Italian American bouncer is hired by an African Americanpianist to accompany him around his venues in the 1960s when prejudice was still pervasive in southern America. Through their travels, they get closer.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
   <programme start="20260107193000 +0800" stop="20260107213000 +0800" channel="mbc 2">
     <title lang="en">The Space Between Us</title>
@@ -397,5 +391,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">The repressed Panem is on the verge of rebellion as 74thHunger Game victors Katniss and Peeta visit the districts on their victory tour. The two have become symbols of defiance against the Capitol, and for that they will be targeted by the despotic President Snow and his regime.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260110040000 +0800" stop="20260110063000 +0800" channel="mbc 2">
+    <title lang="en">Downton Abbey: A New Era</title>
+    <desc lang="en">A continuation of the events after the first film, as theCrawley family returns with new secrets and stories are revealed.</desc>
+    <category lang="en">Movie
+               (2022)</category>
   </programme>
 </tv>
