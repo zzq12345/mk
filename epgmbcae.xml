@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260107033000 +0800" stop="20260107040000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
-  <programme start="20260107040000 +0800" stop="20260107053000 +0800" channel="mbc max">
-    <title lang="en">Charlie St. Cloud</title>
-    <desc lang="en">After his brother Sam dies in a car crash, Charlie is ableto see him as he works in a cemetery, but when he falls for Tess he becomes torn between losing his new love or loses seeing his brother.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260107060000 +0800" stop="20260107080000 +0800" channel="mbc max">
     <title lang="en">A Million Little Pieces</title>
     <desc lang="en">A young writer who reached rock bottom because of his drugaddiction checks himself into a treatment facility in Minnesota to recover.</desc>
@@ -198,23 +186,17 @@
     <category lang="en">Movie
                (2022)</category>
   </programme>
-  <programme start="20260107023500 +0800" stop="20260107043500 +0800" channel="mbc 2">
-    <title lang="en">12 Strong</title>
-    <desc lang="en">Based on a true story, the film tells the story of a SpecialForces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.</desc>
+  <programme start="20260109140000 +0800" stop="20260109160000 +0800" channel="mbc max">
+    <title lang="en">The Girl on the Train</title>
+    <desc lang="en">A troubled divorcée gets tangled up in a dangerous web ofsecrets and lies, after she witnesses something shocking while taking the train.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2016)</category>
   </programme>
-  <programme start="20260107043500 +0800" stop="20260107050000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
-  <programme start="20260107050000 +0800" stop="20260107063500 +0800" channel="mbc 2">
-    <title lang="en">Buried</title>
-    <desc lang="en">Paul Conroy is US truck driver who works as a contractor inIraq. He finds himself buried alive in a wooden coffin, with a cellphone that proved to be useless , he's forced to rely on himself to survive.</desc>
+  <programme start="20260109160000 +0800" stop="20260109183000 +0800" channel="mbc max">
+    <title lang="en">Gone Girl</title>
+    <desc lang="en">On the occasion of his fifth wedding anniversary, Nick Dunnereports that his wife, Amy, has gone missing. Under pressure from the police and a growing media frenzy, Nick's portrait of a blissful union begins to crumble. Soon his lies, deceits and strange behavior have everyone asking the same dark question: Did Nick Dunne kill his wife?</desc>
     <category lang="en">Movie
-               (2010)</category>
+               (2014)</category>
   </programme>
   <programme start="20260107063500 +0800" stop="20260107084000 +0800" channel="mbc 2">
     <title lang="en">Rescue Dawn</title>
@@ -383,5 +365,17 @@
     <desc lang="en">Following the closure of Jurassic World theme park, theeruption of a dormant volcano on the island makes Owen and Claire return to Isla Nublar to save the dinosaurs from extinction.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260109150000 +0800" stop="20260109170000 +0800" channel="mbc 2">
+    <title lang="en">Rampage</title>
+    <desc lang="en">When the gorilla that was once Primatologist Davis Okoye’sfriend is affected by an experiment that turns him into a ruthless monster that evades North America destroying everything in his path, Okoye works with a discredited genetic engineer to find an antidote to save the world and his former friend.</desc>
+    <category lang="en">Movie
+               (2018)</category>
+  </programme>
+  <programme start="20260109170000 +0800" stop="20260109190000 +0800" channel="mbc 2">
+    <title lang="en">10,000 B.C.</title>
+    <desc lang="en">In the prehistoric period, when a horse-riding warlordsattack the tribe of (D'Leh) and abduct a number of its members, including his beloved, and flee to an unknown area. Dale leads a group of his tribe on a journey through this unknown land to take revenge on them and bring back his love and friends.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
