@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260109100000 +0800" stop="20260109120000 +0800" channel="mbc max">
-    <title lang="en">The Iron Lady</title>
-    <desc lang="en">Tells the story of Margaret Thatcher, a woman who smashedbarriers of gender and class to be heard in a male-dominated world. The story concerns power and the price that is paid for it, and is a surprising and insightful portrait of an extraordinary and complex woman.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260109120000 +0800" stop="20260109140000 +0800" channel="mbc max">
     <title lang="en">Jackie</title>
     <desc lang="en">A look into the aftermath of JFK's assassination and thetremendous struggle his wife Jacqueline Kennedy found herself facing. Struggling to balance her familial and political responsibilities, Jacqueline's trauma had to be put aside for the sake of her children's welfare and her husband's legacy.</desc>
@@ -180,6 +174,12 @@
     <category lang="en">Movie
                (2022)</category>
   </programme>
+  <programme start="20260111213000 +0800" stop="20260111233000 +0800" channel="mbc max">
+    <title lang="en">Insidious</title>
+    <desc lang="en">After their son Dalton mysteriously falls into a coma, Joshand Renai find themselves drawn into a sinister world of supernatural occurrences that want to take over their child.</desc>
+    <category lang="en">Movie
+               (2010)</category>
+  </programme>
   <programme start="20260109103000 +0800" stop="20260109130000 +0800" channel="mbc 2">
     <title lang="en">The Hunger Games: Catching Fire</title>
     <desc lang="en">The repressed Panem is on the verge of rebellion as 74thHunger Game victors Katniss and Peeta visit the districts on their victory tour. The two have become symbols of defiance against the Capitol, and for that they will be targeted by the despotic President Snow and his regime.</desc>
@@ -347,5 +347,11 @@
     <desc lang="en">John and Jeremy are two friends who like to crash weddingsto pick up girls, until John falls for the daughter of a wealthy politician and they find themselves in a fix.</desc>
     <category lang="en">Movie
                (2005)</category>
+  </programme>
+  <programme start="20260111210000 +0800" stop="20260111230000 +0800" channel="mbc 2">
+    <title lang="en">Rampage</title>
+    <desc lang="en">When the gorilla that was once Primatologist Davis Okoye’sfriend is affected by an experiment that turns him into a ruthless monster that evades North America destroying everything in his path, Okoye works with a discredited genetic engineer to find an antidote to save the world and his former friend.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
