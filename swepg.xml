@@ -1812,14 +1812,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260108200000 +0800" stop="20260108213000 +0800" channel="mbc max">
-    <title lang="en">Jeepers Creepers III</title>
-    <desc lang="en">The events take place in the period between the events ofthe first part and the events of the second part. Lieutenant Davis Tubbs assembles a team to destroy the Creeper for good this time, as they get closer and closer to the secrets of its dark origins. In the meantime, the monster terrorizes the entire local farming community.</desc>
-  </programme>
-  <programme start="20260108213000 +0800" stop="20260108220000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-  </programme>
   <programme start="20260108220000 +0800" stop="20260109000000 +0800" channel="mbc max">
     <title lang="en">T2 Trainspotting</title>
     <desc lang="en">Twenty years later, Mark returns to Scotland to find hisfriends Spud, Sick Boy and Begbie waiting for him. As well as reuniting with his friends, he also has to deal with regret, love, friendship and vengeance.</desc>
@@ -1931,6 +1923,10 @@
   <programme start="20260111053000 +0800" stop="20260111073000 +0800" channel="mbc max">
     <title lang="en">Alice, Darling</title>
     <desc lang="en">As Alice is pushed to the edge by her abusive boyfriend, sheembarks on a journey of self-discovery as she goes on vacation with her two best friends.</desc>
+  </programme>
+  <programme start="20260111073000 +0800" stop="20260111093000 +0800" channel="mbc max">
+    <title lang="en">High Crimes</title>
+    <desc lang="en">When prominent attorney Claire Kubik learns a startlingsecret about her husband’s past, she decides to defend him in a military court, enlisting the help of veteran military attorney, Charlie Grimes.</desc>
   </programme>
   <programme start="20260108211000 +0800" stop="20260108233500 +0800" channel="mbc 2">
     <title lang="en">The Revenant</title>
@@ -2044,9 +2040,9 @@
     <title lang="en">Mortal Engines</title>
     <desc lang="en">After the 60-minute war, the survived cities thrive to stayon the now infertile Earth. The strong survivors then decide to attack the smaller ones using huge wheels to take their resources.</desc>
   </programme>
-  <programme start="20260108203000 +0800" stop="20260108220000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  <programme start="20260111070000 +0800" stop="20260111090000 +0800" channel="mbc 2">
+    <title lang="en">10,000 B.C.</title>
+    <desc lang="en">In the prehistoric period, when a horse-riding warlordsattack the tribe of (D'Leh) and abduct a number of its members, including his beloved, and flee to an unknown area. Dale leads a group of his tribe on a journey through this unknown land to take revenge on them and bring back his love and friends.</desc>
   </programme>
   <programme start="20260108220000 +0800" stop="20260108230000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
@@ -25537,11 +25533,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108021500 +0800" stop="20260108021500 +0800" channel="spot on news">
-    <title lang="zh">Woman pulls out machete in taxi - because of music request</title>
+    <title lang="zh">Victoria's Secret Show: Jasmine Tookes opens with baby bump</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108021500 +0800" stop="20260108021500 +0800" channel="spot on news">
-    <title lang="zh">Victoria's Secret Show: Jasmine Tookes opens with baby bump</title>
+    <title lang="zh">Woman pulls out machete in taxi - because of music request</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108021500 +0800" stop="20260108021600 +0800" channel="spot on news">
@@ -26585,11 +26581,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108061100 +0800" stop="20260108061100 +0800" channel="spot on news">
-    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
+    <title lang="zh">Rare phenomenon: Fire tornado swirls across field</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108061100 +0800" stop="20260108061100 +0800" channel="spot on news">
-    <title lang="zh">Rare phenomenon: Fire tornado swirls across field</title>
+    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108061100 +0800" stop="20260108061200 +0800" channel="spot on news">
@@ -27956,7 +27952,515 @@
     <title lang="zh">"The Wire" star Isiah Whitlock Jr. has died</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108112800 +0800" stop="20260108235959 +0800" channel="spot on news">
+  <programme start="20260108112800 +0800" stop="20260108113100 +0800" channel="spot on news">
+    <title lang="zh">"SATC" star Sarah Jessica Parker meets Queen Camilla</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108113100 +0800" stop="20260108113100 +0800" channel="spot on news">
+    <title lang="zh">After heavy rain: Landslide sweeps away entire house</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108113100 +0800" stop="20260108113200 +0800" channel="spot on news">
+    <title lang="zh">Brazil: Golf ball-sized hailstones destroy houses and cars</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108113200 +0800" stop="20260108113300 +0800" channel="spot on news">
+    <title lang="zh">"Mortal Kombat"-Star Cary-Hiroyuki Tagawa is dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108113300 +0800" stop="20260108113500 +0800" channel="spot on news">
+    <title lang="zh">These are the highest film salaries</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108113500 +0800" stop="20260108113600 +0800" channel="spot on news">
+    <title lang="zh">SUV crashes into restaurant: guests escape with a scare</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108113600 +0800" stop="20260108113900 +0800" channel="spot on news">
+    <title lang="zh">Taller than Cristo Redentor in Rio: new mega-statue breaks record</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108113900 +0800" stop="20260108113900 +0800" channel="spot on news">
+    <title lang="zh">Overloaded truck overturns onto Jeep - one dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108113900 +0800" stop="20260108114000 +0800" channel="spot on news">
+    <title lang="zh">Prince William jokes while baking: "You'll get what you're given"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114000 +0800" stop="20260108114100 +0800" channel="spot on news">
+    <title lang="zh">Princess Kate: Wearing special headwear at the state banquet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114100 +0800" stop="20260108114200 +0800" channel="spot on news">
+    <title lang="zh">Deer storms into classroom and devours exam papers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114200 +0800" stop="20260108114200 +0800" channel="spot on news">
+    <title lang="zh">Philippines: Severe earthquake destroys homes and causes chaos</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114200 +0800" stop="20260108114300 +0800" channel="spot on news">
+    <title lang="zh">Air Force One with Donald Trump flies low over NFL stadium</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114300 +0800" stop="20260108114400 +0800" channel="spot on news">
+    <title lang="zh">Crazy stunt: Duo rides horse through supermarket</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114400 +0800" stop="20260108114500 +0800" channel="spot on news">
+    <title lang="zh">Crown Princess Mette-Marit needs a lung transplant</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114500 +0800" stop="20260108114800 +0800" channel="spot on news">
+    <title lang="zh">Kate Hudson looks sexy in a naked dress</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114800 +0800" stop="20260108114800 +0800" channel="spot on news">
+    <title lang="zh">Horror slide: Holidaymaker gets stuck in tube slide</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114800 +0800" stop="20260108114900 +0800" channel="spot on news">
+    <title lang="zh">Fire threatens 50-million-year-old UNESCO World Heritage Site</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114900 +0800" stop="20260108114900 +0800" channel="spot on news">
+    <title lang="zh">Wind turbine breaks off and crashes onto field</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108114900 +0800" stop="20260108115000 +0800" channel="spot on news">
+    <title lang="zh">Helicopter forced to make emergency landing on water</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115000 +0800" stop="20260108115100 +0800" channel="spot on news">
+    <title lang="zh">New footage shows the development of the inferno in Hong Kong</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115100 +0800" stop="20260108115200 +0800" channel="spot on news">
+    <title lang="zh">Adorable! Timothée Chalamet cuddles with cute puppy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115200 +0800" stop="20260108115200 +0800" channel="spot on news">
+    <title lang="zh">Cat mom adopts mouse - the internet celebrates her</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115200 +0800" stop="20260108115300 +0800" channel="spot on news">
+    <title lang="zh">Pete Davidson has become a father</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115300 +0800" stop="20260108115400 +0800" channel="spot on news">
+    <title lang="zh">Mega typhoon Kajiki devastates holiday island in China</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115400 +0800" stop="20260108115700 +0800" channel="spot on news">
+    <title lang="zh">Dancing, soccer, and lots of falls: Olympics for robots</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115700 +0800" stop="20260108115700 +0800" channel="spot on news">
+    <title lang="zh">Fireworks and light shows: Spectacular images at the turn of the year</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115700 +0800" stop="20260108115800 +0800" channel="spot on news">
+    <title lang="zh">Actress on the front line: Angelina Jolie travels to the Gaza border</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115800 +0800" stop="20260108115900 +0800" channel="spot on news">
+    <title lang="zh">Man steals ambulance - dashcam shows police chase</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115900 +0800" stop="20260108115900 +0800" channel="spot on news">
+    <title lang="zh">Faulty battery: E-bike catches fire in elevator</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108115900 +0800" stop="20260108120000 +0800" channel="spot on news">
+    <title lang="zh">Prince William delights with sweet baby moment</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120000 +0800" stop="20260108120100 +0800" channel="spot on news">
+    <title lang="zh">Cheetah versus influencer: Streamer posts controversial video</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120100 +0800" stop="20260108120200 +0800" channel="spot on news">
+    <title lang="zh">Ariana Grande: Glinda charm on the black carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120200 +0800" stop="20260108120400 +0800" channel="spot on news">
+    <title lang="zh">Police officer convicted: He stole underwear during a house search</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120400 +0800" stop="20260108120500 +0800" channel="spot on news">
+    <title lang="zh">Spectacular images: Kilauea volcano spews lava</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120500 +0800" stop="20260108120600 +0800" channel="spot on news">
+    <title lang="zh">"General Hospital" star Tristan Rogers has died at the age of 79</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120600 +0800" stop="20260108120600 +0800" channel="spot on news">
+    <title lang="zh">Huge sea foam engulfs roads and houses</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120600 +0800" stop="20260108120700 +0800" channel="spot on news">
+    <title lang="zh">World-famous elephant Craig dies at the age of 54</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120700 +0800" stop="20260108120800 +0800" channel="spot on news">
+    <title lang="zh">Richard Gere and Alejandra Silva shine together in Milan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120800 +0800" stop="20260108120800 +0800" channel="spot on news">
+    <title lang="zh">Almost 100 kilometers: Sandstorm swallows entire region</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120800 +0800" stop="20260108120900 +0800" channel="spot on news">
+    <title lang="zh">Researcher finds rare plant and bursts into tears</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120900 +0800" stop="20260108121000 +0800" channel="spot on news">
+    <title lang="zh">New species: Wild bee with devil horns discovered in Australia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121000 +0800" stop="20260108121200 +0800" channel="spot on news">
+    <title lang="zh">Plane crashes into the sea during air show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121200 +0800" stop="20260108121300 +0800" channel="spot on news">
+    <title lang="zh">Major fire destroys 25-story high-rise building</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121300 +0800" stop="20260108121300 +0800" channel="spot on news">
+    <title lang="zh">Beyoncé wowed the crowd at the Formula 1 race with this outfit</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121300 +0800" stop="20260108121400 +0800" channel="spot on news">
+    <title lang="zh">Skydiver dangles from aircraft at an altitude of 4,500 meters</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121400 +0800" stop="20260108121500 +0800" channel="spot on news">
+    <title lang="zh">Camels in the snow: desert landscape transforms into winter wonderland</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121500 +0800" stop="20260108121600 +0800" channel="spot on news">
+    <title lang="zh">Actress June Lockhart dies at age 100</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121600 +0800" stop="20260108121600 +0800" channel="spot on news">
+    <title lang="zh">Russian helicopter crashes into beach house: Five dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121600 +0800" stop="20260108121700 +0800" channel="spot on news">
+    <title lang="zh">Reckless men set off fireworks in an elevator</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121700 +0800" stop="20260108121800 +0800" channel="spot on news">
+    <title lang="zh">Naked dresses: Margot Robbie and Dakota Johnson show almost everything</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108121800 +0800" stop="20260108122000 +0800" channel="spot on news">
+    <title lang="zh">Fell off the pier: Mother jumps after her little daughter</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122000 +0800" stop="20260108122100 +0800" channel="spot on news">
+    <title lang="zh">After landslide: Entire school building collapses</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122100 +0800" stop="20260108122200 +0800" channel="spot on news">
+    <title lang="zh">World's highest bridge: China opens structure to traffic</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122200 +0800" stop="20260108122300 +0800" channel="spot on news">
+    <title lang="zh">Star director Rob Reiner and wife Michele found dead</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122300 +0800" stop="20260108122300 +0800" channel="spot on news">
+    <title lang="zh">"Hacks" stars copy Kylie Jenner and Timothée Chalamet's look</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122300 +0800" stop="20260108122400 +0800" channel="spot on news">
+    <title lang="zh">The Cure mourns Perry Bamonte: "He will be very greatly missed"</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122400 +0800" stop="20260108122500 +0800" channel="spot on news">
+    <title lang="zh">Bizarre accident: Car slides down the road on its roof</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122500 +0800" stop="20260108122500 +0800" channel="spot on news">
+    <title lang="zh">Two helicopters collide: one person dead and one injured</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122500 +0800" stop="20260108122600 +0800" channel="spot on news">
+    <title lang="zh">Giga traffic jam! Millions of travelers trapped on the freeway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122600 +0800" stop="20260108122900 +0800" channel="spot on news">
+    <title lang="zh">Pubic hair thong: Kim Kardashian is "shocked" by the reactions</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122900 +0800" stop="20260108122900 +0800" channel="spot on news">
+    <title lang="zh">Parachute fails: Soldier crashes to the ground</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108122900 +0800" stop="20260108123000 +0800" channel="spot on news">
+    <title lang="zh">Wall collapses - woman narrowly escapes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123000 +0800" stop="20260108123000 +0800" channel="spot on news">
+    <title lang="zh">Filming begins: The stars of "Scrubs" are back</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123000 +0800" stop="20260108123100 +0800" channel="spot on news">
+    <title lang="zh">Luis Rubiales pelted with eggs at his book launch</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123100 +0800" stop="20260108123200 +0800" channel="spot on news">
+    <title lang="zh">Mega discovery: NASA finds evidence of life on Mars</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123200 +0800" stop="20260108123200 +0800" channel="spot on news">
+    <title lang="zh">Wind turbine on fire: Fire department just watches</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123200 +0800" stop="20260108123300 +0800" channel="spot on news">
+    <title lang="zh">After school shooting in Minneapolis: Mayor finds clear words</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123300 +0800" stop="20260108123400 +0800" channel="spot on news">
+    <title lang="zh">"You set a very bad tone": Trump threatens reporter with consequences</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123400 +0800" stop="20260108123700 +0800" channel="spot on news">
+    <title lang="zh">Rio de Janeiro gets an entry in the Guinness Book of Records</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123700 +0800" stop="20260108123800 +0800" channel="spot on news">
+    <title lang="zh">Switzerland: Dozens dead after fire in bar in ski resort</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123800 +0800" stop="20260108123900 +0800" channel="spot on news">
+    <title lang="zh">Bold appearance in New York: Kristen Stewart shows a lot of skin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123900 +0800" stop="20260108123900 +0800" channel="spot on news">
+    <title lang="zh">Chemical fire rages in Newburgh manufacturing facility</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123900 +0800" stop="20260108124000 +0800" channel="spot on news">
+    <title lang="zh">Huge sinkhole swallows two cars</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124000 +0800" stop="20260108124000 +0800" channel="spot on news">
+    <title lang="zh">On the hook: Police stop car in unusual way</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124000 +0800" stop="20260108124100 +0800" channel="spot on news">
+    <title lang="zh">Golden Retrievers see pair of otters and go crazy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124100 +0800" stop="20260108124100 +0800" channel="spot on news">
+    <title lang="zh">Major fire rages in historic school</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124100 +0800" stop="20260108124200 +0800" channel="spot on news">
+    <title lang="zh">Kim Kardashian shows up to Paris fashion show with a pixie cut</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124200 +0800" stop="20260108124300 +0800" channel="spot on news">
+    <title lang="zh">Angler pulls great white shark out of the sea</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124300 +0800" stop="20260108124600 +0800" channel="spot on news">
+    <title lang="zh">After fire disaster: Skiers form giant heart in remembrance</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124600 +0800" stop="20260108124600 +0800" channel="spot on news">
+    <title lang="zh">Cat rolls around in glitter makeup goes viral</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124600 +0800" stop="20260108124600 +0800" channel="spot on news">
+    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124600 +0800" stop="20260108124700 +0800" channel="spot on news">
+    <title lang="zh">Shock for Lady Gaga: Dancer falls off stage</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124700 +0800" stop="20260108124800 +0800" channel="spot on news">
+    <title lang="zh">Madonna and daughter Lourdes: Joint appearance at Fashion Week</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124800 +0800" stop="20260108124800 +0800" channel="spot on news">
+    <title lang="zh">Military plane nearly hits Tesla during crash landing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124800 +0800" stop="20260108124900 +0800" channel="spot on news">
+    <title lang="zh">Dangerous rescue operation: Man risks his life for a small bird</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124900 +0800" stop="20260108124900 +0800" channel="spot on news">
+    <title lang="zh">Cologne Airport: Delayed passengers storm the runway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108124900 +0800" stop="20260108125000 +0800" channel="spot on news">
+    <title lang="zh">Jakarta: Exploding battery causes major fire</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125000 +0800" stop="20260108125100 +0800" channel="spot on news">
+    <title lang="zh">Louvre thieves: New video of the escape emerges</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125100 +0800" stop="20260108125100 +0800" channel="spot on news">
+    <title lang="zh">Dozens arrested: Climate activists block Australia's coal port</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125100 +0800" stop="20260108125400 +0800" channel="spot on news">
+    <title lang="zh">Donald Trump is furious about hairstyle scandal and photo manipulation</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125400 +0800" stop="20260108125500 +0800" channel="spot on news">
+    <title lang="zh">Animal speedster: Rat interrupts football match</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125500 +0800" stop="20260108125500 +0800" channel="spot on news">
+    <title lang="zh">Burst pipe: Huge fountain of water floods street</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125500 +0800" stop="20260108125600 +0800" channel="spot on news">
+    <title lang="zh">Mia Goth turns up the heat in sheer lace at "Frankenstein" screening</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125600 +0800" stop="20260108125600 +0800" channel="spot on news">
+    <title lang="zh">Explosion rocks cargo ship</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125600 +0800" stop="20260108125700 +0800" channel="spot on news">
+    <title lang="zh">Monster wave floods tourists on bridge</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125700 +0800" stop="20260108125800 +0800" channel="spot on news">
+    <title lang="zh">King Charles III makes history as he and Camilla arrive at Vatican</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125800 +0800" stop="20260108125800 +0800" channel="spot on news">
+    <title lang="zh">Mia Goth and Jacob Elordi at the Frankenstein premiere in Los Angeles</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108125800 +0800" stop="20260108130000 +0800" channel="spot on news">
+    <title lang="zh">These stars would have celebrated their 100th birthday in 2026</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130000 +0800" stop="20260108130300 +0800" channel="spot on news">
+    <title lang="zh">Louvre robbery: German company goes viral with advertising post</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130300 +0800" stop="20260108130400 +0800" channel="spot on news">
+    <title lang="zh">Halloween decorations keep firefighters busy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130400 +0800" stop="20260108130500 +0800" channel="spot on news">
+    <title lang="zh">Claudia Schiffer wows at Paris Fashion Week</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130500 +0800" stop="20260108130600 +0800" channel="spot on news">
+    <title lang="zh">Ariana Grande and Cynthia Erivo dazzle with extravagant looks</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130600 +0800" stop="20260108130700 +0800" channel="spot on news">
+    <title lang="zh">Paris Jackson: She surprises everyone with a hole in her nose</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130700 +0800" stop="20260108130700 +0800" channel="spot on news">
+    <title lang="zh">Shock in London: Double-decker bus veers off the road</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130700 +0800" stop="20260108130800 +0800" channel="spot on news">
+    <title lang="zh">Crazy stunt: Duo rides horse through supermarket</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130800 +0800" stop="20260108130800 +0800" channel="spot on news">
+    <title lang="zh">Shortly after take-off: aeroplane bursts into flames</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130800 +0800" stop="20260108130900 +0800" channel="spot on news">
+    <title lang="zh">At the last second: Driver jumps out of crashing bus</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130900 +0800" stop="20260108131200 +0800" channel="spot on news">
+    <title lang="zh">Zendaya und Robert Pattinson: Erster Teaser zu "The Drama" (OV)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131200 +0800" stop="20260108131300 +0800" channel="spot on news">
+    <title lang="zh">With dog and dance performance: Danish royals decorate Christmas tree</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131300 +0800" stop="20260108131300 +0800" channel="spot on news">
+    <title lang="zh">Rare public appearance by Rachel Weisz and Daniel Craig</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131300 +0800" stop="20260108131400 +0800" channel="spot on news">
+    <title lang="zh">Fiery natural spectacle: Kilauea volcano erupts again</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131400 +0800" stop="20260108131500 +0800" channel="spot on news">
+    <title lang="zh">Several stars gather at german media award</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131500 +0800" stop="20260108131500 +0800" channel="spot on news">
+    <title lang="zh">Liam Hemsworth and Gabriella Brooks: Newly engaged on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131500 +0800" stop="20260108131600 +0800" channel="spot on news">
+    <title lang="zh">Scary moment: Lightning strikes car</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131600 +0800" stop="20260108131600 +0800" channel="spot on news">
+    <title lang="zh">Adam Sandler looks unusually chic on the red carpet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131600 +0800" stop="20260108131800 +0800" channel="spot on news">
+    <title lang="zh">These celebrities passed away in 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108131800 +0800" stop="20260108132100 +0800" channel="spot on news">
+    <title lang="zh">"Mothership": Monstrous storm cloud passes over Kansas</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132100 +0800" stop="20260108132100 +0800" channel="spot on news">
+    <title lang="zh">"McLeod's Daughters" star Rachael Carpani dies aged 45</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132100 +0800" stop="20260108132200 +0800" channel="spot on news">
+    <title lang="zh">"General Hospital" star Tristan Rogers has died at the age of 79</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132200 +0800" stop="20260108132300 +0800" channel="spot on news">
+    <title lang="zh">Pajama date on the ice: Heidi Klum and Tom Kaulitz in matching outfits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132300 +0800" stop="20260108132400 +0800" channel="spot on news">
+    <title lang="zh">Millions storm the streets: Anti-Trump wave breaks records!</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132400 +0800" stop="20260108132400 +0800" channel="spot on news">
+    <title lang="zh">Huge mess: Portable toilet falls from crane onto road</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132400 +0800" stop="20260108132500 +0800" channel="spot on news">
+    <title lang="zh">Dancing Trump: US president kicks off Asia trip with a dance routine</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132500 +0800" stop="20260108132500 +0800" channel="spot on news">
+    <title lang="zh">Unusual squatters: Polar bears move into old research station</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132500 +0800" stop="20260108132700 +0800" channel="spot on news">
+    <title lang="zh">Celebrity offspring: These stars had babies in 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108132700 +0800" stop="20260108133000 +0800" channel="spot on news">
+    <title lang="zh">Protests in Indonesia: Demonstrators set fire to parliament</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108133000 +0800" stop="20260108235959 +0800" channel="spot on news">
     <title lang="zh">节目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -29076,15 +29580,607 @@
     <title lang="zh">Home Made Tortelli Pasta Stuffed Chickpeas</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260110114400 +0800" stop="20260110235959 +0800" channel="Travel &amp; Food TV">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260110114400 +0800" stop="20260110114700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creamy Mushroom Sauce</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260111000000 +0800" stop="20260111235959 +0800" channel="Travel &amp; Food TV">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260110114700 +0800" stop="20260110120100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Ancient Tyrins - Greece</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260112000000 +0800" stop="20260112235959 +0800" channel="Travel &amp; Food TV">
+  <programme start="20260110120100 +0800" stop="20260110122400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Clemente Local Fishing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110122400 +0800" stop="20260110124000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Red Kitchen Tamales</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110124000 +0800" stop="20260110133000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Petra - Jordan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110133000 +0800" stop="20260110140000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America S3 E12 - Woodbridge Australia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110140000 +0800" stop="20260110152400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Mango Sticky Rice Braised Chicken In Coconut Water</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110152400 +0800" stop="20260110155800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cusco - Peru</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110155800 +0800" stop="20260110161400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Meknes - Morocco</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110161400 +0800" stop="20260110163000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Easy Texas Style Smoked Ribs and Turkey | Barbeque Spare Ribs - Turkey recipe</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110163000 +0800" stop="20260110165800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | S03-E03-Food Truck</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110165800 +0800" stop="20260110170300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue Around Steak with Mushrooms</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110170300 +0800" stop="20260110172100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Konark Sun Temple - India</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110172100 +0800" stop="20260110172600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Calamari Olive Cream</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110172600 +0800" stop="20260110174000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Tao Tao Restaurant</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110174000 +0800" stop="20260110180700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | S03-E04-Fire Dept</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110180700 +0800" stop="20260110183500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Diamond Jim’s</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110183500 +0800" stop="20260110190900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Dubrovnik - Croatia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110190900 +0800" stop="20260110195800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Make Bird's Nest Roti Canai | Bihun Sup Utara</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110195800 +0800" stop="20260110200600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Ender Martos Rebirth Of Technology - Artist Statement</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110200600 +0800" stop="20260110203800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | S4-E10 - Keto</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110203800 +0800" stop="20260110210600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | Season 3; Episode 10 - Bourbon Pecan Chicken Marsala</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110210600 +0800" stop="20260110221500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Make Prawn Noodle Soup &amp; Sambal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110221500 +0800" stop="20260110223000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Ban Chiang - Thailand</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110223000 +0800" stop="20260110230500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Ajanta Caves - Maharashtra</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110230500 +0800" stop="20260110234100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home Life &amp; Style | S1 E12; Hull Ma Episode</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110234100 +0800" stop="20260110235400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Texicana Barbeque | How To Build A Texas Style Backyard Offset Smoker Moberg Secrets</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260110235400 +0800" stop="20260111002400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cooking with Cutty</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111002400 +0800" stop="20260111005100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Truck N Outdoors Episode 001</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111005100 +0800" stop="20260111005400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">YCV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111005400 +0800" stop="20260111010900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Towers Of San Giminiano - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111010900 +0800" stop="20260111015900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">U Chef Cooking</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111015900 +0800" stop="20260111020300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chicken Teriyaki</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111020300 +0800" stop="20260111023100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style | Ocean House</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111023100 +0800" stop="20260111024500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Ancient Tyrins - Greece</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111024500 +0800" stop="20260111025100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chocolate Cake with Soft Heart</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111025100 +0800" stop="20260111030600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Pont Du Gard - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111030600 +0800" stop="20260111034200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home Life &amp; Style | Caspian Lake |  Season 1; Episode 6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111034200 +0800" stop="20260111040800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Clemente Local Fishing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111040800 +0800" stop="20260111042300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cacao</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111042300 +0800" stop="20260111050100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style East Chop | Season 1; Episode 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111050100 +0800" stop="20260111053600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion Taste Of Mexico S04-E06</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111053600 +0800" stop="20260111053900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Meet The Pitmaster - Chef Ara Malekian Of Harlem Road Texas Barbeque</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111053900 +0800" stop="20260111062200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Cook ipoh kai si hor Fun Claypot Chicken Rice</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111062200 +0800" stop="20260111062600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creative Table Settings Marine style</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111062600 +0800" stop="20260111072000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">U Chef Cooking</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111072000 +0800" stop="20260111073500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Avignon - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111073500 +0800" stop="20260111074700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Host Parker Kelley with Chef Rui Correia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111074700 +0800" stop="20260111082300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home Life &amp; Style | S1 E11; West Hartford Episode</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111082300 +0800" stop="20260111090600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">U Chef Cooking</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111090600 +0800" stop="20260111094300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Snow's Bbq With Tootsie, Kerry And Clay Before Chef's Table</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111094300 +0800" stop="20260111100100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Brisket Prime Low &amp; Slow vs Choice hot &amp; Fast</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111100100 +0800" stop="20260111100700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Utah Fish &amp; Game Cutthroat</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111100700 +0800" stop="20260111104000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America S3 E11 - Wild Game</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111104000 +0800" stop="20260111110100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Indian Catalina Fishing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111110100 +0800" stop="20260111110600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Mariscos Jalisco Taquitos Directo De Mar Episodio 6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111110600 +0800" stop="20260111111200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Al Grassi Restaurant Champagnerie</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111111200 +0800" stop="20260111111300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Coq Au Riesling Pasta</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111111300 +0800" stop="20260111112900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Mills Of Kinderdijk - Netherlands</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111112900 +0800" stop="20260111113100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creamy Baked Spaghetti</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111113100 +0800" stop="20260111120400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How To Cook Ketupat Sotong Singgang Ikan Tongkol Asam Pedas Melaka Salmon Percik Rendang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111120400 +0800" stop="20260111124000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Ksar Of AIT-Ben-Haddou - Morocco</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111124000 +0800" stop="20260111125500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Sian Ka'an Biosphere Reserve - Mexico</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111125500 +0800" stop="20260111131200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Abbey Of Fontenay - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111131200 +0800" stop="20260111131500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Egg Plant Parmesan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111131500 +0800" stop="20260111132100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Crispy Calamari Vegetables</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111132100 +0800" stop="20260111133600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Brussels - Belgium</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111133600 +0800" stop="20260111141000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Lisbon - Portugal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111141000 +0800" stop="20260111143900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Cook-Vegan Kolo Mee | Vegan Kompia | Vegan Roti Canai &amp; Dhal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111143900 +0800" stop="20260111144000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chocolate Pie With Cookie Cake Crust</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111144000 +0800" stop="20260111144200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cream Pyramid with Fruits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111144200 +0800" stop="20260111150000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Upper Middle Rhine Valley - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111150000 +0800" stop="20260111151500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Provins - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111151500 +0800" stop="20260111151900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Eggs Encocotte With White Albatruffles</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111151900 +0800" stop="20260111153400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Hortobágy National Park - Hungary</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111153400 +0800" stop="20260111154000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Al Grassi Presentation</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111154000 +0800" stop="20260111155500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Easy Texas Style Smoked Ribs and Turkey | Barbeque Spare Ribs - Turkey recipe</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111155500 +0800" stop="20260111155800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Almond Crunch</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111155800 +0800" stop="20260111161400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Guimaraes - Portugal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111161400 +0800" stop="20260111163100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Tokaj-Hegyalja Wine Region - Hungary And Slovakia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111163100 +0800" stop="20260111164200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Bomb Barbeque</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111164200 +0800" stop="20260111171300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Edinburgh - Scotland</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111171300 +0800" stop="20260111171800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">U Chef Cooking - Stuffed Peppers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111171800 +0800" stop="20260111173400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Trier - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111173400 +0800" stop="20260111180700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Potsdam And Berlin - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111180700 +0800" stop="20260111181200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Braised Beef Barolo Wine</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111181200 +0800" stop="20260111190400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Petra - Jordan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111190400 +0800" stop="20260111190700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Crème Brule with Bananas</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111190700 +0800" stop="20260111192400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Avignon - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111192400 +0800" stop="20260111193900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Biblical Tels - Megiddo, Hazor, Beer Sheba - Israel</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111193900 +0800" stop="20260111195600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Augustusburg and Falkenlust Palaces - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111195600 +0800" stop="20260111201100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Orange - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111201100 +0800" stop="20260111201400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chocolate Chip Zucchini Muffins</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111201400 +0800" stop="20260111201700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chicken Teriyaki</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111201700 +0800" stop="20260111203200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Mycenae - Greece</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111203200 +0800" stop="20260111210900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home Life &amp; Style | Caspian Lake |  Season 1; Episode 6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111210900 +0800" stop="20260111212600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Amiens Cathedral - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111212600 +0800" stop="20260111212900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Duck Breast with Balsamic Vinegar and Fig Marmalade</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111212900 +0800" stop="20260111213800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Duck Breast Salad with Rasp Berries</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111213800 +0800" stop="20260111220100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">East Cape, Mexico Marlin Fishing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111220100 +0800" stop="20260111223400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style  Concord | Season 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111223400 +0800" stop="20260111225000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Matera - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111225000 +0800" stop="20260111234100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Florence - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111234100 +0800" stop="20260111234700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Taco Locale</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260111234700 +0800" stop="20260112000500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Sacri Monti Of Piedmont And Lombardy - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112000500 +0800" stop="20260112000600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Crockpot Mexican Shredded Chicken</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112000600 +0800" stop="20260112003400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style | Narragansett Ri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112003400 +0800" stop="20260112010800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Bryggen - Norway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112010800 +0800" stop="20260112021400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Easy Fruit Agar Spicy Prawn and Coconut Broth</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112021400 +0800" stop="20260112025100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style Norwell | Season 1; Episode 9</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112025100 +0800" stop="20260112030600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jelling Mounds, Runic Stones And Church - Denmark</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112030600 +0800" stop="20260112034100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion Italy | Season 4; Episode 11</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112034100 +0800" stop="20260112034400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M Penang Char Kway Teow With Lobster &amp; Tobiko</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112034400 +0800" stop="20260112041800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Old Quebec - Canada</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112041800 +0800" stop="20260112042000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">3 Things to Obtain &amp; Maintain Good Health</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112042000 +0800" stop="20260112043800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jesuit Missions - Paraguay</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112043800 +0800" stop="20260112045900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">American Green Super Foods</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112045900 +0800" stop="20260112050200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creamy Almond Coconut Cashew Coffee</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112050200 +0800" stop="20260112053200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">CTV60BananasScreenerMaster</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112053200 +0800" stop="20260112060400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Hadrian's Wall - United Kingdom</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112060400 +0800" stop="20260112062900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Gail Force Calico Bass Fishing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112062900 +0800" stop="20260112063300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creative Table Settings Marine style</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112063300 +0800" stop="20260112065000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Cinque Terre - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112065000 +0800" stop="20260112065500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M How To Make Chicken Lorbak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112065500 +0800" stop="20260112070300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Cook Simple Malaysian Mee Goreng - Street Eats Journey | Season 3; Episode 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112070300 +0800" stop="20260112070500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Coffee Rubbed Burger</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112070500 +0800" stop="20260112070700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Rasheed Rice_ The Game-Changer for the Chiefs_ Season!</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112070700 +0800" stop="20260112072300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Great Stupa Or Sanchi Stupa - India</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112072300 +0800" stop="20260112075700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style | Bay Club</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112075700 +0800" stop="20260112081200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Elephant Caves - India</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112081200 +0800" stop="20260112082900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Speyer - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112082900 +0800" stop="20260112085300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M How To Cook Assam Laksa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112085300 +0800" stop="20260112090000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Caramelized Apple in Chocolate Sauce</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112090000 +0800" stop="20260112093200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Bryggen - Norway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112093200 +0800" stop="20260112100000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion |  S03-E02-Sons</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112100000 +0800" stop="20260112101800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Humayun's Tomb - India</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112101800 +0800" stop="20260112104600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | Season 3; Episode 7 - Pork Tend</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112104600 +0800" stop="20260112104800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Country Apple Fritter Bread</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112104800 +0800" stop="20260112105900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Bomb Barbeque</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112105900 +0800" stop="20260112110400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbaresco Grapes Harvest</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112110400 +0800" stop="20260112114000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Cook Nyonya Vermicelli Kerabu, Kapitan Chicken Curry &amp; Sambal Udang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112114000 +0800" stop="20260112114400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Dandelion Flan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112114400 +0800" stop="20260112114500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creamy Lemon Broccoli Pasta</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112114500 +0800" stop="20260112123400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Florence - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112123400 +0800" stop="20260112130500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America S3 E12 - Woodbridge Australia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112130500 +0800" stop="20260112131600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">John Shaver Y Tu Que</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112131600 +0800" stop="20260112132000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Are the Chiefs the Class of the AFC This Season_</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112132000 +0800" stop="20260112132400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M How To Cook Penang Asam Pedas</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112132400 +0800" stop="20260112133400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Make a Brisket Pastrami in One Day.</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112133400 +0800" stop="20260112140600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How To Cook Ketupat Sotong Singgang Ikan Tongkol Asam Pedas Melaka Salmon Percik Rendang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260112140600 +0800" stop="20260112235959 +0800" channel="Travel &amp; Food TV">
     <title lang="zh">节目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -65512,14 +66608,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="中视">
-    <title lang="zh">旧金山美容院</title>
-    <desc lang="zh">三个家庭牵扯出的商战、家庭和情感纠葛的故事。</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108035800 +0000" channel="中视">
-    <title lang="zh">绕著幸福转</title>
-    <desc lang="zh">健康资讯节目。</desc>
-  </programme>
   <programme start="20260108035800 +0000" stop="20260108050000 +0000" channel="中视">
     <title lang="zh">中视午间新闻</title>
     <desc lang="zh">「中视午间新闻」每天以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻，并提供最新股市收盘价格。</desc>
@@ -65867,14 +66955,6 @@
   <programme start="20260111220000 +0000" stop="20260111230000 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260108020000 +0000" stop="20260108025800 +0000" channel="华视">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">北宋仁宗年间，开封府尹包拯，人称包青天，为官清廉，为民伸冤，不畏强权，除恶务尽，较脍炙人口的单元有「秦香莲」、「真假状元」、「狸猫换太子」等。</desc>
-  </programme>
-  <programme start="20260108025800 +0000" stop="20260108035800 +0000" channel="华视">
-    <title lang="zh">包青天</title>
-    <desc lang="zh">北宋仁宗年间，开封府尹包拯，人称包青天，为官清廉，为民伸冤，不畏强权，除恶务尽，较脍炙人口的单元有「秦香莲」、「真假状元」、「狸猫换太子」等。</desc>
   </programme>
   <programme start="20260108035800 +0000" stop="20260108050000 +0000" channel="华视">
     <title lang="zh">华视午间新闻</title>
@@ -66239,18 +67319,6 @@
   <programme start="20260111220000 +0000" stop="20260111230000 +0000" channel="华视">
     <title lang="zh">三国演议</title>
     <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260108023000 +0000" stop="20260108030000 +0000" channel="好消息2台">
-    <title lang="zh">生命的触动</title>
-    <desc lang="zh">在像是查尔斯史丹利牧师等知名事工或牧师引领下，带领教友导读圣经，以深入浅出的话语，引用圣经中的智慧，宣扬上帝启示。</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="好消息2台">
-    <title lang="zh">道在人间(国)</title>
-    <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
-  </programme>
-  <programme start="20260108040000 +0000" stop="20260108040500 +0000" channel="好消息2台">
-    <title lang="zh">遇见祝福</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260108040500 +0000" stop="20260108050000 +0000" channel="好消息2台">
     <title lang="zh">真情部落格</title>
@@ -67175,22 +68243,6 @@
   <programme start="20260113073000 +0000" stop="20260113080000 +0000" channel="好消息2台">
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260108020000 +0000" stop="20260108025000 +0000" channel="好消息">
-    <title lang="zh">家庭８点档转转发现爱</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260108025000 +0000" stop="20260108030000 +0000" channel="好消息">
-    <title lang="zh">机智青年生活</title>
-    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108033000 +0000" channel="好消息">
-    <title lang="zh">爱＋好医生</title>
-    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
-  </programme>
-  <programme start="20260108033000 +0000" stop="20260108040000 +0000" channel="好消息">
-    <title lang="zh">天堂敬拜</title>
-    <desc lang="zh">敬拜与祷告是基督徒生命中不可少的两件事。新的一年，让我们用敬拜与祷告翻开得胜的新篇章。</desc>
   </programme>
   <programme start="20260108040000 +0000" stop="20260108043000 +0000" channel="好消息">
     <title lang="zh">福气人生</title>
@@ -68124,14 +69176,6 @@
     <title lang="zh">道在人间(国)</title>
     <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">旗旗号巡洋舰</title>
-    <desc lang="zh">一天晚上，皮皮鲁收到旗旗号模型的召唤，进入到了玩具世界。为了回家，必须寻找传说中的童童港并搜集碎片，在途中，收获了五名船员伙伴，皮皮鲁要如何和他们一起完成冒险呢？</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="ELTV生活英语台">
-    <title lang="zh">Badanamu说故事</title>
-    <desc lang="zh">巴塔木说故事带你走进萌翻天的动物世界！每集故事爆可爱，情节趣味满满，让宝宝笑声停不下来！还有超Q角色陪著学知识，爱上阅读超轻松！动画生动＋剧情魔性，家长孩子一起沉浸的亲子神器！快来和宝宝一起开启这场暖心又爆笑的故事旅程！</desc>
-  </programme>
   <programme start="20260108040000 +0000" stop="20260108043000 +0000" channel="ELTV生活英语台">
     <title lang="zh">快乐DoReMi</title>
     <desc lang="zh">学习英文的方法千百种，练唱英文歌曲是最轻松愉快的方式之一。本清单节目集结了动听的英文儿歌MV，适合父母带著孩子一起欣赏，在唱唱跳跳的过程中，增进亲子情感，也配合动人旋律，学习英文。</desc>
@@ -68651,18 +69695,6 @@
   <programme start="20260112220000 +0000" stop="20260112230000 +0000" channel="ELTV生活英语台">
     <title lang="zh">猫头鹰探险队</title>
     <desc lang="zh">猫头鹰探险队出发了，三只可爱的猫头鹰，每天要面对各种挑战。但是友谊和团队合作，就能战胜一切。全英语发音卡通，小朋友学习英语的好伙伴！</desc>
-  </programme>
-  <programme start="20260108023000 +0000" stop="20260108030000 +0000" channel="龙华卡通台">
-    <title lang="zh">酷奇银河游骑队</title>
-    <desc lang="zh">聪明仓鼠吉克、勇敢松鼠露比、大力狗狗阿力，还有疾速猫咪闪电，组成了宇宙最酷的超级英雄组合！他们帮助其他星球的居民解决问题，保护银河系，并对抗邪恶又神秘的铁鹰怪！</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108033000 +0000" channel="龙华卡通台">
-    <title lang="zh">月月、阿奇与小墨：森林保卫队GO</title>
-    <desc lang="zh">当小动物们需要帮助，猫头鹰月月、河狸阿奇和章鱼小墨组成的森林保卫队就会出动，结合海陆空视角制定完美计划！因为帮助他人不只是对的事，也是有趣的事！森林保卫队GO！</desc>
-  </programme>
-  <programme start="20260108033000 +0000" stop="20260108040000 +0000" channel="龙华卡通台">
-    <title lang="zh">月月、阿奇与小墨：森林保卫队GO</title>
-    <desc lang="zh">当小动物们需要帮助，猫头鹰月月、河狸阿奇和章鱼小墨组成的森林保卫队就会出动，结合海陆空视角制定完美计划！因为帮助他人不只是对的事，也是有趣的事！森林保卫队GO！</desc>
   </programme>
   <programme start="20260108040000 +0000" stop="20260108043000 +0000" channel="龙华卡通台">
     <title lang="zh">彼得与狼奇遇记</title>
@@ -69656,14 +70688,6 @@
     <title lang="zh">彼得与狼奇遇记</title>
     <desc lang="zh">擅长解决问题的小学生彼得，在路上救了一只狼后，意外展开穿越时空的奇幻冒险！勇者与恶龙、精灵与半人马、复制人与隐形人……彼得与狼的精采奇遇，就此展开！</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="亚洲旅游台">
     <title lang="zh">型男闯世界</title>
     <desc lang="zh">《型男闯世界》前往世界各地的特殊景点或深山秘境，挑战极限运动，寻找奇人异事、踏寻隐身在丛林边境的传说、进行各种挑战及探险。</desc>
@@ -70160,14 +71184,6 @@
     <title lang="zh">世界跟我这Young玩</title>
     <desc lang="zh">《世界跟我这YOUNG玩》，由刘沛颖担任主持人，不同于以往行脚节目内容，采用时下年轻人最爱的随拍纪录、热门景点打卡，即时记录独自出游的状况与趣事，并以女性的角度出发，鼓励女生可以带著勇敢与热情踏上环游世界的梦想之旅，也可独立解决所有困难，强调一个女生的旅行也可以很精采。</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="Smart知识台">
-    <title lang="zh">健康2.0</title>
-    <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="Smart知识台">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">东森综合台全新益智实境节目，「全民星攻略」，由馆长曾国城担任把关者，考验著每个来挑战九宫格益智游戏艺人明星。想要攻略九宫格关卡，透过创意联想、逻辑推理、理想分析，才有机会获取智慧星币，带走梦幻大奖。</desc>
-  </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="Smart知识台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
@@ -70627,14 +71643,6 @@
   <programme start="20260112220000 +0000" stop="20260112230000 +0000" channel="Smart知识台">
     <title lang="zh">健康2.0</title>
     <desc lang="zh">在节目中，将以各种深入浅出的方式，检测时下流行的健康产品的效用，示范健康烹调与运动方法，并与观众分享照顾家人的健康资讯与心得。</desc>
-  </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="龙华戏剧台">
-    <title lang="zh">三国</title>
-    <desc lang="zh">距今一千八百多年前，汉帝国衰败积重难返，长安城内董卓荒淫无度、滥杀无辜，引起举国义愤，而以曹操为首歼灭董卓，造就了群雄割据，至赤壁之战后三国鼎立，再到司马氏篡魏，天下归晋为止，这个英雄辈出、波澜壮阔的大传奇时代终于结束。而其中的英雄人物和动人故事，仍被传颂至今。</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="龙华戏剧台">
-    <title lang="zh">三国</title>
-    <desc lang="zh">距今一千八百多年前，汉帝国衰败积重难返，长安城内董卓荒淫无度、滥杀无辜，引起举国义愤，而以曹操为首歼灭董卓，造就了群雄割据，至赤壁之战后三国鼎立，再到司马氏篡魏，天下归晋为止，这个英雄辈出、波澜壮阔的大传奇时代终于结束。而其中的英雄人物和动人故事，仍被传颂至今。</desc>
   </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="龙华戏剧台">
     <title lang="zh">上阳赋</title>
@@ -71132,10 +72140,6 @@
     <title lang="zh">大汉天子2</title>
     <desc lang="zh">接续第一集的剧情，武帝叹息当年如兄如弟的「太子党」，具已烟散。张汤、郭舍人、灌夫已死，唯一仍在人世的李陵陷落匈奴。他倚为智囊的东方朔也一去不返。如今，他希望再集合一群那样的贤才猛士，做他的左膀右臂。</desc>
   </programme>
-  <programme start="20260108023000 +0000" stop="20260108040000 +0000" channel="台湾戏剧台">
-    <title lang="zh">蓝色水玲珑</title>
-    <desc lang="zh">推出全新三大系列，分别为阴阳有情天、夜迷离及神秘记事簿，剧情有动人的人世间的亲情，至死不渝的男女情爱，天理报应的因果事件等，这些充斥在社会上的爱恨情仇，令人匪夷所思的事件，带来另一种不同的诠释角度。</desc>
-  </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="台湾戏剧台">
     <title lang="zh">关键时刻</title>
     <desc lang="zh">行政院劳工委员会劳工安全卫生研究所制作的3D立体动画「关键时刻」，于第十八届世界职业安全卫生大会荣获国际安全卫生影片首奖，大会并以「非常创新的手法」盛赞得奖单位-行政院劳委会劳工安全卫生研究所，对于职场安全卫生教育宣导所做出的贡献。</desc>
@@ -71603,14 +72607,6 @@
   <programme start="20260112223000 +0000" stop="20260112230000 +0000" channel="台湾戏剧台">
     <title lang="zh">亲戚不计较</title>
     <desc lang="zh">由卓胜利、李锣等人主演，本剧虽以喜剧的方式呈现，但笑中有泪，泪中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260108024000 +0000" stop="20260108032000 +0000" channel="东森购物1台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260108032000 +0000" stop="20260108040000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260108040000 +0000" stop="20260108044000 +0000" channel="东森购物1台">
     <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
@@ -72356,14 +73352,6 @@
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="龙华偶像台">
-    <title lang="zh">被告人</title>
-    <desc lang="zh">首尔中央地方检察厅王牌检察官朴政宇，和他的妻子一同庆祝女儿夏燕六岁生日的这一夜，他变成司法史上第一位杀死妻女的嫌犯检察官，更糟糕的是他对于这一连串的事情都失去记忆…那一夜到底发生了什么事呢？</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="龙华偶像台">
-    <title lang="zh">好好生活</title>
-    <desc lang="zh">《好好生活》由陈铭章、陈世峄执导，林雨申、蔡文静领衔主演，邹廷威、姜妍主演的都市欢脱治愈轻喜剧。讲述了吴忧领证当天因为车祸放了男友鸽子，男友分手出国，吴忧伤心寄情工作，却与「大魔王」何西亚擦出火花，两人斗智斗勇成为欢喜冤家的故事。</desc>
-  </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="龙华偶像台">
     <title lang="zh">风起西州</title>
     <desc lang="zh">风起霓裳续集。库狄琉璃与裴行俭婚后琴瑟和鸣，夫唱妇随。后裴行俭被贬。琉璃陪伴丈夫远赴西州上任，与当地世子曲崇裕相识的故事。</desc>
@@ -72876,14 +73864,6 @@
     <title lang="zh">红天机</title>
     <desc lang="zh">架空韩国历史剧。御容画师之女红天机（金裕贞）是命定拥有神力的天才画工，出生时因魔王诅咒而失明，后来又意外复明。她与贵族出身拥有唤水灵力的书文观主簿河览（安孝燮）有命定缘份，但热爱艺术的三王子李律（孔明）却也爱上了她…</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="龙华日韩台">
-    <title lang="zh">金装律师</title>
-    <desc lang="zh">崔江锡（张东健）是律师事务所的首席合伙人兼王牌律师，他偶然发现高延宇（朴炯植）虽没念过法学院，但却聪明绝顶并拥有照相般记忆，自小梦想成为律师的他却因负担不起学费而无法成为律师。江锡看中延宇的才能而雇用他，两人成为黄金搭档…</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="龙华日韩台">
-    <title lang="zh">金装律师</title>
-    <desc lang="zh">崔江锡（张东健）是律师事务所的首席合伙人兼王牌律师，他偶然发现高延宇（朴炯植）虽没念过法学院，但却聪明绝顶并拥有照相般记忆，自小梦想成为律师的他却因负担不起学费而无法成为律师。江锡看中延宇的才能而雇用他，两人成为黄金搭档…</desc>
-  </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="龙华日韩台">
     <title lang="zh">奔跑吧蔷薇</title>
     <desc lang="zh">出身富裕的白蔷薇（李英雅）待人十分亲切，最后透过相亲和皮肤科医生结婚。没想到父亲的意外身亡，让她陷入经济困境，就连丈夫也背叛了她。万念俱灰下，蔷薇失去生活的重心，甚至徘徊在生死的边缘。直到对料理的热情让她重拾希望，进而进入SL食品公司工作，开启了她和黄太子（高周元）的不解之缘…</desc>
@@ -73379,14 +74359,6 @@
   <programme start="20260113070000 +0000" stop="20260113080000 +0000" channel="龙华日韩台">
     <title lang="zh">母亲</title>
     <desc lang="zh">一位一直牺牲自己为子女付出全部的伟大母亲（车和娟），发现子女成为了自己的精神枷锁和负担，从而向子女展开报复行动的故事。</desc>
-  </programme>
-  <programme start="20260108024000 +0000" stop="20260108032000 +0000" channel="东森购物2台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260108032000 +0000" stop="20260108040000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260108040000 +0000" stop="20260108044000 +0000" channel="东森购物2台">
     <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
@@ -74132,14 +75104,6 @@
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="华视新闻">
-    <title lang="zh">华视1000新闻抢先报</title>
-    <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108035800 +0000" channel="华视新闻">
-    <title lang="zh">华视1100新闻抢先报</title>
-    <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
-  </programme>
   <programme start="20260108035800 +0000" stop="20260108050000 +0000" channel="华视新闻">
     <title lang="zh">华视午间新闻</title>
     <desc lang="zh">华视午间新闻由最专业的华视主播，带给观众朋友更多元化的新闻。</desc>
@@ -74612,10 +75576,6 @@
     <title lang="zh">华视1500整点新闻</title>
     <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
   </programme>
-  <programme start="20260107220000 +0000" stop="20260108040000 +0000" channel="倪珍播新闻">
-    <title lang="zh">早安新闻</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260108040000 +0000" stop="20260108100000 +0000" channel="倪珍播新闻">
     <title lang="zh">午安新闻</title>
     <desc lang="zh">暂无描述</desc>
@@ -74699,14 +75659,6 @@
   <programme start="20260113040000 +0000" stop="20260113080000 +0000" channel="倪珍播新闻">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260108015500 +0000" stop="20260108025500 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1000整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260108025500 +0000" stop="20260108035500 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1100整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
   </programme>
   <programme start="20260108035500 +0000" stop="20260108060000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">iNEWS财经午报</title>
@@ -75127,14 +76079,6 @@
   <programme start="20260112220000 +0000" stop="20260112230000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">2300iNEWS财经夜世界</title>
     <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="寰宇财经台">
-    <title lang="zh">台股线上</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="寰宇财经台">
-    <title lang="zh">台股线上</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="寰宇财经台">
     <title lang="zh">台股线上</title>
@@ -75596,14 +76540,6 @@
     <title lang="zh">小食光台味志</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108035800 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
   <programme start="20260108035800 +0000" stop="20260108050000 +0000" channel="中视新闻">
     <title lang="zh">中视午间新闻</title>
     <desc lang="zh">「中视午间新闻」每天以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻，并提供最新股市收盘价格。</desc>
@@ -75968,14 +76904,6 @@
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1000整点新闻</title>
-    <desc lang="zh">每日上午十点，中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1100午前新闻</title>
-    <desc lang="zh">每日上午十一点，中天新闻将带给你上午的最新消息报导，快速掌握午前新闻，以及最新疫情新闻消息、疫情指挥中心直播、今日确诊人数统计等重大新闻转播报导。</desc>
-  </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="中天新闻台">
     <title lang="zh">中天新闻 1200正午新闻</title>
     <desc lang="zh">中天正午新闻带给您最新的国内外大事，掌握天下，以及最新疫情新闻消息、疫情指挥中心直播、今日确诊人数统计等重大新闻转播报导。</desc>
@@ -76147,14 +77075,6 @@
   <programme start="20260109220000 +0000" stop="20260109230000 +0000" channel="中天新闻台">
     <title lang="zh">中天新闻 中天晨报</title>
     <desc lang="zh">每天早晨时段，由早报主播与您一起读报，看遍天下事。</desc>
-  </programme>
-  <programme start="20260108015500 +0000" stop="20260108025500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇午间新闻</title>
-    <desc lang="zh">寰宇午间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
-  <programme start="20260108025500 +0000" stop="20260108035500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇午间新闻</title>
-    <desc lang="zh">寰宇午间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
   </programme>
   <programme start="20260108035500 +0000" stop="20260108045500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇午间新闻</title>
@@ -76631,14 +77551,6 @@
   <programme start="20260113040000 +0000" stop="20260113080000 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260108015500 +0000" stop="20260108025500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球现场</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260108025500 +0000" stop="20260108035500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球现场</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260108035500 +0000" stop="20260108045500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球现场</title>
@@ -77119,14 +78031,6 @@
   <programme start="20260113040000 +0000" stop="20260113080000 +0000" channel="寰宇新闻台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260108023000 +0000" stop="20260108030000 +0000" channel="第1商业台">
-    <title lang="zh">财经资讯</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260108030000 +0000" stop="20260108040000 +0000" channel="第1商业台">
-    <title lang="zh">财经资讯</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="第1商业台">
     <title lang="zh">财经资讯</title>
@@ -78512,10 +79416,6 @@
     <title lang="zh">收播</title>
     <desc lang="zh">目前无播出节目。</desc>
   </programme>
-  <programme start="20260108020000 +0000" stop="20260108040500 +0000" channel="龙华电影台">
-    <title lang="zh">赌神3之少年赌神</title>
-    <desc lang="zh">六八年夏天，高姓纱厂老板因赌而家破人亡。其子高进（黎明）从此丧失家园，加入了老千集团学习赌术，到了十七岁成为独当一面的老千。但就在赌神大赛中高进被师父出卖，遭人枪击而陷入植物人状态，暗恋他的七姑娘（袁咏仪）对他尽心照顾…</desc>
-  </programme>
   <programme start="20260108040500 +0000" stop="20260108064000 +0000" channel="龙华电影台">
     <title lang="zh">悟空传</title>
     <desc lang="zh">五百年前，天庭分为三六九等，而出身低贱的悟空，却狂傲不羁，藐视神权，大破各处规章戒律，无视尊佛星仙，向天地诸神发起抗争。结界桥之战，悟空等人不慎落入凡间，虽历尽浩劫，却收获爱情与友情。然而，所有命运早已注定，无奈宿命难改，迷茫与挫败，属于青春不朽的奋战正将展开…</desc>
@@ -78787,10 +79687,6 @@
   <programme start="20260113070500 +0000" stop="20260113073500 +0000" channel="龙华电影台">
     <title lang="zh">超人力霸王杰特</title>
     <desc lang="zh">过去曾经四散在宇宙各处的恶魔碎片，现在又再度让全宇宙陷入了混乱。 为了夺回和平的生活，超人力霸王们不停地在宇宙中奋战。与此同时，滥用恶魔碎片并陆续毁灭行星的神秘存在，也正在私底下进行卑劣的活动。 随后，邪恶的魔掌也终于伸向了「光之国」…</desc>
-  </programme>
-  <programme start="20260108013500 +0000" stop="20260108033500 +0000" channel="龙华洋片台">
-    <title lang="zh">卢安达日记</title>
-    <desc lang="zh">1994年卢安达大屠杀爆发，胡图族人屠杀超过80万名图西族人。一名图西族父亲威廉与他的家人进入肯亚难民营，为了让家人平安无虞，他独自前往美国。威廉在美国认识了善良的蓝迪，两人一同创建希望之村，帮助来自其他国家、受战争蹂躏的难民家庭，威廉也与家人在美国团聚…</desc>
   </programme>
   <programme start="20260108033500 +0000" stop="20260108054500 +0000" channel="龙华洋片台">
     <title lang="zh">反恐行动：独立日</title>
@@ -177396,11 +178292,11 @@
     <title lang="zh">Setiaku Berdiri Ep18</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108110000 +0800" stop="20260108120000 +0800" channel="Astro_Prima">
+  <programme start="20260108110000 +0800" stop="20260108120500 +0800" channel="Astro_Prima">
     <title lang="zh">(L) Borak SeeNI S2 Ep05</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108120000 +0800" stop="20260108130000 +0800" channel="Astro_Prima">
+  <programme start="20260108120500 +0800" stop="20260108130000 +0800" channel="Astro_Prima">
     <title lang="zh">Bocey &amp; Friends Live Ep07</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -181608,12 +182504,8 @@
     <title lang="zh">Aanantha Sirippu</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108113000 +0800" stop="20260108120000 +0800" channel="Adithya">
+  <programme start="20260108113000 +0800" stop="20260108123000 +0800" channel="Adithya">
     <title lang="zh">Adithya Paarunga Aarokyama Irunga</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260108120000 +0800" stop="20260108123000 +0800" channel="Adithya">
-    <title lang="zh">Good Morning Adithyans</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108123000 +0800" stop="20260108133000 +0800" channel="Adithya">
@@ -182376,12 +183268,36 @@
     <title lang="zh">Start Music S6</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108103000 +0800" stop="20260108120000 +0800" channel="Star_Vijay_HD">
+  <programme start="20260108103000 +0800" stop="20260108113700 +0800" channel="Star_Vijay_HD">
     <title lang="zh">Bigg Boss Tamil S9</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108120000 +0800" stop="20260108150000 +0800" channel="Star_Vijay_HD">
-    <title lang="zh">Movie</title>
+  <programme start="20260108113700 +0800" stop="20260108120500 +0800" channel="Star_Vijay_HD">
+    <title lang="zh">Magale En Marumagale</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108120500 +0800" stop="20260108123300 +0800" channel="Star_Vijay_HD">
+    <title lang="zh">Mahanadhi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108123300 +0800" stop="20260108130000 +0800" channel="Star_Vijay_HD">
+    <title lang="zh">Sindhu Bairavi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108130000 +0800" stop="20260108133000 +0800" channel="Star_Vijay_HD">
+    <title lang="zh">Chinna Marumagal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108133000 +0800" stop="20260108140000 +0800" channel="Star_Vijay_HD">
+    <title lang="zh">Pandian Stores 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108140000 +0800" stop="20260108143000 +0800" channel="Star_Vijay_HD">
+    <title lang="zh">Ayyanar Thunai</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260108143000 +0800" stop="20260108150000 +0800" channel="Star_Vijay_HD">
+    <title lang="zh">Siragadikka Aasai</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108150000 +0800" stop="20260108153000 +0800" channel="Star_Vijay_HD">
@@ -206820,12 +207736,12 @@
     <title lang="zh">Mr Zombie</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260109060000 +0700" stop="20260109073000 +0700" channel="ANTV">
-    <title lang="zh">Catatan Hati</title>
+  <programme start="20260109060000 +0700" stop="20260109080000 +0700" channel="ANTV">
+    <title lang="zh">Pertarungan</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260109073000 +0700" stop="20260109093000 +0700" channel="ANTV">
-    <title lang="zh">Pertarungan</title>
+  <programme start="20260109080000 +0700" stop="20260109093000 +0700" channel="ANTV">
+    <title lang="zh">Catatan Hati</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260109093000 +0700" stop="20260109130000 +0700" channel="ANTV">
@@ -218576,16 +219492,8 @@
     <title lang="zh">Dora</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260109130000 +0700" stop="20260109133000 +0700" channel="Kids TV">
-    <title lang="zh">The Patrick Star Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260109133000 +0700" stop="20260109140000 +0700" channel="Kids TV">
-    <title lang="zh">Kamp Koral</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260109140000 +0700" stop="20260109143000 +0700" channel="Kids TV">
-    <title lang="zh">Titus The Detective</title>
+  <programme start="20260109130000 +0700" stop="20260109143000 +0700" channel="Kids TV">
+    <title lang="zh">Teenage Mutant Ninja Turtle</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260109143000 +0700" stop="20260109163000 +0700" channel="Kids TV">
@@ -218864,16 +219772,8 @@
     <title lang="zh">Dora</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260109130000 +0700" stop="20260109133000 +0700" channel="Kids TV HD">
-    <title lang="zh">The Patrick Star Show</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260109133000 +0700" stop="20260109140000 +0700" channel="Kids TV HD">
-    <title lang="zh">Kamp Koral</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260109140000 +0700" stop="20260109143000 +0700" channel="Kids TV HD">
-    <title lang="zh">Titus The Detective</title>
+  <programme start="20260109130000 +0700" stop="20260109143000 +0700" channel="Kids TV HD">
+    <title lang="zh">Teenage Mutant Ninja Turtle</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260109143000 +0700" stop="20260109163000 +0700" channel="Kids TV HD">
@@ -221436,12 +222336,12 @@
     <title lang="zh">Terbaik</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108111500 +0700" stop="20260108131500 +0700" channel="Music TV">
-    <title lang="zh">DMD Panggung Rezeki</title>
+  <programme start="20260108111500 +0700" stop="20260108120000 +0700" channel="Music TV">
+    <title lang="zh">Godain</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108131500 +0700" stop="20260108140000 +0700" channel="Music TV">
-    <title lang="zh">Godain</title>
+  <programme start="20260108120000 +0700" stop="20260108140000 +0700" channel="Music TV">
+    <title lang="zh">DMD Panggung Rezeki</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108140000 +0700" stop="20260108143000 +0700" channel="Music TV">
@@ -221516,12 +222416,12 @@
     <title lang="zh">Terbaik</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260109111500 +0700" stop="20260109131500 +0700" channel="Music TV">
-    <title lang="zh">DMD Panggung Rezeki</title>
+  <programme start="20260109111500 +0700" stop="20260109120000 +0700" channel="Music TV">
+    <title lang="zh">Godain</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260109131500 +0700" stop="20260109140000 +0700" channel="Music TV">
-    <title lang="zh">Godain</title>
+  <programme start="20260109120000 +0700" stop="20260109140000 +0700" channel="Music TV">
+    <title lang="zh">DMD Panggung Rezeki</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260109140000 +0700" stop="20260109143000 +0700" channel="Music TV">
@@ -221596,12 +222496,12 @@
     <title lang="zh">Terbaik</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108111500 +0700" stop="20260108131500 +0700" channel="Music TV HD">
-    <title lang="zh">DMD Panggung Rezeki</title>
+  <programme start="20260108111500 +0700" stop="20260108120000 +0700" channel="Music TV HD">
+    <title lang="zh">Godain</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260108131500 +0700" stop="20260108140000 +0700" channel="Music TV HD">
-    <title lang="zh">Godain</title>
+  <programme start="20260108120000 +0700" stop="20260108140000 +0700" channel="Music TV HD">
+    <title lang="zh">DMD Panggung Rezeki</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108140000 +0700" stop="20260108143000 +0700" channel="Music TV HD">
@@ -221676,12 +222576,12 @@
     <title lang="zh">Terbaik</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260109111500 +0700" stop="20260109131500 +0700" channel="Music TV HD">
-    <title lang="zh">DMD Panggung Rezeki</title>
+  <programme start="20260109111500 +0700" stop="20260109120000 +0700" channel="Music TV HD">
+    <title lang="zh">Godain</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260109131500 +0700" stop="20260109140000 +0700" channel="Music TV HD">
-    <title lang="zh">Godain</title>
+  <programme start="20260109120000 +0700" stop="20260109140000 +0700" channel="Music TV HD">
+    <title lang="zh">DMD Panggung Rezeki</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260109140000 +0700" stop="20260109143000 +0700" channel="Music TV HD">
@@ -221718,10 +222618,6 @@
   </programme>
   <programme start="20260109223000 +0700" stop="20260109233000 +0700" channel="Music TV HD">
     <title lang="zh">Aishiteru</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260108000000 +0700" stop="20260108003000 +0700" channel="Muslim TV">
-    <title lang="zh">Para Malaikat Di Sekitar Kita</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260108003000 +0700" stop="20260108023000 +0700" channel="Muslim TV">
