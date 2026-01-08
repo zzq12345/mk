@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260108030000 +0800" stop="20260108050000 +0800" channel="mbc max">
-    <title lang="en">Night School</title>
-    <desc lang="en">A group of troublemakers are forced to attend night schoolin the hope that they'll pass the GED exam to finish high school.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260108050000 +0800" stop="20260108070000 +0800" channel="mbc max">
     <title lang="en">Dumplin'</title>
     <desc lang="en">Willowdean ('Dumplin'), is a full-bodied teenager and thedaughter of a former beauty queen, who signs up in the Miss Bluebonnet Teen Pageant, revolutionizing the contest and the small Texas town.</desc>
@@ -347,5 +341,11 @@
     <desc lang="en">Diana moves to Miami and starts shopping and buying a lot ofthings at an abnormal rate with the stolen credit card of businessman named Sandy Patterson. He decides to follow Diana to Miami and confront her before she takes over everything he has, but he discovers that it's not that easy.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260110150000 +0800" stop="20260110170000 +0800" channel="mbc 2">
+    <title lang="en">Neighbors</title>
+    <desc lang="en">Mac and Kelly Radner are a young couple with a newborndaughter, Stella, having high hopes in their new life. But soon their life takes an unexpected turn after they are forced to live next to a fraternity house.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
