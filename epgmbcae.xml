@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260108013000 +0800" stop="20260108030000 +0800" channel="mbc max">
-    <title lang="en">Grown Ups</title>
-    <desc lang="en">A group of friends reunite after their high schoolbasketball coach passes away, spending the Fourth of July holiday weekend together and the events follow.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260108030000 +0800" stop="20260108050000 +0800" channel="mbc max">
     <title lang="en">Night School</title>
     <desc lang="en">A group of troublemakers are forced to attend night schoolin the hope that they'll pass the GED exam to finish high school.</desc>
@@ -347,5 +341,11 @@
     <desc lang="en">In this sequel, security guard Paul Blart is headed to LasVegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260110130000 +0800" stop="20260110150000 +0800" channel="mbc 2">
+    <title lang="en">Identity Thief</title>
+    <desc lang="en">Diana moves to Miami and starts shopping and buying a lot ofthings at an abnormal rate with the stolen credit card of businessman named Sandy Patterson. He decides to follow Diana to Miami and confront her before she takes over everything he has, but he discovers that it's not that easy.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
