@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260109200000 +0800" stop="20260109220000 +0800" channel="mbc max">
-    <title lang="en">Dumplin'</title>
-    <desc lang="en">Willowdean ('Dumplin'), is a full-bodied teenager and thedaughter of a former beauty queen, who signs up in the Miss Bluebonnet Teen Pageant, revolutionizing the contest and the small Texas town.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260109220000 +0800" stop="20260109233000 +0800" channel="mbc max">
     <title lang="en">The Campaign</title>
     <desc lang="en">Two businessmen are trying to get the US Congressman Cam(Will Ferrell) out of the way ahead of the next election in an attempt to take control of the North Carolina area and gain greater power, by pushing Marty Huggins (Zach Galifianakis) to run against him.</desc>
@@ -174,11 +168,17 @@
     <category lang="en">Movie
                (2006)</category>
   </programme>
-  <programme start="20260109193000 +0800" stop="20260109213000 +0800" channel="mbc 2">
-    <title lang="en">Despicable Me</title>
-    <desc lang="en">The evil master mind Gru lives in a mansion with his smallarmy of minions, as he prepares for his most daring heist, he comes across three orphaned girls who disrupt his wicked plans.</desc>
-    <category lang="en">Movie - Cartoon
-               (2010)</category>
+  <programme start="20260112063000 +0800" stop="20260112080000 +0800" channel="mbc max">
+    <title lang="en">Unhinged</title>
+    <desc lang="en">After a confrontation on the road, a single mother and herson find themselves stalked by a deranged man who's hellbent on teaching them fatal lessons.</desc>
+    <category lang="en">Movie
+               (2020)</category>
+  </programme>
+  <programme start="20260112080000 +0800" stop="20260112100000 +0800" channel="mbc max">
+    <title lang="en">Little</title>
+    <desc lang="en">A woman gets a rare second chance to relive her childhood,after the pressure of being an adult becomes too much to bear.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
   <programme start="20260109213000 +0800" stop="20260109233000 +0800" channel="mbc 2">
     <title lang="en">Goosebumps</title>
@@ -347,5 +347,11 @@
     <desc lang="en">In this sequel, security guard Paul Blart is headed to LasVegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260112070000 +0800" stop="20260112090000 +0800" channel="mbc 2">
+    <title lang="en">Downton Abbey: A New Era</title>
+    <desc lang="en">A continuation of the events after the first film, as theCrawley family returns with new secrets and stories are revealed.</desc>
+    <category lang="en">Movie
+               (2022)</category>
   </programme>
 </tv>
