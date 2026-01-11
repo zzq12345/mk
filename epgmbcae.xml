@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260112120000 +0800" stop="20260112140000 +0800" channel="mbc max">
-    <title lang="en">Duplicity</title>
-    <desc lang="en">The rivalry between Ray and Claire, whether in their rolesas government officials or later as industrial employees, gives rise to a whirlwind romance that leaves them plotting their own heist.</desc>
-    <category lang="en">Movie
-               (2009)</category>
-  </programme>
   <programme start="20260112140000 +0800" stop="20260112160000 +0800" channel="mbc max">
     <title lang="en">Bad Teacher</title>
     <desc lang="en">This is a comedy about a new teacher (Elisabeth) who joins ahigh school and is seen abusing her position and her resources. The movie portrays pranks and tricks amongst the teachers involving  the new teacher , Mr. Scott and the PE teacher.</desc>
@@ -204,11 +198,17 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260112110000 +0800" stop="20260112133000 +0800" channel="mbc 2">
-    <title lang="en">Captain Phillips</title>
-    <desc lang="en">This thriller recounts how the U.S. container ship, theMaersk Alabama, headed by Captain Richard Phillips (Tom Hanks), became the first American ship to be hijacked in two hundred years when they come head to head with Somali pirates.</desc>
+  <programme start="20260114230000 +0800" stop="20260114233000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260114233000 +0800" stop="20260115013000 +0800" channel="mbc max">
+    <title lang="en">Room</title>
+    <desc lang="en">24-year-old Joy and her young son Jack successfully escapetheir captivity after years of being held captive by a kidnapper in a remote hut.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2015)</category>
   </programme>
   <programme start="20260112133000 +0800" stop="20260112160000 +0800" channel="mbc 2">
     <title lang="en">Sherlock Holmes</title>
@@ -395,5 +395,17 @@
     <desc lang="en">When hordes of Kaiju, monstrous alien creatures, attackEarth from deep-sea waters, giant robots piloted by humans are deployed to fight them off and save the human population from utter annihilation.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260114223000 +0800" stop="20260115000000 +0800" channel="mbc 2">
+    <title lang="en">Deep Fear</title>
+    <desc lang="en">The film's events revolve around Naomi, who goes on a seatrip alone to meet her lover, but the trip takes a dark turn when she is exposed to an unexpected storm.</desc>
+    <category lang="en">Movie
+               (2023)</category>
+  </programme>
+  <programme start="20260115000000 +0800" stop="20260115013000 +0800" channel="mbc 2">
+    <title lang="en">Journey 2: The Mysterious Island</title>
+    <desc lang="en">Sean Anderson goes off on a journey with his stepfather tofind his grandfather, who is missing on a mythical island. They set out for the island of Palau where they meet a man and his daughter. Their helicopter crashes on the mysterious island. Sean finds his grandfather and adventure begins.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>
