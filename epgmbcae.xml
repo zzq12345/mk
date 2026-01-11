@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260112140000 +0800" stop="20260112160000 +0800" channel="mbc max">
-    <title lang="en">Bad Teacher</title>
-    <desc lang="en">This is a comedy about a new teacher (Elisabeth) who joins ahigh school and is seen abusing her position and her resources. The movie portrays pranks and tricks amongst the teachers involving  the new teacher , Mr. Scott and the PE teacher.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260112160000 +0800" stop="20260112180000 +0800" channel="mbc max">
     <title lang="en">Long Shot</title>
     <desc lang="en">When Fred Flarsky reunites with his high school crush,Charlotte Field, now one of the most influential women in the world, a new spark is born between them. She hires him to write her speeches, as she prepares to run for US presidency.</desc>
@@ -210,11 +204,11 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260112133000 +0800" stop="20260112160000 +0800" channel="mbc 2">
-    <title lang="en">Sherlock Holmes</title>
-    <desc lang="en">With the latest criminal they caught promising to returnfrom the dead, detective Sherlock Holmes and his trusted companion Dr. Watson face a new mystery when the criminal, Lord Blackwood, seemingly returns from the dead with plans to befall all of England.</desc>
+  <programme start="20260115013000 +0800" stop="20260115033000 +0800" channel="mbc max">
+    <title lang="en">Our Friend</title>
+    <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
     <category lang="en">Movie
-               (2009)</category>
+               (2019)</category>
   </programme>
   <programme start="20260112160000 +0800" stop="20260112180000 +0800" channel="mbc 2">
     <title lang="en">Iron Mask</title>
@@ -407,5 +401,11 @@
     <desc lang="en">Sean Anderson goes off on a journey with his stepfather tofind his grandfather, who is missing on a mythical island. They set out for the island of Palau where they meet a man and his daughter. Their helicopter crashes on the mysterious island. Sean finds his grandfather and adventure begins.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260115013000 +0800" stop="20260115033500 +0800" channel="mbc 2">
+    <title lang="en">All the Money in the World</title>
+    <desc lang="en">An Italian gang kidnaps John Paul Getty III, grandson of oiltycoon J Paul Getty, in Rome. Soon, his mother frantically attempts to persuade his millionaire grandfather to pay the ransom.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
