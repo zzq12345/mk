@@ -1809,10 +1809,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260113160000 +0800" stop="20260113173000 +0800" channel="mbc max">
-    <title lang="en">The Shallows</title>
-    <desc lang="en">Nancy, a surfer, is attacked by a great white shark just 200yards off the coast, and her short voyage to safety ends in a titanic struggle for survival.</desc>
-  </programme>
   <programme start="20260113180000 +0800" stop="20260113200000 +0800" channel="mbc max">
     <title lang="en">Duplicity</title>
     <desc lang="en">The rivalry between Ray and Claire, whether in their rolesas government officials or later as industrial employees, gives rise to a whirlwind romance that leaves them plotting their own heist.</desc>
@@ -1957,10 +1953,6 @@
     <title lang="en">Love Happens</title>
     <desc lang="en">After Burke, the widowed author of a best-selling self-helpbook about dealing with bereavement, crosses paths with and falls for a beautiful floral designer named Eloise, he realizes he hasn't really processed the death of his wife yet.</desc>
   </programme>
-  <programme start="20260113150500 +0800" stop="20260113173000 +0800" channel="mbc 2">
-    <title lang="en">Jurassic World: Dominion</title>
-    <desc lang="en">All hell breaks loose when the greed of the scientists andtheir wish to control and exploit the dinosaurs wreaks havoc in the world when the dinosaurs are freed.</desc>
-  </programme>
   <programme start="20260113173000 +0800" stop="20260113190000 +0800" channel="mbc 2">
     <title lang="en">Deep Fear</title>
     <desc lang="en">The film's events revolve around Naomi, who goes on a seatrip alone to meet her lover, but the trip takes a dark turn when she is exposed to an unexpected storm.</desc>
@@ -2073,9 +2065,9 @@
     <title lang="en">How to Train Your Dragon: The Hidden World</title>
     <desc lang="en">As Hiccup fulfills his dream of creating a peaceful dragonutopia, Toothless' discovery of a wild dragon drives the Night Fury away. When danger mounts, Hiccup's reign as village chief is tested, both dragon and rider must make impossible decisions to save their own kind.</desc>
   </programme>
-  <programme start="20260112160000 +0800" stop="20260112173000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  <programme start="20260116024500 +0800" stop="20260116043000 +0800" channel="mbc 2">
+    <title lang="en">Ben Is Back</title>
+    <desc lang="en">When her son leaves rehab and returns home on Christmas Eve,Holly is determined to ensure that he does not relapse. But as Ben's past comes to haunt him and threaten his treatment, Holly learns shocking truths about his addiction as she fights tooth and nail to save her son.</desc>
   </programme>
   <programme start="20260113173000 +0800" stop="20260113183000 +0800" channel="mbc action">
     <title lang="en">برنامج get  out a life with bear gryls</title>
@@ -2308,6 +2300,10 @@
   <programme start="20260115013000 +0800" stop="20260115023000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
     <desc lang=""/>
+  </programme>
+  <programme start="20260115023000 +0800" stop="20260115033000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
+    <desc lang="en">Monkey D. Luffy, a teenage pirate captain, leads his crew on a quest to become the Pirate King and find the fabled One Piece treasure in a world at sea. | Type: Series (2023) | Rating: 5.8/10</desc>
   </programme>
   <programme start="20260112060000 +0800" stop="20260112063000 +0800" channel="第一财经">
     <title lang="zh">两说</title>
@@ -13561,11 +13557,59 @@
     <title lang="zh">亚洲联赛冠军杯二级联赛 - 佩西比万隆 对 曼谷联</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116060000 +0800" stop="20260116235959 +0800" channel="HOY体育台">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260116060000 +0800" stop="20260116080000 +0800" channel="HOY体育台">
+    <title lang="zh">阿联酋职业足球联赛 - 阿尔华达 对 宾尼耶斯</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117000000 +0800" stop="20260117235959 +0800" channel="HOY体育台">
+  <programme start="20260116080000 +0800" stop="20260116100000 +0800" channel="HOY体育台">
+    <title lang="zh">U23 亚洲杯足球赛 - 澳洲 对 泰国</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116100000 +0800" stop="20260116120000 +0800" channel="HOY体育台">
+    <title lang="zh">澳洲女子职业足球联赛 - 纽卡素喷射机 对 中岸水手</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116120000 +0800" stop="20260116130000 +0800" channel="HOY体育台">
+    <title lang="zh">大众参与 2025 第10集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116130000 +0800" stop="20260116134500 +0800" channel="HOY体育台">
+    <title lang="zh">2025年个人赛车赛事 第1集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116134500 +0800" stop="20260116155500 +0800" channel="HOY体育台">
+    <title lang="zh">澳洲女子职业足球联赛 - 墨尔本城 对 纽卡素喷射机 (直播)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116155500 +0800" stop="20260116180000 +0800" channel="HOY体育台">
+    <title lang="zh">澳洲女子职业足球联赛 - 西悉尼流浪者 对 布里斯班狮吼 (直播)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116180000 +0800" stop="20260116183000 +0800" channel="HOY体育台">
+    <title lang="zh">AFC Champions League Two 2025/26 Knockout Stage Draw</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116183000 +0800" stop="20260116193000 +0800" channel="HOY体育台">
+    <title lang="zh">大众参与 2025 第6集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116193000 +0800" stop="20260116200000 +0800" channel="HOY体育台">
+    <title lang="zh">第45届黄金海岸马拉松精华 第1集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116200000 +0800" stop="20260116220000 +0800" channel="HOY体育台">
+    <title lang="zh">亚洲联赛冠军杯二级联赛 - 南定 对 东方</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116220000 +0800" stop="20260117000000 +0800" channel="HOY体育台">
+    <title lang="zh">阿联酋职业足球联赛 - 阿尔华达 对 宾尼耶斯</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117000000 +0800" stop="20260117020000 +0800" channel="HOY体育台">
+    <title lang="zh">U23 亚洲杯足球赛 - 澳洲 对 泰国</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117020000 +0800" stop="20260117235959 +0800" channel="HOY体育台">
     <title lang="zh">节目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -18185,15 +18229,327 @@
     <title lang="zh">Country Box Review</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115080000 +0800" stop="20260115235959 +0800" channel="SportsPlus">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260115080000 +0800" stop="20260115084200 +0800" channel="SportsPlus">
+    <title lang="zh">NFL Player Detroit Lions Talk Sports</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116000000 +0800" stop="20260116235959 +0800" channel="SportsPlus">
-    <title lang="zh">节目未能提供</title>
+  <programme start="20260115084200 +0800" stop="20260115090700 +0800" channel="SportsPlus">
+    <title lang="zh">RaceCentral_S11E11</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117000000 +0800" stop="20260117235959 +0800" channel="SportsPlus">
+  <programme start="20260115090700 +0800" stop="20260115100300 +0800" channel="SportsPlus">
+    <title lang="zh">CFA 03-01 compressed</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115100300 +0800" stop="20260115103400 +0800" channel="SportsPlus">
+    <title lang="zh">Drive</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115103400 +0800" stop="20260115110200 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central Tv: S16E1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115110200 +0800" stop="20260115115600 +0800" channel="SportsPlus">
+    <title lang="zh">Arctic race of Norway 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115115600 +0800" stop="20260115133500 +0800" channel="SportsPlus">
+    <title lang="zh">Christmas week Spotlight on Pro Football</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115133500 +0800" stop="20260115140900 +0800" channel="SportsPlus">
+    <title lang="zh">Zurich Marató Barcelona 2025 Marathon</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115140900 +0800" stop="20260115144200 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central TV: S14E10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115144200 +0800" stop="20260115152600 +0800" channel="SportsPlus">
+    <title lang="zh">NFL Player Detroit Lions Talk Sports</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115152600 +0800" stop="20260115154200 +0800" channel="SportsPlus">
+    <title lang="zh">Highlight of the Stage 01 of the Rallye du Maroc 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115154200 +0800" stop="20260115162800 +0800" channel="SportsPlus">
+    <title lang="zh">Coaching drama Spotlight on College Football</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115162800 +0800" stop="20260115165800 +0800" channel="SportsPlus">
+    <title lang="zh">Golfing The World: Golf for the Snowbirds</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115165800 +0800" stop="20260115172200 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 43 Taylor Starling vs. Jade Masson-Wong</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115172200 +0800" stop="20260115175300 +0800" channel="SportsPlus">
+    <title lang="zh">Racing Year 1966</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115175300 +0800" stop="20260115180900 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 54 Maladen Iliev vs Yunus Emre Batan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115180900 +0800" stop="20260115183300 +0800" channel="SportsPlus">
+    <title lang="zh">World Tenni</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115183300 +0800" stop="20260115185700 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 54 Bojan Kosednar vs Georgi Valentinov</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115185700 +0800" stop="20260115192400 +0800" channel="SportsPlus">
+    <title lang="zh">World of Tennis 2306</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115192400 +0800" stop="20260115200800 +0800" channel="SportsPlus">
+    <title lang="zh">NFL Player Detroit Lions Talk Sports</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115200800 +0800" stop="20260115202000 +0800" channel="SportsPlus">
+    <title lang="zh">Epic Fight-02;David Morales vs Gustavo Zuniga</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115202000 +0800" stop="20260115211200 +0800" channel="SportsPlus">
+    <title lang="zh">SICW All Star wrestling episode 8</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115211200 +0800" stop="20260115215000 +0800" channel="SportsPlus">
+    <title lang="zh">KC Diamonds shining bright</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115215000 +0800" stop="20260115221800 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central Tv: S16E1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115221800 +0800" stop="20260115224300 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central Tv</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115224300 +0800" stop="20260115232600 +0800" channel="SportsPlus">
+    <title lang="zh">NFL Player Detroit Lions Talk Sports</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115232600 +0800" stop="20260115235400 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central TV S14E9</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115235400 +0800" stop="20260116010000 +0800" channel="SportsPlus">
+    <title lang="zh">One Water Race | 2025 Edition</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116010000 +0800" stop="20260116013400 +0800" channel="SportsPlus">
+    <title lang="zh">Adrenaline Sport</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116013400 +0800" stop="20260116014400 +0800" channel="SportsPlus">
+    <title lang="zh">Akalaka Spirit of the Warrior: EmmanauelOsuji vs Daniel Appah</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116014400 +0800" stop="20260116025000 +0800" channel="SportsPlus">
+    <title lang="zh">The Rallye du Maroc | W2RC 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116025000 +0800" stop="20260116031800 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central Tv: S16E1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116031800 +0800" stop="20260116032900 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 60 David Oskar vs. Conor Cooke</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116032900 +0800" stop="20260116035800 +0800" channel="SportsPlus">
+    <title lang="zh">Golfing in Ireland</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116035800 +0800" stop="20260116041200 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 57 Bryan Duran Vs Louie Lopez</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116041200 +0800" stop="20260116044000 +0800" channel="SportsPlus">
+    <title lang="zh">Aussie Dominance: Reliving the 2023 Cricket World Cup Triumph</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116044000 +0800" stop="20260116051000 +0800" channel="SportsPlus">
+    <title lang="zh">Golfing The World episode 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116051000 +0800" stop="20260116054200 +0800" channel="SportsPlus">
+    <title lang="zh">Racing Years | 1974</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116054200 +0800" stop="20260116061400 +0800" channel="SportsPlus">
+    <title lang="zh">2024 Tabuk Neom Rally</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116061400 +0800" stop="20260116064400 +0800" channel="SportsPlus">
+    <title lang="zh">Golfing The World-2018-Episode 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116064400 +0800" stop="20260116070800 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 61 Jimmie Rivera vs. Daniel Straus</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116070800 +0800" stop="20260116072700 +0800" channel="SportsPlus">
+    <title lang="zh">DCS 40 Robert Herrera vs   Austin Gowen</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116072700 +0800" stop="20260116075500 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central Tv: S16E1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116075500 +0800" stop="20260116080000 +0800" channel="SportsPlus">
+    <title lang="zh">South Africa Safari Rally Stage 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116080000 +0800" stop="20260116090700 +0800" channel="SportsPlus">
+    <title lang="zh">2024 Lidl Deutschland tour</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116090700 +0800" stop="20260116093200 +0800" channel="SportsPlus">
+    <title lang="zh">World Tennis 2101</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116093200 +0800" stop="20260116095600 +0800" channel="SportsPlus">
+    <title lang="zh">Golfing The World-Visit to the Castle Golf   Ireland</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116095600 +0800" stop="20260116134200 +0800" channel="SportsPlus">
+    <title lang="zh">Country Box Review</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116134200 +0800" stop="20260116135300 +0800" channel="SportsPlus">
+    <title lang="zh">Bare Knuckle Championship 2022 Bobby Taylor vs. Gabriel Freyre</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116135300 +0800" stop="20260116143100 +0800" channel="SportsPlus">
+    <title lang="zh">KC Diamonds shining bright</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116143100 +0800" stop="20260116145100 +0800" channel="SportsPlus">
+    <title lang="zh">South Africa Safari Rally Stage 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116145100 +0800" stop="20260116160700 +0800" channel="SportsPlus">
+    <title lang="zh">Ski TV 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116160700 +0800" stop="20260116163300 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central_S11E3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116163300 +0800" stop="20260116170200 +0800" channel="SportsPlus">
+    <title lang="zh">Golfing The World</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116170200 +0800" stop="20260116174400 +0800" channel="SportsPlus">
+    <title lang="zh">NFL Player Detroit Lions Talk Sports</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116174400 +0800" stop="20260116181300 +0800" channel="SportsPlus">
+    <title lang="zh">Golfing The World</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116181300 +0800" stop="20260116183300 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 53: Murat Kazgan vs. Julian Lane</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116183300 +0800" stop="20260116185900 +0800" channel="SportsPlus">
+    <title lang="zh">World Tennis</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116185900 +0800" stop="20260116192300 +0800" channel="SportsPlus">
+    <title lang="zh">World Tennis 2305</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116192300 +0800" stop="20260116194900 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 41 Eddie Alvarez Vs Chad Mendes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116194900 +0800" stop="20260116202000 +0800" channel="SportsPlus">
+    <title lang="zh">Drive</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116202000 +0800" stop="20260116202700 +0800" channel="SportsPlus">
+    <title lang="zh">Bare Knuckle Fighting Championship: Bryan Duran vs. Kobe Bowen</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116202700 +0800" stop="20260116211400 +0800" channel="SportsPlus">
+    <title lang="zh">Coaching drama Spotlight on College Football</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116211400 +0800" stop="20260116212600 +0800" channel="SportsPlus">
+    <title lang="zh">Epic Fight-01; Cody Walton vs Eddie Barbosa 17th of February 2023_</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116212600 +0800" stop="20260116215600 +0800" channel="SportsPlus">
+    <title lang="zh">Uprising S2E15 - Jet's landed</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116215600 +0800" stop="20260116222500 +0800" channel="SportsPlus">
+    <title lang="zh">Crackerbox Racing Episode 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116222500 +0800" stop="20260116234400 +0800" channel="SportsPlus">
+    <title lang="zh">Sports Clips and Bloopers 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116234400 +0800" stop="20260117004100 +0800" channel="SportsPlus">
+    <title lang="zh">Championship Fighting Alliance: Season 3; Episode 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117004100 +0800" stop="20260117012300 +0800" channel="SportsPlus">
+    <title lang="zh">NFL Player Detroit Lions Talk Sports</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117012300 +0800" stop="20260117020100 +0800" channel="SportsPlus">
+    <title lang="zh">KC Diamonds shining bright</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117020100 +0800" stop="20260117022600 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 41: Eddie Alvarez Vs Chad Mendes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117022600 +0800" stop="20260117024700 +0800" channel="SportsPlus">
+    <title lang="zh">Bare Knuckle Fighting Championship:Joey Beltran Vs Houston Alexander</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117024700 +0800" stop="20260117030000 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 47  Brandon Allen vs. Seth Shaffer</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117030000 +0800" stop="20260117064600 +0800" channel="SportsPlus">
+    <title lang="zh">Country Box Review</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117064600 +0800" stop="20260117071800 +0800" channel="SportsPlus">
+    <title lang="zh">BP Ultimate Rally Raid Portugal 2025.</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117071800 +0800" stop="20260117074600 +0800" channel="SportsPlus">
+    <title lang="zh">Race Central Tv: S16E1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117074600 +0800" stop="20260117082400 +0800" channel="SportsPlus">
+    <title lang="zh">Real Quality Wrestling Bites: Episode 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117082400 +0800" stop="20260117085400 +0800" channel="SportsPlus">
+    <title lang="zh">Racing Year 1950</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117085400 +0800" stop="20260117091900 +0800" channel="SportsPlus">
+    <title lang="zh">BKFC 39 Britain Hart vs. Jenny Clausius</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117091900 +0800" stop="20260117100900 +0800" channel="SportsPlus">
+    <title lang="zh">Clash of the Titans - Chinese Heavyweight Boxing 2008 :Janay Davis vs Wang Ya Nan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117100900 +0800" stop="20260117235959 +0800" channel="SportsPlus">
     <title lang="zh">节目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -22818,11 +23174,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260112172000 +0800" stop="20260112172000 +0800" channel="spot on news">
-    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
+    <title lang="zh">Military plane nearly hits Tesla during crash landing</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260112172000 +0800" stop="20260112172000 +0800" channel="spot on news">
-    <title lang="zh">Military plane nearly hits Tesla during crash landing</title>
+    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260112172000 +0800" stop="20260112172100 +0800" channel="spot on news">
@@ -25502,11 +25858,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113034100 +0800" stop="20260113034100 +0800" channel="spot on news">
-    <title lang="zh">Australia: Giant wave throws water 40 meters high</title>
+    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113034100 +0800" stop="20260113034100 +0800" channel="spot on news">
-    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
+    <title lang="zh">Australia: Giant wave throws water 40 meters high</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113034100 +0800" stop="20260113034200 +0800" channel="spot on news">
@@ -181288,11 +181644,11 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Poovellam Kettuppar</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113050000 +0800" stop="20260113073000 +0800" channel="KTV">
+  <programme start="20260113050000 +0800" stop="20260113070500 +0800" channel="KTV">
     <title lang="zh">Markandeyan</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113073000 +0800" stop="20260113093000 +0800" channel="KTV">
+  <programme start="20260113070500 +0800" stop="20260113093000 +0800" channel="KTV">
     <title lang="zh">Marumagale Vaazhga</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -210888,6 +211244,70 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Squawk On The Street</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260114000000 +0700" stop="20260114010000 +0700" channel="CNBC">
+    <title lang="zh">Halftime Report</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114010000 +0700" stop="20260114020000 +0700" channel="CNBC">
+    <title lang="zh">The Exchange</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114020000 +0700" stop="20260114030000 +0700" channel="CNBC">
+    <title lang="zh">Power Lunch</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114040000 +0700" channel="CNBC">
+    <title lang="zh">Closing Bell</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114040000 +0700" stop="20260114050000 +0700" channel="CNBC">
+    <title lang="zh">Closing Bell: Overtime</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114050000 +0700" stop="20260114060000 +0700" channel="CNBC">
+    <title lang="zh">Fast Money</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114060000 +0700" stop="20260114090000 +0700" channel="CNBC">
+    <title lang="zh">Squawk Box Asia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114090000 +0700" stop="20260114100000 +0700" channel="CNBC">
+    <title lang="zh">The China Connection</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114100000 +0700" stop="20260114110000 +0700" channel="CNBC">
+    <title lang="zh">Inside India</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114110000 +0700" stop="20260114120000 +0700" channel="CNBC">
+    <title lang="zh">Access Middle East</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114120000 +0700" stop="20260114130000 +0700" channel="CNBC">
+    <title lang="zh">U.S. Markets Edition</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114130000 +0700" stop="20260114140000 +0700" channel="CNBC">
+    <title lang="zh">Europe Early Edition</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114170000 +0700" channel="CNBC">
+    <title lang="zh">Squawk Box Europe</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114180000 +0700" channel="CNBC">
+    <title lang="zh">Worldwide Exchange</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114180000 +0700" stop="20260114210000 +0700" channel="CNBC">
+    <title lang="zh">US Squawk Box</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114210000 +0700" stop="20260114230000 +0700" channel="CNBC">
+    <title lang="zh">Squawk On The Street</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260113002500 +0700" stop="20260113005000 +0700" channel="Crime Investigation">
     <title lang="zh">Taking The Stand S1, Ep 4</title>
     <desc lang="zh"> </desc>
@@ -214376,6 +214796,110 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Operation Seawolf</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260113012500 +0700" stop="20260113030500 +0700" channel="Galaxy Premium">
+    <title lang="zh">Venom</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113030500 +0700" stop="20260113044000 +0700" channel="Galaxy Premium">
+    <title lang="zh">Resident Evil: Damnation</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113044000 +0700" stop="20260113063500 +0700" channel="Galaxy Premium">
+    <title lang="zh">Tears Of The Sun</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113063500 +0700" stop="20260113081500 +0700" channel="Galaxy Premium">
+    <title lang="zh">Daddy's Home 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113081500 +0700" stop="20260113100500 +0700" channel="Galaxy Premium">
+    <title lang="zh">G.I. Joe: Retaliation</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113100500 +0700" stop="20260113120000 +0700" channel="Galaxy Premium">
+    <title lang="zh">The Equalizer 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113120000 +0700" stop="20260113132500 +0700" channel="Galaxy Premium">
+    <title lang="zh">Peter Rabbit</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113132500 +0700" stop="20260113150500 +0700" channel="Galaxy Premium">
+    <title lang="zh">Friends With Benefits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113150500 +0700" stop="20260113170000 +0700" channel="Galaxy Premium">
+    <title lang="zh">Eagle Eye</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113170000 +0700" stop="20260113185000 +0700" channel="Galaxy Premium">
+    <title lang="zh">Ghostbusters</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113185000 +0700" stop="20260113210000 +0700" channel="Galaxy Premium">
+    <title lang="zh">Moneyball</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113210000 +0700" stop="20260113225500 +0700" channel="Galaxy Premium">
+    <title lang="zh">The Sum Of All Fears</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114003000 +0700" stop="20260114021500 +0700" channel="Galaxy Premium">
+    <title lang="zh">28 Days Later</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114021500 +0700" stop="20260114034500 +0700" channel="Galaxy Premium">
+    <title lang="zh">After Earth</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114034500 +0700" stop="20260114052000 +0700" channel="Galaxy Premium">
+    <title lang="zh">The Night Before</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114052000 +0700" stop="20260114064000 +0700" channel="Galaxy Premium">
+    <title lang="zh">The Possession Of Hannah Grace</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114064000 +0700" stop="20260114081000 +0700" channel="Galaxy Premium">
+    <title lang="zh">Jackass Presents: Bad Grandpa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114081000 +0700" stop="20260114093000 +0700" channel="Galaxy Premium">
+    <title lang="zh">The Emoji Movie</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114093000 +0700" stop="20260114113000 +0700" channel="Galaxy Premium">
+    <title lang="zh">Mission: Impossible 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114113000 +0700" stop="20260114130500 +0700" channel="Galaxy Premium">
+    <title lang="zh">Resident Evil: Vendetta</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114130500 +0700" stop="20260114144000 +0700" channel="Galaxy Premium">
+    <title lang="zh">Daddy's Home</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114144000 +0700" stop="20260114162000 +0700" channel="Galaxy Premium">
+    <title lang="zh">Insidious: Chapter 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114162000 +0700" stop="20260114181500 +0700" channel="Galaxy Premium">
+    <title lang="zh">Roman J. Israel, Esq.</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114181500 +0700" stop="20260114193000 +0700" channel="Galaxy Premium">
+    <title lang="zh">The Cat In The Hat</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114193000 +0700" stop="20260114210000 +0700" channel="Galaxy Premium">
+    <title lang="zh">I Spy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114210000 +0700" stop="20260114231500 +0700" channel="Galaxy Premium">
+    <title lang="zh">Minority Report</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260113004500 +0700" stop="20260113014000 +0700" channel="Global Trekker">
     <title lang="zh">Air Warriors S7, Ep 2</title>
     <desc lang="zh"> </desc>
@@ -216568,6 +217092,58 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Merangkai Kisah Indah</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260113013000 +0700" stop="20260113030000 +0700" channel="Indosiar HD">
+    <title lang="zh">Mega Film Asia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113030000 +0700" stop="20260113043000 +0700" channel="Indosiar HD">
+    <title lang="zh">Mega Film Asia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113043000 +0700" stop="20260113060000 +0700" channel="Indosiar HD">
+    <title lang="zh">Fokus Pagi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113060000 +0700" stop="20260113070000 +0700" channel="Indosiar HD">
+    <title lang="zh">Merangkai Kisah Indah</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113070000 +0700" stop="20260113083000 +0700" channel="Indosiar HD">
+    <title lang="zh">Kisah Nyata Pagi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113083000 +0700" stop="20260113100000 +0700" channel="Indosiar HD">
+    <title lang="zh">Suara Hati Istri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113100000 +0700" stop="20260113110000 +0700" channel="Indosiar HD">
+    <title lang="zh">Kiss Pagi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113110000 +0700" stop="20260113113000 +0700" channel="Indosiar HD">
+    <title lang="zh">Patroli Siang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113113000 +0700" stop="20260113120000 +0700" channel="Indosiar HD">
+    <title lang="zh">Fokus Siang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113120000 +0700" stop="20260113130000 +0700" channel="Indosiar HD">
+    <title lang="zh">Kisah Nyata Siang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113130000 +0700" stop="20260113150000 +0700" channel="Indosiar HD">
+    <title lang="zh">Kisah Nyata Spesial</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113150000 +0700" stop="20260113170000 +0700" channel="Indosiar HD">
+    <title lang="zh">Kisah Nyata Sore Spesial</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113170000 +0700" stop="20260113190000 +0700" channel="Indosiar HD">
+    <title lang="zh">Merangkai Kisah Indah</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260114000000 +0700" stop="20260114023000 +0700" channel="Indosiar HD">
     <title lang="zh">Mega Film Asia Prime</title>
     <desc lang="zh"> </desc>
@@ -216717,6 +217293,198 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113230000 +0700" stop="20260113233000 +0700" channel="iNews">
+    <title lang="zh">iNews Sport (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114013000 +0700" stop="20260114030000 +0700" channel="iNews">
+    <title lang="zh">AFC Asian Cup: UZB Vs KOR</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114033000 +0700" channel="iNews">
+    <title lang="zh">iNews Sore</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114033000 +0700" stop="20260114040000 +0700" channel="iNews">
+    <title lang="zh">Special Report</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114040000 +0700" stop="20260114041500 +0700" channel="iNews">
+    <title lang="zh">Special Report</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114041500 +0700" stop="20260114060000 +0700" channel="iNews">
+    <title lang="zh">iNews Pagi (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114060000 +0700" stop="20260114060200 +0700" channel="iNews">
+    <title lang="zh">Indonesia Raya</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114060200 +0700" stop="20260114063000 +0700" channel="iNews">
+    <title lang="zh">iNews Sport Pagi (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114063000 +0700" stop="20260114070000 +0700" channel="iNews">
+    <title lang="zh">iBreak: The One Entrepreneur</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114070000 +0700" stop="20260114071000 +0700" channel="iNews">
+    <title lang="zh">iNews Terkini (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114071000 +0700" stop="20260114073000 +0700" channel="iNews">
+    <title lang="zh">Special Report</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114073000 +0700" stop="20260114080000 +0700" channel="iNews">
+    <title lang="zh">Morning Update</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114080000 +0700" stop="20260114091500 +0700" channel="iNews">
+    <title lang="zh">Lapor Polisi (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114091500 +0700" stop="20260114110000 +0700" channel="iNews">
+    <title lang="zh">iNews Today (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114110000 +0700" stop="20260114130000 +0700" channel="iNews">
+    <title lang="zh">iNews Siang (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114130000 +0700" stop="20260114133000 +0700" channel="iNews">
+    <title lang="zh">Pemimpin Rakyat (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114133000 +0700" stop="20260114150000 +0700" channel="iNews">
+    <title lang="zh">iSeleb (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114150000 +0700" stop="20260114163000 +0700" channel="iNews">
+    <title lang="zh">Realita (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114163000 +0700" stop="20260114182500 +0700" channel="iNews">
+    <title lang="zh">iNews Sore (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114182500 +0700" stop="20260114183000 +0700" channel="iNews">
+    <title lang="zh">iNews Terkini (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114183000 +0700" stop="20260114203000 +0700" channel="iNews">
+    <title lang="zh">AFC Asian Cup: IRQ Vs AUS (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114203000 +0700" stop="20260114220000 +0700" channel="iNews">
+    <title lang="zh">iNews Prime (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114220000 +0700" stop="20260114230000 +0700" channel="iNews">
+    <title lang="zh">iNews Malam (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114230000 +0700" stop="20260114233000 +0700" channel="iNews">
+    <title lang="zh">iNews Sport (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113013000 +0700" stop="20260113021500 +0700" channel="iNews HD">
+    <title lang="zh">iNews Room</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113021500 +0700" stop="20260113030000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Sore</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113030000 +0700" stop="20260113033000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Malam</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113033000 +0700" stop="20260113040000 +0700" channel="iNews HD">
+    <title lang="zh">Special Report</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113040000 +0700" stop="20260113041500 +0700" channel="iNews HD">
+    <title lang="zh">Special Report</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113041500 +0700" stop="20260113060000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Pagi (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113060000 +0700" stop="20260113060200 +0700" channel="iNews HD">
+    <title lang="zh">Indonesia Raya</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113060200 +0700" stop="20260113063000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Sport Pagi (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113063000 +0700" stop="20260113070000 +0700" channel="iNews HD">
+    <title lang="zh">iBreak: The One Entrepreneur</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113070000 +0700" stop="20260113071000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Terkini (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113071000 +0700" stop="20260113073000 +0700" channel="iNews HD">
+    <title lang="zh">Special Report</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113073000 +0700" stop="20260113080000 +0700" channel="iNews HD">
+    <title lang="zh">Morning Update</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113080000 +0700" stop="20260113091500 +0700" channel="iNews HD">
+    <title lang="zh">Lapor Polisi (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113091500 +0700" stop="20260113110000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Today (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113110000 +0700" stop="20260113130000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Siang (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113130000 +0700" stop="20260113133000 +0700" channel="iNews HD">
+    <title lang="zh">Pemimpin Rakyat (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113133000 +0700" stop="20260113150000 +0700" channel="iNews HD">
+    <title lang="zh">iSeleb (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113150000 +0700" stop="20260113163000 +0700" channel="iNews HD">
+    <title lang="zh">Realita (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113163000 +0700" stop="20260113180000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Sore (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113180000 +0700" stop="20260113180500 +0700" channel="iNews HD">
+    <title lang="zh">iNews Terkini (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113180500 +0700" stop="20260113190000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Sore (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113190000 +0700" stop="20260113210000 +0700" channel="iNews HD">
+    <title lang="zh">Rakyat Bersuara (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113210000 +0700" stop="20260113220000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Prime (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113220000 +0700" stop="20260113230000 +0700" channel="iNews HD">
+    <title lang="zh">iNews Malam (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113230000 +0700" stop="20260113233000 +0700" channel="iNews HD">
     <title lang="zh">iNews Sport (L)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -217840,6 +218608,98 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Berkas Kompas</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260114000000 +0700" stop="20260114003000 +0700" channel="Kompas TV">
+    <title lang="zh">Kompas Sport</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114003000 +0700" stop="20260114020000 +0700" channel="Kompas TV">
+    <title lang="zh">Berita Utama</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114020000 +0700" stop="20260114023000 +0700" channel="Kompas TV">
+    <title lang="zh">Kompas Petang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114023000 +0700" stop="20260114030000 +0700" channel="Kompas TV">
+    <title lang="zh">Indonesia Update</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114040000 +0700" channel="Kompas TV">
+    <title lang="zh">Kalam Hati</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114040000 +0700" stop="20260114043000 +0700" channel="Kompas TV">
+    <title lang="zh">Borgol</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114043000 +0700" stop="20260114070000 +0700" channel="Kompas TV">
+    <title lang="zh">Kompas Pagi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114070000 +0700" stop="20260114093000 +0700" channel="Kompas TV">
+    <title lang="zh">Sapa Indonesia Pagi</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114093000 +0700" stop="20260114103000 +0700" channel="Kompas TV">
+    <title lang="zh">Berita Utama</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114103000 +0700" stop="20260114110000 +0700" channel="Kompas TV">
+    <title lang="zh">Borgol</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114110000 +0700" stop="20260114130000 +0700" channel="Kompas TV">
+    <title lang="zh">Kompas Siang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114130000 +0700" stop="20260114140000 +0700" channel="Kompas TV">
+    <title lang="zh">Sapa Indonesia Siang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114143000 +0700" channel="Kompas TV">
+    <title lang="zh">Laporan Khusus</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114143000 +0700" stop="20260114150000 +0700" channel="Kompas TV">
+    <title lang="zh">Jurnal Merah Putih</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114150000 +0700" stop="20260114153000 +0700" channel="Kompas TV">
+    <title lang="zh">Indonesia Update</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114153000 +0700" stop="20260114160000 +0700" channel="Kompas TV">
+    <title lang="zh">Borgol</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114160000 +0700" stop="20260114173000 +0700" channel="Kompas TV">
+    <title lang="zh">Kompas Petang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114173000 +0700" stop="20260114193000 +0700" channel="Kompas TV">
+    <title lang="zh">Sapa Indonesia Malam</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114193000 +0700" stop="20260114203000 +0700" channel="Kompas TV">
+    <title lang="zh">Berita Utama</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114203000 +0700" stop="20260114213000 +0700" channel="Kompas TV">
+    <title lang="zh">Satu Meja The Forum</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114213000 +0700" stop="20260114223000 +0700" channel="Kompas TV">
+    <title lang="zh">Kompas Malam</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114223000 +0700" stop="20260114230000 +0700" channel="Kompas TV">
+    <title lang="zh">Sasaran</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114230000 +0700" stop="20260114233000 +0700" channel="Kompas TV">
+    <title lang="zh">Kompas Sport</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260113003000 +0700" stop="20260113013000 +0700" channel="LIFE">
     <title lang="zh">Good News</title>
     <desc lang="zh"> </desc>
@@ -218829,6 +219689,94 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113222500 +0700" stop="20260113233000 +0700" channel="MDTV">
+    <title lang="zh">She Was Pretty</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114004500 +0700" stop="20260114014500 +0700" channel="MDTV">
+    <title lang="zh">Jatanras</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114014500 +0700" stop="20260114023000 +0700" channel="MDTV">
+    <title lang="zh">86</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114023000 +0700" stop="20260114034500 +0700" channel="MDTV">
+    <title lang="zh">Inilah Kisahnya</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114034500 +0700" stop="20260114044500 +0700" channel="MDTV">
+    <title lang="zh">Di Balik Mitos</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114044500 +0700" stop="20260114054000 +0700" channel="MDTV">
+    <title lang="zh">Keajaiban Dunia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114054000 +0700" stop="20260114065000 +0700" channel="MDTV">
+    <title lang="zh">Top Spot</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114065000 +0700" stop="20260114080500 +0700" channel="MDTV">
+    <title lang="zh">AADD: Ada Apa Dengan Dunia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114080500 +0700" stop="20260114090000 +0700" channel="MDTV">
+    <title lang="zh">Fakta +62</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114090000 +0700" stop="20260114095500 +0700" channel="MDTV">
+    <title lang="zh">SensasiHot</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114095500 +0700" stop="20260114111500 +0700" channel="MDTV">
+    <title lang="zh">Rosalinda</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114111500 +0700" stop="20260114123500 +0700" channel="MDTV">
+    <title lang="zh">Cerita Nyata</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114123500 +0700" stop="20260114140000 +0700" channel="MDTV">
+    <title lang="zh">Cinta Fitri S5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114150000 +0700" channel="MDTV">
+    <title lang="zh">Makan Enak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114150000 +0700" stop="20260114160000 +0700" channel="MDTV">
+    <title lang="zh">Masak Gesss!!!</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114160000 +0700" stop="20260114170000 +0700" channel="MDTV">
+    <title lang="zh">Adit Sopo Jarwo</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114174500 +0700" channel="MDTV">
+    <title lang="zh">Cinta Paulina</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114174500 +0700" stop="20260114184000 +0700" channel="MDTV">
+    <title lang="zh">Maria Cinta Yang Hilang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114184000 +0700" stop="20260114193000 +0700" channel="MDTV">
+    <title lang="zh">Maria Mercedes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114193000 +0700" stop="20260114203000 +0700" channel="MDTV">
+    <title lang="zh">Pernikahan Dini Gen Z</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114203000 +0700" stop="20260114213000 +0700" channel="MDTV">
+    <title lang="zh">Ipar Adalah Maut: The Series</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114213000 +0700" stop="20260114222500 +0700" channel="MDTV">
+    <title lang="zh">My Lecturer My Husband S2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114222500 +0700" stop="20260114233000 +0700" channel="MDTV">
     <title lang="zh">She Was Pretty</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -219888,6 +220836,158 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Little Baby Bum</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260113020000 +0700" stop="20260113030000 +0700" channel="Music TV">
+    <title lang="zh">Bucin (Bursa Music Indonesia)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113030000 +0700" stop="20260113033000 +0700" channel="Music TV">
+    <title lang="zh">Music Files</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113033000 +0700" stop="20260113043000 +0700" channel="Music TV">
+    <title lang="zh">Juke Box</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113043000 +0700" stop="20260113053000 +0700" channel="Music TV">
+    <title lang="zh">K-Hits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113053000 +0700" stop="20260113071500 +0700" channel="Music TV">
+    <title lang="zh">One Hour With</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113071500 +0700" stop="20260113093000 +0700" channel="Music TV">
+    <title lang="zh">DMD Panggung Rezeki</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113093000 +0700" stop="20260113101500 +0700" channel="Music TV">
+    <title lang="zh">Movie Track</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113101500 +0700" stop="20260113104500 +0700" channel="Music TV">
+    <title lang="zh">Music Files</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113104500 +0700" stop="20260113111500 +0700" channel="Music TV">
+    <title lang="zh">Terbaik</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113111500 +0700" stop="20260113120000 +0700" channel="Music TV">
+    <title lang="zh">Godain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113120000 +0700" stop="20260113140000 +0700" channel="Music TV">
+    <title lang="zh">DMD Panggung Rezeki</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113140000 +0700" stop="20260113143000 +0700" channel="Music TV">
+    <title lang="zh">Kita Kepo</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113143000 +0700" stop="20260113170000 +0700" channel="Music TV">
+    <title lang="zh">Indonesian Idol X</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113170000 +0700" stop="20260113180000 +0700" channel="Music TV">
+    <title lang="zh">Godain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113180000 +0700" stop="20260113190000 +0700" channel="Music TV">
+    <title lang="zh">K-Hits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113190000 +0700" stop="20260113200000 +0700" channel="Music TV">
+    <title lang="zh">Juke Box</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113200000 +0700" stop="20260113210000 +0700" channel="Music TV">
+    <title lang="zh">Bucin (Bursa Music Indonesia)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113210000 +0700" stop="20260113223000 +0700" channel="Music TV">
+    <title lang="zh">Superband: Kotak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113223000 +0700" stop="20260113233000 +0700" channel="Music TV">
+    <title lang="zh">Aishiteru</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114020000 +0700" stop="20260114030000 +0700" channel="Music TV">
+    <title lang="zh">Bucin (Bursa Music Indonesia)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114033000 +0700" channel="Music TV">
+    <title lang="zh">Music Files</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114033000 +0700" stop="20260114043000 +0700" channel="Music TV">
+    <title lang="zh">Juke Box</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114043000 +0700" stop="20260114053000 +0700" channel="Music TV">
+    <title lang="zh">K-Hits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114053000 +0700" stop="20260114071500 +0700" channel="Music TV">
+    <title lang="zh">One Hour With</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114071500 +0700" stop="20260114093000 +0700" channel="Music TV">
+    <title lang="zh">DMD Panggung Rezeki</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114093000 +0700" stop="20260114101500 +0700" channel="Music TV">
+    <title lang="zh">Movie Track</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114101500 +0700" stop="20260114104500 +0700" channel="Music TV">
+    <title lang="zh">Music Files</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114104500 +0700" stop="20260114111500 +0700" channel="Music TV">
+    <title lang="zh">Terbaik</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114111500 +0700" stop="20260114120000 +0700" channel="Music TV">
+    <title lang="zh">Godain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114120000 +0700" stop="20260114140000 +0700" channel="Music TV">
+    <title lang="zh">DMD Panggung Rezeki</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114143000 +0700" channel="Music TV">
+    <title lang="zh">Xoxo</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114143000 +0700" stop="20260114170000 +0700" channel="Music TV">
+    <title lang="zh">Indonesian Idol X</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114180000 +0700" channel="Music TV">
+    <title lang="zh">Godain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114180000 +0700" stop="20260114190000 +0700" channel="Music TV">
+    <title lang="zh">K-Hits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114190000 +0700" stop="20260114200000 +0700" channel="Music TV">
+    <title lang="zh">Juke Box</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114200000 +0700" stop="20260114210000 +0700" channel="Music TV">
+    <title lang="zh">Bucin (Bursa Music Indonesia)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114210000 +0700" stop="20260114223000 +0700" channel="Music TV">
+    <title lang="zh">Mega Konser: Metamorfosa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114223000 +0700" stop="20260114233000 +0700" channel="Music TV">
+    <title lang="zh">Aishiteru</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260113020000 +0700" stop="20260113030000 +0700" channel="Music TV HD">
     <title lang="zh">Bucin (Bursa Music Indonesia)</title>
     <desc lang="zh"> </desc>
@@ -219961,6 +221061,82 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113223000 +0700" stop="20260113233000 +0700" channel="Music TV HD">
+    <title lang="zh">Aishiteru</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114020000 +0700" stop="20260114030000 +0700" channel="Music TV HD">
+    <title lang="zh">Bucin (Bursa Music Indonesia)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114033000 +0700" channel="Music TV HD">
+    <title lang="zh">Music Files</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114033000 +0700" stop="20260114043000 +0700" channel="Music TV HD">
+    <title lang="zh">Juke Box</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114043000 +0700" stop="20260114053000 +0700" channel="Music TV HD">
+    <title lang="zh">K-Hits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114053000 +0700" stop="20260114071500 +0700" channel="Music TV HD">
+    <title lang="zh">One Hour With</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114071500 +0700" stop="20260114093000 +0700" channel="Music TV HD">
+    <title lang="zh">DMD Panggung Rezeki</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114093000 +0700" stop="20260114101500 +0700" channel="Music TV HD">
+    <title lang="zh">Movie Track</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114101500 +0700" stop="20260114104500 +0700" channel="Music TV HD">
+    <title lang="zh">Music Files</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114104500 +0700" stop="20260114111500 +0700" channel="Music TV HD">
+    <title lang="zh">Terbaik</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114111500 +0700" stop="20260114120000 +0700" channel="Music TV HD">
+    <title lang="zh">Godain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114120000 +0700" stop="20260114140000 +0700" channel="Music TV HD">
+    <title lang="zh">DMD Panggung Rezeki</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114143000 +0700" channel="Music TV HD">
+    <title lang="zh">Xoxo</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114143000 +0700" stop="20260114170000 +0700" channel="Music TV HD">
+    <title lang="zh">Indonesian Idol X</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114180000 +0700" channel="Music TV HD">
+    <title lang="zh">Godain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114180000 +0700" stop="20260114190000 +0700" channel="Music TV HD">
+    <title lang="zh">K-Hits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114190000 +0700" stop="20260114200000 +0700" channel="Music TV HD">
+    <title lang="zh">Juke Box</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114200000 +0700" stop="20260114210000 +0700" channel="Music TV HD">
+    <title lang="zh">Bucin (Bursa Music Indonesia)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114210000 +0700" stop="20260114223000 +0700" channel="Music TV HD">
+    <title lang="zh">Mega Konser: Metamorfosa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114223000 +0700" stop="20260114233000 +0700" channel="Music TV HD">
     <title lang="zh">Aishiteru</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -223016,6 +224192,146 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Gold Fever S4, Ep 3</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260114000000 +0700" stop="20260114010000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Showdown Of Unbeatables, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114010000 +0700" stop="20260114013000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Hard Truths Of... S2, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114013000 +0700" stop="20260114020000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Hard Truths Of... S2, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114020000 +0700" stop="20260114023000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Wardens S9, Ep 9</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114023000 +0700" stop="20260114030000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Wardens S9, Ep 10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114040000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Mega Transports S1, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114040000 +0700" stop="20260114043000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Jade Fever S5, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114043000 +0700" stop="20260114050000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Jade Fever S5, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114050000 +0700" stop="20260114053000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Gold Fever S4, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114053000 +0700" stop="20260114060000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Gold Fever S4, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114060000 +0700" stop="20260114070000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Showdown Of Unbeatables, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114070000 +0700" stop="20260114073000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Hard Truths Of... S2, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114073000 +0700" stop="20260114080000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Hard Truths Of... S2, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114080000 +0700" stop="20260114083000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Wardens S9, Ep 9</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114083000 +0700" stop="20260114090000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Wardens S9, Ep 10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114090000 +0700" stop="20260114100000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Mega Transports S1, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114100000 +0700" stop="20260114103000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Jade Fever S5, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114103000 +0700" stop="20260114110000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Jade Fever S5, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114110000 +0700" stop="20260114113000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Gold Fever S4, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114113000 +0700" stop="20260114120000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Gold Fever S4, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114120000 +0700" stop="20260114130000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Showdown Of Unbeatables, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114130000 +0700" stop="20260114133000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Hard Truths Of... S2, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114133000 +0700" stop="20260114140000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Hard Truths Of... S2, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114150000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Building Big S1, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114150000 +0700" stop="20260114153000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Fishing The Wild S2, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114153000 +0700" stop="20260114160000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Fishing The Wild S2, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114160000 +0700" stop="20260114170000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Trucking Hell S2, Ep 10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114180000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Secrets Of Great White Shark</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114180000 +0700" stop="20260114183000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Wardens S9, Ep 11</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114183000 +0700" stop="20260114190000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Wardens S9, Ep 12</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114190000 +0700" stop="20260114200000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Trucking Hell S2, Ep 10</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114200000 +0700" stop="20260114210000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Building Big S1, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114210000 +0700" stop="20260114213000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Fishing The Wild S2, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114213000 +0700" stop="20260114220000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Fishing The Wild S2, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114220000 +0700" stop="20260114230000 +0700" channel="Outdoor channel HD">
+    <title lang="zh">Trucking Hell S2, Ep 10</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260113013000 +0700" stop="20260113020000 +0700" channel="RCTI">
     <title lang="zh">iNews Sport</title>
     <desc lang="zh"> </desc>
@@ -223788,6 +225104,78 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Jejak Duka Diandra</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260114004500 +0700" stop="20260114014500 +0700" channel="SCTV HD">
+    <title lang="zh">FTV Utama</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114014500 +0700" stop="20260114030000 +0700" channel="SCTV HD">
+    <title lang="zh">Sinema Malam</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114040000 +0700" channel="SCTV HD">
+    <title lang="zh">Sinema Dini Hari</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114040000 +0700" stop="20260114043000 +0700" channel="SCTV HD">
+    <title lang="zh">Barakallah</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114043000 +0700" stop="20260114050000 +0700" channel="SCTV HD">
+    <title lang="zh">Buser</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114050000 +0700" stop="20260114060000 +0700" channel="SCTV HD">
+    <title lang="zh">Liputan 6 Pagi (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114060000 +0700" stop="20260114070000 +0700" channel="SCTV HD">
+    <title lang="zh">Hot Shot</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114070000 +0700" stop="20260114083000 +0700" channel="SCTV HD">
+    <title lang="zh">Awas! Hati-Hati Ketipu Putri...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114083000 +0700" stop="20260114100000 +0700" channel="SCTV HD">
+    <title lang="zh">Miss Badut Penghibur Hati</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114100000 +0700" stop="20260114120000 +0700" channel="SCTV HD">
+    <title lang="zh">Supir Tembak Panah Asmara</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114120000 +0700" stop="20260114123000 +0700" channel="SCTV HD">
+    <title lang="zh">Liputan 6 Siang (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114123000 +0700" stop="20260114140000 +0700" channel="SCTV HD">
+    <title lang="zh">Kenalin Mas Serabutan...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114153000 +0700" channel="SCTV HD">
+    <title lang="zh">Jodohku Terhalang Restu Nenek</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114153000 +0700" stop="20260114170000 +0700" channel="SCTV HD">
+    <title lang="zh">Usia 2 Bulan Udah Jadi Apa?...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114181500 +0700" channel="SCTV HD">
+    <title lang="zh">Asmara Gen Z</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114181500 +0700" stop="20260114200000 +0700" channel="SCTV HD">
+    <title lang="zh">Beri Cinta Waktu</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114200000 +0700" stop="20260114213000 +0700" channel="SCTV HD">
+    <title lang="zh">Cinta Sedalam Rindu</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114213000 +0700" stop="20260114230000 +0700" channel="SCTV HD">
+    <title lang="zh">Jejak Duka Diandra</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260113000000 +0700" stop="20260113003000 +0700" channel="Sindo News TV">
     <title lang="zh">iNews Sport</title>
     <desc lang="zh"> </desc>
@@ -224412,6 +225800,78 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">SEA Games Thailand: MYA Vs THA</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260113013000 +0700" stop="20260113040000 +0700" channel="Sportstars">
+    <title lang="zh">Best Of Badminton</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113040000 +0700" stop="20260113060000 +0700" channel="Sportstars">
+    <title lang="zh">SEA Games Thailand: Volleyball</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113060000 +0700" stop="20260113063000 +0700" channel="Sportstars">
+    <title lang="zh">Golden Fit</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113063000 +0700" stop="20260113070000 +0700" channel="Sportstars">
+    <title lang="zh">Bloopers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113070000 +0700" stop="20260113073000 +0700" channel="Sportstars">
+    <title lang="zh">Sportrivia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113073000 +0700" stop="20260113093000 +0700" channel="Sportstars">
+    <title lang="zh">V-League 2025-2026 Men</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113093000 +0700" stop="20260113113000 +0700" channel="Sportstars">
+    <title lang="zh">V-League 2025-2026 Women</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113113000 +0700" stop="20260113120000 +0700" channel="Sportstars">
+    <title lang="zh">Sport Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113120000 +0700" stop="20260113123000 +0700" channel="Sportstars">
+    <title lang="zh">iNews Sport</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113123000 +0700" stop="20260113150000 +0700" channel="Sportstars">
+    <title lang="zh">Best Of Badminton</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113150000 +0700" stop="20260113170000 +0700" channel="Sportstars">
+    <title lang="zh">SEA Games Thailand: Volleyball</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113170000 +0700" stop="20260113190000 +0700" channel="Sportstars">
+    <title lang="zh">V-League 2025-2026 Men (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113190000 +0700" stop="20260113193000 +0700" channel="Sportstars">
+    <title lang="zh">Bloopers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113193000 +0700" stop="20260113200000 +0700" channel="Sportstars">
+    <title lang="zh">Sportrivia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113200000 +0700" stop="20260113203000 +0700" channel="Sportstars">
+    <title lang="zh">Sport Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113203000 +0700" stop="20260113223000 +0700" channel="Sportstars">
+    <title lang="zh">V-League 2025-2026 Women</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113223000 +0700" stop="20260113230000 +0700" channel="Sportstars">
+    <title lang="zh">Bloopers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113230000 +0700" stop="20260113233000 +0700" channel="Sportstars">
+    <title lang="zh">Sportrivia</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260114013000 +0700" stop="20260114023000 +0700" channel="Sportstars">
     <title lang="zh">Best Of Badminton</title>
     <desc lang="zh"> </desc>
@@ -224474,6 +225934,62 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
   </programme>
   <programme start="20260114203000 +0700" stop="20260114223000 +0700" channel="Sportstars">
     <title lang="zh">V-League 2025-2026 Women</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113000000 +0700" stop="20260113020000 +0700" channel="Sportstars 2">
+    <title lang="zh">V-League</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113020000 +0700" stop="20260113040000 +0700" channel="Sportstars 2">
+    <title lang="zh">SEA Games Thailand 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113040000 +0700" stop="20260113063000 +0700" channel="Sportstars 2">
+    <title lang="zh">Best Of Badminton</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113063000 +0700" stop="20260113070000 +0700" channel="Sportstars 2">
+    <title lang="zh">Sportrivia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113070000 +0700" stop="20260113073000 +0700" channel="Sportstars 2">
+    <title lang="zh">iNews Sport</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113073000 +0700" stop="20260113093000 +0700" channel="Sportstars 2">
+    <title lang="zh">AFC U23 Asian Cup Saudi Arabia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113093000 +0700" stop="20260113100000 +0700" channel="Sportstars 2">
+    <title lang="zh">Sport Today</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113100000 +0700" stop="20260113120000 +0700" channel="Sportstars 2">
+    <title lang="zh">SEA Games Thailand 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113120000 +0700" stop="20260113140000 +0700" channel="Sportstars 2">
+    <title lang="zh">V-League</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113140000 +0700" stop="20260113153000 +0700" channel="Sportstars 2">
+    <title lang="zh">IBA Mens World C'ship 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113153000 +0700" stop="20260113173000 +0700" channel="Sportstars 2">
+    <title lang="zh">AFC U23 Asian Cup Saudi Arabia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113173000 +0700" stop="20260113200000 +0700" channel="Sportstars 2">
+    <title lang="zh">Best Of Badminton</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113200000 +0700" stop="20260113220000 +0700" channel="Sportstars 2">
+    <title lang="zh">SEA Games Thailand 2025</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113220000 +0700" stop="20260113223000 +0700" channel="Sportstars 2">
+    <title lang="zh">Top Goals</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260114000000 +0700" stop="20260114020000 +0700" channel="Sportstars 2">
@@ -225836,6 +227352,54 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">Atonement</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260114010000 +0700" stop="20260114030000 +0700" channel="Studio Universal HD">
+    <title lang="zh">Dragonheart</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114035500 +0700" channel="Studio Universal HD">
+    <title lang="zh">Defying Gravity: The Curtain...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114035500 +0700" stop="20260114060000 +0700" channel="Studio Universal HD">
+    <title lang="zh">47 Ronin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114060000 +0700" stop="20260114081000 +0700" channel="Studio Universal HD">
+    <title lang="zh">Atonement</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114081000 +0700" stop="20260114095000 +0700" channel="Studio Universal HD">
+    <title lang="zh">Sgt. Bilko</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114095000 +0700" stop="20260114114500 +0700" channel="Studio Universal HD">
+    <title lang="zh">Dragonheart</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114114500 +0700" stop="20260114135000 +0700" channel="Studio Universal HD">
+    <title lang="zh">47 Ronin</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114135000 +0700" stop="20260114160000 +0700" channel="Studio Universal HD">
+    <title lang="zh">Atonement</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114160000 +0700" stop="20260114174500 +0700" channel="Studio Universal HD">
+    <title lang="zh">Nanny McPhee</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114174500 +0700" stop="20260114194500 +0700" channel="Studio Universal HD">
+    <title lang="zh">American Made</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114194500 +0700" stop="20260114214000 +0700" channel="Studio Universal HD">
+    <title lang="zh">American Dreamz</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114214000 +0700" stop="20260114234000 +0700" channel="Studio Universal HD">
+    <title lang="zh">Couples Retreat</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260113001300 +0700" stop="20260113023600 +0700" channel="Superrix">
     <title lang="zh">The End Of The Tour</title>
     <desc lang="zh"> </desc>
@@ -225925,6 +227489,98 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260114195600 +0700" stop="20260114212000 +0700" channel="Superrix">
+    <title lang="zh">Gold</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113001300 +0700" stop="20260113023600 +0700" channel="Superrix HD">
+    <title lang="zh">The End Of The Tour</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113023600 +0700" stop="20260113044900 +0700" channel="Superrix HD">
+    <title lang="zh">Platinum</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113044900 +0700" stop="20260113064600 +0700" channel="Superrix HD">
+    <title lang="zh">Masterminds</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113064600 +0700" stop="20260113083900 +0700" channel="Superrix HD">
+    <title lang="zh">Gold</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113083900 +0700" stop="20260113094600 +0700" channel="Superrix HD">
+    <title lang="zh">Baby Bulldog</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113094600 +0700" stop="20260113113300 +0700" channel="Superrix HD">
+    <title lang="zh">Minor Premise</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113113300 +0700" stop="20260113135200 +0700" channel="Superrix HD">
+    <title lang="zh">Platinum</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113135200 +0700" stop="20260113154300 +0700" channel="Superrix HD">
+    <title lang="zh">Sugar Baby Murder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113154300 +0700" stop="20260113174400 +0700" channel="Superrix HD">
+    <title lang="zh">Gold</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113174400 +0700" stop="20260113190700 +0700" channel="Superrix HD">
+    <title lang="zh">A Man Called Jon</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113190700 +0700" stop="20260113205100 +0700" channel="Superrix HD">
+    <title lang="zh">American Siege</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260113205100 +0700" stop="20260113231700 +0700" channel="Superrix HD">
+    <title lang="zh">Platinum</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114010400 +0700" stop="20260114025800 +0700" channel="Superrix HD">
+    <title lang="zh">Gold</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114025800 +0700" stop="20260114042000 +0700" channel="Superrix HD">
+    <title lang="zh">A Snapshot Of Forever</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114042000 +0700" stop="20260114062900 +0700" channel="Superrix HD">
+    <title lang="zh">God's Country</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114062900 +0700" stop="20260114091000 +0700" channel="Superrix HD">
+    <title lang="zh">Platinum</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114091000 +0700" stop="20260114105200 +0700" channel="Superrix HD">
+    <title lang="zh">Shadow Of Fear</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114105200 +0700" stop="20260114124400 +0700" channel="Superrix HD">
+    <title lang="zh">Gold</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114124400 +0700" stop="20260114134800 +0700" channel="Superrix HD">
+    <title lang="zh">Apocalypse Love Story</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114134800 +0700" stop="20260114155700 +0700" channel="Superrix HD">
+    <title lang="zh">Black Flowers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114155700 +0700" stop="20260114180700 +0700" channel="Superrix HD">
+    <title lang="zh">Platinum</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114180700 +0700" stop="20260114195600 +0700" channel="Superrix HD">
+    <title lang="zh">Last Party</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114195600 +0700" stop="20260114212000 +0700" channel="Superrix HD">
     <title lang="zh">Gold</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -226093,6 +227749,174 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113230000 +0700" stop="20260113233000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114000000 +0700" stop="20260114003000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114003000 +0700" stop="20260114013000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114013000 +0700" stop="20260114020000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114020000 +0700" stop="20260114023000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114023000 +0700" stop="20260114030000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114033000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114033000 +0700" stop="20260114040000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114040000 +0700" stop="20260114043000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114043000 +0700" stop="20260114050000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114050000 +0700" stop="20260114053000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114053000 +0700" stop="20260114060000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114060000 +0700" stop="20260114070000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114070000 +0700" stop="20260114073000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114073000 +0700" stop="20260114080000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114080000 +0700" stop="20260114090000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114090000 +0700" stop="20260114093000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114093000 +0700" stop="20260114100000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114100000 +0700" stop="20260114103000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114103000 +0700" stop="20260114110000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114110000 +0700" stop="20260114113000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114113000 +0700" stop="20260114120000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114120000 +0700" stop="20260114123000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114123000 +0700" stop="20260114130000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114130000 +0700" stop="20260114140000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114143000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114143000 +0700" stop="20260114150000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114150000 +0700" stop="20260114160000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114160000 +0700" stop="20260114163000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114163000 +0700" stop="20260114170000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114173000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114173000 +0700" stop="20260114180000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114180000 +0700" stop="20260114183000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114183000 +0700" stop="20260114190000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114190000 +0700" stop="20260114193000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114193000 +0700" stop="20260114200000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114200000 +0700" stop="20260114203000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114203000 +0700" stop="20260114210000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114210000 +0700" stop="20260114213000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114213000 +0700" stop="20260114220000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114220000 +0700" stop="20260114223000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114223000 +0700" stop="20260114230000 +0700" channel="Tawaf TV">
+    <title lang="zh">DMI TV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114230000 +0700" stop="20260114233000 +0700" channel="Tawaf TV">
     <title lang="zh">DMI TV</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -227460,6 +229284,58 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
     <title lang="zh">The 2nd</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260114014900 +0700" stop="20260114031200 +0700" channel="UNIQUES HD">
+    <title lang="zh">Pregnant At 17</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114031200 +0700" stop="20260114050100 +0700" channel="UNIQUES HD">
+    <title lang="zh">Capone</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114050100 +0700" stop="20260114064400 +0700" channel="UNIQUES HD">
+    <title lang="zh">Gold</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114064400 +0700" stop="20260114081900 +0700" channel="UNIQUES HD">
+    <title lang="zh">Finding Love In Saint Lucia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114081900 +0700" stop="20260114094200 +0700" channel="UNIQUES HD">
+    <title lang="zh">Silver</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114094200 +0700" stop="20260114113300 +0700" channel="UNIQUES HD">
+    <title lang="zh">Breach</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114113300 +0700" stop="20260114132300 +0700" channel="UNIQUES HD">
+    <title lang="zh">Platinum</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114132300 +0700" stop="20260114150400 +0700" channel="UNIQUES HD">
+    <title lang="zh">Escape From Pretoria</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114150400 +0700" stop="20260114171800 +0700" channel="UNIQUES HD">
+    <title lang="zh">Embattled</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114171800 +0700" stop="20260114184900 +0700" channel="UNIQUES HD">
+    <title lang="zh">Gold</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114184900 +0700" stop="20260114204400 +0700" channel="UNIQUES HD">
+    <title lang="zh">Long Flat Balls 3: Broken...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114204400 +0700" stop="20260114220700 +0700" channel="UNIQUES HD">
+    <title lang="zh">Silver</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114220700 +0700" stop="20260114235700 +0700" channel="UNIQUES HD">
+    <title lang="zh">The Innkeepers</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260113000000 +0700" stop="20260113010000 +0700" channel="Vision Prime">
     <title lang="zh">Mencintai Ipar Sendiri</title>
     <desc lang="zh"> </desc>
@@ -227530,6 +229406,90 @@ Emma被叫「大姐」劝酒技能神遗传</desc>
   </programme>
   <programme start="20260113200000 +0700" stop="20260113210000 +0700" channel="Vision Prime">
     <title lang="zh">Terbelenggu Rindu</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114000000 +0700" stop="20260114010000 +0700" channel="Vision Prime">
+    <title lang="zh">Mencintai Ipar Sendiri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114010000 +0700" stop="20260114020000 +0700" channel="Vision Prime">
+    <title lang="zh">Cinta Sepenuh Jiwa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114020000 +0700" stop="20260114030000 +0700" channel="Vision Prime">
+    <title lang="zh">Sayap Cinta Terindah</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114030000 +0700" stop="20260114040000 +0700" channel="Vision Prime">
+    <title lang="zh">Intan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114040000 +0700" stop="20260114050000 +0700" channel="Vision Prime">
+    <title lang="zh">Terbelenggu Rindu</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114050000 +0700" stop="20260114060000 +0700" channel="Vision Prime">
+    <title lang="zh">Mencintai Ipar Sendiri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114060000 +0700" stop="20260114070000 +0700" channel="Vision Prime">
+    <title lang="zh">Cinta Sepenuh Jiwa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114070000 +0700" stop="20260114080000 +0700" channel="Vision Prime">
+    <title lang="zh">Makan Bareng Artis</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114080000 +0700" stop="20260114090000 +0700" channel="Vision Prime">
+    <title lang="zh">Lucky Spinner Indonesia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114090000 +0700" stop="20260114100000 +0700" channel="Vision Prime">
+    <title lang="zh">Intan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114100000 +0700" stop="20260114110000 +0700" channel="Vision Prime">
+    <title lang="zh">Ikatan Cinta</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114110000 +0700" stop="20260114120000 +0700" channel="Vision Prime">
+    <title lang="zh">Mencintai Ipar Sendiri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114120000 +0700" stop="20260114130000 +0700" channel="Vision Prime">
+    <title lang="zh">Ada Apa Dengan Cinta The Series</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114130000 +0700" stop="20260114140000 +0700" channel="Vision Prime">
+    <title lang="zh">Jomblo-Jomblo Bahagia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114140000 +0700" stop="20260114150000 +0700" channel="Vision Prime">
+    <title lang="zh">Sayap Cinta Terindah</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114150000 +0700" stop="20260114170000 +0700" channel="Vision Prime">
+    <title lang="zh">Mencintai Ipar Sendiri</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114170000 +0700" stop="20260114190000 +0700" channel="Vision Prime">
+    <title lang="zh">Cinta Sepenuh Jiwa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114190000 +0700" stop="20260114200000 +0700" channel="Vision Prime">
+    <title lang="zh">Ikatan Cinta</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114200000 +0700" stop="20260114210000 +0700" channel="Vision Prime">
+    <title lang="zh">Terbelenggu Rindu</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114210000 +0700" stop="20260114213000 +0700" channel="Vision Prime">
+    <title lang="zh">Have A Nice Date</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260114213000 +0700" stop="20260114220000 +0700" channel="Vision Prime">
+    <title lang="zh">Ketawa Dimana Aja</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113000000 +0700" stop="20260113010000 +0700" channel="Vision Prime HD">

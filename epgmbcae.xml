@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260113160000 +0800" stop="20260113173000 +0800" channel="mbc max">
-    <title lang="en">The Shallows</title>
-    <desc lang="en">Nancy, a surfer, is attacked by a great white shark just 200yards off the coast, and her short voyage to safety ends in a titanic struggle for survival.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260113180000 +0800" stop="20260113200000 +0800" channel="mbc max">
     <title lang="en">Duplicity</title>
     <desc lang="en">The rivalry between Ray and Claire, whether in their rolesas government officials or later as industrial employees, gives rise to a whirlwind romance that leaves them plotting their own heist.</desc>
@@ -228,12 +222,6 @@
     <category lang="en">Movie
                (2009)</category>
   </programme>
-  <programme start="20260113150500 +0800" stop="20260113173000 +0800" channel="mbc 2">
-    <title lang="en">Jurassic World: Dominion</title>
-    <desc lang="en">All hell breaks loose when the greed of the scientists andtheir wish to control and exploit the dinosaurs wreaks havoc in the world when the dinosaurs are freed.</desc>
-    <category lang="en">Movie
-               (2022)</category>
-  </programme>
   <programme start="20260113173000 +0800" stop="20260113190000 +0800" channel="mbc 2">
     <title lang="en">Deep Fear</title>
     <desc lang="en">The film's events revolve around Naomi, who goes on a seatrip alone to meet her lover, but the trip takes a dark turn when she is exposed to an unexpected storm.</desc>
@@ -401,5 +389,11 @@
     <desc lang="en">As Hiccup fulfills his dream of creating a peaceful dragonutopia, Toothless' discovery of a wild dragon drives the Night Fury away. When danger mounts, Hiccup's reign as village chief is tested, both dragon and rider must make impossible decisions to save their own kind.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260116024500 +0800" stop="20260116043000 +0800" channel="mbc 2">
+    <title lang="en">Ben Is Back</title>
+    <desc lang="en">When her son leaves rehab and returns home on Christmas Eve,Holly is determined to ensure that he does not relapse. But as Ben's past comes to haunt him and threaten his treatment, Holly learns shocking truths about his addiction as she fights tooth and nail to save her son.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
