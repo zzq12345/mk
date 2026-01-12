@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260112210500 +0800" stop="20260112230600 +0800" channel="mbc max">
-    <title lang="en">Loving Pablo</title>
-    <desc lang="en">In 1981, the famous Colombian journalist Virginia Vallejo isinvited to a VIP party in the ranch of the most notorious drug lord, Pablo Escobar. As she falls for him in a tumultuous relationship, she soon learns how mighty he is and tries to put an end to his reign of corruption and tyranny.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260112230600 +0800" stop="20260113013000 +0800" channel="mbc max">
     <title lang="en">Blood Diamond</title>
     <desc lang="en">In Sierra Leone, Solomon Vandy is separated from his familyand forced to work in mines, where he finds a diamond and hides it. When he's arrested, he meets Danny Archer the arms trafficker, who offers to help him find his family in exchange for the priceless diamond.</desc>
@@ -216,17 +210,11 @@
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260112200000 +0800" stop="20260112214000 +0800" channel="mbc 2">
-    <title lang="en">Mr. Deeds</title>
-    <desc lang="en">A sudden inheritance leaves a simple man swimming inmillions, which turns his life upside down as greedy associates and tabloids all vie to get something out of him, whether it's money or a juicy story.</desc>
+  <programme start="20260115080000 +0800" stop="20260115100000 +0800" channel="mbc max">
+    <title lang="en">Julie &amp; Julia</title>
+    <desc lang="en">Based on true events, the film juxtaposes the journey ofrenowned chef Julia Child and how she achieved her fame, and the story of an ordinary woman, Julie Powell, who tries to reinvent her life by documenting her year-long challenge to cook all the available recipes in Julia Child’s cookbook.</desc>
     <category lang="en">Movie
-               (2002)</category>
-  </programme>
-  <programme start="20260112214000 +0800" stop="20260112231500 +0800" channel="mbc 2">
-    <title lang="en">Vacation</title>
-    <desc lang="en">In an attempt to reconnect with his family, Rusty Griswoldtakes his wife and sons on a road trip, hoping it will send them journeying through their relationship, but things go unexpectedly odd.</desc>
-    <category lang="en">Movie
-               (2015)</category>
+               (2009)</category>
   </programme>
   <programme start="20260112231500 +0800" stop="20260113010000 +0800" channel="mbc 2">
     <title lang="en">Here Comes the Boom</title>
@@ -407,5 +395,17 @@
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
     <category lang="en">Program
                (2008)</category>
+  </programme>
+  <programme start="20260115063000 +0800" stop="20260115083500 +0800" channel="mbc 2">
+    <title lang="en">Miss Sloane</title>
+    <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
+    <category lang="en">Movie
+               (2016)</category>
+  </programme>
+  <programme start="20260115090000 +0800" stop="20260115103500 +0800" channel="mbc 2">
+    <title lang="en">The Croods</title>
+    <desc lang="en">The prehistoric Croods must relocate when their darling homecave is destroyed. Thus begins the first family road trip in human history. The Croods discover an incredible new world beyond, and their outlook is changed forever.</desc>
+    <category lang="en">Movie - Cartoon
+               (2013)</category>
   </programme>
 </tv>
