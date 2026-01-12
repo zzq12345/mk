@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260113140000 +0800" stop="20260113153000 +0800" channel="mbc max">
-    <title lang="en">47 Meters Down: Uncaged</title>
-    <desc lang="en">In this sequel, four teenage girls go diving in a ruinedunderwater city, discover that they are not alone in a maze of submerged caves and that they've entered the territory of  fierce sharks.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260113160000 +0800" stop="20260113173000 +0800" channel="mbc max">
     <title lang="en">The Shallows</title>
     <desc lang="en">Nancy, a surfer, is attacked by a great white shark just 200yards off the coast, and her short voyage to safety ends in a titanic struggle for survival.</desc>
@@ -228,12 +222,6 @@
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260113130000 +0800" stop="20260113150500 +0800" channel="mbc 2">
-    <title lang="en">Godzilla</title>
-    <desc lang="en">An epic rebirth to Toho’s iconic Godzilla, the film pits theworld’s most famous monster against malevolent creatures who, bolstered by humanity’s scientific arrogance, threaten our very existence.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260113150500 +0800" stop="20260113173000 +0800" channel="mbc 2">
     <title lang="en">Jurassic World: Dominion</title>
     <desc lang="en">All hell breaks loose when the greed of the scientists andtheir wish to control and exploit the dinosaurs wreaks havoc in the world when the dinosaurs are freed.</desc>
@@ -401,5 +389,11 @@
     <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260116010000 +0800" stop="20260116024500 +0800" channel="mbc 2">
+    <title lang="en">How to Train Your Dragon: The Hidden World</title>
+    <desc lang="en">As Hiccup fulfills his dream of creating a peaceful dragonutopia, Toothless' discovery of a wild dragon drives the Night Fury away. When danger mounts, Hiccup's reign as village chief is tested, both dragon and rider must make impossible decisions to save their own kind.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
