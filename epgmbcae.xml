@@ -222,6 +222,12 @@
     <category lang="en">Movie
                (2017)</category>
   </programme>
+  <programme start="20260115230000 +0800" stop="20260115233000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
   <programme start="20260113130000 +0800" stop="20260113150500 +0800" channel="mbc 2">
     <title lang="en">Godzilla</title>
     <desc lang="en">An epic rebirth to Toho’s iconic Godzilla, the film pits theworld’s most famous monster against malevolent creatures who, bolstered by humanity’s scientific arrogance, threaten our very existence.</desc>
@@ -389,5 +395,11 @@
     <desc lang="en">Based on his own book, this is the true story of JordanBelfort. A stock-broker who had it all after his rise to the high life of a millionaire and lost it all after his fall involving crime and the federal government.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260115230000 +0800" stop="20260116010000 +0800" channel="mbc 2">
+    <title lang="en">Miss Sloane</title>
+    <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
