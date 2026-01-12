@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260112013000 +0800" stop="20260112030000 +0800" channel="mbc max">
-    <title lang="en">Bad Teacher</title>
-    <desc lang="en">This is a comedy about a new teacher (Elisabeth) who joins ahigh school and is seen abusing her position and her resources. The movie portrays pranks and tricks amongst the teachers involving  the new teacher , Mr. Scott and the PE teacher.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
-  <programme start="20260112030000 +0800" stop="20260112033000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260112033000 +0800" stop="20260112053000 +0800" channel="mbc max">
     <title lang="en">Duplicity</title>
     <desc lang="en">The rivalry between Ray and Claire, whether in their rolesas government officials or later as industrial employees, gives rise to a whirlwind romance that leaves them plotting their own heist.</desc>
@@ -222,18 +210,6 @@
     <category lang="en">Movie
                (2007)</category>
   </programme>
-  <programme start="20260112013000 +0800" stop="20260112030000 +0800" channel="mbc 2">
-    <title lang="en">127 Hours</title>
-    <desc lang="en">The biography of Aron Ralston, a mountain climber, and hispainful experience when he got trapped  under a boulder, putting him in a situation that demands sacrifice in order to survive.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
-  <programme start="20260112030000 +0800" stop="20260112032500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260112032500 +0800" stop="20260112053500 +0800" channel="mbc 2">
     <title lang="en">Captain Phillips</title>
     <desc lang="en">This thriller recounts how the U.S. container ship, theMaersk Alabama, headed by Captain Richard Phillips (Tom Hanks), became the first American ship to be hijacked in two hundred years when they come head to head with Somali pirates.</desc>
@@ -413,5 +389,11 @@
     <desc lang="en">As he begins to settle into his new family life, theex-supervillain Gru is tasked to stop a lethal enemy named El Macho and save the world from his evil plan.</desc>
     <category lang="en">Movie - Cartoon
                (2013)</category>
+  </programme>
+  <programme start="20260114130000 +0800" stop="20260114144000 +0800" channel="mbc 2">
+    <title lang="en">How to Train Your Dragon: The Hidden World</title>
+    <desc lang="en">As Hiccup fulfills his dream of creating a peaceful dragonutopia, Toothless' discovery of a wild dragon drives the Night Fury away. When danger mounts, Hiccup's reign as village chief is tested, both dragon and rider must make impossible decisions to save their own kind.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
