@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260113120000 +0800" stop="20260113140000 +0800" channel="mbc max">
-    <title lang="en">In the Earth</title>
-    <desc lang="en">A scientist and a park scout travel far into the woods insearch of a cure for a deadly virus. As night falls, the forest around them comes to life, and their journey turns into a terrifying journey through the depths of the night.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260113140000 +0800" stop="20260113153000 +0800" channel="mbc max">
     <title lang="en">47 Meters Down: Uncaged</title>
     <desc lang="en">In this sequel, four teenage girls go diving in a ruinedunderwater city, discover that they are not alone in a maze of submerged caves and that they've entered the territory of  fierce sharks.</desc>
@@ -227,6 +221,12 @@
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
     <category lang="en">Program
                (1998)</category>
+  </programme>
+  <programme start="20260115233000 +0800" stop="20260116013000 +0800" channel="mbc max">
+    <title lang="en">Cop Out</title>
+    <desc lang="en">When Jimmy Monroe decides to sell a precious baseball cardin order to get the necessary money for his daughter’s wedding, the card gets stolen, and Jimmy recruits his fellow cop Peter to find the thief who turns out to be a football-memorabilia-obsessed gangster.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
   <programme start="20260113130000 +0800" stop="20260113150500 +0800" channel="mbc 2">
     <title lang="en">Godzilla</title>
