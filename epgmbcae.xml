@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260112160000 +0800" stop="20260112180000 +0800" channel="mbc max">
-    <title lang="en">Long Shot</title>
-    <desc lang="en">When Fred Flarsky reunites with his high school crush,Charlotte Field, now one of the most influential women in the world, a new spark is born between them. She hires him to write her speeches, as she prepares to run for US presidency.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260112183000 +0800" stop="20260112203000 +0800" channel="mbc max">
-    <title lang="en">State of Play</title>
-    <desc lang="en">When a congressional aide is killed, an investigativejournalist discovers that she was having an affair with her boss, his old college friend. His search for answers about her death leads him to a vast conspiracy that links a series of seemingly unrelated murders.</desc>
-    <category lang="en">Movie
-               (2009)</category>
-  </programme>
   <programme start="20260112210500 +0800" stop="20260112230600 +0800" channel="mbc max">
     <title lang="en">Loving Pablo</title>
     <desc lang="en">In 1981, the famous Colombian journalist Virginia Vallejo isinvited to a VIP party in the ranch of the most notorious drug lord, Pablo Escobar. As she falls for him in a tumultuous relationship, she soon learns how mighty he is and tries to put an end to his reign of corruption and tyranny.</desc>
@@ -210,17 +198,23 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20260112160000 +0800" stop="20260112180000 +0800" channel="mbc 2">
-    <title lang="en">Iron Mask</title>
-    <desc lang="en">When the English traveler Jonathan Green receives an orderto map the Russian Far East from Peter the Great, he goes yet on another adventure full of ups and downs that will eventually lead him to China, where he will face many unexpected encounters.</desc>
-    <category lang="en">Movie
-               (2019)</category>
+  <programme start="20260115033000 +0800" stop="20260115040000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
-  <programme start="20260112180000 +0800" stop="20260112200000 +0800" channel="mbc 2">
-    <title lang="en">Us</title>
-    <desc lang="en">A mother and father take their children to their beachhouse, expecting to enjoy time with friends, but their serenity turns into chaos when some visitors arrive uninvited.</desc>
+  <programme start="20260115040000 +0800" stop="20260115053000 +0800" channel="mbc max">
+    <title lang="en">Going in Style</title>
+    <desc lang="en">Willie, Joe, and Albert are three retired senior citizensdesperate to find money. As things get worse and the circumstances become more complicated, they plan a bank robbery.</desc>
     <category lang="en">Movie
-               (2019)</category>
+               (2017)</category>
+  </programme>
+  <programme start="20260115060000 +0800" stop="20260115073000 +0800" channel="mbc max">
+    <title lang="en">Moonrise Kingdom</title>
+    <desc lang="en">Set in the sixties, in an island in New England, a12-year-old boy and girl fall in love and secretly plan to run away together. This angers the authorities in the island, and the situation escalates to the point where they attempt to track the young couple in all directions.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
   <programme start="20260112200000 +0800" stop="20260112214000 +0800" channel="mbc 2">
     <title lang="en">Mr. Deeds</title>
@@ -407,5 +401,11 @@
     <desc lang="en">An Italian gang kidnaps John Paul Getty III, grandson of oiltycoon J Paul Getty, in Rome. Soon, his mother frantically attempts to persuade his millionaire grandfather to pay the ransom.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260115033500 +0800" stop="20260115040000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
   </programme>
 </tv>
