@@ -1945,6 +1945,10 @@
     <title lang="en">No Reservations</title>
     <desc lang="en">Master chef Kate heads the crew at one of Manhattan's famousrestaurants, focused on finer details at her work. Her life turns upside down when her only sister dies and her daughter Zoe comes to live with her while a new assistant arrives and she feels he's planning to take her place.</desc>
   </programme>
+  <programme start="20260114140000 +0800" stop="20260114153000 +0800" channel="mbc max">
+    <title lang="en">Forgetting Sarah Marshall</title>
+    <desc lang="en">Peter goes to Hawaii on vacation to try to forget hisgirlfriend the TV star Sarah, who ended their relationship a short time ago, only to find her staying in the same resort with her new boyfriend.</desc>
+  </programme>
   <programme start="20260112032500 +0800" stop="20260112053500 +0800" channel="mbc 2">
     <title lang="en">Captain Phillips</title>
     <desc lang="en">This thriller recounts how the U.S. container ship, theMaersk Alabama, headed by Captain Richard Phillips (Tom Hanks), became the first American ship to be hijacked in two hundred years when they come head to head with Somali pirates.</desc>
@@ -2304,6 +2308,10 @@
   <programme start="20260114130000 +0800" stop="20260114140000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
+  </programme>
+  <programme start="20260114140000 +0800" stop="20260114153000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
   </programme>
   <programme start="20260112060000 +0800" stop="20260112063000 +0800" channel="第一財經">
     <title lang="zh">兩說</title>
@@ -22682,11 +22690,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111151600 +0800" stop="20260111151600 +0800" channel="spot on news">
-    <title lang="zh">Seriously? US director Spike Lee gives Pope an unusual gift</title>
+    <title lang="zh">After landslide: Entire school building collapses</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111151600 +0800" stop="20260111151600 +0800" channel="spot on news">
-    <title lang="zh">After landslide: Entire school building collapses</title>
+    <title lang="zh">Seriously? US director Spike Lee gives Pope an unusual gift</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260111151600 +0800" stop="20260111151700 +0800" channel="spot on news">
@@ -29542,11 +29550,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260112172000 +0800" stop="20260112172000 +0800" channel="spot on news">
-    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
+    <title lang="zh">Military plane nearly hits Tesla during crash landing</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260112172000 +0800" stop="20260112172000 +0800" channel="spot on news">
-    <title lang="zh">Military plane nearly hits Tesla during crash landing</title>
+    <title lang="zh">Paramotor crashes into power line, pilot nearly survives</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260112172000 +0800" stop="20260112172100 +0800" channel="spot on news">
@@ -67085,14 +67093,6 @@
     <title lang="zh">財經慧客廳</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260112090000 +0000" stop="20260112092800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260112092800 +0000" stop="20260112095800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20260112095800 +0000" stop="20260112105800 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
@@ -68133,14 +68133,6 @@
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞臺北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
   </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="好消息2臺">
-    <title lang="zh">大衛鮑森講座</title>
-    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
-  </programme>
-  <programme start="20260112100000 +0000" stop="20260112103000 +0000" channel="好消息2臺">
-    <title lang="zh">共享觀點</title>
-    <desc lang="zh">連結社羣、分享、行動的特色，藉著媒體平臺將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-  </programme>
   <programme start="20260112103000 +0000" stop="20260112110000 +0000" channel="好消息2臺">
     <title lang="zh">寇住幸福</title>
     <desc lang="zh">因現代人娛樂方式改變，媒體宣教更成為重要的傳福音管道。GOOD TV發現如今有更多人駐足在網路上，因此投入製作合乎網路媒體特性的節目，《寇住幸福》應運而生！由寇紹恩牧師主持，節目結合精彩的家庭生活短劇、動人的詩歌音樂與信息分享。</desc>
@@ -69016,14 +69008,6 @@
   <programme start="20260117070000 +0000" stop="20260117080000 +0000" channel="好消息2臺">
     <title lang="zh">特會</title>
     <desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
-  </programme>
-  <programme start="20260112094500 +0000" stop="20260112100000 +0000" channel="好消息">
-    <title lang="zh">派特森與芬達貓</title>
-    <desc lang="zh">派特森是一位頑固的老頭，他不喜歡和人相處，直到小貓芬達斯的出現；芬達貓是隻淘氣又自以為是的小貓，不過這卻為派森的生活及農場帶來了更多的歡樂...</desc>
-  </programme>
-  <programme start="20260112100000 +0000" stop="20260112103000 +0000" channel="好消息">
-    <title lang="zh">福氣人生</title>
-    <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
   </programme>
   <programme start="20260112103000 +0000" stop="20260112110000 +0000" channel="好消息">
     <title lang="zh">健康新煮流</title>
@@ -69985,10 +69969,6 @@
     <title lang="zh">機智青年生活</title>
     <desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一羣青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
   </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="ELTV生活英語臺">
-    <title lang="zh">PORORO</title>
-    <desc lang="zh">一隻充滿好奇心的小企鵝-Pororo，因為喜歡嘗試新的事物，且用盡方法瞭解它們，進而惹來許多小麻煩，但在嘗試新事物的過程中也為大家帶來無限歡樂。</desc>
-  </programme>
   <programme start="20260112100000 +0000" stop="20260112110000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">森林偵探隊</title>
     <desc lang="zh">南韓EBS與Bigstar Global共同製播的卡通，可輕鬆認識大自然的樣貌。各個謎團揉合在森林的浩瀚中，期待觀眾跟著偵探隊，細細品味在這森林的每個故事。</desc>
@@ -70520,14 +70500,6 @@
   <programme start="20260117070000 +0000" stop="20260117080000 +0000" channel="ELTV生活英語臺">
     <title lang="zh">萌馬吼吼</title>
     <desc lang="zh">主人公吼吼，是一隻可愛的奶油獨角獸，他生活在甜蜜鎮上，這裡的居民都是各種甜品，有著各自的職業。作為一名快樂的打工人，吼吼每天都在小鎮的不同地方打工，當髮型師助理時，用自己的奶油為甜品們打造時下最流行的髮型，尤其是杯子蛋糕，對他的設計總是讚不絕口。</desc>
-  </programme>
-  <programme start="20260112090000 +0000" stop="20260112093000 +0000" channel="龍華卡通臺">
-    <title lang="zh">月月、阿奇與小墨：森林保衛隊GO</title>
-    <desc lang="zh">當小動物們需要幫助，貓頭鷹月月、河狸阿奇和章魚小墨組成的森林保衛隊就會出動，結合海陸空視角制定完美計劃！因為幫助他人不只是對的事，也是有趣的事！森林保衛隊GO！</desc>
-  </programme>
-  <programme start="20260112093000 +0000" stop="20260112100000 +0000" channel="龍華卡通臺">
-    <title lang="zh">月月、阿奇與小墨：森林保衛隊GO</title>
-    <desc lang="zh">當小動物們需要幫助，貓頭鷹月月、河狸阿奇和章魚小墨組成的森林保衛隊就會出動，結合海陸空視角制定完美計劃！因為幫助他人不只是對的事，也是有趣的事！森林保衛隊GO！</desc>
   </programme>
   <programme start="20260112100000 +0000" stop="20260112103000 +0000" channel="龍華卡通臺">
     <title lang="zh">彼得與狼奇遇記</title>
@@ -71473,10 +71445,6 @@
     <title lang="zh">呱張爆音團</title>
     <desc lang="zh">12歲的柯阿瑞和他的三個好朋友一起在車庫裡成立了一支樂隊，但是很快的他們就發現他們的樂隊很爛 - 真的很爛。問題不在他們的音樂或是百變造型，而是因為柯阿瑞寫不出歌詞。他就是想不出酷炫的歌詞嘛，直到......柯阿瑞找到了他姊姊翠娜的日記。</desc>
   </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20260112100000 +0000" stop="20260112110000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">型男闖世界</title>
     <desc lang="zh">《型男闖世界》前往世界各地的特殊景點或深山祕境，挑戰極限運動，尋找奇人異事、踏尋隱身在叢林邊境的傳說、進行各種挑戰及探險。</desc>
@@ -71948,10 +71916,6 @@
   <programme start="20260117070000 +0000" stop="20260117080000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">融融歷險記</title>
     <desc lang="zh">《融融歷險記 Ben’s Adventure》的創辦人Ben，立志前往那些沒有人要去的地方。走過五大洲75餘國，喜歡拍影片更愛與當地人交流，因為這纔是旅行真正的意義。「旅行的意義是什麼？」旅行的意義，看不同的風景，認識不同的人，領略不同的美好，讓你覺得世界那麼大。</desc>
-  </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="Smart知識臺">
-    <title lang="zh">全民星攻略</title>
-    <desc lang="zh">東森綜合臺全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，纔有機會獲取智慧星幣，帶走夢幻大獎。</desc>
   </programme>
   <programme start="20260112100000 +0000" stop="20260112110000 +0000" channel="Smart知識臺">
     <title lang="zh">健康2.0</title>
@@ -72425,10 +72389,6 @@
     <title lang="zh">臺灣60赫茲</title>
     <desc lang="zh">邀請您一起了解臺灣各產業發展的脈絡，發現臺灣的另一種美！</desc>
   </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="龍華戲劇臺">
-    <title lang="zh">三國</title>
-    <desc lang="zh">距今一千八百多年前，漢帝國衰敗積重難返，長安城內董卓荒淫無度、濫殺無辜，引起舉國義憤，而以曹操為首殲滅董卓，造就了羣雄割據，至赤壁之戰後三國鼎立，再到司馬氏篡魏，天下歸晉為止，這個英雄輩出、波瀾壯闊的大傳奇時代終於結束。而其中的英雄人物和動人故事，仍被傳頌至今。</desc>
-  </programme>
   <programme start="20260112100000 +0000" stop="20260112110000 +0000" channel="龍華戲劇臺">
     <title lang="zh">上陽賦</title>
     <desc lang="zh">郡主王儇（章子怡）與三皇子（楊祐寧）青梅竹馬，卻因被捲入朝堂爭鬥，在15歲時被父親當作棋子，嫁給出身寒門的豫章王蕭綦（週一圍）。這段權力交易下的婚姻，卻在歷經種種考驗後讓兩人先婚後愛，最後兩人攜手共定天下，守護家國百姓…</desc>
@@ -72900,18 +72860,6 @@
   <programme start="20260117070000 +0000" stop="20260117080000 +0000" channel="龍華戲劇臺">
     <title lang="zh">沉香</title>
     <desc lang="zh">沉香，將江南名城鎮江作為場景主發生地，以鎮江“醋文化”為背景，講述了在一個動蕩的年代裏，一個傳統商家的傳奇經歷，以及在這段經歷背後所隱含的傷痛、國痛、時代之痛、民族之痛。</desc>
-  </programme>
-  <programme start="20260112090000 +0000" stop="20260112093000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260112093000 +0000" stop="20260112100000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
-  </programme>
-  <programme start="20260112100000 +0000" stop="20260112103000 +0000" channel="臺灣戲劇臺">
-    <title lang="zh">親戚不計較</title>
-    <desc lang="zh">由卓勝利、李鑼等人主演，本劇雖以喜劇的方式呈現，但笑中有淚，淚中有悟，悟中有得，令人深思！</desc>
   </programme>
   <programme start="20260112103000 +0000" stop="20260112110000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">親戚不計較</title>
@@ -73388,10 +73336,6 @@
   <programme start="20260117070000 +0000" stop="20260117080000 +0000" channel="臺灣戲劇臺">
     <title lang="zh">包青天</title>
     <desc lang="zh">仁宗皇帝在位期間，包拯（金超羣）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（範鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</desc>
-  </programme>
-  <programme start="20260112092000 +0000" stop="20260112100000 +0000" channel="東森購物1臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260112100000 +0000" stop="20260112104000 +0000" channel="東森購物1臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -74101,10 +74045,6 @@
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="龍華偶像臺">
-    <title lang="zh">被告人</title>
-    <desc lang="zh">首爾中央地方檢察廳王牌檢察官樸政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</desc>
-  </programme>
   <programme start="20260112100000 +0000" stop="20260112110000 +0000" channel="龍華偶像臺">
     <title lang="zh">風起西州</title>
     <desc lang="zh">風起霓裳續集。庫狄琉璃與裴行儉婚後琴瑟和鳴，夫唱婦隨。後裴行儉被貶。琉璃陪伴丈夫遠赴西州上任，與當地世子麴崇裕相識的故事。</desc>
@@ -74581,10 +74521,6 @@
     <title lang="zh">向風而行</title>
     <desc lang="zh">嚴苛自律的飛行部副部長顧南亭，因公司改制意外，與性格颯爽不羈的程霄成上下屬和師徒關係。面對接踵而來的突發航空事件，兩人攜手絕地反擊、化險為夷。在解決危機的途中，追求穩定秩序的顧南亭時常被不按常理出牌的程霄打亂計劃，但仍然能夠解決困難，並在過程中克服著自身的缺點，一路朝着夢想前進。</desc>
   </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="龍華日韓臺">
-    <title lang="zh">歐若拉公主</title>
-    <desc lang="zh">大企業天王食品會長家，晚來得到的獨生女歐若拉竟對完美挑剔男的小說家黃馬馬一見鍾情，而這兩家族之間會因為這兩人間所發生的事情，有何改變呢？</desc>
-  </programme>
   <programme start="20260112100000 +0000" stop="20260112110000 +0000" channel="龍華日韓臺">
     <title lang="zh">歐若拉公主</title>
     <desc lang="zh">大企業天王食品會長家，晚來得到的獨生女歐若拉竟對完美挑剔男的小說家黃馬馬一見鍾情，而這兩家族之間會因為這兩人間所發生的事情，有何改變呢？</desc>
@@ -75056,10 +74992,6 @@
   <programme start="20260117070000 +0000" stop="20260117080000 +0000" channel="龍華日韓臺">
     <title lang="zh">紳士與小姐</title>
     <desc lang="zh">樸丹丹（李世熙）因受不了父親偏心繼母而離家出走，在山上散心時遇到穿西裝健行的李英國（智鉉寓），後來丹丹住進李家，成為三個熊孩子的家教。因為樸老師的關係，英國與孩子的關係越來越親近，他還發現自己的心漸漸因丹丹而動搖了…</desc>
-  </programme>
-  <programme start="20260112092000 +0000" stop="20260112100000 +0000" channel="東森購物2臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260112100000 +0000" stop="20260112104000 +0000" channel="東森購物2臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -76205,10 +76137,6 @@
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞臺北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
   </programme>
-  <programme start="20260112040000 +0000" stop="20260112100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260112100000 +0000" stop="20260112160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh">暫無描述</desc>
@@ -76284,10 +76212,6 @@
   <programme start="20260116220000 +0000" stop="20260117040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
     <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1700整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20260112100000 +0000" stop="20260112115500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -76700,10 +76624,6 @@
   <programme start="20260117065500 +0000" stop="20260117075500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">好宅敲敲門</title>
     <desc lang="zh">由廖婕妤主持，節目將深入分析房地產市場動態，提供區域房價、趨勢報導，同時有房地產界人物專訪，透過人物故事看房市更迭，並搭配每週精選、具吸引力之房地產新聞，以及主播開箱名人明星家，訪談買房心法、投資觀點。</desc>
-  </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="寰宇財經臺">
-    <title lang="zh">打卡吧!我的炫FOOD日記</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260112100000 +0000" stop="20260112110000 +0000" channel="寰宇財經臺">
     <title lang="zh">銅板美食呷透透</title>
@@ -77177,10 +77097,6 @@
     <title lang="zh">小食光臺味誌</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="中視新聞">
-    <title lang="zh">新庶民大頭家</title>
-    <desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-  </programme>
   <programme start="20260112100000 +0000" stop="20260112105800 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -77652,10 +77568,6 @@
   <programme start="20260117070000 +0000" stop="20260117080000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞即時現場</title>
     <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
-  <programme start="20260112090000 +0000" stop="20260112100000 +0000" channel="中天新聞臺">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
   </programme>
   <programme start="20260112100000 +0000" stop="20260112110000 +0000" channel="中天新聞臺">
     <title lang="zh">中天辣晚報</title>
@@ -78129,10 +78041,6 @@
     <title lang="zh">週末大爆卦</title>
     <desc lang="zh">中天主播為您帶來最新、最即時的重點新聞、內幕爆卦，鎖定《週末大爆掛》！</desc>
   </programme>
-  <programme start="20260112085500 +0000" stop="20260112095500 +0000" channel="寰宇新聞臺灣臺">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
-  </programme>
   <programme start="20260112095500 +0000" stop="20260112105500 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
@@ -78605,10 +78513,6 @@
     <title lang="zh">噓你不知道的事</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260112085500 +0000" stop="20260112095500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20260112095500 +0000" stop="20260112105500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -79079,18 +78983,6 @@
   </programme>
   <programme start="20260117065500 +0000" stop="20260117075500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球現場</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260112090000 +0000" stop="20260112093000 +0000" channel="第1商業臺">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260112093000 +0000" stop="20260112100000 +0000" channel="第1商業臺">
-    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260112100000 +0000" stop="20260112103000 +0000" channel="第1商業臺">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260112103000 +0000" stop="20260112110000 +0000" channel="第1商業臺">
@@ -79953,10 +79845,6 @@
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260112010000 +0000" stop="20260112100000 +0000" channel="國會頻道1臺">
-    <title lang="zh">立法院會議直播</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260112100000 +0000" stop="20260112160000 +0000" channel="國會頻道1臺">
     <title lang="zh">當日立法院會議轉播</title>
     <desc lang="zh">暫無描述</desc>
@@ -80051,10 +79939,6 @@
   </programme>
   <programme start="20260117010000 +0000" stop="20260117050000 +0000" channel="國會頻道1臺">
     <title lang="zh">本週立法院會議轉播</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260112010000 +0000" stop="20260112100000 +0000" channel="國會頻道2臺">
-    <title lang="zh">立法院會議直播</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260112100000 +0000" stop="20260112160000 +0000" channel="國會頻道2臺">
@@ -80616,10 +80500,6 @@
   <programme start="20260117054500 +0000" stop="20260117072500 +0000" channel="龍華電影臺">
     <title lang="zh">白髮魔女2</title>
     <desc lang="zh">卓一航（張國榮）與練霓裳（林青霞）決裂後銷聲匿跡，如今練已走火入魔，四處殺戳。適逢武當後人武當人封俊傑迎娶玉女虞琴之夜，魔女再現，殺賓客擄新娘。峨嵋派姥姥無力對抗魔女，乃派俊傑往千雪峯找卓幫忙。時值奇花開放，卓攜花下山與練重逢，然而，練卻大開殺戒，卓會如何面對忿恨的練呢？</desc>
-  </programme>
-  <programme start="20260112075500 +0000" stop="20260112094000 +0000" channel="龍華洋片臺">
-    <title lang="zh">下一站，托斯卡尼</title>
-    <desc lang="zh">一位畫家帶著兒子回到義大利，想賣掉多年前與亡妻一起住過的老屋。然而房子年久失修，還有一片難以理解的壁畫，導致沒人想買這房子，父子倆只好自己動手修繕老屋。但他們卻萬萬沒想到當遠離繁忙生活，兩人似乎也開始找到屬於自己的未來…</desc>
   </programme>
   <programme start="20260112094000 +0000" stop="20260112112000 +0000" channel="龍華洋片臺">
     <title lang="zh">仙戒奇緣：神祕寶石</title>
@@ -189439,23 +189319,23 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113053300 +0800" stop="20260113060300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113053300 +0800" stop="20260113060200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Mainland Q&amp;A</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113060300 +0800" stop="20260113063300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113060200 +0800" stop="20260113063200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113063300 +0800" stop="20260113070300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113063200 +0800" stop="20260113070300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113070300 +0800" stop="20260113080000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113070300 +0800" stop="20260113075900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113080000 +0800" stop="20260113080300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113075900 +0800" stop="20260113080300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -189467,19 +189347,19 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113090300 +0800" stop="20260113093300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113090300 +0800" stop="20260113093200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113093300 +0800" stop="20260113100300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113093200 +0800" stop="20260113100300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113100300 +0800" stop="20260113110000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113100300 +0800" stop="20260113105900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113110000 +0800" stop="20260113110300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113105900 +0800" stop="20260113110300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -189507,19 +189387,19 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">My Hong Kong Story</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113134800 +0800" stop="20260113143300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113134800 +0800" stop="20260113143200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chit Chat With Me</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113143300 +0800" stop="20260113150300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113143200 +0800" stop="20260113150300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113150300 +0800" stop="20260113160000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113150300 +0800" stop="20260113155900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113160000 +0800" stop="20260113160300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113155900 +0800" stop="20260113160300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -189551,35 +189431,35 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113190300 +0800" stop="20260113193300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113190300 +0800" stop="20260113193200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113193300 +0800" stop="20260113200300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113193200 +0800" stop="20260113200300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113200300 +0800" stop="20260113203300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113200300 +0800" stop="20260113203200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113203300 +0800" stop="20260113210300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113203200 +0800" stop="20260113210300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Lawrence Viewpoint</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113210300 +0800" stop="20260113215800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113210300 +0800" stop="20260113215700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113215800 +0800" stop="20260113220300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113215700 +0800" stop="20260113220300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113220300 +0800" stop="20260113223300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113220300 +0800" stop="20260113223200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113223300 +0800" stop="20260113230300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260113223200 +0800" stop="20260113230300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -189903,127 +189783,127 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113053300 +0800" stop="20260113060300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113053300 +0800" stop="20260113060200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113060300 +0800" stop="20260113063000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113060200 +0800" stop="20260113062900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113063000 +0800" stop="20260113063300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113062900 +0800" stop="20260113063200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113063300 +0800" stop="20260113070300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113063200 +0800" stop="20260113070200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113070300 +0800" stop="20260113080000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113070200 +0800" stop="20260113075900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113080000 +0800" stop="20260113080300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113075900 +0800" stop="20260113080200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113080300 +0800" stop="20260113090000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113080200 +0800" stop="20260113085900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113090000 +0800" stop="20260113090300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113085900 +0800" stop="20260113090200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113090300 +0800" stop="20260113093000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113090200 +0800" stop="20260113092900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113093000 +0800" stop="20260113093300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113092900 +0800" stop="20260113093200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113093300 +0800" stop="20260113100300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113093200 +0800" stop="20260113100200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113100300 +0800" stop="20260113110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113100200 +0800" stop="20260113105900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113110000 +0800" stop="20260113110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113105900 +0800" stop="20260113110200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113110300 +0800" stop="20260113113000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113110200 +0800" stop="20260113112900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113113000 +0800" stop="20260113113300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113112900 +0800" stop="20260113113200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113113300 +0800" stop="20260113120300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113113200 +0800" stop="20260113120300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113120300 +0800" stop="20260113125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113120300 +0800" stop="20260113125700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113125800 +0800" stop="20260113130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113125700 +0800" stop="20260113130200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113130300 +0800" stop="20260113133000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113130200 +0800" stop="20260113133000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113133000 +0800" stop="20260113133300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113133000 +0800" stop="20260113133200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113133300 +0800" stop="20260113140300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113133200 +0800" stop="20260113140200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113140300 +0800" stop="20260113143000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113140200 +0800" stop="20260113142900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113143000 +0800" stop="20260113143300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113142900 +0800" stop="20260113143300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113143300 +0800" stop="20260113150300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113143300 +0800" stop="20260113150200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113150300 +0800" stop="20260113160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113150200 +0800" stop="20260113155900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113160000 +0800" stop="20260113160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113155900 +0800" stop="20260113160200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113160300 +0800" stop="20260113170000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113160200 +0800" stop="20260113170000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113170000 +0800" stop="20260113170300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113170000 +0800" stop="20260113170200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113170300 +0800" stop="20260113173000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113170200 +0800" stop="20260113172900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113173000 +0800" stop="20260113173300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113172900 +0800" stop="20260113173200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113173300 +0800" stop="20260113180300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113173200 +0800" stop="20260113180300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -190039,11 +189919,11 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113190300 +0800" stop="20260113200000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113190300 +0800" stop="20260113195900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113200000 +0800" stop="20260113200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113195900 +0800" stop="20260113200300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -190051,27 +189931,27 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113203000 +0800" stop="20260113203300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113203000 +0800" stop="20260113203200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113203300 +0800" stop="20260113210300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113203200 +0800" stop="20260113210300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Financial Daily Report</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113210300 +0800" stop="20260113215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113210300 +0800" stop="20260113215700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113215800 +0800" stop="20260113220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113215700 +0800" stop="20260113220300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113220300 +0800" stop="20260113223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113220300 +0800" stop="20260113223200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113223300 +0800" stop="20260113230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260113223200 +0800" stop="20260113230300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -210284,11 +210164,11 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113060000 +0700" stop="20260113080000 +0700" channel="ANTV">
-    <title lang="zh">Menentang Maut</title>
+    <title lang="zh">Rindu Tak Berujung</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113080000 +0700" stop="20260113093000 +0700" channel="ANTV">
-    <title lang="zh">Catatan Hati</title>
+    <title lang="zh">Baalveer Returns</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113093000 +0700" stop="20260113130000 +0700" channel="ANTV">
@@ -228532,7 +228412,7 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113020000 +0700" stop="20260113054500 +0700" channel="RCTI">
-    <title lang="zh">Preman Pensiun S3</title>
+    <title lang="zh">Preman Pensiun S4</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113054500 +0700" stop="20260113064500 +0700" channel="RCTI">
@@ -228543,11 +228423,11 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Upin Ipin</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113081500 +0700" stop="20260113090000 +0700" channel="RCTI">
+  <programme start="20260113081500 +0700" stop="20260113093000 +0700" channel="RCTI">
     <title lang="zh">Kiko</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113090000 +0700" stop="20260113103000 +0700" channel="RCTI">
+  <programme start="20260113093000 +0700" stop="20260113103000 +0700" channel="RCTI">
     <title lang="zh">Ninja Hattori</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -228559,20 +228439,12 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Seputar iNews Siang</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113121500 +0700" stop="20260113140000 +0700" channel="RCTI">
-    <title lang="zh">Nyak Babe Mau Nikah Lagi...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260113140000 +0700" stop="20260113150000 +0700" channel="RCTI">
-    <title lang="zh">Cinlock: Love, Camera, Action!</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260113150000 +0700" stop="20260113153000 +0700" channel="RCTI">
-    <title lang="zh">Preman Pensiun S8</title>
+  <programme start="20260113121500 +0700" stop="20260113153000 +0700" channel="RCTI">
+    <title lang="zh">MasterChef Indonesia S13</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113153000 +0700" stop="20260113170000 +0700" channel="RCTI">
-    <title lang="zh">Manda Curhat</title>
+    <title lang="zh">Jodoh Gak Ketuker</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113170000 +0700" stop="20260113183000 +0700" channel="RCTI">
@@ -228652,7 +228524,7 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113020000 +0700" stop="20260113054500 +0700" channel="RCTI HD">
-    <title lang="zh">Preman Pensiun S3</title>
+    <title lang="zh">Preman Pensiun S4</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113054500 +0700" stop="20260113064500 +0700" channel="RCTI HD">
@@ -228663,11 +228535,11 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Upin Ipin</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113081500 +0700" stop="20260113090000 +0700" channel="RCTI HD">
+  <programme start="20260113081500 +0700" stop="20260113093000 +0700" channel="RCTI HD">
     <title lang="zh">Kiko</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113090000 +0700" stop="20260113103000 +0700" channel="RCTI HD">
+  <programme start="20260113093000 +0700" stop="20260113103000 +0700" channel="RCTI HD">
     <title lang="zh">Ninja Hattori</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -228679,20 +228551,12 @@ Emma被叫「大姐」勸酒技能神遺傳</desc>
     <title lang="zh">Seputar iNews Siang</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260113121500 +0700" stop="20260113140000 +0700" channel="RCTI HD">
-    <title lang="zh">Nyak Babe Mau Nikah Lagi...</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260113140000 +0700" stop="20260113150000 +0700" channel="RCTI HD">
-    <title lang="zh">Cinlock: Love, Camera, Action!</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260113150000 +0700" stop="20260113153000 +0700" channel="RCTI HD">
-    <title lang="zh">Preman Pensiun S8</title>
+  <programme start="20260113121500 +0700" stop="20260113153000 +0700" channel="RCTI HD">
+    <title lang="zh">MasterChef Indonesia S13</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113153000 +0700" stop="20260113170000 +0700" channel="RCTI HD">
-    <title lang="zh">Manda Curhat</title>
+    <title lang="zh">Jodoh Gak Ketuker</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260113170000 +0700" stop="20260113183000 +0700" channel="RCTI HD">
