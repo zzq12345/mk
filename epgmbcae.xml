@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260113053000 +0800" stop="20260113073000 +0800" channel="mbc max">
-    <title lang="en">Whiplash</title>
-    <desc lang="en">The story depicts the struggle of a young music student tobecome a top jazz drummer, and his complicated relationship with his cruel jazz band leader, who uses unorthodox methods to train the students.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
-  <programme start="20260113073000 +0800" stop="20260113080000 +0800" channel="mbc max">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-    <category lang="en">Program
-               (2012)</category>
-  </programme>
   <programme start="20260113080000 +0800" stop="20260113093500 +0800" channel="mbc max">
     <title lang="en">Cop Out</title>
     <desc lang="en">When Jimmy Monroe decides to sell a precious baseball cardin order to get the necessary money for his daughter’s wedding, the card gets stolen, and Jimmy recruits his fellow cop Peter to find the thief who turns out to be a football-memorabilia-obsessed gangster.</desc>
@@ -216,11 +204,17 @@
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260113055500 +0800" stop="20260113080000 +0800" channel="mbc 2">
-    <title lang="en">Godzilla</title>
-    <desc lang="en">An epic rebirth to Toho’s iconic Godzilla, the film pits theworld’s most famous monster against malevolent creatures who, bolstered by humanity’s scientific arrogance, threaten our very existence.</desc>
+  <programme start="20260115160000 +0800" stop="20260115180000 +0800" channel="mbc max">
+    <title lang="en">Taken 2</title>
+    <desc lang="en">The past comes back to haunt former CIA operative BryanMills when the father of one of the kidnappers he killed to rescue his daughter Kim comes after him and his family. With Bryan and his ex-wife captured, it's up to Kim to help her father escape his captors and save her mother.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2012)</category>
+  </programme>
+  <programme start="20260115180000 +0800" stop="20260115200000 +0800" channel="mbc max">
+    <title lang="en">Forgetting Sarah Marshall</title>
+    <desc lang="en">Peter goes to Hawaii on vacation to try to forget hisgirlfriend the TV star Sarah, who ended their relationship a short time ago, only to find her staying in the same resort with her new boyfriend.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
   <programme start="20260113080000 +0800" stop="20260113100500 +0800" channel="mbc 2">
     <title lang="en">All the Money in the World</title>
@@ -381,6 +375,12 @@
   <programme start="20260115150000 +0800" stop="20260115173000 +0800" channel="mbc 2">
     <title lang="en">King Richard</title>
     <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
+    <category lang="en">Movie
+               (2021)</category>
+  </programme>
+  <programme start="20260115173000 +0800" stop="20260115193000 +0800" channel="mbc 2">
+    <title lang="en">Boogie</title>
+    <desc lang="en">As the high school student Alfred "Boogie" Chin dreams ofplaying in the NBA, he follows his parents' guidance who want to get him a scholarship from a prestigious university, while he has to cope with many obstacles.</desc>
     <category lang="en">Movie
                (2021)</category>
   </programme>
