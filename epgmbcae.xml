@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260113222500 +0800" stop="20260113230000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260113230000 +0800" stop="20260114010000 +0800" channel="mbc max">
     <title lang="en">Long Shot</title>
     <desc lang="en">When Fred Flarsky reunites with his high school crush,Charlotte Field, now one of the most influential women in the world, a new spark is born between them. She hires him to write her speeches, as she prepares to run for US presidency.</desc>
@@ -228,12 +222,6 @@
     <category lang="en">Movie
                (2009)</category>
   </programme>
-  <programme start="20260113213000 +0800" stop="20260113230500 +0800" channel="mbc 2">
-    <title lang="en">127 Hours</title>
-    <desc lang="en">The biography of Aron Ralston, a mountain climber, and hispainful experience when he got trapped  under a boulder, putting him in a situation that demands sacrifice in order to survive.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260113230500 +0800" stop="20260114010000 +0800" channel="mbc 2">
     <title lang="en">Iron Mask</title>
     <desc lang="en">When the English traveler Jonathan Green receives an orderto map the Russian Far East from Peter the Great, he goes yet on another adventure full of ups and downs that will eventually lead him to China, where he will face many unexpected encounters.</desc>
@@ -401,5 +389,11 @@
     <desc lang="en">A young man in the prehistoric era, split off from his tribeduring a buffalo hunt, battles to find his way back home. He makes a bond with a fellow lost wolf that has the power to transform humanity.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260116083000 +0800" stop="20260116110000 +0800" channel="mbc 2">
+    <title lang="en">Jerry Maguire</title>
+    <desc lang="en">Sports agent Jerry Maguire is fired after he exposes thedishonesty and corruption that rules his career field. As he loses everything, he tries to prove the success of his new management philosophy with the help of his secretary and the one client who agreed not to fire him.</desc>
+    <category lang="en">Movie
+               (1996)</category>
   </programme>
 </tv>
