@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260114100000 +0800" stop="20260114113000 +0800" channel="mbc max">
-    <title lang="en">Going in Style</title>
-    <desc lang="en">Willie, Joe, and Albert are three retired senior citizensdesperate to find money. As things get worse and the circumstances become more complicated, they plan a bank robbery.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260114120000 +0800" stop="20260114133000 +0800" channel="mbc max">
     <title lang="en">CHIPS</title>
     <desc lang="en">Frank Poncherello, an undercover federal agent, and JonBaker, a rookie, join the highway patrol in California for entirely different reasons. They team up and roam around putting a stop to speeding cars and vehicle thefts, helping those who are lost, and investigating crimes.</desc>
@@ -216,11 +210,11 @@
     <category lang="en">Movie
                (2007)</category>
   </programme>
-  <programme start="20260114103000 +0800" stop="20260114124000 +0800" channel="mbc 2">
-    <title lang="en">Miss Sloane</title>
-    <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
+  <programme start="20260116220000 +0800" stop="20260116233000 +0800" channel="mbc max">
+    <title lang="en">She's Funny That Way</title>
+    <desc lang="en">A married Broadway director falls for aprostitute-turned-actress and decides to professionally adopt her, while she in turn is having another affair simultaneously with the writer of the play they're working on.</desc>
     <category lang="en">Movie
-               (2016)</category>
+               (2014)</category>
   </programme>
   <programme start="20260114124000 +0800" stop="20260114130500 +0800" channel="mbc 2">
     <title lang="en">Action Zone</title>
@@ -383,5 +377,11 @@
     <desc lang="en">As he begins to settle into his new family life, theex-supervillain Gru is tasked to stop a lethal enemy named El Macho and save the world from his evil plan.</desc>
     <category lang="en">Movie - Cartoon
                (2013)</category>
+  </programme>
+  <programme start="20260116213000 +0800" stop="20260116233000 +0800" channel="mbc 2">
+    <title lang="en">Krampus</title>
+    <desc lang="en">When a family fight at Christmas ends up accidentallysummoning a demonic force, little Max and his family find themselves in a fight for their lives as the demon Krampus puts them through hell to punish them for their deeds.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
