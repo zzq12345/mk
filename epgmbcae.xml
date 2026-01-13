@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260113180000 +0800" stop="20260113200000 +0800" channel="mbc max">
-    <title lang="en">Duplicity</title>
-    <desc lang="en">The rivalry between Ray and Claire, whether in their rolesas government officials or later as industrial employees, gives rise to a whirlwind romance that leaves them plotting their own heist.</desc>
-    <category lang="en">Movie
-               (2009)</category>
-  </programme>
   <programme start="20260113203000 +0800" stop="20260113222500 +0800" channel="mbc max">
     <title lang="en">Get Smart</title>
     <desc lang="en">Maxwell Smart is an analyst at an American intelligenceagency who years for something more: he wants to become a field agent. Smart is promoted and partnered up with Agent 99. However, a number of comical situations occur due to Smart's lack of proper training.</desc>
@@ -222,11 +216,17 @@
     <category lang="en">Movie
                (2009)</category>
   </programme>
-  <programme start="20260113173000 +0800" stop="20260113190000 +0800" channel="mbc 2">
-    <title lang="en">Deep Fear</title>
-    <desc lang="en">The film's events revolve around Naomi, who goes on a seatrip alone to meet her lover, but the trip takes a dark turn when she is exposed to an unexpected storm.</desc>
+  <programme start="20260116040000 +0800" stop="20260116060000 +0800" channel="mbc max">
+    <title lang="en">She's Funny That Way</title>
+    <desc lang="en">A married Broadway director falls for aprostitute-turned-actress and decides to professionally adopt her, while she in turn is having another affair simultaneously with the writer of the play they're working on.</desc>
     <category lang="en">Movie
-               (2023)</category>
+               (2014)</category>
+  </programme>
+  <programme start="20260116060000 +0800" stop="20260116080000 +0800" channel="mbc max">
+    <title lang="en">Forgetting Sarah Marshall</title>
+    <desc lang="en">Peter goes to Hawaii on vacation to try to forget hisgirlfriend the TV star Sarah, who ended their relationship a short time ago, only to find her staying in the same resort with her new boyfriend.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
   <programme start="20260113190000 +0800" stop="20260113210500 +0800" channel="mbc 2">
     <title lang="en">Sherlock Holmes</title>
@@ -395,5 +395,11 @@
     <desc lang="en">When her son leaves rehab and returns home on Christmas Eve,Holly is determined to ensure that he does not relapse. But as Ben's past comes to haunt him and threaten his treatment, Holly learns shocking truths about his addiction as she fights tooth and nail to save her son.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260116043000 +0800" stop="20260116063000 +0800" channel="mbc 2">
+    <title lang="en">Despicable Me 2</title>
+    <desc lang="en">As he begins to settle into his new family life, theex-supervillain Gru is tasked to stop a lethal enemy named El Macho and save the world from his evil plan.</desc>
+    <category lang="en">Movie - Cartoon
+               (2013)</category>
   </programme>
 </tv>
