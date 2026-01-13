@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260114140000 +0800" stop="20260114153000 +0800" channel="mbc max">
-    <title lang="en">Nobody</title>
-    <desc lang="en">After an incident in which he failed to protect his family,Hutch is unable to deal with the distance it results in, which only fuels his determination to protect a woman when she gets harassed. But as the confrontation earns him the wrath of a drug lord, he fights to protect himself and his family.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260114160000 +0800" stop="20260114173000 +0800" channel="mbc max">
     <title lang="en">Keanu</title>
     <desc lang="en">When Rell's pet kitten Keanu is lost, Reel and his frienddisguise themselves as drug dealers and go to the streets to get their lost cat back from the hands of a violent gang.</desc>
@@ -216,12 +210,6 @@
     <category lang="en">Movie
                (2009)</category>
   </programme>
-  <programme start="20260114130500 +0800" stop="20260114150000 +0800" channel="mbc 2">
-    <title lang="en">Our Brand Is Crisis</title>
-    <desc lang="en">An American political consultant, Jane Bodine, is hired by aBolivian presidential candidate to ensure his success in the 2002 Bolivian presidential election. But his opponent also has an American political consultant who just happens to be Jane's nemesis.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260114150000 +0800" stop="20260114173000 +0800" channel="mbc 2">
     <title lang="en">The Wolf of Wall Street</title>
     <desc lang="en">Based on his own book, this is the true story of JordanBelfort. A stock-broker who had it all after his rise to the high life of a millionaire and lost it all after his fall involving crime and the federal government.</desc>
@@ -383,5 +371,11 @@
     <desc lang="en">The prehistoric Croods must relocate when their darling homecave is destroyed. Thus begins the first family road trip in human history. The Croods discover an incredible new world beyond, and their outlook is changed forever.</desc>
     <category lang="en">Movie - Cartoon
                (2013)</category>
+  </programme>
+  <programme start="20260117010000 +0800" stop="20260117030000 +0800" channel="mbc 2">
+    <title lang="en">Concussion</title>
+    <desc lang="en">The film follows how American football players suffer fromrepeated concussions and life-long debilitating hygienic issues and how the NFL always tries to deny any responsibility for these problems.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
