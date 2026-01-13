@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260113203000 +0800" stop="20260113222500 +0800" channel="mbc max">
-    <title lang="en">Get Smart</title>
-    <desc lang="en">Maxwell Smart is an analyst at an American intelligenceagency who years for something more: he wants to become a field agent. Smart is promoted and partnered up with Agent 99. However, a number of comical situations occur due to Smart's lack of proper training.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
   <programme start="20260113222500 +0800" stop="20260113230000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
@@ -228,9 +222,9 @@
     <category lang="en">Movie
                (2008)</category>
   </programme>
-  <programme start="20260113190000 +0800" stop="20260113210500 +0800" channel="mbc 2">
-    <title lang="en">Sherlock Holmes</title>
-    <desc lang="en">With the latest criminal they caught promising to returnfrom the dead, detective Sherlock Holmes and his trusted companion Dr. Watson face a new mystery when the criminal, Lord Blackwood, seemingly returns from the dead with plans to befall all of England.</desc>
+  <programme start="20260116080000 +0800" stop="20260116100000 +0800" channel="mbc max">
+    <title lang="en">Bad Lieutenant: Port of Call New Orleans</title>
+    <desc lang="en">Terence McDonagh is a troubled detective who gets addictedto painkillers following an injury during Hurricane Katrina. As he's having trouble dealing with people in his life, he has to get his act together in order to help solve a series of murders.</desc>
     <category lang="en">Movie
                (2009)</category>
   </programme>
@@ -401,5 +395,11 @@
     <desc lang="en">As he begins to settle into his new family life, theex-supervillain Gru is tasked to stop a lethal enemy named El Macho and save the world from his evil plan.</desc>
     <category lang="en">Movie - Cartoon
                (2013)</category>
+  </programme>
+  <programme start="20260116063000 +0800" stop="20260116083000 +0800" channel="mbc 2">
+    <title lang="en">Alpha</title>
+    <desc lang="en">A young man in the prehistoric era, split off from his tribeduring a buffalo hunt, battles to find his way back home. He makes a bond with a fellow lost wolf that has the power to transform humanity.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
