@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260114160000 +0800" stop="20260114173000 +0800" channel="mbc max">
-    <title lang="en">Keanu</title>
-    <desc lang="en">When Rell's pet kitten Keanu is lost, Reel and his frienddisguise themselves as drug dealers and go to the streets to get their lost cat back from the hands of a violent gang.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260114173000 +0800" stop="20260114180000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
@@ -216,12 +210,6 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260114150000 +0800" stop="20260114173000 +0800" channel="mbc 2">
-    <title lang="en">The Wolf of Wall Street</title>
-    <desc lang="en">Based on his own book, this is the true story of JordanBelfort. A stock-broker who had it all after his rise to the high life of a millionaire and lost it all after his fall involving crime and the federal government.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260114200000 +0800" stop="20260114220500 +0800" channel="mbc 2">
     <title lang="en">Pacific Rim</title>
     <desc lang="en">When hordes of Kaiju, monstrous alien creatures, attackEarth from deep-sea waters, giant robots piloted by humans are deployed to fight them off and save the human population from utter annihilation.</desc>
@@ -383,5 +371,11 @@
     <desc lang="en">The film follows how American football players suffer fromrepeated concussions and life-long debilitating hygienic issues and how the NFL always tries to deny any responsibility for these problems.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260117030000 +0800" stop="20260117050000 +0800" channel="mbc 2">
+    <title lang="en">42</title>
+    <desc lang="en">The film follows the life of baseball player JackieRobinson, and how he wrote down history as the first African-American to play in Major League,playing with the Brooklyn Dodger under the management of Branch Rickey.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
