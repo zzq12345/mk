@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260113033000 +0800" stop="20260113053000 +0800" channel="mbc max">
-    <title lang="en">Searching</title>
-    <desc lang="en">After his 16-year-old daughter goes missing, and an officialinvestigation leads nowhere, David Kim breaks into her laptop to look for clues to find her.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260113053000 +0800" stop="20260113073000 +0800" channel="mbc max">
     <title lang="en">Whiplash</title>
     <desc lang="en">The story depicts the struggle of a young music student tobecome a top jazz drummer, and his complicated relationship with his cruel jazz band leader, who uses unorthodox methods to train the students.</desc>
@@ -222,18 +216,6 @@
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260113031000 +0800" stop="20260113053000 +0800" channel="mbc 2">
-    <title lang="en">Jurassic World: Dominion</title>
-    <desc lang="en">All hell breaks loose when the greed of the scientists andtheir wish to control and exploit the dinosaurs wreaks havoc in the world when the dinosaurs are freed.</desc>
-    <category lang="en">Movie
-               (2022)</category>
-  </programme>
-  <programme start="20260113053000 +0800" stop="20260113055500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260113055500 +0800" stop="20260113080000 +0800" channel="mbc 2">
     <title lang="en">Godzilla</title>
     <desc lang="en">An epic rebirth to Toho’s iconic Godzilla, the film pits theworld’s most famous monster against malevolent creatures who, bolstered by humanity’s scientific arrogance, threaten our very existence.</desc>
@@ -395,5 +377,11 @@
     <desc lang="en">The film follows how American football players suffer fromrepeated concussions and life-long debilitating hygienic issues and how the NFL always tries to deny any responsibility for these problems.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260115150000 +0800" stop="20260115173000 +0800" channel="mbc 2">
+    <title lang="en">King Richard</title>
+    <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
