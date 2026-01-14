@@ -1809,10 +1809,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260114033000 +0800" stop="20260114040000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-  </programme>
   <programme start="20260114040000 +0800" stop="20260114053000 +0800" channel="mbc max">
     <title lang="en">Going in Style</title>
     <desc lang="en">Willie, Joe, and Albert are three retired senior citizensdesperate to find money. As things get worse and the circumstances become more complicated, they plan a bank robbery.</desc>
@@ -1937,9 +1933,9 @@
     <title lang="en">The Hustle</title>
     <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
   </programme>
-  <programme start="20260114033500 +0800" stop="20260114040000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+  <programme start="20260116140000 +0800" stop="20260116160000 +0800" channel="mbc max">
+    <title lang="en">My Spy</title>
+    <desc lang="en">The tough CIA agent JJ finds himself at the mercy of thewitty 9-year-old girl Sophie, after he is secretly sent to monitor her family.</desc>
   </programme>
   <programme start="20260114063000 +0800" stop="20260114083500 +0800" channel="mbc 2">
     <title lang="en">Miss Sloane</title>
@@ -25510,11 +25506,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260114024100 +0800" stop="20260114024100 +0800" channel="spot on news">
-    <title lang="zh">Inferno: Burning bus rolls down the highway</title>
+    <title lang="zh">Scary moment: Lightning strikes car</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260114024100 +0800" stop="20260114024100 +0800" channel="spot on news">
-    <title lang="zh">Scary moment: Lightning strikes car</title>
+    <title lang="zh">Inferno: Burning bus rolls down the highway</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260114024100 +0800" stop="20260114024200 +0800" channel="spot on news">
@@ -31085,15 +31081,587 @@
     <title lang="zh">U Chef Cooking</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116190400 +0800" stop="20260116235959 +0800" channel="Travel &amp; Food TV">
-    <title lang="zh">節目未能提供</title>
+  <programme start="20260116190400 +0800" stop="20260116192200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Meteora - Greece</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260117000000 +0800" stop="20260117235959 +0800" channel="Travel &amp; Food TV">
-    <title lang="zh">節目未能提供</title>
+  <programme start="20260116192200 +0800" stop="20260116193800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Palenque - Part 1 - Mexico</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260118000000 +0800" stop="20260118235959 +0800" channel="Travel &amp; Food TV">
+  <programme start="20260116193800 +0800" stop="20260116194000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cranberry And Brie Puffs</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116194000 +0800" stop="20260116195600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Old Town Of Djenne - Mali</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116195600 +0800" stop="20260116200000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M How To Cook Ayam Pongteh</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116200000 +0800" stop="20260116200400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Historic Beatdown_ Chiefs Dominate Raiders Like Never Before!</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116200400 +0800" stop="20260116202900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Gail Force Catalina Island</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116202900 +0800" stop="20260116210200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style Humarock | Season 2; Episode 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116210200 +0800" stop="20260116210300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cream Pyramid with Fruits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116210300 +0800" stop="20260116213200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | S4-E3-Grilled Cheese</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116213200 +0800" stop="20260116223900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Make Prawn Noodle Soup &amp; Sambal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116223900 +0800" stop="20260116231400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Make Satay Celup | Coconut Shake</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116231400 +0800" stop="20260116232900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Upper Middle Rhine Valley - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116232900 +0800" stop="20260116234600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Towers Of San Giminiano - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116234600 +0800" stop="20260116235100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbaresco Grapes Harvest</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260116235100 +0800" stop="20260117000800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Macchu Picchu - Peru</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117000800 +0800" stop="20260117005700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Nazca - Peru</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117005700 +0800" stop="20260117010000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creamy Baked Spaghetti</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117010000 +0800" stop="20260117010400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Al Grassi Presentation</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117010400 +0800" stop="20260117015400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Petra - Jordan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117015400 +0800" stop="20260117021100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Biblical Tels - Megiddo, Hazor, Beer Sheba - Israel</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117021100 +0800" stop="20260117022500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Best Barbecue Made Easy | 24 hours Shift at Terry Black's Barbecue</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117022500 +0800" stop="20260117023000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Dolphin Fish with Lemon and Capers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117023000 +0800" stop="20260117024500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Galle - Sri Lanka</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117024500 +0800" stop="20260117032300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Snow's Bbq With Tootsie, Kerry And Clay Before Chef's Table</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117032300 +0800" stop="20260117032500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Crockpot Mexican Shredded Chicken</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117032500 +0800" stop="20260117034400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">American Royal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117034400 +0800" stop="20260117040100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Flemish Béguinages - Belgium</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117040100 +0800" stop="20260117040400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">U Chef Cooking - Stuffed Peppers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117040400 +0800" stop="20260117040700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chocolate Almond Cookies</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117040700 +0800" stop="20260117041000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Eggs Encocotte With White Albatruffles</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117041000 +0800" stop="20260117041100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chrysanthemum Goji Jelly</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117041100 +0800" stop="20260117042600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Matera - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117042600 +0800" stop="20260117043000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M How To Make Penang Pasembur Salad</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117043000 +0800" stop="20260117043200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Fish and Chips Mate</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117043200 +0800" stop="20260117044800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Oviedo - Spain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117044800 +0800" stop="20260117045100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creamy Lemon Broccoli Pasta</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117045100 +0800" stop="20260117052300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Abbey of Pannonhalma - Hungary</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117052300 +0800" stop="20260117053800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Trier - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117053800 +0800" stop="20260117055600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Mycenae - Greece</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117055600 +0800" stop="20260117055800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">3 Things to Obtain &amp; Maintain Good Health</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117055800 +0800" stop="20260117061900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | Season 3; Episode 9</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117061900 +0800" stop="20260117064500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Victory Twilight Fishing</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117064500 +0800" stop="20260117064800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M How To Cook Penang Char Kway Teow</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117064800 +0800" stop="20260117071600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | S03-E04-Fire Dept</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117071600 +0800" stop="20260117074900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Edinburgh - Scotland</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117074900 +0800" stop="20260117075500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M How To Make Chicken Lorbak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117075500 +0800" stop="20260117082900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Lisbon - Portugal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117082900 +0800" stop="20260117095200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Mango Sticky Rice Braised Chicken In Coconut Water</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117095200 +0800" stop="20260117100800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Auschwitz-Birkenau Concentration Camp - Poland</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117100800 +0800" stop="20260117102600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Meknes - Morocco</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117102600 +0800" stop="20260117104100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Rammelsberg - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117104100 +0800" stop="20260117105800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">La Amistad International Park - Costa Rica</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117105800 +0800" stop="20260117110100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Coleslaw</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117110100 +0800" stop="20260117113500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Bryggen - Norway</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117113500 +0800" stop="20260117122200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Balthvs - Live at The Rooftop</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117122200 +0800" stop="20260117125900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home Life &amp; Style | Caspian Lake |  Season 1; Episode 6</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117125900 +0800" stop="20260117125900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Crockpot Honey Orange And Herb Glazed Carrots</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117125900 +0800" stop="20260117130000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">YCV</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117130000 +0800" stop="20260117130100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chocolate Smoothie</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117130100 +0800" stop="20260117131600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Provins - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117131600 +0800" stop="20260117135400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style East Chop | Season 1; Episode 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117135400 +0800" stop="20260117141100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Wartburg Castle Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117141100 +0800" stop="20260117144100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like a Champion | Season 6; Episode 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117144100 +0800" stop="20260117151100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America - Atlanta Jazz</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117151100 +0800" stop="20260117153400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Newhuck Finn</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117153400 +0800" stop="20260117155100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Cinque Terre - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117155100 +0800" stop="20260117155200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chicken Piccata Thighs</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117155200 +0800" stop="20260117162000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | Season 3; Episode 7 - Pork Tend</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117162000 +0800" stop="20260117165000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America - Holly Hills</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117165000 +0800" stop="20260117172200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style | Bay Club</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117172200 +0800" stop="20260117175700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | S4-E01-Wine fest</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117175700 +0800" stop="20260117180200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How To Clean and File Tatrout</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117180200 +0800" stop="20260117180600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Egg Plant Parmesan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117180600 +0800" stop="20260117182100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Augustusburg and Falkenlust Palaces - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117182100 +0800" stop="20260117185000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | S4-E3-Grilled Cheese</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117185000 +0800" stop="20260117193500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Cook Penang Oyster Omelette Wantan Mee (penang)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117193500 +0800" stop="20260117193600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Country Apple Fritter Bread</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117193600 +0800" stop="20260117201000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cusco - Peru</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117201000 +0800" stop="20260117201400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cut of Veal with Rosemary</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117201400 +0800" stop="20260117203000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Puebla - Mexico</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117203000 +0800" stop="20260117212000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">U Chef Cooking</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117212000 +0800" stop="20260117212800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Utah Parks And Wildlife - 2022</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117212800 +0800" stop="20260117221700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Palace Of Westminster - London</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117221700 +0800" stop="20260117223500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Palenque - Part 2 - Mexico</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117223500 +0800" stop="20260117230200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Truck N Outdoors Episode 001</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117230200 +0800" stop="20260117233000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home, Life &amp; Style | Ocean House</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117233000 +0800" stop="20260117233100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cream Pyramid with Fruits</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260117233100 +0800" stop="20260118001200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Cook ipoh kai si hor Fun Claypot Chicken Rice</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118001200 +0800" stop="20260118004200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America - Lexington</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118004200 +0800" stop="20260118010800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chief San Clemente</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118010800 +0800" stop="20260118013700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cutoff Youth Center</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118013700 +0800" stop="20260118013800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Youth vs_ Experience_ Chiefs_ Advantage Over Washington</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118013800 +0800" stop="20260118020900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America S3 E10 - Victoria</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118020900 +0800" stop="20260118024500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home Life &amp; Style | S1 E10; Duxbury Episode</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118024500 +0800" stop="20260118031300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | Season 3; Episode 10 - Bourbon Pecan Chicken Marsala</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118031300 +0800" stop="20260118034100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion | Season 3; Episode 8 - Frog Legs</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118034100 +0800" stop="20260118035700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Best Barbeque Sauces</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118035700 +0800" stop="20260118040700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home Made Tortelli Pasta Stuffed Chickpeas</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118040700 +0800" stop="20260118042400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Towers Of San Giminiano - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118042400 +0800" stop="20260118045400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cooking with Cutty</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118045400 +0800" stop="20260118050800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Tao Tao Restaurant</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118050800 +0800" stop="20260118052500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Arles - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118052500 +0800" stop="20260118053500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Guerrilla Tacos Los Angeles Tacologa</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118053500 +0800" stop="20260118053900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Caramelized Apple in Chocolate Sauce</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118053900 +0800" stop="20260118054500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Jackie M Penang Char Kway Teow With Lobster &amp; Tobiko</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118054500 +0800" stop="20260118061300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion |  S03-E01-Pho</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118061300 +0800" stop="20260118064900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Texicana Barbeque | Risk It For The Brisket |Part 1| Bonus - Pastrami - Beef Bacon - Beef Ribs</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118064900 +0800" stop="20260118071900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">CTV60BananasScreenerMaster</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118071900 +0800" stop="20260118072400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chest nut Salad</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118072400 +0800" stop="20260118081500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Paris - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118081500 +0800" stop="20260118084700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cook Like A Champion Italy | Season 4; Episode 11</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118084700 +0800" stop="20260118093800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Make Bird's Nest Roti Canai | Bihun Sup Utara</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118093800 +0800" stop="20260118095200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Vila - Town Of Stones And Saints - Spain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118095200 +0800" stop="20260118100800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Capri - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118100800 +0800" stop="20260118103000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Home Life &amp; Style Mattapoisett Ma</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118103000 +0800" stop="20260118104600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Red Kitchen Tamales</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118104600 +0800" stop="20260118110200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Uluru Or Ayers Rock - Australia</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118110200 +0800" stop="20260118115300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Florence - Italy</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118115300 +0800" stop="20260118122300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America - Atlanta</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118122300 +0800" stop="20260118122700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creative Table Settings Marine style</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118122700 +0800" stop="20260118123600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Codfish Salad</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118123600 +0800" stop="20260118130300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Diamond Jim’s</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118130300 +0800" stop="20260118133400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America S3 E11 - Wild Game</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118133400 +0800" stop="20260118134400 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to make Apulian  Extra Virgin Olive Oil</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118134400 +0800" stop="20260118140100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Olympia Sanctuary - Greece</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118140100 +0800" stop="20260118143300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Drottningholm- Sweden</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118143300 +0800" stop="20260118145300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">American Royal</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118145300 +0800" stop="20260118150800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Best Firebox for Offset Smoker Fully or Semi Insulated</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118150800 +0800" stop="20260118154000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Barbecue America S3 E09 - Vancouver</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118154000 +0800" stop="20260118155700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Hallstatt - Austria</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118155700 +0800" stop="20260118162500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Texicana Barbeque | Brisket The Pitmaster Way Texas Style Brisket | How It's Done Properly!</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118162500 +0800" stop="20260118162600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Chocolate Chip Zucchini Muffins</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118162600 +0800" stop="20260118165800 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Hadrian's Wall - United Kingdom</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118165800 +0800" stop="20260118170100 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Creamy Baked Spaghetti</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118170100 +0800" stop="20260118173700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">How to Make Easy Keropok Lekor | Kuih Nekbat (Terengganu)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118173700 +0800" stop="20260118175500 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Cacao</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118175500 +0800" stop="20260118181000 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Bordeaux - The Pearl Of Aquitaine - France</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118181000 +0800" stop="20260118182700 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Malbork - Poland</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118182700 +0800" stop="20260118184300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Best Barbeque Sauces</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118184300 +0800" stop="20260118194900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Easy Fruit Agar Spicy Prawn and Coconut Broth</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118194900 +0800" stop="20260118201900 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Eclipse YellowTail Tuna</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118201900 +0800" stop="20260118203600 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">The Mills Of Kinderdijk - Netherlands</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118203600 +0800" stop="20260118205200 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">Upper Middle Rhine Valley - Germany</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118205200 +0800" stop="20260118214300 +0800" channel="Travel &amp; Food TV">
+    <title lang="zh">U Chef Cooking</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260118214300 +0800" stop="20260118235959 +0800" channel="Travel &amp; Food TV">
     <title lang="zh">節目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -65333,14 +65901,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260114090000 +0000" stop="20260114092800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260114092800 +0000" stop="20260114095800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20260114095800 +0000" stop="20260114105800 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
@@ -66208,10 +66768,6 @@
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞台北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20260114090000 +0000" stop="20260114100000 +0000" channel="好消息2台">
-    <title lang="zh">大衛鮑森講座</title>
-    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
   </programme>
   <programme start="20260114100000 +0000" stop="20260114103000 +0000" channel="好消息2台">
     <title lang="zh">共享觀點</title>
@@ -67105,14 +67661,6 @@
     <title lang="zh">奔向標竿</title>
     <desc lang="zh">美國最具影響力的屬靈領袖之一，華理克(Rick Warren)牧師與馬鞍峰教會牧者團隊，與您一起攜手直奔屬天標竿，得著屬天獎賞！</desc>
   </programme>
-  <programme start="20260114094500 +0000" stop="20260114100000 +0000" channel="好消息">
-    <title lang="zh">小珍珠與阿達叔叔</title>
-    <desc lang="zh">好消息電視台製播的兒少節目，由充滿人生智慧的阿達叔叔劉清彥主持，精力十足又問題多多的的小珍珠每次都要來找阿達叔叔的麻煩…不，是請阿達叔叔幫她解決層出不窮的各種麻煩，透過兩人的趣味互動，讓小朋友輕鬆學習做人的道理。</desc>
-  </programme>
-  <programme start="20260114100000 +0000" stop="20260114103000 +0000" channel="好消息">
-    <title lang="zh">福氣人生</title>
-    <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
   <programme start="20260114103000 +0000" stop="20260114110000 +0000" channel="好消息">
     <title lang="zh">健康新煮流</title>
     <desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全台走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上台灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
@@ -67977,10 +68525,6 @@
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260114090000 +0000" stop="20260114100000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20260114100000 +0000" stop="20260114110000 +0000" channel="亞洲旅遊台">
     <title lang="zh">型男闖世界</title>
     <desc lang="zh">《型男闖世界》前往世界各地的特殊景點或深山秘境，挑戰極限運動，尋找奇人異事、踏尋隱身在叢林邊境的傳說、進行各種挑戰及探險。</desc>
@@ -68453,10 +68997,6 @@
     <title lang="zh">暴走兄弟朝聖趣</title>
     <desc lang="zh">透過主持人盧廣仲、李玉璽、美麗本人三兄弟挑戰世界唯二被聯合國列為世界文化遺產的參拜道：西班牙聖雅各之路與日本熊野古道的冒險實境節目，究竟其中有什麼魔力吸引著一波又一波不論國界不分年齡的朝聖者，湧入這條古老的朝聖之路？</desc>
   </programme>
-  <programme start="20260114090000 +0000" stop="20260114100000 +0000" channel="龍華戲劇台">
-    <title lang="zh">三國</title>
-    <desc lang="zh">距今一千八百多年前，漢帝國衰敗積重難返，長安城內董卓荒淫無度、濫殺無辜，引起舉國義憤，而以曹操為首殲滅董卓，造就了群雄割據，至赤壁之戰後三國鼎立，再到司馬氏篡魏，天下歸晉為止，這個英雄輩出、波瀾壯闊的大傳奇時代終於結束。而其中的英雄人物和動人故事，仍被傳頌至今。</desc>
-  </programme>
   <programme start="20260114100000 +0000" stop="20260114110000 +0000" channel="龍華戲劇台">
     <title lang="zh">上陽賦</title>
     <desc lang="zh">郡主王儇（章子怡）與三皇子（楊祐寧）青梅竹馬，卻因被捲入朝堂爭鬥，在15歲時被父親當作棋子，嫁給出身寒門的豫章王蕭綦（周一圍）。這段權力交易下的婚姻，卻在歷經種種考驗後讓兩人先婚後愛，最後兩人攜手共定天下，守護家國百姓…</desc>
@@ -68928,10 +69468,6 @@
   <programme start="20260119070000 +0000" stop="20260119080000 +0000" channel="龍華戲劇台">
     <title lang="zh">大漢天子3</title>
     <desc lang="zh">延續前兩集的劇情《大漢3》主要講述的是進入中年的漢武帝和漢室新一代之間的故事。永不滿足的漢武帝，不斷設計自己的人生藍圖。他聯合西域，穩定北疆，再無後顧之憂；又將目光轉向南越（今兩廣、西南）。意在建成最強大的大漢王朝，自己也要繼三皇五帝之後，成為有史以來不朽的"六帝"。</desc>
-  </programme>
-  <programme start="20260114092000 +0000" stop="20260114100000 +0000" channel="東森購物1台">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260114100000 +0000" stop="20260114104000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -69639,10 +70175,6 @@
   </programme>
   <programme start="20260119072000 +0000" stop="20260119080000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260114092000 +0000" stop="20260114100000 +0000" channel="東森購物2台">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260114100000 +0000" stop="20260114104000 +0000" channel="東森購物2台">
@@ -70769,10 +71301,6 @@
     <title lang="zh">華視2400夜間新聞</title>
     <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
   </programme>
-  <programme start="20260114040000 +0000" stop="20260114100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260114100000 +0000" stop="20260114160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh">暂无描述</desc>
@@ -70848,10 +71376,6 @@
   <programme start="20260118220000 +0000" stop="20260119040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260114090000 +0000" stop="20260114100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1700整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20260114100000 +0000" stop="20260114115500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -71284,10 +71808,6 @@
   <programme start="20260119070000 +0000" stop="20260119080000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">智富食代</title>
     <desc lang="zh">顛覆傳統旅遊節目，而是以全新新聞性、知識性旅遊資訊節目，呈現觀眾眼前。輕鬆有趣的內容中，將觀光經濟數字、各地房價、消費指數及各地風土民情融入結合。要學怎麼贏、先學怎麼玩！女漢子兩條路線PK旅行大挑戰。</desc>
-  </programme>
-  <programme start="20260114090000 +0000" stop="20260114100000 +0000" channel="寰宇財經台">
-    <title lang="zh">打卡吧!我的炫FOOD日記</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260114100000 +0000" stop="20260114110000 +0000" channel="寰宇財經台">
     <title lang="zh">銅板美食呷透透</title>
@@ -71765,10 +72285,6 @@
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260114090000 +0000" stop="20260114100000 +0000" channel="中視新聞">
-    <title lang="zh">新庶民大頭家</title>
-    <desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-  </programme>
   <programme start="20260114100000 +0000" stop="20260114105800 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -72204,10 +72720,6 @@
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260114090000 +0000" stop="20260114100000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
   </programme>
   <programme start="20260114100000 +0000" stop="20260114110000 +0000" channel="中天新聞台">
     <title lang="zh">中天辣晚報</title>
@@ -72681,10 +73193,6 @@
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260114085500 +0000" stop="20260114095500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
   <programme start="20260114095500 +0000" stop="20260114105500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
@@ -73157,10 +73665,6 @@
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
   </programme>
-  <programme start="20260114085500 +0000" stop="20260114095500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20260114095500 +0000" stop="20260114105500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -73632,14 +74136,6 @@
   <programme start="20260119065500 +0000" stop="20260119075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260114093000 +0000" stop="20260114100000 +0000" channel="第1商業台">
-    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260114100000 +0000" stop="20260114103000 +0000" channel="第1商業台">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260114103000 +0000" stop="20260114110000 +0000" channel="第1商業台">
     <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
@@ -74501,10 +74997,6 @@
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260114010000 +0000" stop="20260114100000 +0000" channel="國會頻道1台">
-    <title lang="zh">立法院會議直播</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260114100000 +0000" stop="20260114160000 +0000" channel="國會頻道1台">
     <title lang="zh">當日立法院會議轉播</title>
     <desc lang="zh">暂无描述</desc>
@@ -74607,10 +75099,6 @@
   </programme>
   <programme start="20260119004700 +0000" stop="20260119010000 +0000" channel="國會頻道1台">
     <title lang="zh">週一會議預報</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260114010000 +0000" stop="20260114100000 +0000" channel="國會頻道2台">
-    <title lang="zh">立法院會議直播</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260114100000 +0000" stop="20260114160000 +0000" channel="國會頻道2台">
@@ -178881,11 +179369,11 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260115013000 +0800" stop="20260115020000 +0800" channel="Star_Vijay_HD">
-    <title lang="zh">Poongatru Thirumbuma</title>
+    <title lang="zh">Magale En Marumagale</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260115020000 +0800" stop="20260115023500 +0800" channel="Star_Vijay_HD">
-    <title lang="zh">Poongatru Thirumbuma</title>
+    <title lang="zh">Suttum Vizhi Sudare</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260115023500 +0800" stop="20260115033500 +0800" channel="Star_Vijay_HD">
@@ -182300,47 +182788,47 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Updated Military Status Ep371</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115060300 +0800" stop="20260115063300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115060300 +0800" stop="20260115063200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115063300 +0800" stop="20260115070300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115063200 +0800" stop="20260115070200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115070300 +0800" stop="20260115080000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115070200 +0800" stop="20260115075900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115080000 +0800" stop="20260115080300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115075900 +0800" stop="20260115080200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115080300 +0800" stop="20260115090000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115080200 +0800" stop="20260115085900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115090000 +0800" stop="20260115090300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115085900 +0800" stop="20260115090300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115090300 +0800" stop="20260115093300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115090300 +0800" stop="20260115093200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115093300 +0800" stop="20260115100300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115093200 +0800" stop="20260115100200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115100300 +0800" stop="20260115110000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115100200 +0800" stop="20260115105900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115110000 +0800" stop="20260115110300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115105900 +0800" stop="20260115110200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115110300 +0800" stop="20260115113300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115110200 +0800" stop="20260115113300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182356,11 +182844,11 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115130300 +0800" stop="20260115133300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115130300 +0800" stop="20260115133200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115133300 +0800" stop="20260115140300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115133200 +0800" stop="20260115140300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">GBA Discovery Ep153</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182368,15 +182856,15 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Cultural Canvas</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115143300 +0800" stop="20260115150300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115143300 +0800" stop="20260115150200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115150300 +0800" stop="20260115160000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115150200 +0800" stop="20260115155900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115160000 +0800" stop="20260115160300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115155900 +0800" stop="20260115160300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182384,15 +182872,15 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Updated Military Status Ep371</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115163300 +0800" stop="20260115170300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115163300 +0800" stop="20260115170200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115170300 +0800" stop="20260115171800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115170200 +0800" stop="20260115171700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">My Hong Kong Story</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115171800 +0800" stop="20260115173300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115171700 +0800" stop="20260115173300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">My Hong Kong Story</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182408,15 +182896,15 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115183300 +0800" stop="20260115190300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115183300 +0800" stop="20260115190200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115190300 +0800" stop="20260115193300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115190200 +0800" stop="20260115193200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115193300 +0800" stop="20260115200300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115193200 +0800" stop="20260115200300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182428,23 +182916,23 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Talk With World Leaders</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115210300 +0800" stop="20260115215800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115210300 +0800" stop="20260115215700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115215800 +0800" stop="20260115220300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115215700 +0800" stop="20260115220300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115220300 +0800" stop="20260115223300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115220300 +0800" stop="20260115223200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115223300 +0800" stop="20260115230300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115223200 +0800" stop="20260115230300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115230300 +0800" stop="20260115233300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260115230300 +0800" stop="20260115233200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182772,11 +183260,11 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115070300 +0800" stop="20260115080000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115070300 +0800" stop="20260115075900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115080000 +0800" stop="20260115080300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115075900 +0800" stop="20260115080300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182784,11 +183272,11 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115090000 +0800" stop="20260115090300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115090000 +0800" stop="20260115090200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115090300 +0800" stop="20260115093000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115090200 +0800" stop="20260115093000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182796,15 +183284,15 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115093300 +0800" stop="20260115100300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115093300 +0800" stop="20260115100200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115100300 +0800" stop="20260115110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115100200 +0800" stop="20260115105800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115110000 +0800" stop="20260115110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115105800 +0800" stop="20260115110300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182812,63 +183300,63 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115113000 +0800" stop="20260115113300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115113000 +0800" stop="20260115113200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115113300 +0800" stop="20260115120300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115113200 +0800" stop="20260115120300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115120300 +0800" stop="20260115125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115120300 +0800" stop="20260115125600 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115125800 +0800" stop="20260115130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115125600 +0800" stop="20260115130200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115130300 +0800" stop="20260115133000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115130200 +0800" stop="20260115133100 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115133000 +0800" stop="20260115133300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115133100 +0800" stop="20260115133300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115133300 +0800" stop="20260115140300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115133300 +0800" stop="20260115140200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115140300 +0800" stop="20260115143000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115140200 +0800" stop="20260115143000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115143000 +0800" stop="20260115143300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115143000 +0800" stop="20260115143400 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115143300 +0800" stop="20260115150300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115143400 +0800" stop="20260115150200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115150300 +0800" stop="20260115160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115150200 +0800" stop="20260115155800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115160000 +0800" stop="20260115160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115155800 +0800" stop="20260115160200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115160300 +0800" stop="20260115170000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115160200 +0800" stop="20260115165900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115170000 +0800" stop="20260115170300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115165900 +0800" stop="20260115170200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115170300 +0800" stop="20260115173000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115170200 +0800" stop="20260115173000 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182884,27 +183372,27 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115183000 +0800" stop="20260115183300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115183000 +0800" stop="20260115183200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115183300 +0800" stop="20260115190300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115183200 +0800" stop="20260115190300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115190300 +0800" stop="20260115200000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115190300 +0800" stop="20260115195900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115200000 +0800" stop="20260115200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115195900 +0800" stop="20260115200300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115200300 +0800" stop="20260115203000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115200300 +0800" stop="20260115203100 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115203000 +0800" stop="20260115203300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115203100 +0800" stop="20260115203300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -182912,19 +183400,19 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Phoenix Financial Daily Report</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115210300 +0800" stop="20260115215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115210300 +0800" stop="20260115215700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115215800 +0800" stop="20260115220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115215700 +0800" stop="20260115220300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115220300 +0800" stop="20260115223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115220300 +0800" stop="20260115223100 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115223300 +0800" stop="20260115230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260115223100 +0800" stop="20260115230300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -205896,12 +206384,12 @@ ATEEZ自己搬行李 BOYNEXTDOOR暢聊太可愛</desc>
     <title lang="zh">Masak Ala Devina Hermawan</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115093000 +0700" stop="20260115103000 +0700" channel="BTV">
+  <programme start="20260115093000 +0700" stop="20260115100000 +0700" channel="BTV">
     <title lang="zh">Investor Market Today</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115103000 +0700" stop="20260115110000 +0700" channel="BTV">
-    <title lang="zh">Indonesia Update Cerita IDN</title>
+  <programme start="20260115100000 +0700" stop="20260115110000 +0700" channel="BTV">
+    <title lang="zh">Marketing Outlook 2026</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260115110000 +0700" stop="20260115130000 +0700" channel="BTV">
