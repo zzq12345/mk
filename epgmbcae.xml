@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260114173000 +0800" stop="20260114180000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
-  <programme start="20260114180000 +0800" stop="20260114193000 +0800" channel="mbc max">
-    <title lang="en">47 Meters Down: Uncaged</title>
-    <desc lang="en">In this sequel, four teenage girls go diving in a ruinedunderwater city, discover that they are not alone in a maze of submerged caves and that they've entered the territory of  fierce sharks.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260114193000 +0800" stop="20260114213000 +0800" channel="mbc max">
     <title lang="en">In the Earth</title>
     <desc lang="en">A scientist and a park scout travel far into the woods insearch of a cure for a deadly virus. As night falls, the forest around them comes to life, and their journey turns into a terrifying journey through the depths of the night.</desc>
@@ -210,6 +198,18 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
+  <programme start="20260117033000 +0800" stop="20260117053000 +0800" channel="mbc max">
+    <title lang="en">Taken 2</title>
+    <desc lang="en">The past comes back to haunt former CIA operative BryanMills when the father of one of the kidnappers he killed to rescue his daughter Kim comes after him and his family. With Bryan and his ex-wife captured, it's up to Kim to help her father escape his captors and save her mother.</desc>
+    <category lang="en">Movie
+               (2012)</category>
+  </programme>
+  <programme start="20260117053000 +0800" stop="20260117080000 +0800" channel="mbc max">
+    <title lang="en">Our Friend</title>
+    <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
   <programme start="20260114200000 +0800" stop="20260114220500 +0800" channel="mbc 2">
     <title lang="en">Pacific Rim</title>
     <desc lang="en">When hordes of Kaiju, monstrous alien creatures, attackEarth from deep-sea waters, giant robots piloted by humans are deployed to fight them off and save the human population from utter annihilation.</desc>
@@ -377,5 +377,11 @@
     <desc lang="en">The film follows the life of baseball player JackieRobinson, and how he wrote down history as the first African-American to play in Major League,playing with the Brooklyn Dodger under the management of Branch Rickey.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260117050000 +0800" stop="20260117063000 +0800" channel="mbc 2">
+    <title lang="en">Boogie</title>
+    <desc lang="en">As the high school student Alfred "Boogie" Chin dreams ofplaying in the NBA, he follows his parents' guidance who want to get him a scholarship from a prestigious university, while he has to cope with many obstacles.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
