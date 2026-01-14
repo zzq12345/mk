@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260114060000 +0800" stop="20260114073000 +0800" channel="mbc max">
-    <title lang="en">Moonrise Kingdom</title>
-    <desc lang="en">Set in the sixties, in an island in New England, a12-year-old boy and girl fall in love and secretly plan to run away together. This angers the authorities in the island, and the situation escalates to the point where they attempt to track the young couple in all directions.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
   <programme start="20260114080000 +0800" stop="20260114100000 +0800" channel="mbc max">
     <title lang="en">Julie &amp; Julia</title>
     <desc lang="en">Based on true events, the film juxtaposes the journey ofrenowned chef Julia Child and how she achieved her fame, and the story of an ordinary woman, Julie Powell, who tries to reinvent her life by documenting her year-long challenge to cook all the available recipes in Julia Child’s cookbook.</desc>
@@ -192,6 +186,12 @@
     <category lang="en">Movie
                (2020)</category>
   </programme>
+  <programme start="20260116160000 +0800" stop="20260116180000 +0800" channel="mbc max">
+    <title lang="en">Ride Along 2</title>
+    <desc lang="en">James and Ben team up again for a second Ride Alongfilm.James and Ben team up again for a second Ride Along, and try to bust some drug dealing operations in Miami, before Ben’s wedding to James’ sister.</desc>
+    <category lang="en">Movie
+               (2016)</category>
+  </programme>
   <programme start="20260114063000 +0800" stop="20260114083500 +0800" channel="mbc 2">
     <title lang="en">Miss Sloane</title>
     <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
@@ -359,5 +359,11 @@
     <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260116153000 +0800" stop="20260116173000 +0800" channel="mbc 2">
+    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
+    <desc lang="en">Raccoon City was originally the headquarters of the UmbrellaPharmaceuticals, which collapsed following the infamous Raccoon Trials, and after the spread of diseases and the devastation of the world, a group of survivors attempts to unravel the mysteries behind this organisation.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
