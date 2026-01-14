@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260115140000 +0800" stop="20260115153000 +0800" channel="mbc max">
-    <title lang="en">Forgetting Sarah Marshall</title>
-    <desc lang="en">Peter goes to Hawaii on vacation to try to forget hisgirlfriend the TV star Sarah, who ended their relationship a short time ago, only to find her staying in the same resort with her new boyfriend.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
   <programme start="20260115160000 +0800" stop="20260115173000 +0800" channel="mbc max">
     <title lang="en">She's Funny That Way</title>
     <desc lang="en">A married Broadway director falls for aprostitute-turned-actress and decides to professionally adopt her, while she in turn is having another affair simultaneously with the writer of the play they're working on.</desc>
@@ -198,6 +192,12 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
+  <programme start="20260118013000 +0800" stop="20260118033000 +0800" channel="mbc max">
+    <title lang="en">Click</title>
+    <desc lang="en">A workaholic architect gets a remote that allows him tocontrol reality as he would a television, rewinding, skipping and pausing as he pleases. But things soon get out of hand when the remote start reacting to his casual wishes.</desc>
+    <category lang="en">Movie
+               (2006)</category>
+  </programme>
   <programme start="20260115170500 +0800" stop="20260115184500 +0800" channel="mbc 2">
     <title lang="en">Krampus</title>
     <desc lang="en">When a family fight at Christmas ends up accidentallysummoning a demonic force, little Max and his family find themselves in a fight for their lives as the demon Krampus puts them through hell to punish them for their deeds.</desc>
@@ -365,5 +365,11 @@
     <desc lang="en">The film follows the life of baseball player JackieRobinson, and how he wrote down history as the first African-American to play in Major League,playing with the Brooklyn Dodger under the management of Branch Rickey.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260118013000 +0800" stop="20260118040000 +0800" channel="mbc 2">
+    <title lang="en">Ready Player One</title>
+    <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
