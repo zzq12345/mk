@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260115120000 +0800" stop="20260115140000 +0800" channel="mbc max">
-    <title lang="en">No Reservations</title>
-    <desc lang="en">Master chef Kate heads the crew at one of Manhattan's famousrestaurants, focused on finer details at her work. Her life turns upside down when her only sister dies and her daughter Zoe comes to live with her while a new assistant arrives and she feels he's planning to take her place.</desc>
-    <category lang="en">Movie
-               (2007)</category>
-  </programme>
   <programme start="20260115140000 +0800" stop="20260115153000 +0800" channel="mbc max">
     <title lang="en">Forgetting Sarah Marshall</title>
     <desc lang="en">Peter goes to Hawaii on vacation to try to forget hisgirlfriend the TV star Sarah, who ended their relationship a short time ago, only to find her staying in the same resort with her new boyfriend.</desc>
@@ -192,11 +186,17 @@
     <category lang="en">Movie
                (2009)</category>
   </programme>
-  <programme start="20260115130000 +0800" stop="20260115144000 +0800" channel="mbc 2">
-    <title lang="en">How to Train Your Dragon: The Hidden World</title>
-    <desc lang="en">As Hiccup fulfills his dream of creating a peaceful dragonutopia, Toothless' discovery of a wild dragon drives the Night Fury away. When danger mounts, Hiccup's reign as village chief is tested, both dragon and rider must make impossible decisions to save their own kind.</desc>
+  <programme start="20260117223000 +0800" stop="20260118000000 +0800" channel="mbc max">
+    <title lang="en">Moonrise Kingdom</title>
+    <desc lang="en">Set in the sixties, in an island in New England, a12-year-old boy and girl fall in love and secretly plan to run away together. This angers the authorities in the island, and the situation escalates to the point where they attempt to track the young couple in all directions.</desc>
     <category lang="en">Movie
-               (2019)</category>
+               (2012)</category>
+  </programme>
+  <programme start="20260118000000 +0800" stop="20260118013000 +0800" channel="mbc max">
+    <title lang="en">Brick Mansions</title>
+    <desc lang="en">In a dystopian future, an unlikely partnership is formedbetween an ex-con and an undercover cop in the walled-off Detroit. With a local kingpin threatening to destroy the whole city, the two men must find a common ground in order to bring him down.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
   <programme start="20260115170500 +0800" stop="20260115184500 +0800" channel="mbc 2">
     <title lang="en">Krampus</title>
@@ -359,5 +359,11 @@
     <desc lang="en">As the high school student Alfred "Boogie" Chin dreams ofplaying in the NBA, he follows his parents' guidance who want to get him a scholarship from a prestigious university, while he has to cope with many obstacles.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260117233000 +0800" stop="20260118013000 +0800" channel="mbc 2">
+    <title lang="en">42</title>
+    <desc lang="en">The film follows the life of baseball player JackieRobinson, and how he wrote down history as the first African-American to play in Major League,playing with the Brooklyn Dodger under the management of Branch Rickey.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
