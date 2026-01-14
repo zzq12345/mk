@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260114213000 +0800" stop="20260114230000 +0800" channel="mbc max">
-    <title lang="en">The Shallows</title>
-    <desc lang="en">Nancy, a surfer, is attacked by a great white shark just 200yards off the coast, and her short voyage to safety ends in a titanic struggle for survival.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20260114230000 +0800" stop="20260114233000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260114233000 +0800" stop="20260115013000 +0800" channel="mbc max">
     <title lang="en">Room</title>
     <desc lang="en">24-year-old Joy and her young son Jack successfully escapetheir captivity after years of being held captive by a kidnapper in a remote hut.</desc>
@@ -383,5 +371,11 @@
     <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260117090000 +0800" stop="20260117110000 +0800" channel="mbc 2">
+    <title lang="en">The Green Hornet</title>
+    <desc lang="en">Britt Reid is the under-achieving son of an LA mediamagnate. The unanticipated death of his father kick-starts his life as he decides to use resources inherited from his father to fight city crime. In his efforts to fight crime Reid recruits the help of his father’s mechanic and a criminologist. Disputes threaten the crime-fighting trio before they have a chance to make a difference.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
