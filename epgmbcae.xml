@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260114013000 +0800" stop="20260114033000 +0800" channel="mbc max">
-    <title lang="en">Our Friend</title>
-    <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260114033000 +0800" stop="20260114040000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
@@ -204,12 +198,6 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20260114013000 +0800" stop="20260114033500 +0800" channel="mbc 2">
-    <title lang="en">All the Money in the World</title>
-    <desc lang="en">An Italian gang kidnaps John Paul Getty III, grandson of oiltycoon J Paul Getty, in Rome. Soon, his mother frantically attempts to persuade his millionaire grandfather to pay the ransom.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260114033500 +0800" stop="20260114040000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
@@ -377,5 +365,11 @@
     <desc lang="en">Seventy years after a horrific war with aliens, anexceptionally gifted child is sent to an advanced military school in space to prepare for the future invasion.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260116130000 +0800" stop="20260116153000 +0800" channel="mbc 2">
+    <title lang="en">Ready Player One</title>
+    <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
