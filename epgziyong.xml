@@ -1809,10 +1809,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260115013000 +0800" stop="20260115040000 +0800" channel="mbc max">
-    <title lang="en">Love Happens</title>
-    <desc lang="en">After Burke, the widowed author of a best-selling self-helpbook about dealing with bereavement, crosses paths with and falls for a beautiful floral designer named Eloise, he realizes he hasn't really processed the death of his wife yet.</desc>
-  </programme>
   <programme start="20260115040000 +0800" stop="20260115060000 +0800" channel="mbc max">
     <title lang="en">She's Funny That Way</title>
     <desc lang="en">A married Broadway director falls for aprostitute-turned-actress and decides to professionally adopt her, while she in turn is having another affair simultaneously with the writer of the play they're working on.</desc>
@@ -1929,9 +1925,9 @@
     <title lang="en">Charlie's Angels</title>
     <desc lang="en">Charlie's Angels always provided their investigative skillsto their clients. Now Townsend Agency has highly trained women from around the world who work on the most challenging missions. When a systems engineer reveals information about dangerous technology, the angels must face this threat.</desc>
   </programme>
-  <programme start="20260115024500 +0800" stop="20260115043000 +0800" channel="mbc 2">
-    <title lang="en">Ben Is Back</title>
-    <desc lang="en">When her son leaves rehab and returns home on Christmas Eve,Holly is determined to ensure that he does not relapse. But as Ben's past comes to haunt him and threaten his treatment, Holly learns shocking truths about his addiction as she fights tooth and nail to save her son.</desc>
+  <programme start="20260117140000 +0800" stop="20260117160000 +0800" channel="mbc max">
+    <title lang="en">Guns Akimbo</title>
+    <desc lang="en">The video game developer Miles finds himself fighting tostay alive when he becomes a participant in an ultra-violent online game as he gets chased across the city by the ruthless opponent Nix, while having guns bolted to his hands.</desc>
   </programme>
   <programme start="20260115043000 +0800" stop="20260115063000 +0800" channel="mbc 2">
     <title lang="en">Despicable Me 2</title>
@@ -3233,9 +3229,13 @@
     <title lang="en">Hollywood News Feed</title>
     <desc lang="en">Hottest entertainment news of the week!</desc>
   </programme>
-  <programme start="20260118203000 +0400" stop="20260118220000 +0400" channel="Dubai One">
+  <programme start="20260118203000 +0400" stop="20260118210000 +0400" channel="Dubai One">
     <title lang="en">Hollywood on Set</title>
     <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260118210000 +0400" stop="20260118220000 +0400" channel="Dubai One">
+    <title lang="en">Maxima</title>
+    <desc lang="en">Máxima Zorreguieta steps into the spotlight beside the Dutch crown prince.</desc>
   </programme>
   <programme start="20260118220000 +0400" stop="20260119000000 +0400" channel="Dubai One">
     <title lang="en">La Vie En Rose</title>
@@ -65913,14 +65913,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260115090000 +0000" stop="20260115092800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260115092800 +0000" stop="20260115095800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20260115095800 +0000" stop="20260115105800 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
@@ -66700,10 +66692,6 @@
   <programme start="20260120060000 +0000" stop="20260120080000 +0000" channel="華視">
     <title lang="zh">警世劇場</title>
     <desc lang="zh">社會寫實單元劇，劇情效法《X檔案》，以現代辦案的角度來切入鬼神之說，用以警惕世人。篤信科學辦案精神的刑警尚智（謝祖武）有心理學博士學位，他與先天具有陰陽眼的搭檔王玉芳（趙英華），共同調查各種無法用科學解釋的案件，為死者伸冤…</desc>
-  </programme>
-  <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="好消息2台">
-    <title lang="zh">大衛鮑森講座</title>
-    <desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115103000 +0000" channel="好消息2台">
     <title lang="zh">共享觀點</title>
@@ -67593,14 +67581,6 @@
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
   </programme>
-  <programme start="20260115090000 +0000" stop="20260115093000 +0000" channel="好消息">
-    <title lang="zh">大家說英語</title>
-    <desc lang="zh">將最受歡迎的美語生活會話雜誌《大家說英語》內容製作成電視教學節目，教學輕鬆活潑，以生活實用會話為單元主題，是新聞局推薦的優質節目。不僅能幫助您輕鬆開口說英語，更提供許多實用的英語語彙與技巧，讓您用簡單的單字，就能說一口漂亮英語。</desc>
-  </programme>
-  <programme start="20260115093000 +0000" stop="20260115100000 +0000" channel="好消息">
-    <title lang="zh">無名小英雄</title>
-    <desc lang="zh">主後70年左右，羅馬帝國的鐵蹄征服了許多國家，同時對基督徒展開大規模鎮壓，來自埃及亞歷山大港的猶太少年麥基，因父親撒姆耳時常協助受迫害的基督徒，在耳濡目染之下，也開始與朋友們搭救被羅馬軍隊殘害的難民與奴隸，也因此麥基全家成了羅馬軍隊的眼中釘...</desc>
-  </programme>
   <programme start="20260115100000 +0000" stop="20260115103000 +0000" channel="好消息">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
@@ -68485,10 +68465,6 @@
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="亞洲旅遊台">
     <title lang="zh">型男闖世界</title>
     <desc lang="zh">《型男闖世界》前往世界各地的特殊景點或深山秘境，挑戰極限運動，尋找奇人異事、踏尋隱身在叢林邊境的傳說、進行各種挑戰及探險。</desc>
@@ -68960,14 +68936,6 @@
   <programme start="20260120070000 +0000" stop="20260120080000 +0000" channel="亞洲旅遊台">
     <title lang="zh">暴走兄弟朝聖趣</title>
     <desc lang="zh">透過主持人盧廣仲、李玉璽、美麗本人三兄弟挑戰世界唯二被聯合國列為世界文化遺產的參拜道：西班牙聖雅各之路與日本熊野古道的冒險實境節目，究竟其中有什麼魔力吸引著一波又一波不論國界不分年齡的朝聖者，湧入這條古老的朝聖之路？</desc>
-  </programme>
-  <programme start="20260115084000 +0000" stop="20260115092000 +0000" channel="東森購物1台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260115092000 +0000" stop="20260115100000 +0000" channel="東森購物1台">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115104000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -69675,14 +69643,6 @@
   </programme>
   <programme start="20260120072000 +0000" stop="20260120080000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260115084000 +0000" stop="20260115092000 +0000" channel="東森購物2台">
-    <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260115092000 +0000" stop="20260115100000 +0000" channel="東森購物2台">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115104000 +0000" channel="東森購物2台">
@@ -70845,10 +70805,6 @@
     <title lang="zh">華視1500整點新聞</title>
     <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
   </programme>
-  <programme start="20260115040000 +0000" stop="20260115100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260115100000 +0000" stop="20260115160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh">暂无描述</desc>
@@ -70924,10 +70880,6 @@
   <programme start="20260119220000 +0000" stop="20260120040000 +0000" channel="倪珍播新聞">
     <title lang="zh">早安新聞</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1700整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115115500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -71360,10 +71312,6 @@
   <programme start="20260120070000 +0000" stop="20260120080000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">智富食代</title>
     <desc lang="zh">顛覆傳統旅遊節目，而是以全新新聞性、知識性旅遊資訊節目，呈現觀眾眼前。輕鬆有趣的內容中，將觀光經濟數字、各地房價、消費指數及各地風土民情融入結合。要學怎麼贏、先學怎麼玩！女漢子兩條路線PK旅行大挑戰。</desc>
-  </programme>
-  <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="寰宇財經台">
-    <title lang="zh">打卡吧!我的炫FOOD日記</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="寰宇財經台">
     <title lang="zh">銅板美食呷透透</title>
@@ -71841,10 +71789,6 @@
     <title lang="zh">打卡吧!我的炫FOOD日記</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="中視新聞">
-    <title lang="zh">新庶民大頭家</title>
-    <desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-  </programme>
   <programme start="20260115100000 +0000" stop="20260115105800 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -72184,10 +72128,6 @@
   <programme start="20260118220000 +0000" stop="20260118230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115110000 +0000" channel="中天新聞台">
     <title lang="zh">中天辣晚報</title>
@@ -72661,10 +72601,6 @@
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260115085500 +0000" stop="20260115095500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
   <programme start="20260115095500 +0000" stop="20260115105500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
@@ -73137,10 +73073,6 @@
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
   </programme>
-  <programme start="20260115085500 +0000" stop="20260115095500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
-  </programme>
   <programme start="20260115095500 +0000" stop="20260115105500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -73612,14 +73544,6 @@
   <programme start="20260120065500 +0000" stop="20260120075500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇整點新聞</title>
     <desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
-  <programme start="20260115090000 +0000" stop="20260115093000 +0000" channel="第1商業台">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260115093000 +0000" stop="20260115100000 +0000" channel="第1商業台">
-    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115103000 +0000" channel="第1商業台">
     <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
@@ -74485,10 +74409,6 @@
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260115010000 +0000" stop="20260115100000 +0000" channel="國會頻道1台">
-    <title lang="zh">立法院會議直播</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260115100000 +0000" stop="20260115160000 +0000" channel="國會頻道1台">
     <title lang="zh">當日立法院會議轉播</title>
     <desc lang="zh">暂无描述</desc>
@@ -74591,10 +74511,6 @@
   </programme>
   <programme start="20260120004700 +0000" stop="20260120010000 +0000" channel="國會頻道1台">
     <title lang="zh">週二會議預報</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260115010000 +0000" stop="20260115100000 +0000" channel="國會頻道2台">
-    <title lang="zh">立法院會議直播</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260115100000 +0000" stop="20260115160000 +0000" channel="國會頻道2台">
@@ -179668,8 +179584,12 @@
     <title lang="zh">Idhayakkani</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115173000 +0800" stop="20260115183000 +0800" channel="Sun_Life">
-    <title lang="zh">Colourful Comedy</title>
+  <programme start="20260115173000 +0800" stop="20260115180000 +0800" channel="Sun_Life">
+    <title lang="zh">Kutty Chutties</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115180000 +0800" stop="20260115183000 +0800" channel="Sun_Life">
+    <title lang="zh">Oru Pada Comedy</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260115183000 +0800" stop="20260115213000 +0800" channel="Sun_Life">
@@ -183216,23 +183136,23 @@
     <title lang="zh">Talk With World Leaders</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116060300 +0800" stop="20260116063300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116060300 +0800" stop="20260116063200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116063300 +0800" stop="20260116070300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116063200 +0800" stop="20260116070200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116070300 +0800" stop="20260116080000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116070200 +0800" stop="20260116075900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080000 +0800" stop="20260116080300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116075900 +0800" stop="20260116080200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080300 +0800" stop="20260116090000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116080200 +0800" stop="20260116090000 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183240,19 +183160,19 @@
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116090300 +0800" stop="20260116093300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116090300 +0800" stop="20260116093200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116093300 +0800" stop="20260116100300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116093200 +0800" stop="20260116100200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116100300 +0800" stop="20260116110000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116100200 +0800" stop="20260116105900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116110000 +0800" stop="20260116110300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116105900 +0800" stop="20260116110300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183264,35 +183184,35 @@
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116120300 +0800" stop="20260116125800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116120300 +0800" stop="20260116125700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116125800 +0800" stop="20260116130300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116125700 +0800" stop="20260116130200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116130300 +0800" stop="20260116133300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116130200 +0800" stop="20260116133200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116133300 +0800" stop="20260116140300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116133200 +0800" stop="20260116140300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">We Are One Ep152</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116140300 +0800" stop="20260116143300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116140300 +0800" stop="20260116143200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Hong Kong Perspectives</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116143300 +0800" stop="20260116150300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116143200 +0800" stop="20260116150300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116150300 +0800" stop="20260116160000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116150300 +0800" stop="20260116155900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116160000 +0800" stop="20260116160300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116155900 +0800" stop="20260116160300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183300,11 +183220,11 @@
     <title lang="zh">Talk With World Leaders</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116163300 +0800" stop="20260116170300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116163300 +0800" stop="20260116170200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116170300 +0800" stop="20260116173300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116170200 +0800" stop="20260116173300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Dreamscapes, Architectural Wonders Ep463</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183324,11 +183244,11 @@
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116190300 +0800" stop="20260116193300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116190300 +0800" stop="20260116193200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116193300 +0800" stop="20260116200300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116193200 +0800" stop="20260116200300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183340,23 +183260,23 @@
     <title lang="zh">Top View</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116210300 +0800" stop="20260116215800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116210300 +0800" stop="20260116215700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116215800 +0800" stop="20260116220300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116215700 +0800" stop="20260116220200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116220300 +0800" stop="20260116223300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116220200 +0800" stop="20260116223200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116223300 +0800" stop="20260116230300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116223200 +0800" stop="20260116230300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116230300 +0800" stop="20260116233300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260116230300 +0800" stop="20260116233200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183684,27 +183604,27 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116063000 +0800" stop="20260116063300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116063000 +0800" stop="20260116063200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116063300 +0800" stop="20260116070300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116063200 +0800" stop="20260116070300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116070300 +0800" stop="20260116080000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116070300 +0800" stop="20260116075900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080000 +0800" stop="20260116080300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116075900 +0800" stop="20260116080300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116080300 +0800" stop="20260116090000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116080300 +0800" stop="20260116085900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116090000 +0800" stop="20260116090300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116085900 +0800" stop="20260116090300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183720,11 +183640,11 @@
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116100300 +0800" stop="20260116110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116100300 +0800" stop="20260116105900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116110000 +0800" stop="20260116110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116105900 +0800" stop="20260116110300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183740,11 +183660,11 @@
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116120300 +0800" stop="20260116125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116120300 +0800" stop="20260116125700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116125800 +0800" stop="20260116130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116125700 +0800" stop="20260116130300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183752,11 +183672,11 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116133000 +0800" stop="20260116133300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116133000 +0800" stop="20260116133200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116133300 +0800" stop="20260116140300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116133200 +0800" stop="20260116140300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183772,19 +183692,19 @@
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116150300 +0800" stop="20260116160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116150300 +0800" stop="20260116155900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116160000 +0800" stop="20260116160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116155900 +0800" stop="20260116160300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116160300 +0800" stop="20260116170000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116160300 +0800" stop="20260116165900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116170000 +0800" stop="20260116170300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116165900 +0800" stop="20260116170300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183792,11 +183712,11 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116173000 +0800" stop="20260116173300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116173000 +0800" stop="20260116173200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116173300 +0800" stop="20260116180300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116173200 +0800" stop="20260116180300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183804,19 +183724,19 @@
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116183000 +0800" stop="20260116183300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116183000 +0800" stop="20260116183200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116183300 +0800" stop="20260116190300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116183200 +0800" stop="20260116190300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116190300 +0800" stop="20260116200000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116190300 +0800" stop="20260116195900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116200000 +0800" stop="20260116200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116195900 +0800" stop="20260116200300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183824,27 +183744,27 @@
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116203000 +0800" stop="20260116203300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116203000 +0800" stop="20260116203200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116203300 +0800" stop="20260116210300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116203200 +0800" stop="20260116210300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Financial Daily Report</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116210300 +0800" stop="20260116215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116210300 +0800" stop="20260116215700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116215800 +0800" stop="20260116220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116215700 +0800" stop="20260116220300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116220300 +0800" stop="20260116223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116220300 +0800" stop="20260116223200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116223300 +0800" stop="20260116230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116223200 +0800" stop="20260116230300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -183852,7 +183772,7 @@
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116233000 +0800" stop="20260116233300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260116233000 +0800" stop="20260116233200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -200088,16 +200008,12 @@
     <title lang="zh">AFC U23 Asian Cup 2026: UZB lwn LBN</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115170000 +0800" stop="20260115180000 +0800" channel="Astro_Arena">
+  <programme start="20260115170000 +0800" stop="20260115182000 +0800" channel="Astro_Arena">
     <title lang="zh">(L) Nadi Arena Khas</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115180000 +0800" stop="20260115183000 +0800" channel="Astro_Arena">
+  <programme start="20260115182000 +0800" stop="20260115193000 +0800" channel="Astro_Arena">
     <title lang="zh">Botak Terjah Stadium</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260115183000 +0800" stop="20260115193000 +0800" channel="Astro_Arena">
-    <title lang="zh">Masa Tambahan</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260115193000 +0800" stop="20260115203000 +0800" channel="Astro_Arena">
@@ -201340,8 +201256,12 @@
     <title lang="zh">Fastzone 2025</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115034800 +0800" stop="20260115070000 +0800" channel="beIN_SPORTS_1">
+  <programme start="20260115034800 +0800" stop="20260115064500 +0800" channel="beIN_SPORTS_1">
     <title lang="zh">(L) TotalEnergies Africa Cup of Nations, Morocco : Nigeria Vs Morocco - SF 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260115064500 +0800" stop="20260115070000 +0800" channel="beIN_SPORTS_1">
+    <title lang="zh">Asian Le Mans Series Highlights 2025/26</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260115070000 +0800" stop="20260115073000 +0800" channel="beIN_SPORTS_1">
@@ -201508,11 +201428,11 @@
     <title lang="zh">(L) Australian Open (2026)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115160000 +0800" stop="20260115173000 +0800" channel="beIN_SPORTS_2">
+  <programme start="20260115160000 +0800" stop="20260115174500 +0800" channel="beIN_SPORTS_2">
     <title lang="zh">(L) Australian Open (2026)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260115173000 +0800" stop="20260115183000 +0800" channel="beIN_SPORTS_2">
+  <programme start="20260115174500 +0800" stop="20260115183000 +0800" channel="beIN_SPORTS_2">
     <title lang="zh">United Cup (2026)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -206192,16 +206112,12 @@
     <title lang="zh">MUTV: 20 Goals By Defenders</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116051000 +0700" stop="20260116071000 +0700" channel="beIN Sports 3">
+  <programme start="20260116051000 +0700" stop="20260116070500 +0700" channel="beIN Sports 3">
     <title lang="zh">TGL S2: Jupiter Vs New York</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116071000 +0700" stop="20260116090000 +0700" channel="beIN Sports 3">
+  <programme start="20260116070500 +0700" stop="20260116093000 +0700" channel="beIN Sports 3">
     <title lang="zh">AFCON 2025: NGA Vs MAR</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0700" stop="20260116093000 +0700" channel="beIN Sports 3">
-    <title lang="zh">Spirit Of Yachting 2025</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093000 +0700" stop="20260116103000 +0700" channel="beIN Sports 3">
@@ -206356,16 +206272,12 @@
     <title lang="zh">MUTV: 20 Goals By Defenders</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116051000 +0700" stop="20260116071000 +0700" channel="beIN Sports 3 HD">
+  <programme start="20260116051000 +0700" stop="20260116070500 +0700" channel="beIN Sports 3 HD">
     <title lang="zh">TGL S2: Jupiter Vs New York</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260116071000 +0700" stop="20260116090000 +0700" channel="beIN Sports 3 HD">
+  <programme start="20260116070500 +0700" stop="20260116093000 +0700" channel="beIN Sports 3 HD">
     <title lang="zh">AFCON 2025: NGA Vs MAR</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260116090000 +0700" stop="20260116093000 +0700" channel="beIN Sports 3 HD">
-    <title lang="zh">Spirit Of Yachting 2025</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260116093000 +0700" stop="20260116103000 +0700" channel="beIN Sports 3 HD">
