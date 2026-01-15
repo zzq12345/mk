@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260115200000 +0800" stop="20260115213000 +0800" channel="mbc max">
-    <title lang="en">Nobody</title>
-    <desc lang="en">After an incident in which he failed to protect his family,Hutch is unable to deal with the distance it results in, which only fuels his determination to protect a woman when she gets harassed. But as the confrontation earns him the wrath of a drug lord, he fights to protect himself and his family.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260115213000 +0800" stop="20260115230000 +0800" channel="mbc max">
     <title lang="en">CHIPS</title>
     <desc lang="en">Frank Poncherello, an undercover federal agent, and JonBaker, a rookie, join the highway patrol in California for entirely different reasons. They team up and roam around putting a stop to speeding cars and vehicle thefts, helping those who are lost, and investigating crimes.</desc>
@@ -192,6 +186,12 @@
     <category lang="en">Movie
                (2020)</category>
   </programme>
+  <programme start="20260118073000 +0800" stop="20260118093000 +0800" channel="mbc max">
+    <title lang="en">Blade</title>
+    <desc lang="en">The story of the vampire hunter Blade, who is going throughinternal and external conflicts between his bloodthirsty nature and his desire to face evil.</desc>
+    <category lang="en">Movie
+               (2025)</category>
+  </programme>
   <programme start="20260115202400 +0800" stop="20260115230000 +0800" channel="mbc 2">
     <title lang="en">The Wolf of Wall Street</title>
     <desc lang="en">Based on his own book, this is the true story of JordanBelfort. A stock-broker who had it all after his rise to the high life of a millionaire and lost it all after his fall involving crime and the federal government.</desc>
@@ -363,6 +363,12 @@
   <programme start="20260118060000 +0800" stop="20260118073000 +0800" channel="mbc 2">
     <title lang="en">Last Vegas</title>
     <desc lang="en">Four childhood friends are reunited when the group's swornbachelor decides to get married. As they head to Las Vegas to relieve their glory days, they realize how much the Sin City has transformed.</desc>
+    <category lang="en">Movie
+               (2013)</category>
+  </programme>
+  <programme start="20260118073000 +0800" stop="20260118093000 +0800" channel="mbc 2">
+    <title lang="en">Snowpiercer</title>
+    <desc lang="en">After a failed climate-change experiment , ice age destroyslife on the planet except some survivors, who take a huge train (Snowpiercer) as a place of survival. The elite live at the front, while the poor live at the back. But 17 years later, the tail's inhabitants start a rebellion led by Curtis (Chris Evans).</desc>
     <category lang="en">Movie
                (2013)</category>
   </programme>
