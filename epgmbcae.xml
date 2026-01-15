@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260115180000 +0800" stop="20260115193000 +0800" channel="mbc max">
-    <title lang="en">Going in Style</title>
-    <desc lang="en">Willie, Joe, and Albert are three retired senior citizensdesperate to find money. As things get worse and the circumstances become more complicated, they plan a bank robbery.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
-  <programme start="20260115193000 +0800" stop="20260115200000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260115200000 +0800" stop="20260115213000 +0800" channel="mbc max">
     <title lang="en">Nobody</title>
     <desc lang="en">After an incident in which he failed to protect his family,Hutch is unable to deal with the distance it results in, which only fuels his determination to protect a woman when she gets harassed. But as the confrontation earns him the wrath of a drug lord, he fights to protect himself and his family.</desc>
@@ -192,17 +180,17 @@
     <category lang="en">Movie
                (2006)</category>
   </programme>
-  <programme start="20260115170500 +0800" stop="20260115184500 +0800" channel="mbc 2">
-    <title lang="en">Krampus</title>
-    <desc lang="en">When a family fight at Christmas ends up accidentallysummoning a demonic force, little Max and his family find themselves in a fight for their lives as the demon Krampus puts them through hell to punish them for their deeds.</desc>
+  <programme start="20260118033000 +0800" stop="20260118053000 +0800" channel="mbc max">
+    <title lang="en">Taken 3</title>
+    <desc lang="en">Ex-government operative Bryan Mills finds his life shatteredwhen he's falsely accused of a murder that hits close to home. As he's pursued by a savvy police inspector, Mills employs his particular set of skills to track the real killer and exact his unique brand of justice.</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (2014)</category>
   </programme>
-  <programme start="20260115184500 +0800" stop="20260115202400 +0800" channel="mbc 2">
-    <title lang="en">The Man Who Knew Infinity</title>
-    <desc lang="en">The true story of how pioneer mathematician SrinivasaRamanujan overcame poverty and got into Cambridge under the guidance of professor G.H. Hardy</desc>
+  <programme start="20260118053000 +0800" stop="20260118073000 +0800" channel="mbc max">
+    <title lang="en">My Spy</title>
+    <desc lang="en">The tough CIA agent JJ finds himself at the mercy of thewitty 9-year-old girl Sophie, after he is secretly sent to monitor her family.</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (2020)</category>
   </programme>
   <programme start="20260115202400 +0800" stop="20260115230000 +0800" channel="mbc 2">
     <title lang="en">The Wolf of Wall Street</title>
@@ -365,5 +353,17 @@
     <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260118040000 +0800" stop="20260118060000 +0800" channel="mbc 2">
+    <title lang="en">Ender's Game</title>
+    <desc lang="en">Seventy years after a horrific war with aliens, anexceptionally gifted child is sent to an advanced military school in space to prepare for the future invasion.</desc>
+    <category lang="en">Movie
+               (2013)</category>
+  </programme>
+  <programme start="20260118060000 +0800" stop="20260118073000 +0800" channel="mbc 2">
+    <title lang="en">Last Vegas</title>
+    <desc lang="en">Four childhood friends are reunited when the group's swornbachelor decides to get married. As they head to Las Vegas to relieve their glory days, they realize how much the Sin City has transformed.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
