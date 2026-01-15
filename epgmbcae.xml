@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260116140000 +0800" stop="20260116160000 +0800" channel="mbc max">
-    <title lang="en">Taken 2</title>
-    <desc lang="en">The past comes back to haunt former CIA operative BryanMills when the father of one of the kidnappers he killed to rescue his daughter Kim comes after him and his family. With Bryan and his ex-wife captured, it's up to Kim to help her father escape his captors and save her mother.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
   <programme start="20260116160000 +0800" stop="20260116180000 +0800" channel="mbc max">
     <title lang="en">Taken 2</title>
     <desc lang="en">The past comes back to haunt former CIA operative BryanMills when the father of one of the kidnappers he killed to rescue his daughter Kim comes after him and his family. With Bryan and his ex-wife captured, it's up to Kim to help her father escape his captors and save her mother.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2020)</category>
   </programme>
-  <programme start="20260116130000 +0800" stop="20260116150000 +0800" channel="mbc 2">
-    <title lang="en">Concussion</title>
-    <desc lang="en">The film follows how American football players suffer fromrepeated concussions and life-long debilitating hygienic issues and how the NFL always tries to deny any responsibility for these problems.</desc>
+  <programme start="20260119010000 +0800" stop="20260119030000 +0800" channel="mbc max">
+    <title lang="en">Charlie's Angels</title>
+    <desc lang="en">Charlie's Angels always provided their investigative skillsto their clients. Now Townsend Agency has highly trained women from around the world who work on the most challenging missions. When a systems engineer reveals information about dangerous technology, the angels must face this threat.</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (2019)</category>
   </programme>
   <programme start="20260116150000 +0800" stop="20260116173000 +0800" channel="mbc 2">
     <title lang="en">King Richard</title>
@@ -365,5 +359,11 @@
     <desc lang="en">Britt Reid is the under-achieving son of an LA mediamagnate. The unanticipated death of his father kick-starts his life as he decides to use resources inherited from his father to fight city crime. In his efforts to fight crime Reid recruits the help of his father’s mechanic and a criminologist. Disputes threaten the crime-fighting trio before they have a chance to make a difference.</desc>
     <category lang="en">Movie
                (2011)</category>
+  </programme>
+  <programme start="20260119013000 +0800" stop="20260119040000 +0800" channel="mbc 2">
+    <title lang="en">The Intern</title>
+    <desc lang="en">Hoping to turn his life around, the 70-year-old BenWhittaker realizes that retirement should never be a phase of waiting for death. As he takes a job as an intern in a fashion house, he strikes an unlikely friendship with Jules, becoming her assistant, a fatherly figure, and a trustworthy friend.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
