@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260116100000 +0800" stop="20260116120000 +0800" channel="mbc max">
-    <title lang="en">Avengement</title>
-    <desc lang="en">When Cain Burgess is finally released from prison afterserving his sentence for crimes he did not commit, he sets out to take revenge on the people who turned him into a cold-hearted killer.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260116120000 +0800" stop="20260116140000 +0800" channel="mbc max">
     <title lang="en">Brick Mansions</title>
     <desc lang="en">In a dystopian future, an unlikely partnership is formedbetween an ex-con and an undercover cop in the walled-off Detroit. With a local kingpin threatening to destroy the whole city, the two men must find a common ground in order to bring him down.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260116110000 +0800" stop="20260116130000 +0800" channel="mbc 2">
-    <title lang="en">42</title>
-    <desc lang="en">The film follows the life of baseball player JackieRobinson, and how he wrote down history as the first African-American to play in Major League,playing with the Brooklyn Dodger under the management of Branch Rickey.</desc>
+  <programme start="20260118213000 +0800" stop="20260118233000 +0800" channel="mbc max">
+    <title lang="en">The Courier</title>
+    <desc lang="en">A courier in London who delivers packages, finds her lifeturn upside down when she discovers that she's transporting a bomb that's meant to kill an important witness named, Nick.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2019)</category>
   </programme>
   <programme start="20260116130000 +0800" stop="20260116150000 +0800" channel="mbc 2">
     <title lang="en">Concussion</title>
@@ -359,5 +353,11 @@
     <desc lang="en">Seventy years after a horrific war with aliens, anexceptionally gifted child is sent to an advanced military school in space to prepare for the future invasion.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260118213000 +0800" stop="20260118233000 +0800" channel="mbc 2">
+    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
+    <desc lang="en">Raccoon City was originally the headquarters of the UmbrellaPharmaceuticals, which collapsed following the infamous Raccoon Trials, and after the spread of diseases and the devastation of the world, a group of survivors attempts to unravel the mysteries behind this organisation.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
