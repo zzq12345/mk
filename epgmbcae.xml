@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260116120000 +0800" stop="20260116140000 +0800" channel="mbc max">
-    <title lang="en">Brick Mansions</title>
-    <desc lang="en">In a dystopian future, an unlikely partnership is formedbetween an ex-con and an undercover cop in the walled-off Detroit. With a local kingpin threatening to destroy the whole city, the two men must find a common ground in order to bring him down.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260116140000 +0800" stop="20260116160000 +0800" channel="mbc max">
     <title lang="en">Taken 2</title>
     <desc lang="en">The past comes back to haunt former CIA operative BryanMills when the father of one of the kidnappers he killed to rescue his daughter Kim comes after him and his family. With Bryan and his ex-wife captured, it's up to Kim to help her father escape his captors and save her mother.</desc>
@@ -186,6 +180,12 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
+  <programme start="20260118233000 +0800" stop="20260119010000 +0800" channel="mbc max">
+    <title lang="en">My Spy</title>
+    <desc lang="en">The tough CIA agent JJ finds himself at the mercy of thewitty 9-year-old girl Sophie, after he is secretly sent to monitor her family.</desc>
+    <category lang="en">Movie
+               (2020)</category>
+  </programme>
   <programme start="20260116130000 +0800" stop="20260116150000 +0800" channel="mbc 2">
     <title lang="en">Concussion</title>
     <desc lang="en">The film follows how American football players suffer fromrepeated concussions and life-long debilitating hygienic issues and how the NFL always tries to deny any responsibility for these problems.</desc>
@@ -359,5 +359,11 @@
     <desc lang="en">Raccoon City was originally the headquarters of the UmbrellaPharmaceuticals, which collapsed following the infamous Raccoon Trials, and after the spread of diseases and the devastation of the world, a group of survivors attempts to unravel the mysteries behind this organisation.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260118233000 +0800" stop="20260119013000 +0800" channel="mbc 2">
+    <title lang="en">The Green Hornet</title>
+    <desc lang="en">Britt Reid is the under-achieving son of an LA mediamagnate. The unanticipated death of his father kick-starts his life as he decides to use resources inherited from his father to fight city crime. In his efforts to fight crime Reid recruits the help of his father’s mechanic and a criminologist. Disputes threaten the crime-fighting trio before they have a chance to make a difference.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
