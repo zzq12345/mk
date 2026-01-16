@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260116053000 +0800" stop="20260116080000 +0800" channel="mbc max">
-    <title lang="en">Our Friend</title>
-    <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260116080000 +0800" stop="20260116100000 +0800" channel="mbc max">
     <title lang="en">Click</title>
     <desc lang="en">A workaholic architect gets a remote that allows him tocontrol reality as he would a television, rewinding, skipping and pausing as he pleases. But things soon get out of hand when the remote start reacting to his casual wishes.</desc>
@@ -180,11 +174,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260116050000 +0800" stop="20260116063000 +0800" channel="mbc 2">
-    <title lang="en">Boogie</title>
-    <desc lang="en">As the high school student Alfred "Boogie" Chin dreams ofplaying in the NBA, he follows his parents' guidance who want to get him a scholarship from a prestigious university, while he has to cope with many obstacles.</desc>
+  <programme start="20260118160000 +0800" stop="20260118173000 +0800" channel="mbc max">
+    <title lang="en">Underworld: Rise of the Lycans</title>
+    <desc lang="en">In continuation of the first two parts of the same series,bloody events unfold between bloodsucking vampires and their slaves, the Lycans. The Lycans are led by Lucian, who wants to destroy the vampires' leader, whose daughter is in love with Lucian. She joins in the bloody wars with her lover against her father.</desc>
     <category lang="en">Movie
-               (2021)</category>
+               (2009)</category>
   </programme>
   <programme start="20260116063000 +0800" stop="20260116090000 +0800" channel="mbc 2">
     <title lang="en">King Richard</title>
@@ -347,5 +341,11 @@
     <desc lang="en">When a crime boss threatens to harm his girlfriend, Baby isforced to participate in a heist with a few volatile individuals, which makes the whole thing a recipe for disaster.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260118153000 +0800" stop="20260118180000 +0800" channel="mbc 2">
+    <title lang="en">Den of Thieves</title>
+    <desc lang="en">While planning a bank robbery, a thief is surrounded by twogroups of dangerous criminals.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
