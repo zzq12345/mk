@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260119160000 +0800" stop="20260119173000 +0800" channel="mbc max">
-    <title lang="en">Underworld: Rise of the Lycans</title>
-    <desc lang="en">In continuation of the first two parts of the same series,bloody events unfold between bloodsucking vampires and their slaves, the Lycans. The Lycans are led by Lucian, who wants to destroy the vampires' leader, whose daughter is in love with Lucian. She joins in the bloody wars with her lover against her father.</desc>
-    <category lang="en">Movie
-               (2009)</category>
-  </programme>
   <programme start="20260119173000 +0800" stop="20260119200000 +0800" channel="mbc max">
     <title lang="en">Wanted</title>
     <desc lang="en">An office worker leads a dull life that is only disturbed bythe news of his father's murder. After learning that his father was an assassin, the son is recruited to follow into his father's footsteps.</desc>
@@ -215,6 +209,12 @@
     <desc lang="en">Luke finds himself responsible for the safety of 12-year-oldMei, who is pursued by the Chinese Triads and a group of Russians, for possessing priceless top-secret information in the form of numerical codes. While on the run, Luke decides that he will protect the little Mei at any cost.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260122030000 +0800" stop="20260122033000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
   <programme start="20260119153000 +0800" stop="20260119180000 +0800" channel="mbc 2">
     <title lang="en">Den of Thieves</title>
