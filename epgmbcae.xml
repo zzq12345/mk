@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260119200000 +0800" stop="20260119213000 +0800" channel="mbc max">
-    <title lang="en">Jolt</title>
-    <desc lang="en">A bouncer with a violent anger-management problem uses anelectrode-lined vest to control her homicidal tendencies. But when the man she loves is killed, she sets out on a bloody pursuit to find the murderer.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260119213000 +0800" stop="20260119230000 +0800" channel="mbc max">
     <title lang="en">Guns Akimbo</title>
     <desc lang="en">The video game developer Miles finds himself fighting tostay alive when he becomes a participant in an ultra-violent online game as he gets chased across the city by the ruthless opponent Nix, while having guns bolted to his hands.</desc>
@@ -222,11 +216,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260119195000 +0800" stop="20260119212500 +0800" channel="mbc 2">
-    <title lang="en">Last Vegas</title>
-    <desc lang="en">Four childhood friends are reunited when the group's swornbachelor decides to get married. As they head to Las Vegas to relieve their glory days, they realize how much the Sin City has transformed.</desc>
+  <programme start="20260122073000 +0800" stop="20260122093000 +0800" channel="mbc max">
+    <title lang="en">The Longest Yard</title>
+    <desc lang="en">An inmate decides to get the other inmates at the prisontogether to form a soccer team that will play against another team of prison guards.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2005)</category>
   </programme>
   <programme start="20260119212500 +0800" stop="20260119230000 +0800" channel="mbc 2">
     <title lang="en">Legally Blonde</title>
@@ -401,5 +395,11 @@
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
     <category lang="en">Program
                (2008)</category>
+  </programme>
+  <programme start="20260122063500 +0800" stop="20260122083500 +0800" channel="mbc 2">
+    <title lang="en">Winter's Tale</title>
+    <desc lang="en">In 1916  an orphaned young man named Peter (Colin Farrell)tries to steal a mansion thinking that no one is inside. But he discovers the presence of Beverly (Jessica Brown Findlay) and they fall in love.  They have to face difficult challenges to save their love.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
