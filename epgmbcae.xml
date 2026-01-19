@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260119173000 +0800" stop="20260119200000 +0800" channel="mbc max">
-    <title lang="en">Wanted</title>
-    <desc lang="en">An office worker leads a dull life that is only disturbed bythe news of his father's murder. After learning that his father was an assassin, the son is recruited to follow into his father's footsteps.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
   <programme start="20260119200000 +0800" stop="20260119213000 +0800" channel="mbc max">
     <title lang="en">Jolt</title>
     <desc lang="en">A bouncer with a violent anger-management problem uses anelectrode-lined vest to control her homicidal tendencies. But when the man she loves is killed, she sets out on a bloody pursuit to find the murderer.</desc>
@@ -216,17 +210,17 @@
     <category lang="en">Program
                (1998)</category>
   </programme>
-  <programme start="20260119153000 +0800" stop="20260119180000 +0800" channel="mbc 2">
-    <title lang="en">Den of Thieves</title>
-    <desc lang="en">While planning a bank robbery, a thief is surrounded by twogroups of dangerous criminals.</desc>
+  <programme start="20260122033000 +0800" stop="20260122050000 +0800" channel="mbc max">
+    <title lang="en">The Peanut Butter Falcon</title>
+    <desc lang="en">Striving to be a wrestler, Zak, a man with Down Syndrome,escape his care facility to chase his dreams. Fate leads him to Tyler, an outlaw who ends up befriending him and becoming his coach.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
+  <programme start="20260122053000 +0800" stop="20260122070000 +0800" channel="mbc max">
+    <title lang="en">Peppermint</title>
+    <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
     <category lang="en">Movie
                (2018)</category>
-  </programme>
-  <programme start="20260119180000 +0800" stop="20260119192500 +0800" channel="mbc 2">
-    <title lang="en">Child's Play</title>
-    <desc lang="en">A single mother gives a small doll to her son on hisbirthday but discovers that it's a killing doll inhabited by a sinister spirit.</desc>
-    <category lang="en">Movie
-               (1988)</category>
   </programme>
   <programme start="20260119195000 +0800" stop="20260119212500 +0800" channel="mbc 2">
     <title lang="en">Last Vegas</title>
@@ -401,5 +395,11 @@
     <desc lang="en">The film is a continuation of the television series,tellingthe story of the Crawley family, the wealthy owners of a large estate in the English countryside in the early 20th century.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260122034000 +0800" stop="20260122040500 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
   </programme>
 </tv>
