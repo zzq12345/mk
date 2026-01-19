@@ -3,9 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20260119073000 +0800" stop="20260119083000 +0800" channel="mbc action">
-    <title lang="en">برنامج The Ride Life With Sung Kang</title>
-  </programme>
   <programme start="20260119083000 +0800" stop="20260119093000 +0800" channel="mbc action">
     <title lang="en">برنامج cars &amp; stars</title>
   </programme>
@@ -314,5 +311,20 @@
   </programme>
   <programme start="20260121163000 +0800" stop="20260121173000 +0800" channel="mbc action">
     <title lang="en">الخميس</title>
+  </programme>
+  <programme start="20260122173000 +0800" stop="20260122180000 +0800" channel="mbc action">
+    <title lang="en">One Piece</title>
+    <desc lang="en">The story follows Monkey D. Luffy and his crew of pirates as they set out on a quest to find the famed One Piece, the greatest treasure left behind by a legendary pirate. | Type: Series (2014) | Rating: 5.8/10</desc>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Mayumi Tanaka</actor>
+      <actor>Laurent Vernin</actor>
+      <actor>Akemi Okamura</actor>
+      <actor>Kappei Yamaguchi</actor>
+    </credits>
+    <date>2014</date>
+  </programme>
+  <programme start="20260122180000 +0800" stop="20260122190000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
 </tv>
