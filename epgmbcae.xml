@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260119213000 +0800" stop="20260119230000 +0800" channel="mbc max">
-    <title lang="en">Guns Akimbo</title>
-    <desc lang="en">The video game developer Miles finds himself fighting tostay alive when he becomes a participant in an ultra-violent online game as he gets chased across the city by the ruthless opponent Nix, while having guns bolted to his hands.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260119230000 +0800" stop="20260120010000 +0800" channel="mbc max">
     <title lang="en">Blade</title>
     <desc lang="en">Having lost his mother as a child when a vampire killed her,Blade, a half-vampire, half-mortal, takes matters into his own hands as he vows to slay wicked vampires to protect human beings.</desc>
@@ -222,12 +216,6 @@
     <category lang="en">Movie
                (2005)</category>
   </programme>
-  <programme start="20260119212500 +0800" stop="20260119230000 +0800" channel="mbc 2">
-    <title lang="en">Legally Blonde</title>
-    <desc lang="en">When wealthy sorority queen (Elle Woods) is dumped by herHarvard law student boyfriend (Warner) who thinks she is not serious and may get in the way of his political future. She decides to go to Harvard to study law to prove him wrong.</desc>
-    <category lang="en">Movie
-               (2001)</category>
-  </programme>
   <programme start="20260119230000 +0800" stop="20260120010000 +0800" channel="mbc 2">
     <title lang="en">The Big Sick</title>
     <desc lang="en">After performing one of his stand-up shows,Pakistani-borncomedian Kumail Nanjiani meets grad student Emily Gardner.  Their relationship develops into true love but they have to face many challenges.</desc>
@@ -401,5 +389,17 @@
     <desc lang="en">In 1916  an orphaned young man named Peter (Colin Farrell)tries to steal a mansion thinking that no one is inside. But he discovers the presence of Beverly (Jessica Brown Findlay) and they fall in love.  They have to face difficult challenges to save their love.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260122083500 +0800" stop="20260122090000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260122090000 +0800" stop="20260122103500 +0800" channel="mbc 2">
+    <title lang="en">Cloudy with a Chance of Meatballs 2</title>
+    <desc lang="en">After the catastrophic food storm in the first part, Flintand his friends are forced to leave town. Flint joins The Live Corp Company that's tasked with cleaning the island. Flint discovers that his device still works, creating mutant food monsters, and he and his friends decide to return to save the world.</desc>
+    <category lang="en">Movie - Cartoon
+               (2013)</category>
   </programme>
 </tv>
