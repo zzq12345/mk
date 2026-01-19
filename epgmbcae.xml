@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260119040000 +0800" stop="20260119053500 +0800" channel="mbc max">
-    <title lang="en">The Last Witch Hunter</title>
-    <desc lang="en">Today, Kaulder is the last witch hunter remaining, and hasspent centuries hunting down rogue witches, all the while yearning for his long-lost loved ones. However, unbeknownst to Kaulder, the Queen Witch is resurrected and seeks revenge on her killer causing an epic battle that will determine the survival of the human race.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260119060000 +0800" stop="20260119073500 +0800" channel="mbc max">
     <title lang="en">Venom</title>
     <desc lang="en">One of the countless symbiotes that have invaded Earth, analien creature, bonds with a failed reporter. However, the creature grows fond of Earth and chooses to defend it.</desc>
@@ -216,12 +210,6 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260119033500 +0800" stop="20260119054500 +0800" channel="mbc 2">
-    <title lang="en">White House Down</title>
-    <desc lang="en">DC police officer Cale is on a White House tour with hisdaughter when it is attacked by armed paramilitary invaders. He must save his daughter and the President of the United States, though the odds are against him.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260119061000 +0800" stop="20260119082500 +0800" channel="mbc 2">
     <title lang="en">Den of Thieves</title>
     <desc lang="en">While planning a bank robbery, a thief is surrounded by twogroups of dangerous criminals.</desc>
@@ -395,5 +383,11 @@
     <desc lang="en">Scott Pilgrim (Michael Cera) is the bass guitarist for theband "Sex Bob-omb". After he begins dating Knives Chau (Ellen Wong), he later meets Ramona Flowers (Mary Elizabeth Winstead) and falls in love with her, losing interest in Knives. As if juggling 2 girls was not difficult enough, Scott learns from Ramona that in order to date her, he must defeat all seven of her evil exes.</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260121150000 +0800" stop="20260121170000 +0800" channel="mbc 2">
+    <title lang="en">The World's End</title>
+    <desc lang="en">A group of friends who reunite 20 years after an epic pubcrawl. Dragged back to their hometown by Gary King, the group inadvertently becomes mankind's last hope for survival.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
