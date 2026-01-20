@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260120013000 +0800" stop="20260120033000 +0800" channel="mbc max">
-    <title lang="en">Mr. Jones</title>
-    <desc lang="en">Gareth Jones is a Welsh journalist who just happens to be inthe Soviet Union during the time of the man-made Holodomor famine that ended the life of millions of people, as he grows determined to uncover the truth behind the famine, even if he loses his life for it.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260120033000 +0800" stop="20260120040000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
@@ -198,11 +192,11 @@
     <category lang="en">Movie
                (2011)</category>
   </programme>
-  <programme start="20260120012000 +0800" stop="20260120033500 +0800" channel="mbc 2">
-    <title lang="en">Papillon</title>
-    <desc lang="en">In the wake of a wrongful murder conviction, Henry is sentto a remote penitentiary colony. Once there, he soon comes to bond with another inmate, Louis Dega. Together, they plan for their escape.</desc>
-    <category lang="en">Movie
-               (2017)</category>
+  <programme start="20260122120000 +0800" stop="20260122140000 +0800" channel="mbc max">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Dracula runs a high-end resort for monsters far away fromthe human world. The Count's monster-haven bubble is burst when a boy named Jonathan stumbles upon his resort and falls in love with his daughter.</desc>
+    <category lang="en">Movie - Cartoon
+               (2012)</category>
   </programme>
   <programme start="20260120033500 +0800" stop="20260120040000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -371,5 +365,11 @@
     <desc lang="en">Jason Bourne, a former CIA assassin suffering frompsychogenic amnesia, wants to learn more of his past as he is once more enveloped in a conspiracy involving the CIA and Operation Treadstone and forced to continue is past life as an assasin for survival.</desc>
     <category lang="en">Movie
                (2004)</category>
+  </programme>
+  <programme start="20260122130000 +0800" stop="20260122150000 +0800" channel="mbc 2">
+    <title lang="en">The Bourne Ultimatum</title>
+    <desc lang="en">Jason Bourne has a close call with  a corrupt C.I.A officaland his group of agents in a new assassination program. At the same time, he looks for answers about his life as a professional hit-man.</desc>
+    <category lang="en">Movie
+               (2007)</category>
   </programme>
 </tv>
