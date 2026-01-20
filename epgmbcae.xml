@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260120040000 +0800" stop="20260120053500 +0800" channel="mbc max">
-    <title lang="en">Tower Heist</title>
-    <desc lang="en">A group of men who work at a tower discover that they arevictims of a wealthy businessman, and that they are part of a plan to steal the tower.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260120060000 +0800" stop="20260120073000 +0800" channel="mbc max">
     <title lang="en">Fist Fight</title>
     <desc lang="en">When a school teacher gets another teacher fired, he ischallenged to an after-school fight.</desc>
@@ -365,5 +359,11 @@
     <desc lang="en">Jason Bourne has a close call with  a corrupt C.I.A officaland his group of agents in a new assassination program. At the same time, he looks for answers about his life as a professional hit-man.</desc>
     <category lang="en">Movie
                (2007)</category>
+  </programme>
+  <programme start="20260122150000 +0800" stop="20260122173000 +0800" channel="mbc 2">
+    <title lang="en">Blackhat</title>
+    <desc lang="en">After a case of high-level computer hacking arises, a man isreleased from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The cat-and-mouse chase leads them from the U.S.A to Hong Kong.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
