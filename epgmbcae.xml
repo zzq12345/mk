@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260121053000 +0800" stop="20260121070000 +0800" channel="mbc max">
-    <title lang="en">Peppermint</title>
-    <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260121073000 +0800" stop="20260121093000 +0800" channel="mbc max">
     <title lang="en">The Longest Yard</title>
     <desc lang="en">An inmate decides to get the other inmates at the prisontogether to form a soccer team that will play against another team of prison guards.</desc>
@@ -180,11 +174,17 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260121063500 +0800" stop="20260121083500 +0800" channel="mbc 2">
-    <title lang="en">Winter's Tale</title>
-    <desc lang="en">In 1916  an orphaned young man named Peter (Colin Farrell)tries to steal a mansion thinking that no one is inside. But he discovers the presence of Beverly (Jessica Brown Findlay) and they fall in love.  They have to face difficult challenges to save their love.</desc>
+  <programme start="20260123160000 +0800" stop="20260123180000 +0800" channel="mbc max">
+    <title lang="en">Vengeance: A Love Story</title>
+    <desc lang="en">After a woman was physically assaulted by a group of peopleafter attending a party and getting away with it, John Dromoor, a gulf war veteran who now works as a local police officer decides to take matters into his own hands and bring the woman justice.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2017)</category>
+  </programme>
+  <programme start="20260123180000 +0800" stop="20260123200000 +0800" channel="mbc max">
+    <title lang="en">Mirror Mirror</title>
+    <desc lang="en">A modern copy of the classic tale of "Snow White". The filmtells the story of an evil Queen (Roberts) who takes control of a kingdom, and an exiled princess (Collins) who asks the help of seven rebels to win back her royal life.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
   <programme start="20260121083500 +0800" stop="20260121090000 +0800" channel="mbc 2">
     <title lang="en">Action Zone</title>
@@ -347,5 +347,17 @@
     <desc lang="en">A Colorado African-American police officer, Ron Stallworth,manages to join one of the KKK’s groups, and works his way up to leading it, in his attempt to arrest its members.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260123153000 +0800" stop="20260123180000 +0800" channel="mbc 2">
+    <title lang="en">Motherless Brooklyn</title>
+    <desc lang="en">Set in the 1950s, a private detective with Tourette'ssyndrome, Lionel Essrog, loses his only friend and mentor Frank Minna. Lionel then ventures into the slums of Brooklyn and Harlem to uncover the truth about his friend's death.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
+  <programme start="20260123180000 +0800" stop="20260123200000 +0800" channel="mbc 2">
+    <title lang="en">Lucky Number Slevin</title>
+    <desc lang="en">A case of mistaken identity lands Slevin in the middle of awar between two rival crime bosses. Put under surveillance by a detective and an assassin, he has to plan his move before they make their own.</desc>
+    <category lang="en">Movie
+               (2006)</category>
   </programme>
 </tv>
