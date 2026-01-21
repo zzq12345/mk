@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260121200000 +0800" stop="20260121220000 +0800" channel="mbc max">
-    <title lang="en">Violent Night</title>
-    <desc lang="en">As a bunch of mercenaries storms the residence of a richfamily on Christmas Eve, it's up to Santa Claus to save the day.</desc>
-    <category lang="en">Movie
-               (2022)</category>
-  </programme>
   <programme start="20260121220000 +0800" stop="20260121233000 +0800" channel="mbc max">
     <title lang="en">Fist Fight</title>
     <desc lang="en">When a school teacher gets another teacher fired, he ischallenged to an after-school fight.</desc>
@@ -192,11 +186,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260121193500 +0800" stop="20260121213500 +0800" channel="mbc 2">
-    <title lang="en">Destroyer</title>
-    <desc lang="en">Erin Bell was an undercover LAPD officer sixteen years agowith her FBI partner, Chris, infiltrating a gang involved in money laundering, drugs and bank robbing. In a corrupt move, she persuades Chris to actually rob a bank with the gang and quit the police force, but gang leader, Silas, kills Chris. Erin lives in solitary, self-destructive guilt until Silas re-emerges and she sets things right.</desc>
+  <programme start="20260124080000 +0800" stop="20260124100000 +0800" channel="mbc max">
+    <title lang="en">Basic</title>
+    <desc lang="en">Commander Col. Bill calls his old friend, ex-Ranger Hardy,to investigate the disappearance of a Sgt. and several of his cadets during a training exercise. At first, Capt. Julia Osborne disapproves of Hardy, until she decides to work with him to uncover the mystery.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2003)</category>
   </programme>
   <programme start="20260121220000 +0800" stop="20260121233500 +0800" channel="mbc 2">
     <title lang="en">Watcher</title>
@@ -365,5 +359,11 @@
     <desc lang="en">Young computer hacker (Lisbeth Salander) and journalist(Mikael Blomkvist) find themselves trapped in a web of spies, cybercriminals and corrupt government officials.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260124063000 +0800" stop="20260124090000 +0800" channel="mbc 2">
+    <title lang="en">Blackhat</title>
+    <desc lang="en">After a case of high-level computer hacking arises, a man isreleased from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The cat-and-mouse chase leads them from the U.S.A to Hong Kong.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
