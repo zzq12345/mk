@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260122140000 +0800" stop="20260122160000 +0800" channel="mbc max">
-    <title lang="en">The Walk</title>
-    <desc lang="en">The true story of how a French street performer undertookthe daunting task of walking a tightrope between the Twin Towers of the World Trade Center, all with the aid of a misfit group that he put together</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260122160000 +0800" stop="20260122180000 +0800" channel="mbc max">
     <title lang="en">The Fighter</title>
     <desc lang="en">The life story of Mickey Ward, and his relationship with hisbrother Dicky, who is more famous than him in the boxing ring, as well as his exposure to a world of poverty, crime and drugs.</desc>
@@ -180,11 +174,11 @@
     <category lang="en">Movie - Cartoon
                (2012)</category>
   </programme>
-  <programme start="20260122150000 +0800" stop="20260122170000 +0800" channel="mbc 2">
-    <title lang="en">The World's End</title>
-    <desc lang="en">A group of friends who reunite 20 years after an epic pubcrawl. Dragged back to their hometown by Gary King, the group inadvertently becomes mankind's last hope for survival.</desc>
+  <programme start="20260125013000 +0800" stop="20260125033000 +0800" channel="mbc max">
+    <title lang="en">Hunter Killer</title>
+    <desc lang="en">An untested submarine captain teams up with the Navy Sealsto rescue the Russian president who got kidnapped by a rogue general.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2018)</category>
   </programme>
   <programme start="20260122170000 +0800" stop="20260122190000 +0800" channel="mbc 2">
     <title lang="en">Hot Fuzz</title>
@@ -345,6 +339,12 @@
   <programme start="20260125010000 +0800" stop="20260125030000 +0800" channel="mbc 2">
     <title lang="en">The Bourne Supremacy</title>
     <desc lang="en">Jason Bourne, a former CIA assassin suffering frompsychogenic amnesia, wants to learn more of his past as he is once more enveloped in a conspiracy involving the CIA and Operation Treadstone and forced to continue is past life as an assasin for survival.</desc>
+    <category lang="en">Movie
+               (2004)</category>
+  </programme>
+  <programme start="20260125030000 +0800" stop="20260125050000 +0800" channel="mbc 2">
+    <title lang="en">Layer Cake</title>
+    <desc lang="en">An established cocaine dealer among England's Mafia eliteseeks an early retirement, but his boss hands him an arduous task on the eve of his long-awaited retirement.</desc>
     <category lang="en">Movie
                (2004)</category>
   </programme>
