@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260122033000 +0800" stop="20260122060000 +0800" channel="mbc max">
-    <title lang="en">The Blind Side</title>
-    <desc lang="en">Based on a true story, the film tells the story of thefootballer Michael Oher, who was taken in as a teenager by a white family whose matriarch helped him overcome his academic struggles and bolstered his athletic talent until he was drafted by the NFL.</desc>
-    <category lang="en">Movie
-               (2009)</category>
-  </programme>
   <programme start="20260122060000 +0800" stop="20260122080000 +0800" channel="mbc max">
     <title lang="en">The Fighter</title>
     <desc lang="en">The life story of Mickey Ward, and his relationship with hisbrother Dicky, who is more famous than him in the boxing ring, as well as his exposure to a world of poverty, crime and drugs.</desc>
@@ -180,11 +174,11 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260122043000 +0800" stop="20260122063000 +0800" channel="mbc 2">
-    <title lang="en">Despicable Me 3</title>
-    <desc lang="en">In this new movie, Gru enters a new confrontation withBalthazar Bratt, a child star from the 1980s. During this confrontation, Gru coincidentally meets Dru, his long-lost twin brother, and together, they plan to steal the largest diamond in the world from Bratt.</desc>
-    <category lang="en">Movie - Cartoon
-               (2017)</category>
+  <programme start="20260124160000 +0800" stop="20260124183000 +0800" channel="mbc max">
+    <title lang="en">Robin Hood</title>
+    <desc lang="en">When he returns from the war to find that the corruptSheriff of Nottingham has seized his land, Robin of Loxley comes to realize the extent of the corruption underlying England's Crusades, leaving him to join forces with his best friend and an Arabian warrior to challenge the English crown.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
   <programme start="20260122063000 +0800" stop="20260122090000 +0800" channel="mbc 2">
     <title lang="en">Papillon</title>
@@ -353,5 +347,11 @@
     <desc lang="en">When the best bodyguard in the world is appointed to protecta notorious hitman to bring him to court, they both have to put their ego aside to reach court on time.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260124170000 +0800" stop="20260124190000 +0800" channel="mbc 2">
+    <title lang="en">The Family</title>
+    <desc lang="en">An infamous mafia family, the Manzonis, headed by GiovanniManzoni (Robert De Niro) is relocated to Normandy, France under the witness protection program. Written and directed by the man who made "The Fifth Element" and "Léon: The Professional."</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
