@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260123120000 +0800" stop="20260123140000 +0800" channel="mbc max">
-    <title lang="en">Hotel Transylvania</title>
-    <desc lang="en">Dracula runs a high-end resort for monsters far away fromthe human world. The Count's monster-haven bubble is burst when a boy named Jonathan stumbles upon his resort and falls in love with his daughter.</desc>
-    <category lang="en">Movie - Cartoon
-               (2012)</category>
-  </programme>
   <programme start="20260123140000 +0800" stop="20260123160000 +0800" channel="mbc max">
     <title lang="en">The Addams Family</title>
     <desc lang="en">The Addams family finds their home in danger when a realityTV star labels their eerie mansion as a threat to the picture-perfect community she is trying to build. As she employs every mean to get rid of them, the Addams family must fight to save their home.</desc>
@@ -173,6 +167,12 @@
     <desc lang="en">An untested submarine captain teams up with the Navy Sealsto rescue the Russian president who got kidnapped by a rogue general.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260125233000 +0800" stop="20260126010000 +0800" channel="mbc max">
+    <title lang="en">Basic</title>
+    <desc lang="en">Commander Col. Bill calls his old friend, ex-Ranger Hardy,to investigate the disappearance of a Sgt. and several of his cadets during a training exercise. At first, Capt. Julia Osborne disapproves of Hardy, until she decides to work with him to uncover the mystery.</desc>
+    <category lang="en">Movie
+               (2003)</category>
   </programme>
   <programme start="20260123130000 +0800" stop="20260123150000 +0800" channel="mbc 2">
     <title lang="en">The Bourne Ultimatum</title>
@@ -341,5 +341,11 @@
     <desc lang="en">An established cocaine dealer among England's Mafia eliteseeks an early retirement, but his boss hands him an arduous task on the eve of his long-awaited retirement.</desc>
     <category lang="en">Movie
                (2004)</category>
+  </programme>
+  <programme start="20260125233000 +0800" stop="20260126010000 +0800" channel="mbc 2">
+    <title lang="en">Line of Duty</title>
+    <desc lang="en">After accidentally killing a child abductor, the disgracedcop Frank Penny enters a race against time to find the daughter of the police chief before it's too late.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
