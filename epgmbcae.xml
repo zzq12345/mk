@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260122160000 +0800" stop="20260122180000 +0800" channel="mbc max">
-    <title lang="en">The Fighter</title>
-    <desc lang="en">The life story of Mickey Ward, and his relationship with hisbrother Dicky, who is more famous than him in the boxing ring, as well as his exposure to a world of poverty, crime and drugs.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
-  <programme start="20260122180000 +0800" stop="20260122200000 +0800" channel="mbc max">
-    <title lang="en">Mr. Jones</title>
-    <desc lang="en">Gareth Jones is a Welsh journalist who just happens to be inthe Soviet Union during the time of the man-made Holodomor famine that ended the life of millions of people, as he grows determined to uncover the truth behind the famine, even if he loses his life for it.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260122200000 +0800" stop="20260122220000 +0800" channel="mbc max">
-    <title lang="en">Sicario</title>
-    <desc lang="en">In the border stretching between Mexico and the U.S.A., anarea that has been always out of the reach of the law, an idealistic FBI agent is assigned to aid in the escalating war against the cartel.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260122220000 +0800" stop="20260122233000 +0800" channel="mbc max">
     <title lang="en">Safe</title>
     <desc lang="en">Luke finds himself responsible for the safety of 12-year-oldMei, who is pursued by the Chinese Triads and a group of Russians, for possessing priceless top-secret information in the form of numerical codes. While on the run, Luke decides that he will protect the little Mei at any cost.</desc>
@@ -180,11 +162,23 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260122170000 +0800" stop="20260122190000 +0800" channel="mbc 2">
-    <title lang="en">Hot Fuzz</title>
-    <desc lang="en">In order to avoid unwanted comparisons with their own trackrecords, the supervisors of skilled London officer Nicholas Angel banish him to the quiet small town of Sandford. But the small town soon becomes the location of some suspicious incidents that Angel is determined to get to the bottom of.</desc>
+  <programme start="20260125033000 +0800" stop="20260125053000 +0800" channel="mbc max">
+    <title lang="en">The American</title>
+    <desc lang="en">After he survives an assassination attempt in Sweden, thecontract killer Jack flees to Rome where he is hired to build a custom sniper rifle for a client, as he vows that this will be his last job.</desc>
     <category lang="en">Movie
-               (2007)</category>
+               (2010)</category>
+  </programme>
+  <programme start="20260125053000 +0800" stop="20260125073000 +0800" channel="mbc max">
+    <title lang="en">Vengeance: A Love Story</title>
+    <desc lang="en">After a woman was physically assaulted by a group of peopleafter attending a party and getting away with it, John Dromoor, a gulf war veteran who now works as a local police officer decides to take matters into his own hands and bring the woman justice.</desc>
+    <category lang="en">Movie
+               (2017)</category>
+  </programme>
+  <programme start="20260125073000 +0800" stop="20260125100000 +0800" channel="mbc max">
+    <title lang="en">The Mask of Zorro</title>
+    <desc lang="en">Don Diego fights the Spaniards, but he pays dearly when hiswife is murdered and his baby daughter Elena is kidnapped by the corrupt governor Rafael Montero. When Rafael returns to California, Diego decides to take revenge and trains the young Alejandro in martial arts to be his successor.</desc>
+    <category lang="en">Movie
+               (1998)</category>
   </programme>
   <programme start="20260122210500 +0800" stop="20260122230500 +0800" channel="mbc 2">
     <title lang="en">Jane Eyre</title>
@@ -347,5 +341,17 @@
     <desc lang="en">An established cocaine dealer among England's Mafia eliteseeks an early retirement, but his boss hands him an arduous task on the eve of his long-awaited retirement.</desc>
     <category lang="en">Movie
                (2004)</category>
+  </programme>
+  <programme start="20260125050000 +0800" stop="20260125063000 +0800" channel="mbc 2">
+    <title lang="en">Teen Spirit</title>
+    <desc lang="en">Violet is an introverted teenager who lives in a small townand dreams of becoming a star. With the help of an unlikely mentor, she enters a local singing competition that will test her own abilities.</desc>
+    <category lang="en">Movie
+               (2018)</category>
+  </programme>
+  <programme start="20260125063000 +0800" stop="20260125090000 +0800" channel="mbc 2">
+    <title lang="en">Motherless Brooklyn</title>
+    <desc lang="en">Set in the 1950s, a private detective with Tourette'ssyndrome, Lionel Essrog, loses his only friend and mentor Frank Minna. Lionel then ventures into the slums of Brooklyn and Harlem to uncover the truth about his friend's death.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
