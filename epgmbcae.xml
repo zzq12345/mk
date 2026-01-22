@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260122010000 +0800" stop="20260122033000 +0800" channel="mbc max">
-    <title lang="en">The Walk</title>
-    <desc lang="en">The true story of how a French street performer undertookthe daunting task of walking a tightrope between the Twin Towers of the World Trade Center, all with the aid of a misfit group that he put together</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260122033000 +0800" stop="20260122060000 +0800" channel="mbc max">
     <title lang="en">The Blind Side</title>
     <desc lang="en">Based on a true story, the film tells the story of thefootballer Michael Oher, who was taken in as a teenager by a white family whose matriarch helped him overcome his academic struggles and bolstered his athletic talent until he was drafted by the NFL.</desc>
@@ -347,5 +341,11 @@
     <desc lang="en">Retired CIA agent Frank (Bruce Willis)  reunites his team.They're trying to track down a missing portable nuclear device. The team have to overcome an army of professional killers: terrorists, corrupt government officials, who are also after the weapon.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260124130000 +0800" stop="20260124150000 +0800" channel="mbc 2">
+    <title lang="en">The Nice Guys</title>
+    <desc lang="en">In 1970s Los Angeles, private investigator Holland March(Ryan Gosling) is forced to work with another private eye  Jackson Healey (Russell Crowe) to investigate the mysterious death of a porn star and a missing girl.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
