@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260122220000 +0800" stop="20260122233000 +0800" channel="mbc max">
-    <title lang="en">Safe</title>
-    <desc lang="en">Luke finds himself responsible for the safety of 12-year-oldMei, who is pursued by the Chinese Triads and a group of Russians, for possessing priceless top-secret information in the form of numerical codes. While on the run, Luke decides that he will protect the little Mei at any cost.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
   <programme start="20260122233000 +0800" stop="20260123010000 +0800" channel="mbc max">
     <title lang="en">Peppermint</title>
     <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
@@ -180,12 +174,6 @@
     <category lang="en">Movie
                (1998)</category>
   </programme>
-  <programme start="20260122210500 +0800" stop="20260122230500 +0800" channel="mbc 2">
-    <title lang="en">Jane Eyre</title>
-    <desc lang="en">As the governess Jayne Eyre falls for her employer EdwardRochester, her happiness proves short-lived as Edward's long-buried secret threatens to tear them apart.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260122230500 +0800" stop="20260123010000 +0800" channel="mbc 2">
     <title lang="en">Winter's Tale</title>
     <desc lang="en">In 1916  an orphaned young man named Peter (Colin Farrell)tries to steal a mansion thinking that no one is inside. But he discovers the presence of Beverly (Jessica Brown Findlay) and they fall in love.  They have to face difficult challenges to save their love.</desc>
@@ -353,5 +341,11 @@
     <desc lang="en">Set in the 1950s, a private detective with Tourette'ssyndrome, Lionel Essrog, loses his only friend and mentor Frank Minna. Lionel then ventures into the slums of Brooklyn and Harlem to uncover the truth about his friend's death.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260125090000 +0800" stop="20260125110000 +0800" channel="mbc 2">
+    <title lang="en">The Other Guys</title>
+    <desc lang="en">Two new York detectives, through a once-in-a-lifetimeopportunity, gain a reputation for being among the best city-wide, but things are not exactly as they were thinking, especially when they investigate David Ershon.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
 </tv>
