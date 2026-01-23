@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260123200000 +0800" stop="20260123220000 +0800" channel="mbc max">
-    <title lang="en">Sicario: Day of the Soldado</title>
-    <desc lang="en">In this sequel to the 2015 film Sicario, the drug war on theUS-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260123220000 +0800" stop="20260123233000 +0800" channel="mbc max">
     <title lang="en">The Peanut Butter Falcon</title>
     <desc lang="en">Striving to be a wrestler, Zak, a man with Down Syndrome,escape his care facility to chase his dreams. Fate leads him to Tyler, an outlaw who ends up befriending him and becoming his coach.</desc>
@@ -174,11 +168,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260123193000 +0800" stop="20260123210000 +0800" channel="mbc 2">
-    <title lang="en">Despicable Me 3</title>
-    <desc lang="en">In this new movie, Gru enters a new confrontation withBalthazar Bratt, a child star from the 1980s. During this confrontation, Gru coincidentally meets Dru, his long-lost twin brother, and together, they plan to steal the largest diamond in the world from Bratt.</desc>
-    <category lang="en">Movie - Cartoon
-               (2017)</category>
+  <programme start="20260126070000 +0800" stop="20260126090000 +0800" channel="mbc max">
+    <title lang="en">The Black Dahlia</title>
+    <desc lang="en">Set in the 1940s, LAPD Detectives Bucky and Lee find theirlives torn apart as they investigate the gruesome murder of the aspirant actress Elizabeth Short, which leads them to a path of corruption and lies.</desc>
+    <category lang="en">Movie
+               (2006)</category>
   </programme>
   <programme start="20260123210000 +0800" stop="20260123233000 +0800" channel="mbc 2">
     <title lang="en">Hot Fuzz</title>
@@ -347,5 +341,11 @@
     <desc lang="en">Retired CIA agent Frank (Bruce Willis)  reunites his team.They're trying to track down a missing portable nuclear device. The team have to overcome an army of professional killers: terrorists, corrupt government officials, who are also after the weapon.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260126080000 +0800" stop="20260126103000 +0800" channel="mbc 2">
+    <title lang="en">Now You See Me 2</title>
+    <desc lang="en">In the world of magic and optical illusions, the FourHorsemen face a tech genius who tries to exploit them, and they must clear their names before society and reveal the truth through one last stunt.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
