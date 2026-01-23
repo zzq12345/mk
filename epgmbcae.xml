@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260123040000 +0800" stop="20260123060000 +0800" channel="mbc max">
-    <title lang="en">The Addams Family</title>
-    <desc lang="en">The Addams family finds their home in danger when a realityTV star labels their eerie mansion as a threat to the picture-perfect community she is trying to build. As she employs every mean to get rid of them, the Addams family must fight to save their home.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260123060000 +0800" stop="20260123080000 +0800" channel="mbc max">
     <title lang="en">The House with a Clock in its Walls</title>
     <desc lang="en">Lewis Barnavelt is sent to Michigan after losing his parentsto live with his uncle Jonathan. He discovers his uncle is a wizard and enters a world of magic and sorcery.</desc>
@@ -174,11 +168,11 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260123043000 +0800" stop="20260123063000 +0800" channel="mbc 2">
-    <title lang="en">The Girl in the Spider's Web</title>
-    <desc lang="en">Young computer hacker (Lisbeth Salander) and journalist(Mikael Blomkvist) find themselves trapped in a web of spies, cybercriminals and corrupt government officials.</desc>
+  <programme start="20260125160000 +0800" stop="20260125180000 +0800" channel="mbc max">
+    <title lang="en">Leatherface</title>
+    <desc lang="en">The backstory of how the infamous killer known asLeatherface made his name. As a teen, his violent tendencies landed him in a mental institution that he then escaped with three other inmates, embarking on a bloody trek across the US while being hunted by a vengeful sherrif.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2017)</category>
   </programme>
   <programme start="20260123063000 +0800" stop="20260123090000 +0800" channel="mbc 2">
     <title lang="en">Blackhat</title>
@@ -335,5 +329,11 @@
     <desc lang="en">The real story of how the Spotlight team of the Boston Globeuncovered a massive scandal about the systemic coverup the Catholic Church conducted to bury the truth about Catholic priests sexually abusing children in the Boston area.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260125160000 +0800" stop="20260125180000 +0800" channel="mbc 2">
+    <title lang="en">Wasp Network</title>
+    <desc lang="en">Five Cuban spies face life sentences by the Americangovernment on the charges of murder and espionage in the late 1990s.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
