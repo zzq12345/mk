@@ -1854,10 +1854,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260123060000 +0800" stop="20260123080000 +0800" channel="mbc max">
-    <title lang="en">The House with a Clock in its Walls</title>
-    <desc lang="en">Lewis Barnavelt is sent to Michigan after losing his parentsto live with his uncle Jonathan. He discovers his uncle is a wizard and enters a world of magic and sorcery.</desc>
-  </programme>
   <programme start="20260123080000 +0800" stop="20260123100000 +0800" channel="mbc max">
     <title lang="en">Basic</title>
     <desc lang="en">Commander Col. Bill calls his old friend, ex-Ranger Hardy,to investigate the disappearance of a Sgt. and several of his cadets during a training exercise. At first, Capt. Julia Osborne disapproves of Hardy, until she decides to work with him to uncover the mystery.</desc>
@@ -2073,10 +2069,6 @@
   <programme start="20260125160000 +0800" stop="20260125180000 +0800" channel="mbc 2">
     <title lang="en">Wasp Network</title>
     <desc lang="en">Five Cuban spies face life sentences by the Americangovernment on the charges of murder and espionage in the late 1990s.</desc>
-  </programme>
-  <programme start="20260123063000 +0800" stop="20260123084500 +0800" channel="mbc action">
-    <title lang="en">برنامج joy form 2025</title>
-    <desc lang=""/>
   </programme>
   <programme start="20260123084500 +0800" stop="20260123090000 +0800" channel="mbc action">
     <title lang="en">برنامج bricks&amp;brain</title>
@@ -3234,70 +3226,6 @@
     <title lang="zh">创时代</title>
     <desc lang="zh">创时代</desc>
   </programme>
-  <programme start="20260122003000 +0400" stop="20260122023000 +0400" channel="Dubai One">
-    <title lang="en">The Proposal</title>
-    <desc lang="en">Here comes the bribe...</desc>
-  </programme>
-  <programme start="20260122023000 +0400" stop="20260122030000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260122030000 +0400" stop="20260122040000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260122040000 +0400" stop="20260122060000 +0400" channel="Dubai One">
-    <title lang="en">Love Sarah</title>
-    <desc lang="en">All good things come to those who bake.</desc>
-  </programme>
-  <programme start="20260122060000 +0400" stop="20260122100000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye On Dubai One</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260122100000 +0400" stop="20260122110000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260122110000 +0400" stop="20260122130000 +0400" channel="Dubai One">
-    <title lang="en">Minamata</title>
-    <desc lang="en">Let Truth Be The Prejudice</desc>
-  </programme>
-  <programme start="20260122130000 +0400" stop="20260122150000 +0400" channel="Dubai One">
-    <title lang="en">Love Sarah</title>
-    <desc lang="en">All good things come to those who bake.</desc>
-  </programme>
-  <programme start="20260122150000 +0400" stop="20260122160000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260122160000 +0400" stop="20260122170000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260122170000 +0400" stop="20260122190000 +0400" channel="Dubai One">
-    <title lang="en">The Proposal</title>
-    <desc lang="en">Here comes the bribe...</desc>
-  </programme>
-  <programme start="20260122190000 +0400" stop="20260122200000 +0400" channel="Dubai One">
-    <title lang="en">Maxima</title>
-    <desc lang="en">Máxima Zorreguieta steps into the spotlight beside the Dutch crown prince.</desc>
-  </programme>
-  <programme start="20260122200000 +0400" stop="20260122203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260122203000 +0400" stop="20260122213000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260122213000 +0400" stop="20260122223000 +0400" channel="Dubai One">
-    <title lang="en">Las hijas de la Señora García</title>
-    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
-  </programme>
-  <programme start="20260122223000 +0400" stop="20260123003000 +0400" channel="Dubai One">
-    <title lang="en">Paddington</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260123003000 +0400" stop="20260123023000 +0400" channel="Dubai One">
     <title lang="en">Planet of the Apes</title>
     <desc lang="en">In remaking this classic sci-fi horror film, director Tim Burton takes on a whopping challenge and succeeds.</desc>
@@ -3493,6 +3421,78 @@
   <programme start="20260125220000 +0400" stop="20260126000000 +0400" channel="Dubai One">
     <title lang="en">No Man of God</title>
     <desc lang="en">Ted Bundy discloses the details of his crimes to only one man.</desc>
+  </programme>
+  <programme start="20260126000000 +0400" stop="20260126020000 +0400" channel="Dubai One">
+    <title lang="en">Pretty Woman</title>
+    <desc lang="en">While driving back to his Beverly Hills hotel, millionaire corporate raider Edward Lewis...</desc>
+  </programme>
+  <programme start="20260126020000 +0400" stop="20260126023000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
+  </programme>
+  <programme start="20260126023000 +0400" stop="20260126030000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260126030000 +0400" stop="20260126040000 +0400" channel="Dubai One">
+    <title lang="en">Maxima</title>
+    <desc lang="en">Máxima Zorreguieta steps into the spotlight beside the Dutch crown prince.</desc>
+  </programme>
+  <programme start="20260126040000 +0400" stop="20260126060000 +0400" channel="Dubai One">
+    <title lang="en">No Man of God</title>
+    <desc lang="en">Ted Bundy discloses the details of his crimes to only one man.</desc>
+  </programme>
+  <programme start="20260126060000 +0400" stop="20260126100000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye On Dubai One</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260126100000 +0400" stop="20260126110000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260126110000 +0400" stop="20260126130000 +0400" channel="Dubai One">
+    <title lang="en">The Third Murder</title>
+    <desc lang="en">A courtroom drama centered around the murder of a factory president.</desc>
+  </programme>
+  <programme start="20260126130000 +0400" stop="20260126150000 +0400" channel="Dubai One">
+    <title lang="en">No Man of God</title>
+    <desc lang="en">Ted Bundy discloses the details of his crimes to only one man.</desc>
+  </programme>
+  <programme start="20260126150000 +0400" stop="20260126160000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260126160000 +0400" stop="20260126170000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260126170000 +0400" stop="20260126190000 +0400" channel="Dubai One">
+    <title lang="en">Pretty Woman</title>
+    <desc lang="en">While driving back to his Beverly Hills hotel, millionaire corporate raider Edward Lewis...</desc>
+  </programme>
+  <programme start="20260126190000 +0400" stop="20260126193000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260126193000 +0400" stop="20260126200000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260126200000 +0400" stop="20260126203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260126203000 +0400" stop="20260126213000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260126213000 +0400" stop="20260126223000 +0400" channel="Dubai One">
+    <title lang="en">Las hijas de la Señora García</title>
+    <desc lang="en">Mrs. Garcia strives to achieve her dream at cost of her daughters' happiness.</desc>
+  </programme>
+  <programme start="20260126223000 +0400" stop="20260127000000 +0400" channel="Dubai One">
+    <title lang="en">Land of Mine</title>
+    <desc lang="en">They survived World War II. Now they have to survive the clearing.</desc>
   </programme>
   <programme start="20260109000000 +0800" stop="20260109003000 +0800" channel="HOY 国际财经台">
     <title lang="zh">小空间大活用 3</title>
@@ -20255,11 +20255,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260122033200 +0800" stop="20260122033200 +0800" channel="spot on news">
-    <title lang="zh">Excessive tailgating: Pickup truck crashes into bus</title>
+    <title lang="zh">Woman pulls out machete in taxi - because of music request</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260122033200 +0800" stop="20260122033200 +0800" channel="spot on news">
-    <title lang="zh">Woman pulls out machete in taxi - because of music request</title>
+    <title lang="zh">Excessive tailgating: Pickup truck crashes into bus</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260122033200 +0800" stop="20260122033300 +0800" channel="spot on news">
@@ -26159,11 +26159,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260123013500 +0800" stop="20260123013500 +0800" channel="spot on news">
-    <title lang="zh">Construction crane collapses onto highway: Two people killed</title>
+    <title lang="zh">Inferno: Burning bus rolls down the highway</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260123013500 +0800" stop="20260123013500 +0800" channel="spot on news">
-    <title lang="zh">Inferno: Burning bus rolls down the highway</title>
+    <title lang="zh">Construction crane collapses onto highway: Two people killed</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260123013500 +0800" stop="20260123013600 +0800" channel="spot on news">
@@ -31891,11 +31891,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260123230700 +0800" stop="20260123230700 +0800" channel="spot on news">
-    <title lang="zh">Two planes collide on the runway at Manchester</title>
+    <title lang="zh">Thin ice: Cars break through frozen lake</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260123230700 +0800" stop="20260123230700 +0800" channel="spot on news">
-    <title lang="zh">Thin ice: Cars break through frozen lake</title>
+    <title lang="zh">Two planes collide on the runway at Manchester</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260123230700 +0800" stop="20260123230800 +0800" channel="spot on news">
@@ -70158,10 +70158,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="中视">
-    <title lang="zh">旧金山美容院</title>
-    <desc lang="zh">三个家庭牵扯出的商战、家庭和情感纠葛的故事。</desc>
-  </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="中视">
     <title lang="zh">唱歌给你听</title>
     <desc lang="zh">新生代脱颖而出的全新主持阵容─全能歌手许志豪、疗愈男声李子森、甜美歌姬杜忻恬携手搭档， 广邀台语歌坛中实力唱将，共同打造动人的音乐飨宴。</desc>
@@ -70341,10 +70337,6 @@
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="华视">
-    <title lang="zh">九如一家人</title>
-    <desc lang="zh">杨九如（黄镫辉）担心更生人身份招来异样眼光，隐瞒此事跟玉薰（李杏）结婚。但两人个性不合，婚姻濒临破裂，关键时刻因参加岁末祝福挽救了两人婚姻。九如也在玉薰鼓舞下勇敢地以更生人身份站出来，成立萤火虫家族，帮助更生人回家。</desc>
   </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="华视">
     <title lang="zh">上山吧！台湾队</title>
@@ -70553,10 +70545,6 @@
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="华视">
     <title lang="zh">三国演议</title>
     <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="好消息2台">
-    <title lang="zh">道在人间(国)</title>
-    <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
   <programme start="20260123140000 +0000" stop="20260123143000 +0000" channel="好消息2台">
     <title lang="zh">生命的赢家</title>
@@ -71421,10 +71409,6 @@
   <programme start="20260128073000 +0000" stop="20260128080000 +0000" channel="好消息2台">
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260123130500 +0000" stop="20260123140000 +0000" channel="好消息">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
   </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="好消息">
     <title lang="zh">道在人间(国)</title>
@@ -72294,10 +72278,6 @@
     <title lang="zh">道在人间(国)</title>
     <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="亚洲旅游台">
-    <title lang="zh">暴走兄弟朝圣趣</title>
-    <desc lang="zh">透过主持人卢广仲、李玉玺、美丽本人三兄弟挑战世界唯二被联合国列为世界文化遗产的参拜道：西班牙圣雅各之路与日本熊野古道的冒险实境节目，究竟其中有什么魔力吸引著一波又一波不论国界不分年龄的朝圣者，涌入这条古老的朝圣之路？</desc>
-  </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="亚洲旅游台">
     <title lang="zh">效廉出发吧</title>
     <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
@@ -72753,10 +72733,6 @@
   <programme start="20260128070000 +0000" stop="20260128080000 +0000" channel="亚洲旅游台">
     <title lang="zh">暴走兄弟朝圣趣</title>
     <desc lang="zh">透过主持人卢广仲、李玉玺、美丽本人三兄弟挑战世界唯二被联合国列为世界文化遗产的参拜道：西班牙圣雅各之路与日本熊野古道的冒险实境节目，究竟其中有什么魔力吸引著一波又一波不论国界不分年龄的朝圣者，涌入这条古老的朝圣之路？</desc>
-  </programme>
-  <programme start="20260123132000 +0000" stop="20260123140000 +0000" channel="东森购物1台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123140000 +0000" stop="20260123144000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -73440,10 +73416,6 @@
   </programme>
   <programme start="20260128072000 +0000" stop="20260128080000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260123132000 +0000" stop="20260123140000 +0000" channel="东森购物2台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123140000 +0000" stop="20260123144000 +0000" channel="东森购物2台">
@@ -74130,10 +74102,6 @@
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="华视新闻">
-    <title lang="zh">World News 9</title>
-    <desc lang="zh">华视新闻制作，带给观众最公正客观的新闻视野，由优质主播与新闻团队联手打造，每日提供最新最即时的各种国际新闻。</desc>
-  </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="华视新闻">
     <title lang="zh">52政经点</title>
     <desc lang="zh">由庄惠琪主播，每周一至五晚间十点，不论政治、财经或国际时事，带你干净聆听世界，看进新闻最深处，读懂世界变化。幕后由华视新闻团队的资深记者群以数据、学者解析与多元观点，理性客观分析政治经济时事，给您一个小时满满含金量！</desc>
@@ -74638,10 +74606,6 @@
     <title lang="zh">360大世界</title>
     <desc lang="zh">带你360度看世界，介绍世界各地奇闻轶事，每个故事都令人啧啧称奇！</desc>
   </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="寰宇财经台">
-    <title lang="zh">兆华艾纶说</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="寰宇财经台">
     <title lang="zh">关键时刻</title>
     <desc lang="zh">行政院劳工委员会劳工安全卫生研究所制作的3D立体动画「关键时刻」，于第十八届世界职业安全卫生大会荣获国际安全卫生影片首奖，大会并以「非常创新的手法」盛赞得奖单位-行政院劳委会劳工安全卫生研究所，对于职场安全卫生教育宣导所做出的贡献。</desc>
@@ -74874,10 +74838,6 @@
     <title lang="zh">铜板美食呷透透</title>
     <desc lang="zh">东森新闻制播的美食特辑，记者深入台湾各地，寻找令人回味无穷的美食记忆，介绍各种好吃又便宜的店家。</desc>
   </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻即时现场</title>
     <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
@@ -75105,10 +75065,6 @@
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260123130000 +0000" stop="20260123140000 +0000" channel="中天新闻台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">中天新闻为服务广大观众，提供多元论述平台，发挥媒体第四权的社会责任，于十月五日起，周一至周五晚间八点同一时段，接档推出《头条开讲》谈话节目，由主播周玉琴及政治中心主任林嘉源共同主持，敬请支持中天的观众朋友准时锁定！</desc>
   </programme>
   <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="中天新闻台">
     <title lang="zh">中天SUPER夜线</title>
@@ -75566,10 +75522,6 @@
     <title lang="zh">15大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播陪你一起来解卦！！！</desc>
   </programme>
-  <programme start="20260123125500 +0000" stop="20260123135500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦点新闻</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260123135500 +0000" stop="20260123145500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦点新闻</title>
     <desc lang="zh">暂无描述</desc>
@@ -75825,10 +75777,6 @@
   <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260123125500 +0000" stop="20260123135500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇世界通</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123135500 +0000" stop="20260123145500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇世界通</title>
@@ -76089,10 +76037,6 @@
   <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="寰宇新闻台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260123133000 +0000" stop="20260123140000 +0000" channel="第1商业台">
-    <title lang="zh">股市吴限钻-宝得富-吴晓松分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123140000 +0000" stop="20260123143000 +0000" channel="第1商业台">
     <title lang="zh">启发投顾精选</title>
@@ -203930,11 +203874,11 @@
     <title lang="zh">(L) The American Express 2026 Day 1</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260123080500 +0800" stop="20260123110000 +0800" channel="Astro_Golf">
+  <programme start="20260123080500 +0800" stop="20260123110500 +0800" channel="Astro_Golf">
     <title lang="zh">(L) Mitsubishi Electric Championship Day 1</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260123110000 +0800" stop="20260123120000 +0800" channel="Astro_Golf">
+  <programme start="20260123110500 +0800" stop="20260123120000 +0800" channel="Astro_Golf">
     <title lang="zh">Unfiltered: Genesis Scottish Open</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -203942,12 +203886,8 @@
     <title lang="zh">(L) Hero Dubai Desert Classic FG Day 2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260123153000 +0800" stop="20260123213000 +0800" channel="Astro_Golf">
+  <programme start="20260123153000 +0800" stop="20260123220000 +0800" channel="Astro_Golf">
     <title lang="zh">(L) Hero Dubai Desert Classic Day 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123213000 +0800" stop="20260123220000 +0800" channel="Astro_Golf">
-    <title lang="zh">Dubai Invitational 2026 Hls</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260124003000 +0800" stop="20260124010000 +0800" channel="Astro_Golf">
