@@ -1854,10 +1854,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260123013000 +0800" stop="20260123040000 +0800" channel="mbc max">
-    <title lang="en">Hugo</title>
-    <desc lang="en">In 1930's Paris, orphaned Hugo lives in a crowded trainstation. He enters a new adventure with Isabelle, in an attempt to solve the mystery his father has left behind regarding an automaton.</desc>
-  </programme>
   <programme start="20260123040000 +0800" stop="20260123060000 +0800" channel="mbc max">
     <title lang="en">The Addams Family</title>
     <desc lang="en">The Addams family finds their home in danger when a realityTV star labels their eerie mansion as a threat to the picture-perfect community she is trying to build. As she employs every mean to get rid of them, the Addams family must fight to save their home.</desc>
@@ -1966,9 +1962,9 @@
     <title lang="en">London Fields</title>
     <desc lang="en">Nicola, a seductive psychic, has been living with a constanthunch of getting murdered. She begins a love affair with three different men: one of whom will be her murderer.</desc>
   </programme>
-  <programme start="20260123030000 +0800" stop="20260123043000 +0800" channel="mbc 2">
-    <title lang="en">Laggies</title>
-    <desc lang="en">Feeling overwhelmed by the pressures of being an adult,Megan decides to take a break and hides at the house of a new teenager friend and her single father.</desc>
+  <programme start="20260125140000 +0800" stop="20260125160000 +0800" channel="mbc max">
+    <title lang="en">The Boy</title>
+    <desc lang="en">When a couple hires a young nanny to care for their8-year-old son, she is shocked to discover that her charge is, in fact, a life-sized doll whose care involves a strict list of rules. After ignoring the rules for her own routine, inexplicable events convince her that the doll is actually alive.</desc>
   </programme>
   <programme start="20260123043000 +0800" stop="20260123063000 +0800" channel="mbc 2">
     <title lang="en">The Girl in the Spider's Web</title>
@@ -2073,6 +2069,10 @@
   <programme start="20260125103000 +0800" stop="20260125133000 +0800" channel="mbc 2">
     <title lang="en">Molly's Game</title>
     <desc lang="en">After an injury ends her career, world-class skier MollyBloom starts running an exclusive underground poker empire, but she soon lands herself in trouble after the FBI exposes her operation.</desc>
+  </programme>
+  <programme start="20260125133000 +0800" stop="20260125160000 +0800" channel="mbc 2">
+    <title lang="en">Spotlight</title>
+    <desc lang="en">The real story of how the Spotlight team of the Boston Globeuncovered a massive scandal about the systemic coverup the Catholic Church conducted to bury the truth about Catholic priests sexually abusing children in the Boston area.</desc>
   </programme>
   <programme start="20260123033500 +0800" stop="20260123060000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -13934,11 +13934,75 @@
     <title lang="zh">AFC Champions League Two 2025/26 Knockout Stage Draw</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260125060000 +0800" stop="20260125235959 +0800" channel="HOY體育台">
-    <title lang="zh">節目未能提供</title>
+  <programme start="20260125060000 +0800" stop="20260125080000 +0800" channel="HOY體育台">
+    <title lang="zh">阿聯酋職業足球聯賽 - 杜拜艾阿里 對 迪巴</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126000000 +0800" stop="20260126235959 +0800" channel="HOY體育台">
+  <programme start="20260125080000 +0800" stop="20260125083000 +0800" channel="HOY體育台">
+    <title lang="zh">第45屆黃金海岸馬拉松精華 第1集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125083000 +0800" stop="20260125085500 +0800" channel="HOY體育台">
+    <title lang="zh">AFC Champions League Two 2025/26 Knockout Stage Draw</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125085500 +0800" stop="20260125110000 +0800" channel="HOY體育台">
+    <title lang="zh">阿根廷甲組足球聯賽 - 羅沙里奧中央 對 貝格拉諾 (直播)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125110000 +0800" stop="20260125130500 +0800" channel="HOY體育台">
+    <title lang="zh">澳洲女子職業足球聯賽 - 威靈頓鳳凰 對 阿德萊德聯 (直播)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125130500 +0800" stop="20260125133000 +0800" channel="HOY體育台">
+    <title lang="zh">第45屆黃金海岸馬拉松精華 第2集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125133000 +0800" stop="20260125135500 +0800" channel="HOY體育台">
+    <title lang="zh">大眾參與 2025 第5集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125135500 +0800" stop="20260125160000 +0800" channel="HOY體育台">
+    <title lang="zh">澳洲女子職業足球聯賽 - 墨爾本勝利 對 FC悉尼 (直播)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125160000 +0800" stop="20260125163000 +0800" channel="HOY體育台">
+    <title lang="zh">AFC Champions League Two 2025/26 Knockout Stage Draw</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125163000 +0800" stop="20260125173000 +0800" channel="HOY體育台">
+    <title lang="zh">大眾參與 2025 第6集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125173000 +0800" stop="20260125180000 +0800" channel="HOY體育台">
+    <title lang="zh">2025年個人賽車賽事 第1集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125180000 +0800" stop="20260125200000 +0800" channel="HOY體育台">
+    <title lang="zh">U23 亞洲盃足球賽 - 沙特阿拉伯 對 越南</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125200000 +0800" stop="20260125220000 +0800" channel="HOY體育台">
+    <title lang="zh">東亞超級籃球聯賽 - 香港東方 對首爾SK騎士</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260125220000 +0800" stop="20260126000000 +0800" channel="HOY體育台">
+    <title lang="zh">阿聯酋職業足球聯賽 - 杜拜艾阿里 對 迪巴</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126000000 +0800" stop="20260126020000 +0800" channel="HOY體育台">
+    <title lang="zh">澳洲女子職業足球聯賽 - 中岸水手 對 珀斯光輝</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126020000 +0800" stop="20260126040000 +0800" channel="HOY體育台">
+    <title lang="zh">U23 亞洲盃足球賽 - 沙特阿拉伯 對 越南</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126040000 +0800" stop="20260126060000 +0800" channel="HOY體育台">
+    <title lang="zh">東亞超級籃球聯賽 - 香港東方 對首爾SK騎士</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126060000 +0800" stop="20260126235959 +0800" channel="HOY體育台">
     <title lang="zh">節目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -16010,15 +16074,263 @@
     <title lang="zh">醜聞 第35集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126060400 +0800" stop="20260126235959 +0800" channel="HOY劇集台">
-    <title lang="zh">節目未能提供</title>
+  <programme start="20260126060400 +0800" stop="20260126070400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第18集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127000000 +0800" stop="20260127235959 +0800" channel="HOY劇集台">
-    <title lang="zh">節目未能提供</title>
+  <programme start="20260126070400 +0800" stop="20260126080400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第19集</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260128000000 +0800" stop="20260128235959 +0800" channel="HOY劇集台">
+  <programme start="20260126080400 +0800" stop="20260126083400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第19集-替工女老板上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126083400 +0800" stop="20260126090400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第20集-替工女老板下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126090400 +0800" stop="20260126100400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第36集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126100400 +0800" stop="20260126110400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第18集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126110400 +0800" stop="20260126120400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第19集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126120400 +0800" stop="20260126123400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第19集-替工女老板上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126123400 +0800" stop="20260126130400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第20集-替工女老板下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126130400 +0800" stop="20260126140400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第36集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126140400 +0800" stop="20260126150400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第18集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126150400 +0800" stop="20260126160400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第19集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126160400 +0800" stop="20260126163400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第19集-替工女老板上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126163400 +0800" stop="20260126170400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第20集-替工女老板下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126170400 +0800" stop="20260126180400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第36集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126180400 +0800" stop="20260126190400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第18集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126190400 +0800" stop="20260126200400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第19集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126200400 +0800" stop="20260126203400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第19集-替工女老板上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126203400 +0800" stop="20260126210400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第20集-替工女老板下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126210400 +0800" stop="20260126220400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第36集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126220400 +0800" stop="20260126230400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第18集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260126230400 +0800" stop="20260127000400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第19集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127000400 +0800" stop="20260127003400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第19集-替工女老板上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127003400 +0800" stop="20260127010400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第20集-替工女老板下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127010400 +0800" stop="20260127020400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第36集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127020400 +0800" stop="20260127030400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第18集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127030400 +0800" stop="20260127040400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第19集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127040400 +0800" stop="20260127043400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第19集-替工女老板上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127043400 +0800" stop="20260127050400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第20集-替工女老板下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127050400 +0800" stop="20260127060400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第36集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127060400 +0800" stop="20260127070400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第20集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127070400 +0800" stop="20260127080400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第21集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127080400 +0800" stop="20260127083400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第21集-裸归上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127083400 +0800" stop="20260127090400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第22集-裸归下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127090400 +0800" stop="20260127100400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第37集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127100400 +0800" stop="20260127110400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第20集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127110400 +0800" stop="20260127120400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第21集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127120400 +0800" stop="20260127123400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第21集-裸归上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127123400 +0800" stop="20260127130400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第22集-裸归下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127130400 +0800" stop="20260127140400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第37集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127140400 +0800" stop="20260127150400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第20集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127150400 +0800" stop="20260127160400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第21集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127160400 +0800" stop="20260127163400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第21集-裸归上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127163400 +0800" stop="20260127170400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第22集-裸归下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127170400 +0800" stop="20260127180400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第37集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127180400 +0800" stop="20260127190400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第20集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127190400 +0800" stop="20260127200400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第21集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127200400 +0800" stop="20260127203400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第21集-裸归上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127203400 +0800" stop="20260127210400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第22集-裸归下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127210400 +0800" stop="20260127220400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第37集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127220400 +0800" stop="20260127230400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第20集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127230400 +0800" stop="20260128000400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第21集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128000400 +0800" stop="20260128003400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第21集-裸归上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128003400 +0800" stop="20260128010400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第22集-裸归下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128010400 +0800" stop="20260128020400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第37集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128020400 +0800" stop="20260128030400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第20集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128030400 +0800" stop="20260128040400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第21集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128040400 +0800" stop="20260128043400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第21集-裸归上</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128043400 +0800" stop="20260128050400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第22集-裸归下</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128050400 +0800" stop="20260128060400 +0800" channel="HOY劇集台">
+    <title lang="zh">醜聞 第37集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128060400 +0800" stop="20260128070400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第22集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128070400 +0800" stop="20260128080400 +0800" channel="HOY劇集台">
+    <title lang="zh">會長的愛 第23集</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128080400 +0800" stop="20260128083400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第23集-鸡仔蛋</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128083400 +0800" stop="20260128090400 +0800" channel="HOY劇集台">
+    <title lang="zh">七十二家房客第24集-花钱有道</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260128090400 +0800" stop="20260128235959 +0800" channel="HOY劇集台">
     <title lang="zh">節目未能提供</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -21595,11 +21907,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260122115000 +0800" stop="20260122115000 +0800" channel="spot on news">
-    <title lang="zh">Jonathan Bailey: He is the "Sexiest Man Alive 2025"</title>
+    <title lang="zh">Crash car misses man by inches</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260122115000 +0800" stop="20260122115000 +0800" channel="spot on news">
-    <title lang="zh">Crash car misses man by inches</title>
+    <title lang="zh">Jonathan Bailey: He is the "Sexiest Man Alive 2025"</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260122115000 +0800" stop="20260122115100 +0800" channel="spot on news">
@@ -68218,14 +68530,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260123090000 +0000" stop="20260123092800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
-  <programme start="20260123092800 +0000" stop="20260123095800 +0000" channel="中視">
-    <title lang="zh">中視新聞</title>
-    <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-  </programme>
   <programme start="20260123095800 +0000" stop="20260123105800 +0000" channel="中視">
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
@@ -68645,10 +68949,6 @@
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞台北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20260123090000 +0000" stop="20260123100000 +0000" channel="好消息2台">
-    <title lang="zh">葉光明講座</title>
-    <desc lang="zh">由全球肯定的聖經教師與作家葉光明（Derek Prince）牧師，向世界宣揚上帝啟示的話語。五十多年來，葉牧師已經以50多種語言，向全球一百多個國家宣示上帝的旨意，牧養無數教友。</desc>
   </programme>
   <programme start="20260123100000 +0000" stop="20260123103000 +0000" channel="好消息2台">
     <title lang="zh">共享觀點</title>
@@ -69535,18 +69835,6 @@
     <desc lang="zh">基督徒必看節目，特邀國內外講員，為教友帶來精闢信息，傳達神的信息。</desc>
   </programme>
   <programme start="20260128073000 +0000" stop="20260128080000 +0000" channel="好消息2台">
-    <title lang="zh">福氣人生</title>
-    <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260123090000 +0000" stop="20260123093000 +0000" channel="好消息">
-    <title lang="zh">大家說英語</title>
-    <desc lang="zh">將最受歡迎的美語生活會話雜誌《大家說英語》內容製作成電視教學節目，教學輕鬆活潑，以生活實用會話為單元主題，是新聞局推薦的優質節目。不僅能幫助您輕鬆開口說英語，更提供許多實用的英語語彙與技巧，讓您用簡單的單字，就能說一口漂亮英語。</desc>
-  </programme>
-  <programme start="20260123093000 +0000" stop="20260123100000 +0000" channel="好消息">
-    <title lang="zh">超級妙妙書</title>
-    <desc lang="zh">全新3D新版本，透過生動活潑，略帶科幻未來風的方式來述說聖經故事，讓兒童對聖經感興趣，並從中了解上帝的愛以及如何與上帝建立關係，進而培養屬靈的品格，成為有影響力的人。</desc>
-  </programme>
-  <programme start="20260123100000 +0000" stop="20260123103000 +0000" channel="好消息">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
   </programme>
@@ -70450,10 +70738,6 @@
     <title lang="zh">道在人間(國)</title>
     <desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
   </programme>
-  <programme start="20260123090000 +0000" stop="20260123100000 +0000" channel="亞洲旅遊台">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20260123100000 +0000" stop="20260123110000 +0000" channel="亞洲旅遊台">
     <title lang="zh">唐綺陽逍遙遊</title>
     <desc lang="zh">華人最具影響力的占星師，唐綺陽專屬的旅遊節目。跟著獨特的唐氏風格，觀眾可以用不同的角度看世界，同時見證東西方占星大師的對話。</desc>
@@ -70925,10 +71209,6 @@
   <programme start="20260128070000 +0000" stop="20260128080000 +0000" channel="亞洲旅遊台">
     <title lang="zh">暴走兄弟朝聖趣</title>
     <desc lang="zh">透過主持人盧廣仲、李玉璽、美麗本人三兄弟挑戰世界唯二被聯合國列為世界文化遺產的參拜道：西班牙聖雅各之路與日本熊野古道的冒險實境節目，究竟其中有什麼魔力吸引著一波又一波不論國界不分年齡的朝聖者，湧入這條古老的朝聖之路？</desc>
-  </programme>
-  <programme start="20260123092000 +0000" stop="20260123100000 +0000" channel="東森購物1台">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123100000 +0000" stop="20260123104000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
@@ -71636,10 +71916,6 @@
   </programme>
   <programme start="20260128072000 +0000" stop="20260128080000 +0000" channel="東森購物1台">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260123092000 +0000" stop="20260123100000 +0000" channel="東森購物2台">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123100000 +0000" stop="20260123104000 +0000" channel="東森購物2台">
@@ -72590,10 +72866,6 @@
     <title lang="zh">華視2400夜間新聞</title>
     <desc lang="zh">由專業華視主播帶來最即時、最完整、最專業的新聞報導。</desc>
   </programme>
-  <programme start="20260123040000 +0000" stop="20260123100000 +0000" channel="倪珍播新聞">
-    <title lang="zh">午安新聞</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260123100000 +0000" stop="20260123160000 +0000" channel="倪珍播新聞">
     <title lang="zh">晚安新聞</title>
     <desc lang="zh">暂无描述</desc>
@@ -72653,10 +72925,6 @@
   <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="倪珍播新聞">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20260123090000 +0000" stop="20260123100000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">iNEWS1700整點新聞</title>
-    <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
   </programme>
   <programme start="20260123100000 +0000" stop="20260123115500 +0000" channel="三立新聞iNEWS">
     <title lang="zh">1819錢進大頭條</title>
@@ -72885,10 +73153,6 @@
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">360大世界</title>
     <desc lang="zh">帶你360度看世界，介紹世界各地奇聞軼事，每個故事都令人嘖嘖稱奇！</desc>
-  </programme>
-  <programme start="20260123090000 +0000" stop="20260123100000 +0000" channel="寰宇財經台">
-    <title lang="zh">巷弄美食家</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123100000 +0000" stop="20260123110000 +0000" channel="寰宇財經台">
     <title lang="zh">小食光台味誌</title>
@@ -73138,10 +73402,6 @@
     <title lang="zh">銅板美食呷透透</title>
     <desc lang="zh">東森新聞製播的美食特輯，記者深入台灣各地，尋找令人回味無窮的美食記憶，介紹各種好吃又便宜的店家。</desc>
   </programme>
-  <programme start="20260123090000 +0000" stop="20260123100000 +0000" channel="中視新聞">
-    <title lang="zh">新庶民大頭家</title>
-    <desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-  </programme>
   <programme start="20260123100000 +0000" stop="20260123105800 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
@@ -73385,10 +73645,6 @@
   <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260123090000 +0000" stop="20260123100000 +0000" channel="中天新聞台">
-    <title lang="zh">中天新聞 1700整點新聞</title>
-    <desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
   </programme>
   <programme start="20260123100000 +0000" stop="20260123110000 +0000" channel="中天新聞台">
     <title lang="zh">中天辣晚報</title>
@@ -73862,10 +74118,6 @@
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每周一到周五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260123085500 +0000" stop="20260123095500 +0000" channel="寰宇新聞台灣台">
-    <title lang="zh">寰宇晚間新聞</title>
-    <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-  </programme>
   <programme start="20260123095500 +0000" stop="20260123105500 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
@@ -74137,10 +74389,6 @@
   <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="寰宇新聞台灣台">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20260123085500 +0000" stop="20260123095500 +0000" channel="寰宇新聞台">
-    <title lang="zh">寰宇全球新聞</title>
-    <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
   </programme>
   <programme start="20260123095500 +0000" stop="20260123105500 +0000" channel="寰宇新聞台">
     <title lang="zh">寰宇全球新聞</title>
@@ -74417,14 +74665,6 @@
   <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="寰宇新聞台">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20260123093000 +0000" stop="20260123100000 +0000" channel="第1商業台">
-    <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260123100000 +0000" stop="20260123103000 +0000" channel="第1商業台">
-    <title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123103000 +0000" stop="20260123110000 +0000" channel="第1商業台">
     <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
@@ -75286,10 +75526,6 @@
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260123010000 +0000" stop="20260123100000 +0000" channel="國會頻道1台">
-    <title lang="zh">立法院會議直播</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260123100000 +0000" stop="20260123160000 +0000" channel="國會頻道1台">
     <title lang="zh">當日立法院會議轉播</title>
     <desc lang="zh">暂无描述</desc>
@@ -75425,10 +75661,6 @@
   <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="國會頻道1台">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公布。</desc>
-  </programme>
-  <programme start="20260123010000 +0000" stop="20260123100000 +0000" channel="國會頻道2台">
-    <title lang="zh">立法院會議直播</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260123100000 +0000" stop="20260123160000 +0000" channel="國會頻道2台">
     <title lang="zh">當日立法院會議轉播</title>
@@ -176062,11 +176294,11 @@
     <title lang="zh">Bad Cop Ep05</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124180000 +0800" stop="20260124190000 +0800" channel="Astro_Citra">
+  <programme start="20260124180000 +0800" stop="20260124185600 +0800" channel="Astro_Citra">
     <title lang="zh">Puteri Kelas Atas Ep01</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124190000 +0800" stop="20260124210000 +0800" channel="Astro_Citra">
+  <programme start="20260124185600 +0800" stop="20260124210000 +0800" channel="Astro_Citra">
     <title lang="zh">Saudagar Minyak Urat</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -179935,7 +180167,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260124073000 +0800" stop="20260124093000 +0800" channel="KTV">
-    <title lang="zh">Morning Show</title>
+    <title lang="zh">Ninaithaley</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260124093000 +0800" stop="20260124103000 +0800" channel="KTV">
@@ -179943,19 +180175,19 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260124103000 +0800" stop="20260124133000 +0800" channel="KTV">
-    <title lang="zh">Morning Show</title>
+    <title lang="zh">Thambi (2006)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260124133000 +0800" stop="20260124163000 +0800" channel="KTV">
-    <title lang="zh">Special Show</title>
+    <title lang="zh">Pistha</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260124163000 +0800" stop="20260124193000 +0800" channel="KTV">
-    <title lang="zh">Matinee Show</title>
+    <title lang="zh">Ponmana Selvan</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260124193000 +0800" stop="20260124223000 +0800" channel="KTV">
-    <title lang="zh">Evening Show</title>
+    <title lang="zh">Aayudham Seiyvom</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260123003000 +0800" stop="20260123013000 +0800" channel="Sun_Life">
@@ -181734,7 +181966,7 @@
     <title lang="zh">(L) Evening Edition</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124230000 +0800" stop="20260124235600 +0800" channel="Astro_AEC">
+  <programme start="20260124230000 +0800" stop="20260124235900 +0800" channel="Astro_AEC">
     <title lang="zh">XUAN Curry Fishball Ep51</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -184138,19 +184370,19 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124063000 +0800" stop="20260124063300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124063000 +0800" stop="20260124063200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124063300 +0800" stop="20260124070300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124063200 +0800" stop="20260124070300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124070300 +0800" stop="20260124075800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124070300 +0800" stop="20260124075700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124075800 +0800" stop="20260124080300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124075700 +0800" stop="20260124080300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -184174,11 +184406,11 @@
     <title lang="zh">Financial Journal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124100300 +0800" stop="20260124110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124100300 +0800" stop="20260124105900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124110000 +0800" stop="20260124110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124105900 +0800" stop="20260124110300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -184186,19 +184418,19 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124113000 +0800" stop="20260124113300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124113000 +0800" stop="20260124113200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124113300 +0800" stop="20260124120300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124113200 +0800" stop="20260124120300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124120300 +0800" stop="20260124125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124120300 +0800" stop="20260124125700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124125800 +0800" stop="20260124130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124125700 +0800" stop="20260124130300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -184206,11 +184438,11 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124133000 +0800" stop="20260124133300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124133000 +0800" stop="20260124133200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124133300 +0800" stop="20260124140300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124133200 +0800" stop="20260124140300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Talk With World Leaders</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -184218,19 +184450,19 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124143000 +0800" stop="20260124143300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124143000 +0800" stop="20260124143200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124143300 +0800" stop="20260124150300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124143200 +0800" stop="20260124150300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124150300 +0800" stop="20260124160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124150300 +0800" stop="20260124155800 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124160000 +0800" stop="20260124160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124155800 +0800" stop="20260124160300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -184242,15 +184474,15 @@
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124163300 +0800" stop="20260124170300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124163300 +0800" stop="20260124170200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Hong Kong Perspectives</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124170300 +0800" stop="20260124174800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124170200 +0800" stop="20260124174700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124174800 +0800" stop="20260124180300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124174700 +0800" stop="20260124180300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">My Hong Kong Story</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -184258,63 +184490,63 @@
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124183000 +0800" stop="20260124183300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124183000 +0800" stop="20260124183200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124183300 +0800" stop="20260124190300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124183200 +0800" stop="20260124190200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124190300 +0800" stop="20260124191600 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124190200 +0800" stop="20260124191500 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124191600 +0800" stop="20260124191800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124191500 +0800" stop="20260124191700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124191800 +0800" stop="20260124200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124191700 +0800" stop="20260124200200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China Financial Intelligence</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124200300 +0800" stop="20260124203000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124200200 +0800" stop="20260124202900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124203000 +0800" stop="20260124203300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124202900 +0800" stop="20260124203200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124203300 +0800" stop="20260124210300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124203200 +0800" stop="20260124210300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Mainland Q&amp;A</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124210300 +0800" stop="20260124215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124210300 +0800" stop="20260124215700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124215800 +0800" stop="20260124220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124215700 +0800" stop="20260124220200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124220300 +0800" stop="20260124223000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124220200 +0800" stop="20260124222900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124223000 +0800" stop="20260124223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124222900 +0800" stop="20260124223200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124223300 +0800" stop="20260124230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124223200 +0800" stop="20260124230200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124230300 +0800" stop="20260124233000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124230200 +0800" stop="20260124232900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124233000 +0800" stop="20260124233300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260124232900 +0800" stop="20260124233200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -186530,11 +186762,11 @@
     <title lang="zh">UNCLE GRANDPA S3 Ep11</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260123172400 +0800" stop="20260123173500 +0800" channel="HBO_Family">
+  <programme start="20260123172400 +0800" stop="20260123173600 +0800" channel="HBO_Family">
     <title lang="zh">UNCLE GRANDPA S3 Ep12</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260123173500 +0800" stop="20260123175000 +0800" channel="HBO_Family">
+  <programme start="20260123173600 +0800" stop="20260123175000 +0800" channel="HBO_Family">
     <title lang="zh">UNCLE GRANDPA S3 Ep13</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -203202,11 +203434,15 @@
     <title lang="zh">(L) LaLiga : Levante Vs Elche</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124060000 +0800" stop="20260124080000 +0800" channel="beIN_SPORTS_1">
-    <title lang="zh">(D) Women's Super League : Everton Vs Brighton</title>
+  <programme start="20260124060000 +0800" stop="20260124063000 +0800" channel="beIN_SPORTS_1">
+    <title lang="zh">The Sports Rundown 2026</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124080000 +0800" stop="20260124140000 +0800" channel="beIN_SPORTS_1">
+  <programme start="20260124063000 +0800" stop="20260124073000 +0800" channel="beIN_SPORTS_1">
+    <title lang="zh">SailGP Highlights 2026</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260124073000 +0800" stop="20260124140000 +0800" channel="beIN_SPORTS_1">
     <title lang="zh">(L) Australian Open 2026</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -218970,63 +219206,63 @@
     <title lang="zh">Inilah Kisahnya</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124032000 +0700" stop="20260124042500 +0700" channel="MDTV">
+  <programme start="20260124032000 +0700" stop="20260124041500 +0700" channel="MDTV">
     <title lang="zh">Di Balik Mitos</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124042500 +0700" stop="20260124053000 +0700" channel="MDTV">
+  <programme start="20260124041500 +0700" stop="20260124052500 +0700" channel="MDTV">
     <title lang="zh">Keajaiban Dunia</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124053000 +0700" stop="20260124064500 +0700" channel="MDTV">
+  <programme start="20260124052500 +0700" stop="20260124064000 +0700" channel="MDTV">
     <title lang="zh">Top Spot</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124064500 +0700" stop="20260124080000 +0700" channel="MDTV">
+  <programme start="20260124064000 +0700" stop="20260124080000 +0700" channel="MDTV">
     <title lang="zh">AADD: Ada Apa Dengan Dunia</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124080000 +0700" stop="20260124085000 +0700" channel="MDTV">
+  <programme start="20260124080000 +0700" stop="20260124090000 +0700" channel="MDTV">
     <title lang="zh">Fakta +62 Weekend</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124085000 +0700" stop="20260124095500 +0700" channel="MDTV">
+  <programme start="20260124090000 +0700" stop="20260124100000 +0700" channel="MDTV">
     <title lang="zh">SensasiHot</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124095500 +0700" stop="20260124111000 +0700" channel="MDTV">
+  <programme start="20260124100000 +0700" stop="20260124111500 +0700" channel="MDTV">
     <title lang="zh">Rosalinda</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124111000 +0700" stop="20260124123000 +0700" channel="MDTV">
+  <programme start="20260124111500 +0700" stop="20260124123000 +0700" channel="MDTV">
     <title lang="zh">Cerita Nyata</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124123000 +0700" stop="20260124140500 +0700" channel="MDTV">
+  <programme start="20260124123000 +0700" stop="20260124135000 +0700" channel="MDTV">
     <title lang="zh">Cinta Fitri S5</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124140500 +0700" stop="20260124150000 +0700" channel="MDTV">
+  <programme start="20260124135000 +0700" stop="20260124144500 +0700" channel="MDTV">
     <title lang="zh">Makan Enak</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124150000 +0700" stop="20260124160000 +0700" channel="MDTV">
+  <programme start="20260124144500 +0700" stop="20260124154500 +0700" channel="MDTV">
     <title lang="zh">Masak Gesss!!!</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124160000 +0700" stop="20260124170000 +0700" channel="MDTV">
+  <programme start="20260124154500 +0700" stop="20260124164500 +0700" channel="MDTV">
     <title lang="zh">Adit Sopo Jarwo</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124170000 +0700" stop="20260124175000 +0700" channel="MDTV">
+  <programme start="20260124164500 +0700" stop="20260124173000 +0700" channel="MDTV">
     <title lang="zh">Cinta Paulina</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124175000 +0700" stop="20260124184000 +0700" channel="MDTV">
+  <programme start="20260124173000 +0700" stop="20260124183000 +0700" channel="MDTV">
     <title lang="zh">Maria Cinta Yang Hilang</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124184000 +0700" stop="20260124193000 +0700" channel="MDTV">
+  <programme start="20260124183000 +0700" stop="20260124193000 +0700" channel="MDTV">
     <title lang="zh">Betty La Fea</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -219038,11 +219274,11 @@
     <title lang="zh">Ipar Adalah Maut: The Series</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124213000 +0700" stop="20260124222000 +0700" channel="MDTV">
+  <programme start="20260124213000 +0700" stop="20260124222500 +0700" channel="MDTV">
     <title lang="zh">5 Detik &amp; Rasa Rindu</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260124222000 +0700" stop="20260124232500 +0700" channel="MDTV">
+  <programme start="20260124222500 +0700" stop="20260124232500 +0700" channel="MDTV">
     <title lang="zh">She Was Pretty</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -221686,6 +221922,202 @@
     <title lang="zh">Dora</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260123000000 +0700" stop="20260123002500 +0700" channel="Nickelodeon">
+    <title lang="zh">The Patrick Star Show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123002500 +0700" stop="20260123005000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Patrick Star Show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123005000 +0700" stop="20260123010000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Patrick Star Show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123010000 +0700" stop="20260123012500 +0700" channel="Nickelodeon">
+    <title lang="zh">Tyler Perry's Young Dylan</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123012500 +0700" stop="20260123015000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123015000 +0700" stop="20260123021500 +0700" channel="Nickelodeon">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123021500 +0700" stop="20260123023500 +0700" channel="Nickelodeon">
+    <title lang="zh">Henry Danger</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123023500 +0700" stop="20260123030000 +0700" channel="Nickelodeon">
+    <title lang="zh">Danger Force</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123030000 +0700" stop="20260123032500 +0700" channel="Nickelodeon">
+    <title lang="zh">iCarly</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123032500 +0700" stop="20260123035000 +0700" channel="Nickelodeon">
+    <title lang="zh">iCarly</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123035000 +0700" stop="20260123041500 +0700" channel="Nickelodeon">
+    <title lang="zh">Victorious</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123041500 +0700" stop="20260123043500 +0700" channel="Nickelodeon">
+    <title lang="zh">Sam &amp; Cat</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123043500 +0700" stop="20260123050000 +0700" channel="Nickelodeon">
+    <title lang="zh">Tales Of The Teenage Mutant...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123050000 +0700" stop="20260123052000 +0700" channel="Nickelodeon">
+    <title lang="zh">Tales Of The Teenage Mutant...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123052000 +0700" stop="20260123054500 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123054500 +0700" stop="20260123061000 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123061000 +0700" stop="20260123063500 +0700" channel="Nickelodeon">
+    <title lang="zh">Best And Bester</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123063500 +0700" stop="20260123065500 +0700" channel="Nickelodeon">
+    <title lang="zh">Best And Bester</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123065500 +0700" stop="20260123072000 +0700" channel="Nickelodeon">
+    <title lang="zh">Best And Bester</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123072000 +0700" stop="20260123074000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Patrick Star Show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123074000 +0700" stop="20260123080500 +0700" channel="Nickelodeon">
+    <title lang="zh">The Patrick Star Show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123080500 +0700" stop="20260123083000 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123083000 +0700" stop="20260123084500 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123084500 +0700" stop="20260123090500 +0700" channel="Nickelodeon">
+    <title lang="zh">The Thundermans: Undercover</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123090500 +0700" stop="20260123093000 +0700" channel="Nickelodeon">
+    <title lang="zh">Danger Force</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123093000 +0700" stop="20260123095500 +0700" channel="Nickelodeon">
+    <title lang="zh">Henry Danger</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123095500 +0700" stop="20260123102000 +0700" channel="Nickelodeon">
+    <title lang="zh">Tales Of The Teenage Mutant...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123102000 +0700" stop="20260123104000 +0700" channel="Nickelodeon">
+    <title lang="zh">Wylde Pak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123104000 +0700" stop="20260123110000 +0700" channel="Nickelodeon">
+    <title lang="zh">Wylde Pak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123110000 +0700" stop="20260123112500 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123112500 +0700" stop="20260123114500 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123114500 +0700" stop="20260123120000 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123120000 +0700" stop="20260123122000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Patrick Star Show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123122000 +0700" stop="20260123124500 +0700" channel="Nickelodeon">
+    <title lang="zh">The Patrick Star Show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123124500 +0700" stop="20260123125500 +0700" channel="Nickelodeon">
+    <title lang="zh">The Patrick Star Show</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123125500 +0700" stop="20260123132000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Smurfs</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123132000 +0700" stop="20260123134500 +0700" channel="Nickelodeon">
+    <title lang="zh">The Smurfs</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123134500 +0700" stop="20260123141000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Casagrandes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123141000 +0700" stop="20260123143000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Casagrandes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123143000 +0700" stop="20260123145000 +0700" channel="Nickelodeon">
+    <title lang="zh">Wylde Pak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123145000 +0700" stop="20260123150000 +0700" channel="Nickelodeon">
+    <title lang="zh">Wylde Pak</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123150000 +0700" stop="20260123152500 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123152500 +0700" stop="20260123155000 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123155000 +0700" stop="20260123160500 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123160500 +0700" stop="20260123163000 +0700" channel="Nickelodeon">
+    <title lang="zh">SpongeBob SquarePants</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123163000 +0700" stop="20260123165000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Casagrandes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123165000 +0700" stop="20260123170000 +0700" channel="Nickelodeon">
+    <title lang="zh">The Casagrandes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123170000 +0700" stop="20260123172500 +0700" channel="Nickelodeon">
+    <title lang="zh">The Casagrandes</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260123172500 +0700" stop="20260123175000 +0700" channel="Nickelodeon">
+    <title lang="zh">Wylde Pak</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260124000000 +0700" stop="20260124002500 +0700" channel="Nickelodeon">
     <title lang="zh">The Patrick Star Show</title>
     <desc lang="zh"> </desc>
@@ -222272,86 +222704,6 @@
   </programme>
   <programme start="20260124141500 +0700" stop="20260124143500 +0700" channel="Nickelodeon Jr">
     <title lang="zh">Dora</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123001000 +0700" stop="20260123013000 +0700" channel="ONE">
-    <title lang="zh">Brewer Lee, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123013000 +0700" stop="20260123023000 +0700" channel="ONE">
-    <title lang="zh">My Life's Traveling Cut, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123023000 +0700" stop="20260123034000 +0700" channel="ONE">
-    <title lang="zh">Doctors, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123034000 +0700" stop="20260123050000 +0700" channel="ONE">
-    <title lang="zh">Oh My Ghost Clients, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123050000 +0700" stop="20260123054500 +0700" channel="ONE">
-    <title lang="zh">The Woman Who..., Ep 100</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123054500 +0700" stop="20260123071500 +0700" channel="ONE">
-    <title lang="zh">Bad Memory Eraser, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123071500 +0700" stop="20260123083500 +0700" channel="ONE">
-    <title lang="zh">Doctors, Ep 6</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123083500 +0700" stop="20260123100000 +0700" channel="ONE">
-    <title lang="zh">Oh My Ghost Clients, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123100000 +0700" stop="20260123104000 +0700" channel="ONE">
-    <title lang="zh">The Brave Yongsujung, Ep 49</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123104000 +0700" stop="20260123112500 +0700" channel="ONE">
-    <title lang="zh">The Brave Yongsujung, Ep 50</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123112500 +0700" stop="20260123121500 +0700" channel="ONE">
-    <title lang="zh">The Woman Who..., Ep 100</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123121500 +0700" stop="20260123134500 +0700" channel="ONE">
-    <title lang="zh">Bad Memory Eraser, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123134500 +0700" stop="20260123150500 +0700" channel="ONE">
-    <title lang="zh">Oh My Ghost Clients, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123150500 +0700" stop="20260123155000 +0700" channel="ONE">
-    <title lang="zh">The Woman Who..., Ep 100</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123155000 +0700" stop="20260123163500 +0700" channel="ONE">
-    <title lang="zh">The Brave Yongsujung, Ep 49</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123163500 +0700" stop="20260123172000 +0700" channel="ONE">
-    <title lang="zh">The Brave Yongsujung, Ep 50</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123172000 +0700" stop="20260123184000 +0700" channel="ONE">
-    <title lang="zh">Doctors, Ep 7</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123184000 +0700" stop="20260123200000 +0700" channel="ONE">
-    <title lang="zh">Oh My Ghost Clients, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123200000 +0700" stop="20260123213000 +0700" channel="ONE">
-    <title lang="zh">Bad Memory Eraser, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260123213000 +0700" stop="20260123232000 +0700" channel="ONE">
-    <title lang="zh">Running Man, Ep 765</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260124004500 +0700" stop="20260124023500 +0700" channel="ONE">

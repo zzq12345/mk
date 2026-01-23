@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260123013000 +0800" stop="20260123040000 +0800" channel="mbc max">
-    <title lang="en">Hugo</title>
-    <desc lang="en">In 1930's Paris, orphaned Hugo lives in a crowded trainstation. He enters a new adventure with Isabelle, in an attempt to solve the mystery his father has left behind regarding an automaton.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260123040000 +0800" stop="20260123060000 +0800" channel="mbc max">
     <title lang="en">The Addams Family</title>
     <desc lang="en">The Addams family finds their home in danger when a realityTV star labels their eerie mansion as a threat to the picture-perfect community she is trying to build. As she employs every mean to get rid of them, the Addams family must fight to save their home.</desc>
@@ -174,11 +168,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260123030000 +0800" stop="20260123043000 +0800" channel="mbc 2">
-    <title lang="en">Laggies</title>
-    <desc lang="en">Feeling overwhelmed by the pressures of being an adult,Megan decides to take a break and hides at the house of a new teenager friend and her single father.</desc>
+  <programme start="20260125140000 +0800" stop="20260125160000 +0800" channel="mbc max">
+    <title lang="en">The Boy</title>
+    <desc lang="en">When a couple hires a young nanny to care for their8-year-old son, she is shocked to discover that her charge is, in fact, a life-sized doll whose care involves a strict list of rules. After ignoring the rules for her own routine, inexplicable events convince her that the doll is actually alive.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2016)</category>
   </programme>
   <programme start="20260123043000 +0800" stop="20260123063000 +0800" channel="mbc 2">
     <title lang="en">The Girl in the Spider's Web</title>
@@ -335,5 +329,11 @@
     <desc lang="en">After an injury ends her career, world-class skier MollyBloom starts running an exclusive underground poker empire, but she soon lands herself in trouble after the FBI exposes her operation.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260125133000 +0800" stop="20260125160000 +0800" channel="mbc 2">
+    <title lang="en">Spotlight</title>
+    <desc lang="en">The real story of how the Spotlight team of the Boston Globeuncovered a massive scandal about the systemic coverup the Catholic Church conducted to bury the truth about Catholic priests sexually abusing children in the Boston area.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
