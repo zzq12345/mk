@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260123160000 +0800" stop="20260123180000 +0800" channel="mbc max">
-    <title lang="en">The House with a Clock in its Walls</title>
-    <desc lang="en">Lewis Barnavelt is sent to Michigan after losing his parentsto live with his uncle Jonathan. He discovers his uncle is a wizard and enters a world of magic and sorcery.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
-  <programme start="20260123180000 +0800" stop="20260123200000 +0800" channel="mbc max">
-    <title lang="en">The Walk</title>
-    <desc lang="en">The true story of how a French street performer undertookthe daunting task of walking a tightrope between the Twin Towers of the World Trade Center, all with the aid of a misfit group that he put together</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260123200000 +0800" stop="20260123220000 +0800" channel="mbc max">
     <title lang="en">Sicario: Day of the Soldado</title>
     <desc lang="en">In this sequel to the 2015 film Sicario, the drug war on theUS-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border.</desc>
@@ -180,9 +168,9 @@
     <category lang="en">Movie
                (2008)</category>
   </programme>
-  <programme start="20260123173000 +0800" stop="20260123193000 +0800" channel="mbc 2">
-    <title lang="en">The Girl in the Spider's Web</title>
-    <desc lang="en">Young computer hacker (Lisbeth Salander) and journalist(Mikael Blomkvist) find themselves trapped in a web of spies, cybercriminals and corrupt government officials.</desc>
+  <programme start="20260126050000 +0800" stop="20260126070000 +0800" channel="mbc max">
+    <title lang="en">Robin Hood</title>
+    <desc lang="en">When he returns from the war to find that the corruptSheriff of Nottingham has seized his land, Robin of Loxley comes to realize the extent of the corruption underlying England's Crusades, leaving him to join forces with his best friend and an Arabian warrior to challenge the English crown.</desc>
     <category lang="en">Movie
                (2018)</category>
   </programme>
@@ -347,5 +335,17 @@
     <desc lang="en">Jason Bourne has a close call with  a corrupt C.I.A officaland his group of agents in a new assassination program. At the same time, he looks for answers about his life as a professional hit-man.</desc>
     <category lang="en">Movie
                (2007)</category>
+  </programme>
+  <programme start="20260126033000 +0800" stop="20260126053000 +0800" channel="mbc 2">
+    <title lang="en">The Nice Guys</title>
+    <desc lang="en">In 1970s Los Angeles, private investigator Holland March(Ryan Gosling) is forced to work with another private eye  Jackson Healey (Russell Crowe) to investigate the mysterious death of a porn star and a missing girl.</desc>
+    <category lang="en">Movie
+               (2016)</category>
+  </programme>
+  <programme start="20260126053000 +0800" stop="20260126080000 +0800" channel="mbc 2">
+    <title lang="en">RED 2</title>
+    <desc lang="en">Retired CIA agent Frank (Bruce Willis)  reunites his team.They're trying to track down a missing portable nuclear device. The team have to overcome an army of professional killers: terrorists, corrupt government officials, who are also after the weapon.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
