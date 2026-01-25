@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260126160000 +0800" stop="20260126173000 +0800" channel="mbc max">
-    <title lang="en">Leatherface</title>
-    <desc lang="en">The backstory of how the infamous killer known asLeatherface made his name. As a teen, his violent tendencies landed him in a mental institution that he then escaped with three other inmates, embarking on a bloody trek across the US while being hunted by a vengeful sherrif.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260126180000 +0800" stop="20260126200000 +0800" channel="mbc max">
     <title lang="en">Inkheart</title>
     <desc lang="en">Years after her father's gift accidentally brought a storyvillain into the real world, Meggie teams with her father, aunt, and another story character to stop the villain and send him back to the story where he belongs.</desc>
@@ -194,6 +188,12 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">An aging secret service agent who suffers from the aftermathof the John F. Kennedy assassination in Dallas, receives calls from an unstable man telling him information about his plans to assassinate the current president.</desc>
     <category lang="en">Movie
                (1993)</category>
+  </programme>
+  <programme start="20260129030000 +0800" stop="20260129033000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
   <programme start="20260126160000 +0800" stop="20260126180000 +0800" channel="mbc 2">
     <title lang="en">Wasp Network</title>
@@ -404,5 +404,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">In late 1940s Los Angeles, a secret crew of determinedpolice officers try to take down a ruthless mob king, whose power and influence extend from his aides to the police, all the way up to the city's politicians.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260129031400 +0800" stop="20260129040000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
   </programme>
 </tv>
