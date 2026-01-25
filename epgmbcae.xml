@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260126090000 +0800" stop="20260126120000 +0800" channel="mbc max">
-    <title lang="en">Zodiac</title>
-    <desc lang="en">A serial killer calling himself Zodiac taunts the police bysharing the details of his murders and sending cryptic messages to the press. A police officer, a journalist and a cartoonist form an unlikely team to hunt him down.</desc>
-    <category lang="en">Movie
-               (2007)</category>
-  </programme>
   <programme start="20260126120000 +0800" stop="20260126140000 +0800" channel="mbc max">
     <title lang="en">London Fields</title>
     <desc lang="en">Nicola, a seductive psychic, has been living with a constanthunch of getting murdered. She begins a love affair with three different men: one of whom will be her murderer.</desc>
@@ -193,6 +187,13 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">The successful lawyer Michael and his young client Jamalmust put their differences aside in order to expose the corruption and injustice in the foster care system.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260128210000 +0800" stop="20260128230000 +0800" channel="mbc max">
+    <title lang="en">Selma</title>
+    <desc lang="en">The film focuses on the life of Dr. Martin Luther King, Jr.,in 1965 when he led marches from Selma to Montgomery, Alabama to demand equal voting rights.&#13;
+As the demonstrators faced the police forces, and after many hit-and-run ,their number began to increase in a way that could not be confronted with violence.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
   <programme start="20260126103000 +0800" stop="20260126133000 +0800" channel="mbc 2">
     <title lang="en">Molly's Game</title>
@@ -391,5 +392,17 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">A play-off on John Sturge's 1960 film "The MagnificentSeven". The movie is set at the end of the nineteenth century, about a group of people being held inside a ruined building because of a rough snowstorm. Rath (Kurt Russell), who works as an bounty hunter, was escorting Daisy Domergue (Jennifer Jason Leigh) to court and gets encountered by four strangers.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260128205000 +0800" stop="20260128222500 +0800" channel="mbc 2">
+    <title lang="en">Orphan: First Kill</title>
+    <desc lang="en">Serving as an origin story for the diabolical Esther,following her escape from an Estonian psychiatric facility, Esther heads to America under the guise of the missing daughter of a rich family.</desc>
+    <category lang="en">Movie
+               (2022)</category>
+  </programme>
+  <programme start="20260128222500 +0800" stop="20260128235500 +0800" channel="mbc 2">
+    <title lang="en">The Rental</title>
+    <desc lang="en">When two couples rent a home for a celebratory go-awayvacation, their stay takes a frightening turn, making a horrifying scene out of the place.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
 </tv>
