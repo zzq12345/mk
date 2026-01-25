@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260126120000 +0800" stop="20260126140000 +0800" channel="mbc max">
-    <title lang="en">London Fields</title>
-    <desc lang="en">Nicola, a seductive psychic, has been living with a constanthunch of getting murdered. She begins a love affair with three different men: one of whom will be her murderer.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260126140000 +0800" stop="20260126160000 +0800" channel="mbc max">
     <title lang="en">The Boy</title>
     <desc lang="en">When a couple hires a young nanny to care for their8-year-old son, she is shocked to discover that her charge is, in fact, a life-sized doll whose care involves a strict list of rules. After ignoring the rules for her own routine, inexplicable events convince her that the doll is actually alive.</desc>
@@ -404,5 +398,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">When two couples rent a home for a celebratory go-awayvacation, their stay takes a frightening turn, making a horrifying scene out of the place.</desc>
     <category lang="en">Movie
                (2020)</category>
+  </programme>
+  <programme start="20260128235500 +0800" stop="20260129013000 +0800" channel="mbc 2">
+    <title lang="en">The Words</title>
+    <desc lang="en">An ambitious writer achieves fame when he pens the nextgreat American novel. His secret? The story isn't his. He soon realizes the cost of his success is much higher than expected when he has to live up to his plagiarism.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>
