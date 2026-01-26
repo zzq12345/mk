@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260127100000 +0800" stop="20260127120000 +0800" channel="mbc max">
-    <title lang="en">Foster Boy</title>
-    <desc lang="en">The successful lawyer Michael and his young client Jamalmust put their differences aside in order to expose the corruption and injustice in the foster care system.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260127120000 +0800" stop="20260127140000 +0800" channel="mbc max">
     <title lang="en">Loving</title>
     <desc lang="en">A true story that took place in the US during the racialsegregation period ,when the couple Richard and Mildred Loving were sent to Virginia State Prison in 1958 for violating marriage laws that racially separate whites and blacks at the time.</desc>
@@ -201,17 +195,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <category lang="en">Movie
                (2008)</category>
   </programme>
-  <programme start="20260127110000 +0800" stop="20260127123500 +0800" channel="mbc 2">
-    <title lang="en">The Perfect Guy</title>
-    <desc lang="en">Following a painful breakup, the lobbyist Leah Vaughncrosses paths with the charming Carter Duncan. Soon enough, however, the volatile side of Duncan emerges, turning their budding romance into a mind-game where the two questions she has to answer are who she should trust and who she should fear.</desc>
+  <programme start="20260129230000 +0800" stop="20260130013000 +0800" channel="mbc max">
+    <title lang="en">Prisoners</title>
+    <desc lang="en">When Keller Dover's (Hugh Jackman) daughter and herboyfriend go missing, the police start searching for leads to find her, but when they fail due to lack of evidence, Dover takes matters into his own hands.</desc>
     <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20260127123500 +0800" stop="20260127130000 +0800" channel="mbc 2">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
+               (2013)</category>
   </programme>
   <programme start="20260127130000 +0800" stop="20260127143500 +0800" channel="mbc 2">
     <title lang="en">The Rental</title>
@@ -404,5 +392,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">With the help of a German bounty hunter, an ex-slave setsout to rescue his wife from an infamous and brutal Mississippi plantation owner.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260129230000 +0800" stop="20260130010000 +0800" channel="mbc 2">
+    <title lang="en">Marshall</title>
+    <desc lang="en">The movie tells the story of the first-ever black-AmericanSupreme Court Justice, Thurgood Marshall, working on a case that could determine the success of his career.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
