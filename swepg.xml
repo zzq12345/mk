@@ -1934,6 +1934,10 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="en">Warcraft</title>
     <desc lang="en">Using a magic portal, an Orc horde is invading the planetAzeroth, and a small group of human heroes and dissident Orcs are fighting to stop the real evil that is causing this war.</desc>
   </programme>
+  <programme start="20260128140000 +0800" stop="20260128160000 +0800" channel="mbc max">
+    <title lang="en">47 Ronin</title>
+    <desc lang="en">This action epic brings to life the real tale of 47 samuraiwarriors who in 18th century Japan set out on a quest to avenge the death of their master, killed by a treacherous overlord who banished them from their homeland.</desc>
+  </programme>
   <programme start="20260126035500 +0800" stop="20260126060000 +0800" channel="mbc 2">
     <title lang="en">Wasp Network</title>
     <desc lang="en">Five Cuban spies face life sentences by the Americangovernment on the charges of murder and espionage in the late 1990s.</desc>
@@ -2309,6 +2313,10 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
   <programme start="20260128130000 +0800" stop="20260128140000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
+  </programme>
+  <programme start="20260128140000 +0800" stop="20260128153000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
   </programme>
   <programme start="20260126060000 +0800" stop="20260126063000 +0800" channel="第一财经">
     <title lang="zh">两说</title>
@@ -66402,14 +66410,6 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="好消息2台">
-    <title lang="zh">大卫鲍森讲座</title>
-    <desc lang="zh">圣经权威大卫鲍森牧师，带你以宏观的神学角度，观看神伟大的神性与恩典，并从其中明白救恩计划的重要。</desc>
-  </programme>
-  <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="好消息2台">
-    <title lang="zh">共享观点</title>
-    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
-  </programme>
   <programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="好消息2台">
     <title lang="zh">寇住幸福</title>
     <desc lang="zh">因现代人娱乐方式改变，媒体宣教更成为重要的传福音管道。GOOD TV发现如今有更多人驻足在网路上，因此投入制作合乎网路媒体特性的节目，《寇住幸福》应运而生！由寇绍恩牧师主持，节目结合精彩的家庭生活短剧、动人的诗歌音乐与信息分享。</desc>
@@ -67285,22 +67285,6 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
   <programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="好消息2台">
     <title lang="zh">特会</title>
     <desc lang="zh">以造就、培灵与更新为宗旨，邀请来自世界各国的知名布道牧师，为信徒传递神国信息，挑望灵火，奋兴众人！为信徒提供一个提升性灵的园地。(资料来源：GOOD TV)</desc>
-  </programme>
-  <programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="好消息">
-    <title lang="zh">大家说英语</title>
-    <desc lang="zh">将最受欢迎的美语生活会话杂志《大家说英语》内容制作成电视教学节目，教学轻松活泼，以生活实用会话为单元主题，是新闻局推荐的优质节目。不仅能帮助您轻松开口说英语，更提供许多实用的英语语汇与技巧，让您用简单的单字，就能说一口漂亮英语。</desc>
-  </programme>
-  <programme start="20260126093000 +0000" stop="20260126093700 +0000" channel="好消息">
-    <title lang="zh">山姆与茱莉亚</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260126093700 +0000" stop="20260126094500 +0000" channel="好消息">
-    <title lang="zh">山姆与茱莉亚</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260126094500 +0000" stop="20260126100000 +0000" channel="好消息">
-    <title lang="zh">派特森与芬达猫</title>
-    <desc lang="zh">派特森是一位顽固的老头，他不喜欢和人相处，直到小猫芬达斯的出现；芬达猫是只淘气又自以为是的小猫，不过这却为派森的生活及农场带来了更多的欢乐...</desc>
   </programme>
   <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="好消息">
     <title lang="zh">福气人生</title>
@@ -68266,10 +68250,6 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">机智青年生活</title>
     <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
   </programme>
-  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="亚洲旅游台">
     <title lang="zh">唐绮阳逍遥游</title>
     <desc lang="zh">华人最具影响力的占星师，唐绮阳专属的旅游节目。跟著独特的唐氏风格，观众可以用不同的角度看世界，同时见证东西方占星大师的对话。</desc>
@@ -68741,14 +68721,6 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
   <programme start="20260131070000 +0000" stop="20260131080000 +0000" channel="亚洲旅游台">
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
-  </programme>
-  <programme start="20260126084000 +0000" stop="20260126092000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260126092000 +0000" stop="20260126100000 +0000" channel="东森购物1台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260126100000 +0000" stop="20260126104000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -69456,14 +69428,6 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
   </programme>
   <programme start="20260131072000 +0000" stop="20260131080000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260126084000 +0000" stop="20260126092000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260126092000 +0000" stop="20260126100000 +0000" channel="东森购物2台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260126100000 +0000" stop="20260126104000 +0000" channel="东森购物2台">
@@ -70186,10 +70150,6 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
   </programme>
-  <programme start="20260126090000 +0000" stop="20260126100000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1700整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
   <programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="中天新闻台">
     <title lang="zh">中天辣晚报</title>
     <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
@@ -70662,6 +70622,18 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">周末大爆卦</title>
     <desc lang="zh">中天主播为您带来最新、最即时的重点新闻、内幕爆卦，锁定《周末大爆挂》！</desc>
   </programme>
+  <programme start="20260126080000 +0000" stop="20260126120000 +0000" channel="寰宇新闻台湾台">
+    <title lang="zh">节目未定</title>
+    <desc lang="zh">节目资讯尚未公布。</desc>
+  </programme>
+  <programme start="20260126120000 +0000" stop="20260126160000 +0000" channel="寰宇新闻台湾台">
+    <title lang="zh">节目未定</title>
+    <desc lang="zh">节目资讯尚未公布。</desc>
+  </programme>
+  <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="寰宇新闻台湾台">
+    <title lang="zh">节目未定</title>
+    <desc lang="zh">节目资讯尚未公布。</desc>
+  </programme>
   <programme start="20260126080000 +0000" stop="20260126120000 +0000" channel="寰宇新闻台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
@@ -70673,10 +70645,6 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
   <programme start="20260126160000 +0000" stop="20260126200000 +0000" channel="寰宇新闻台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="第1商业台">
-    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260126103000 +0000" stop="20260126110000 +0000" channel="第1商业台">
     <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
@@ -174322,11 +174290,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">Vaathi</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126180000 +0800" stop="20260126183000 +0800" channel="SUN_TV_HD">
+  <programme start="20260126180000 +0800" stop="20260126183500 +0800" channel="SUN_TV_HD">
     <title lang="zh">News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126183000 +0800" stop="20260126190000 +0800" channel="SUN_TV_HD">
+  <programme start="20260126183500 +0800" stop="20260126190000 +0800" channel="SUN_TV_HD">
     <title lang="zh">Chellame Chellame Ep31</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -179158,23 +179126,23 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127063300 +0800" stop="20260127070300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127063300 +0800" stop="20260127070200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127070300 +0800" stop="20260127080000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127070200 +0800" stop="20260127080000 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127080000 +0800" stop="20260127080300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127080000 +0800" stop="20260127080200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127080300 +0800" stop="20260127090000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127080200 +0800" stop="20260127085900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127090000 +0800" stop="20260127090300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127085900 +0800" stop="20260127090300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -179182,15 +179150,15 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">From Phoenix to the World</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127093300 +0800" stop="20260127100300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127093300 +0800" stop="20260127100200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127100300 +0800" stop="20260127110000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127100200 +0800" stop="20260127105900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127110000 +0800" stop="20260127110300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127105900 +0800" stop="20260127110300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -179202,23 +179170,23 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127120300 +0800" stop="20260127125800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127120300 +0800" stop="20260127125700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127125800 +0800" stop="20260127130300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127125700 +0800" stop="20260127130200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127130300 +0800" stop="20260127133300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127130200 +0800" stop="20260127133300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127133300 +0800" stop="20260127134800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127133300 +0800" stop="20260127134700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">My Hong Kong Story</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127134800 +0800" stop="20260127143300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127134700 +0800" stop="20260127143300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chit Chat With Me</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -179226,11 +179194,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127150300 +0800" stop="20260127160000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127150300 +0800" stop="20260127155900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127160000 +0800" stop="20260127160300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127155900 +0800" stop="20260127160300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -179250,11 +179218,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127180300 +0800" stop="20260127183000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127180300 +0800" stop="20260127182900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Focus</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127183000 +0800" stop="20260127183300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127182900 +0800" stop="20260127183300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -179262,15 +179230,15 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127190300 +0800" stop="20260127193300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127190300 +0800" stop="20260127193200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Asian Financial Insight</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127193300 +0800" stop="20260127200300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127193200 +0800" stop="20260127200200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127200300 +0800" stop="20260127203300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127200200 +0800" stop="20260127203300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Panorama</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -179278,15 +179246,15 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">Lawrence Viewpoint</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127210300 +0800" stop="20260127215800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127210300 +0800" stop="20260127215700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127215800 +0800" stop="20260127220300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127215700 +0800" stop="20260127220200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127220300 +0800" stop="20260127223300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260127220200 +0800" stop="20260127223300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Zoom in</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -218270,11 +218238,7 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">Gold Fever S4, Ep 7</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260126000000 +0700" stop="20260126003000 +0700" channel="RCTI">
-    <title lang="zh">iNews Sport</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260126003000 +0700" stop="20260126020000 +0700" channel="RCTI">
+  <programme start="20260126000000 +0700" stop="20260126020000 +0700" channel="RCTI">
     <title lang="zh">AFC Asian Qualifiers Road To 26</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -218291,7 +218255,7 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260126080000 +0700" stop="20260126093000 +0700" channel="RCTI">
-    <title lang="zh">Dahsyat</title>
+    <title lang="zh">Dahsyat (L)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260126093000 +0700" stop="20260126103000 +0700" channel="RCTI">
@@ -218330,76 +218294,60 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">Cinta Sepenuh Jiwa</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127000000 +0700" stop="20260127010000 +0700" channel="RCTI">
-    <title lang="zh">Sportacular Match</title>
+  <programme start="20260127000000 +0700" stop="20260127020000 +0700" channel="RCTI">
+    <title lang="zh">AFC Champions League Two</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127010000 +0700" stop="20260127013000 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127020000 +0700" stop="20260127060000 +0700" channel="RCTI">
+    <title lang="zh">Preman Pensiun S6</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127013000 +0700" stop="20260127020000 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127060000 +0700" stop="20260127070000 +0700" channel="RCTI">
+    <title lang="zh">Go Spot</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127020000 +0700" stop="20260127031500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127070000 +0700" stop="20260127080000 +0700" channel="RCTI">
+    <title lang="zh">Upin Ipin</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127031500 +0700" stop="20260127054500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127080000 +0700" stop="20260127093000 +0700" channel="RCTI">
+    <title lang="zh">Dahsyat (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127054500 +0700" stop="20260127064500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127093000 +0700" stop="20260127103000 +0700" channel="RCTI">
+    <title lang="zh">Investigasi Selebriti</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127064500 +0700" stop="20260127081500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127103000 +0700" stop="20260127113000 +0700" channel="RCTI">
+    <title lang="zh">Silet</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127081500 +0700" stop="20260127083000 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127113000 +0700" stop="20260127120000 +0700" channel="RCTI">
+    <title lang="zh">Seputar iNews Siang</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127083000 +0700" stop="20260127113000 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127120000 +0700" stop="20260127133000 +0700" channel="RCTI">
+    <title lang="zh">Amanah Wali S5</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127113000 +0700" stop="20260127121500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127133000 +0700" stop="20260127153000 +0700" channel="RCTI">
+    <title lang="zh">MasterChef Indonesia S13</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127121500 +0700" stop="20260127140000 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127153000 +0700" stop="20260127170000 +0700" channel="RCTI">
+    <title lang="zh">Wujud Lain</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127140000 +0700" stop="20260127150000 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127170000 +0700" stop="20260127183000 +0700" channel="RCTI">
+    <title lang="zh">Aira</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127150000 +0700" stop="20260127160000 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127183000 +0700" stop="20260127194500 +0700" channel="RCTI">
+    <title lang="zh">Mencintai Ipar Sendiri</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127160000 +0700" stop="20260127173000 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260127173000 +0700" stop="20260127184500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260127184500 +0700" stop="20260127201500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260127201500 +0700" stop="20260127214500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260127214500 +0700" stop="20260127231500 +0700" channel="RCTI">
-    <title lang="zh">RCTI</title>
+  <programme start="20260127194500 +0700" stop="20260127210000 +0700" channel="RCTI">
+    <title lang="zh">Cinta Sepenuh Jiwa</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260126000000 +0700" stop="20260126020000 +0700" channel="RCTI HD">
@@ -218462,28 +218410,48 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <title lang="zh">AFC Champions League Two</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127020000 +0700" stop="20260127054500 +0700" channel="RCTI HD">
-    <title lang="zh">Preman Pensiun S5</title>
+  <programme start="20260127020000 +0700" stop="20260127060000 +0700" channel="RCTI HD">
+    <title lang="zh">Preman Pensiun S6</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127054500 +0700" stop="20260127064500 +0700" channel="RCTI HD">
+  <programme start="20260127060000 +0700" stop="20260127070000 +0700" channel="RCTI HD">
     <title lang="zh">Go Spot</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127064500 +0700" stop="20260127074500 +0700" channel="RCTI HD">
+  <programme start="20260127070000 +0700" stop="20260127080000 +0700" channel="RCTI HD">
     <title lang="zh">Upin Ipin</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127074500 +0700" stop="20260127123000 +0700" channel="RCTI HD">
-    <title lang="zh">Daihatsu Indonesia Masters (L)</title>
+  <programme start="20260127080000 +0700" stop="20260127093000 +0700" channel="RCTI HD">
+    <title lang="zh">Dahsyat (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127123000 +0700" stop="20260127171500 +0700" channel="RCTI HD">
-    <title lang="zh">Daihatsu Indonesia Masters (L)</title>
+  <programme start="20260127093000 +0700" stop="20260127103000 +0700" channel="RCTI HD">
+    <title lang="zh">Investigasi Selebriti</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260127171500 +0700" stop="20260127183000 +0700" channel="RCTI HD">
-    <title lang="zh">Terbelenggu Rindu</title>
+  <programme start="20260127103000 +0700" stop="20260127113000 +0700" channel="RCTI HD">
+    <title lang="zh">Silet</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127113000 +0700" stop="20260127120000 +0700" channel="RCTI HD">
+    <title lang="zh">Seputar iNews Siang</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127120000 +0700" stop="20260127133000 +0700" channel="RCTI HD">
+    <title lang="zh">Amanah Wali S5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127133000 +0700" stop="20260127153000 +0700" channel="RCTI HD">
+    <title lang="zh">MasterChef Indonesia S13</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127153000 +0700" stop="20260127170000 +0700" channel="RCTI HD">
+    <title lang="zh">Wujud Lain</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260127170000 +0700" stop="20260127183000 +0700" channel="RCTI HD">
+    <title lang="zh">Aira</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260127183000 +0700" stop="20260127194500 +0700" channel="RCTI HD">
