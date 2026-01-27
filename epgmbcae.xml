@@ -6,19 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260127160000 +0800" stop="20260127180000 +0800" channel="mbc max">
-    <title lang="en">Selma</title>
-    <desc lang="en">The film focuses on the life of Dr. Martin Luther King, Jr.,in 1965 when he led marches from Selma to Montgomery, Alabama to demand equal voting rights.&#13;
-As the demonstrators faced the police forces, and after many hit-and-run ,their number began to increase in a way that could not be confronted with violence.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
-  <programme start="20260127180000 +0800" stop="20260127200000 +0800" channel="mbc max">
-    <title lang="en">The Good Lie</title>
-    <desc lang="en">Orphaned by the brutal Civil war in Sudan that began in1983, these young victims traveled as many as a thousand miles on foot in search of safety.  Fifteen years later, a humanitarian effort would bring 3600 lost boys and girls to America.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260127200000 +0800" stop="20260127213000 +0800" channel="mbc max">
     <title lang="en">London Fields</title>
     <desc lang="en">Nicola, a seductive psychic, has been living with a constanthunch of getting murdered. She begins a love affair with three different men: one of whom will be her murderer.</desc>
@@ -195,11 +182,17 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260127170500 +0800" stop="20260127184000 +0800" channel="mbc 2">
-    <title lang="en">Ouija</title>
-    <desc lang="en">After a girl is mysteriously killed after playing with aOuija Board, a group of friends decide to investigate this board. They eventually discover that they should have thought twice.</desc>
+  <programme start="20260130040000 +0800" stop="20260130053000 +0800" channel="mbc max">
+    <title lang="en">The Dark Tower</title>
+    <desc lang="en">In a parallel universe, Roland Deschain fights witheverything he has to prevent his enemy, the Man in Black, from bringing down a structure that preserves reality. With the Man in Black trying to use psychic children to unleash darkness, Roland takes one of them in to save both him and the world.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2017)</category>
+  </programme>
+  <programme start="20260130053000 +0800" stop="20260130080000 +0800" channel="mbc max">
+    <title lang="en">47 Ronin</title>
+    <desc lang="en">This action epic brings to life the real tale of 47 samuraiwarriors who in 18th century Japan set out on a quest to avenge the death of their master, killed by a treacherous overlord who banished them from their homeland.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
   <programme start="20260127184000 +0800" stop="20260127210000 +0800" channel="mbc 2">
     <title lang="en">Molly's Game</title>
@@ -392,5 +385,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">After a robbery does not go as planned, a price is put onthe head of the enigmatic driver, Hollywood film stunt driver, motor-mechanic and sometime getaway man. He is a man who prefers to keep himself to himself but an unexpected attraction to a neighbor gets him involved in a situation that is rolling desperately out of control.</desc>
     <category lang="en">Movie
                (2011)</category>
+  </programme>
+  <programme start="20260130043000 +0800" stop="20260130063000 +0800" channel="mbc 2">
+    <title lang="en">Fatherhood</title>
+    <desc lang="en">When his wife passes away a day after his baby girl is born,a father must struggle to bring up his child as a single dad, and this unique experience teaches him a lot more about himself, the world, and what fatherhood really means.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
