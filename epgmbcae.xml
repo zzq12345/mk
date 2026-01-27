@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260127010000 +0800" stop="20260127030000 +0800" channel="mbc max">
-    <title lang="en">A United Kingdom</title>
-    <desc lang="en">Based on true events, the film revolves around PrinceSeretse Khama of Botswana (David Oyelowo), who caused a strong international uproar; when he married a white woman from London, Ruth Williams (Rosamund Pike), in the late 1940s.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260127030000 +0800" stop="20260127050000 +0800" channel="mbc max">
     <title lang="en">Loving</title>
     <desc lang="en">A true story that took place in the US during the racialsegregation period ,when the couple Richard and Mildred Loving were sent to Virginia State Prison in 1958 for violating marriage laws that racially separate whites and blacks at the time.</desc>
@@ -188,11 +182,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260127010000 +0800" stop="20260127025000 +0800" channel="mbc 2">
-    <title lang="en">Let Him Go</title>
-    <desc lang="en">The life of a retired sheriff and his wife takes a tragicturn when their only son passes away. Grief-stricken and unable to shake off their sense of loss, they set out on a journey to find their grandson.</desc>
+  <programme start="20260129120000 +0800" stop="20260129140000 +0800" channel="mbc max">
+    <title lang="en">Homefront</title>
+    <desc lang="en">A former DEA agent moves with his daughter to a small town,only to be confronted with the local Meth drug lord.  When his daughter becomes at risk, he stops at nothing to protect her.</desc>
     <category lang="en">Movie
-               (2020)</category>
+               (2013)</category>
   </programme>
   <programme start="20260127025000 +0800" stop="20260127042500 +0800" channel="mbc 2">
     <title lang="en">Adrift</title>
@@ -385,5 +379,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">In the fourth Jason Bourne feature film, a unique agent,Aaron Cross, is enrolled in an enhanced US Defense Department black ops program "Operation Outcome". Agents are given chemical pills to genetically  amplify their abilities. After the older programs are publicly exposed, CIA directors are investigated followed by a decision to shut down Outcome and eliminate all its agents and scientists.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260129130000 +0800" stop="20260129150000 +0800" channel="mbc 2">
+    <title lang="en">Jason Bourne</title>
+    <desc lang="en">Jason Bourne is chased by the CIA once again after formerCIA operative Nicky Parsons is out to expose the CIA's black ops.  Director Dewey sends CIA agent, Heather Lee to catch them both.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
