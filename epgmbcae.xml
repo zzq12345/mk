@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260127030000 +0800" stop="20260127050000 +0800" channel="mbc max">
-    <title lang="en">Loving</title>
-    <desc lang="en">A true story that took place in the US during the racialsegregation period ,when the couple Richard and Mildred Loving were sent to Virginia State Prison in 1958 for violating marriage laws that racially separate whites and blacks at the time.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260127050000 +0800" stop="20260127070000 +0800" channel="mbc max">
     <title lang="en">Selma</title>
     <desc lang="en">The film focuses on the life of Dr. Martin Luther King, Jr.,in 1965 when he led marches from Selma to Montgomery, Alabama to demand equal voting rights.&#13;
@@ -385,5 +379,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">Jason Bourne is chased by the CIA once again after formerCIA operative Nicky Parsons is out to expose the CIA's black ops.  Director Dewey sends CIA agent, Heather Lee to catch them both.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260129150000 +0800" stop="20260129170000 +0800" channel="mbc 2">
+    <title lang="en">Atomic Blonde</title>
+    <desc lang="en">On the eve of the fall of the Berlin wall, spy LorraineBroughton goes on a mission to bring down the spy network that killed an undercover agent for an unknown reason.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
