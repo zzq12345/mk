@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260128163000 +0800" stop="20260128190000 +0800" channel="mbc max">
-    <title lang="en">Prisoners</title>
-    <desc lang="en">When Keller Dover's (Hugh Jackman) daughter and herboyfriend go missing, the police start searching for leads to find her, but when they fail due to lack of evidence, Dover takes matters into his own hands.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260128190000 +0800" stop="20260128210000 +0800" channel="mbc max">
     <title lang="en">Foster Boy</title>
     <desc lang="en">The successful lawyer Michael and his young client Jamalmust put their differences aside in order to expose the corruption and injustice in the foster care system.</desc>
@@ -181,17 +175,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <category lang="en">Movie
                (2006)</category>
   </programme>
-  <programme start="20260128150000 +0800" stop="20260128180000 +0800" channel="mbc 2">
-    <title lang="en">Django Unchained</title>
-    <desc lang="en">With the help of a German bounty hunter, an ex-slave setsout to rescue his wife from an infamous and brutal Mississippi plantation owner.</desc>
+  <programme start="20260131033000 +0800" stop="20260131063000 +0800" channel="mbc max">
+    <title lang="en">Hook</title>
+    <desc lang="en">Peter Pan (Robin Williams) is back ,now a lawyer, marriedwith children. Captain Hook (Dustin Hoffman) kidnaps his children, and Peter is forced to return to Neverland with Tinkerbell (Julia Roberts) to help him find his children. Peter must remember how it feels to be a child to defeat Captain Hook again.</desc>
     <category lang="en">Movie
-               (2012)</category>
-  </programme>
-  <programme start="20260128180000 +0800" stop="20260128205000 +0800" channel="mbc 2">
-    <title lang="en">The Hateful Eight</title>
-    <desc lang="en">A play-off on John Sturge's 1960 film "The MagnificentSeven". The movie is set at the end of the nineteenth century, about a group of people being held inside a ruined building because of a rough snowstorm. Rath (Kurt Russell), who works as an bounty hunter, was escorting Daisy Domergue (Jennifer Jason Leigh) to court and gets encountered by four strangers.</desc>
-    <category lang="en">Movie
-               (2015)</category>
+               (1991)</category>
   </programme>
   <programme start="20260128205000 +0800" stop="20260128222500 +0800" channel="mbc 2">
     <title lang="en">Orphan: First Kill</title>
@@ -366,5 +354,11 @@ As the demonstrators faced the police forces, and after many hit-and-run ,their 
     <desc lang="en">In the fourth Jason Bourne feature film, a unique agent,Aaron Cross, is enrolled in an enhanced US Defense Department black ops program "Operation Outcome". Agents are given chemical pills to genetically  amplify their abilities. After the older programs are publicly exposed, CIA directors are investigated followed by a decision to shut down Outcome and eliminate all its agents and scientists.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260131033000 +0800" stop="20260131063000 +0800" channel="mbc 2">
+    <title lang="en">A Few Good Men</title>
+    <desc lang="en">Military lawyer Daniel Kaffee(Tom Cruise) is charged withdefending two marines accused of killing their colleague. His defense teammate Galloway (Demi Moore) believes they were only following orders from their superior. They unite to prove the truth that the Colonel wants to hide with all his might.</desc>
+    <category lang="en">Movie
+               (1992)</category>
   </programme>
 </tv>
