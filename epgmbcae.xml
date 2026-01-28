@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260128010000 +0800" stop="20260128030000 +0800" channel="mbc max">
-    <title lang="en">In the Line of Fire</title>
-    <desc lang="en">An aging secret service agent who suffers from the aftermathof the John F. Kennedy assassination in Dallas, receives calls from an unstable man telling him information about his plans to assassinate the current president.</desc>
-    <category lang="en">Movie
-               (1993)</category>
-  </programme>
-  <programme start="20260128030000 +0800" stop="20260128033000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260128033000 +0800" stop="20260128060000 +0800" channel="mbc max">
     <title lang="en">The Place Beyond the Pines</title>
     <desc lang="en">A motorcycle stunt rider (Ryan Gosling) makes a fatefuldecision to carry out robberies to support his girlfriend and baby. When a rookie cop (Bradley Cooper) pursues him, the two become locked on a tense collision course whose devastating consequences will impact their families for years to come.</desc>
@@ -180,11 +168,11 @@
     <category lang="en">Movie
                (2020)</category>
   </programme>
-  <programme start="20260128013000 +0800" stop="20260128031400 +0800" channel="mbc 2">
-    <title lang="en">Gangster Squad</title>
-    <desc lang="en">In late 1940s Los Angeles, a secret crew of determinedpolice officers try to take down a ruthless mob king, whose power and influence extend from his aides to the police, all the way up to the city's politicians.</desc>
+  <programme start="20260130120000 +0800" stop="20260130140000 +0800" channel="mbc max">
+    <title lang="en">Sorry to Bother You</title>
+    <desc lang="en">Hilarious Cassius “Cash” Green is a low-level telemarketerwho wonders about his life purpose. He learns that corporate success for a black worker happens by adopting a submissive personality that pleases white people. While his work mates form a union to defend their rights, management promotes successful Cassius to “Power Caller” to sell a virtual slaves’ workforce, which awakens his conscience.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2018)</category>
   </programme>
   <programme start="20260128031400 +0800" stop="20260128040000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -359,5 +347,11 @@
     <desc lang="en">An A cappella group enter into an international competitionthat no American team has ever won before.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260130130000 +0800" stop="20260130150000 +0800" channel="mbc 2">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">After their win in the World Championship, the Bellas splitup. When they reunite for one last time for an overseas USO tour, they come up against a group who can not only sing but also play instruments.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
