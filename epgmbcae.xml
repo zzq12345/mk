@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260129183000 +0800" stop="20260129210000 +0800" channel="mbc max">
-    <title lang="en">The Place Beyond the Pines</title>
-    <desc lang="en">A motorcycle stunt rider (Ryan Gosling) makes a fatefuldecision to carry out robberies to support his girlfriend and baby. When a rookie cop (Bradley Cooper) pursues him, the two become locked on a tense collision course whose devastating consequences will impact their families for years to come.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260129210000 +0800" stop="20260129230000 +0800" channel="mbc max">
     <title lang="en">Righteous Kill</title>
     <desc lang="en">With a serial killer who serves as a vigilante on the loose,two veteran cops team up with a younger duo in order to locate the murderer who has taken justice into his own hands. But the generation gap between the two investigating duos soon rears its head as the hunt for the killer heats up.</desc>
@@ -186,6 +180,12 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
+  <programme start="20260201080000 +0800" stop="20260201100000 +0800" channel="mbc max">
+    <title lang="en">Fool's Gold</title>
+    <desc lang="en">Finn and his ex-wife Tess embark on a treasure hunt thatrekindles the flames of their love.</desc>
+    <category lang="en">Movie
+               (2008)</category>
+  </programme>
   <programme start="20260129200000 +0800" stop="20260129230000 +0800" channel="mbc 2">
     <title lang="en">Django Unchained</title>
     <desc lang="en">With the help of a German bounty hunter, an ex-slave setsout to rescue his wife from an infamous and brutal Mississippi plantation owner.</desc>
@@ -351,6 +351,12 @@
   <programme start="20260201050000 +0800" stop="20260201070000 +0800" channel="mbc 2">
     <title lang="en">Pitch Perfect 2</title>
     <desc lang="en">An A cappella group enter into an international competitionthat no American team has ever won before.</desc>
+    <category lang="en">Movie
+               (2015)</category>
+  </programme>
+  <programme start="20260201070000 +0800" stop="20260201090000 +0800" channel="mbc 2">
+    <title lang="en">Ricki and the Flash</title>
+    <desc lang="en">Rock star Ricki (Meryl Streep), gave up everything for herdream of rock-and-roll stardom, is now returning home to make things right with her family.</desc>
     <category lang="en">Movie
                (2015)</category>
   </programme>
