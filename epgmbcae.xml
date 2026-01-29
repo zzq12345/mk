@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260130140000 +0800" stop="20260130163000 +0800" channel="mbc max">
-    <title lang="en">The Equalizer</title>
-    <desc lang="en">McCall (Denzel Washington) is a former black ops commandowho has faked his death to live a quiet life in Boston. When he comes out of his self-imposed retirement to rescue a young girl, Teri (Chloë Grace Moretz), he finds himself face to face with notorious Russian gangsters. As he serves vengeance against those who brutalize the helpless, McCall's desire for justice is reawakened.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260130163000 +0800" stop="20260130183000 +0800" channel="mbc max">
     <title lang="en">The Equalizer 2</title>
     <desc lang="en">Susan Plummer, a close friend of Robert McCall, dies whilelooking into a murder-suicide. He uses his resources and experience as a former spy and marine to track out the assailant and exact revenge on her.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260130150000 +0800" stop="20260130170000 +0800" channel="mbc 2">
-    <title lang="en">Atomic Blonde</title>
-    <desc lang="en">On the eve of the fall of the Berlin wall, spy LorraineBroughton goes on a mission to bring down the spy network that killed an undercover agent for an unknown reason.</desc>
+  <programme start="20260202013000 +0800" stop="20260202033000 +0800" channel="mbc max">
+    <title lang="en">Due Date</title>
+    <desc lang="en">Peter Highman (Robert Downey Jr.) is expecting the birth ofhis first baby in 5 days. On his way home from Atlanta, he loses his wallet and therefore is not allowed to board the plane.   In order not to miss the birth of his son, he must accept a ride cross country with Ethan Tremblay (Zach Galifianakis). Chaos ensues as the two men with nothing in common drive each other crazy.</desc>
     <category lang="en">Movie
-               (2017)</category>
+               (2010)</category>
   </programme>
   <programme start="20260130170000 +0800" stop="20260130190000 +0800" channel="mbc 2">
     <title lang="en">Bullet Head</title>
@@ -353,5 +347,11 @@
     <desc lang="en">Rock star Ricki (Meryl Streep), gave up everything for herdream of rock-and-roll stardom, is now returning home to make things right with her family.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260202013000 +0800" stop="20260202033000 +0800" channel="mbc 2">
+    <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
+    <desc lang="en">Ricky Bobby enjoys being a top NASCAR driver, but he oweshis success to the agreement between him and his best friend Cal Naughton, Jr. When a French Formula One driver enters the scene, Ricky Bobby's position is threatened and his talent is put under a true test.</desc>
+    <category lang="en">Movie
+               (2006)</category>
   </programme>
 </tv>
