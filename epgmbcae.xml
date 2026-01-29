@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260129210000 +0800" stop="20260129230000 +0800" channel="mbc max">
-    <title lang="en">Righteous Kill</title>
-    <desc lang="en">With a serial killer who serves as a vigilante on the loose,two veteran cops team up with a younger duo in order to locate the murderer who has taken justice into his own hands. But the generation gap between the two investigating duos soon rears its head as the hunt for the killer heats up.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
   <programme start="20260129230000 +0800" stop="20260130013000 +0800" channel="mbc max">
     <title lang="en">Prisoners</title>
     <desc lang="en">When Keller Dover's (Hugh Jackman) daughter and herboyfriend go missing, the police start searching for leads to find her, but when they fail due to lack of evidence, Dover takes matters into his own hands.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2008)</category>
   </programme>
-  <programme start="20260129200000 +0800" stop="20260129230000 +0800" channel="mbc 2">
-    <title lang="en">Django Unchained</title>
-    <desc lang="en">With the help of a German bounty hunter, an ex-slave setsout to rescue his wife from an infamous and brutal Mississippi plantation owner.</desc>
+  <programme start="20260201100000 +0800" stop="20260201120000 +0800" channel="mbc max">
+    <title lang="en">Burn After Reading</title>
+    <desc lang="en">A series of unexpected events leave a CD containinginformation from a former CIA operative in the hands of two gym employees who try to sell it back to him. When he refuses to take the bait, they try selling it to the Russian embassy.</desc>
     <category lang="en">Movie
-               (2012)</category>
+               (2008)</category>
   </programme>
   <programme start="20260129230000 +0800" stop="20260130010000 +0800" channel="mbc 2">
     <title lang="en">Marshall</title>
@@ -359,5 +353,11 @@
     <desc lang="en">Rock star Ricki (Meryl Streep), gave up everything for herdream of rock-and-roll stardom, is now returning home to make things right with her family.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260201090000 +0800" stop="20260201110000 +0800" channel="mbc 2">
+    <title lang="en">Step Brothers</title>
+    <desc lang="en">Middle-aged and unemployed (Brennan) and (Dale),are stayingin their parents homes.  Until the father of one of them decides to marry the other's mother, so they find themselves forced to live together in one house.  They have to work together to find a job.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
