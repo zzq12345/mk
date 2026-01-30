@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260130013000 +0800" stop="20260130033000 +0800" channel="mbc max">
-    <title lang="en">16 Blocks</title>
-    <desc lang="en">Detective Jack Mosley, who is an alcoholic, is assigned alast minute mission after a hard day's work. The mission is to escort a witness 16 blocks from the police station to the courthouse, but he discovers that several people want the witness dead, and Jack is faced with an unlikely situation where he has to choose between his duty and his loyalty to his police officer colleagues.</desc>
-    <category lang="en">Movie
-               (2006)</category>
-  </programme>
   <programme start="20260130033000 +0800" stop="20260130063000 +0800" channel="mbc max">
     <title lang="en">Hook</title>
     <desc lang="en">Peter Pan (Robin Williams) is back ,now a lawyer, marriedwith children. Captain Hook (Dustin Hoffman) kidnaps his children, and Peter is forced to return to Neverland with Tinkerbell (Julia Roberts) to help him find his children. Peter must remember how it feels to be a child to defeat Captain Hook again.</desc>
@@ -180,11 +174,11 @@
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260130010000 +0800" stop="20260130033000 +0800" channel="mbc 2">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">In the fourth Jason Bourne feature film, a unique agent,Aaron Cross, is enrolled in an enhanced US Defense Department black ops program "Operation Outcome". Agents are given chemical pills to genetically  amplify their abilities. After the older programs are publicly exposed, CIA directors are investigated followed by a decision to shut down Outcome and eliminate all its agents and scientists.</desc>
+  <programme start="20260201120000 +0800" stop="20260201140000 +0800" channel="mbc max">
+    <title lang="en">Kill the Messenger</title>
+    <desc lang="en">The reporter Gary Webb's life becomes threatened , when heuncovers a CIA inside plot that involves arming Contra rebels in Nicaragua and trafficking cocaine into California.</desc>
     <category lang="en">Movie
-               (2012)</category>
+               (2014)</category>
   </programme>
   <programme start="20260130033000 +0800" stop="20260130063000 +0800" channel="mbc 2">
     <title lang="en">A Few Good Men</title>
@@ -347,5 +341,11 @@
     <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260201113000 +0800" stop="20260201133000 +0800" channel="mbc 2">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">After years of growing apart, two high-class teenage girlsrevive their friendship again, and try to figure out a way to solve their problems together no matter what they have to do.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
