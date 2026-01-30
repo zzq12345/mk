@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260130203000 +0800" stop="20260130221500 +0800" channel="mbc max">
-    <title lang="en">Immortals</title>
-    <desc lang="en">Theseus is chosen by the god, Zeus, to lead the battleagainst the cruel King Hyperion and his dangerous army that announces it's war against humanity. Disasters and damage ensue in the heart of Greece in the search for an incredible weapon that has the ability to wipe out humanity.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260130221500 +0800" stop="20260131000000 +0800" channel="mbc max">
     <title lang="en">47 Ronin</title>
     <desc lang="en">This action epic brings to life the real tale of 47 samuraiwarriors who in 18th century Japan set out on a quest to avenge the death of their master, killed by a treacherous overlord who banished them from their homeland.</desc>
@@ -186,17 +180,11 @@
     <category lang="en">Movie
                (2008)</category>
   </programme>
-  <programme start="20260130190000 +0800" stop="20260130210000 +0800" channel="mbc 2">
-    <title lang="en">The Grinch</title>
-    <desc lang="en">A grumpy Grinch leading a solitary life with his dog isannoyed when the neighboring city of Whoville decides to throw brighter, larger, and more cheerful celebrations. He hatches a scheme to ruin their festivities, but his nefarious plan collides with a cheerful plan of a cheerful young girl.</desc>
+  <programme start="20260202080000 +0800" stop="20260202100000 +0800" channel="mbc max">
+    <title lang="en">88 Minutes</title>
+    <desc lang="en">Dr. Jack Gramm is a forensic psychologist whose testimonyhelps convict serial killer Jon Forster. As Forster's execution date looms closer, Gramm receives a call informing him that he only has 88 minutes to live.</desc>
     <category lang="en">Movie
-               (2018)</category>
-  </programme>
-  <programme start="20260130210000 +0800" stop="20260130233000 +0800" channel="mbc 2">
-    <title lang="en">Fatherhood</title>
-    <desc lang="en">When his wife passes away a day after his baby girl is born,a father must struggle to bring up his child as a single dad, and this unique experience teaches him a lot more about himself, the world, and what fatherhood really means.</desc>
-    <category lang="en">Movie
-               (2021)</category>
+               (2007)</category>
   </programme>
   <programme start="20260130233000 +0800" stop="20260131010000 +0800" channel="mbc 2">
     <title lang="en">The Lorax</title>
@@ -359,5 +347,11 @@
     <desc lang="en">"The Miserables" revolves around Jean Valjean who wasimprisoned for twenty years for stealing a loaf of bread. He escapes from prison and tries to start a new life as an honest man. Unfortunately he can't get rid of the belligerent policeman Javert who hunts him down. Valjean also decides to take care of the young orphaned Cosette, changing their lives forever.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260202073000 +0800" stop="20260202093000 +0800" channel="mbc 2">
+    <title lang="en">A Million Ways to Die in the West</title>
+    <desc lang="en">Albert is a sheep farmer who lacks courage, he loses hisbeloved girlfriend when he withdraws from a duel. He soon meets another lady, and his bravery and confidence must be put to the test when the lady's spouse, an infamous criminal, demands payback.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
