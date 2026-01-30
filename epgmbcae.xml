@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260130033000 +0800" stop="20260130063000 +0800" channel="mbc max">
-    <title lang="en">Hook</title>
-    <desc lang="en">Peter Pan (Robin Williams) is back ,now a lawyer, marriedwith children. Captain Hook (Dustin Hoffman) kidnaps his children, and Peter is forced to return to Neverland with Tinkerbell (Julia Roberts) to help him find his children. Peter must remember how it feels to be a child to defeat Captain Hook again.</desc>
-    <category lang="en">Movie
-               (1991)</category>
-  </programme>
   <programme start="20260130063000 +0800" stop="20260130083000 +0800" channel="mbc max">
     <title lang="en">Homefront</title>
     <desc lang="en">A former DEA agent moves with his daughter to a small town,only to be confronted with the local Meth drug lord.  When his daughter becomes at risk, he stops at nothing to protect her.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (1976)</category>
   </programme>
-  <programme start="20260130033000 +0800" stop="20260130063000 +0800" channel="mbc 2">
-    <title lang="en">A Few Good Men</title>
-    <desc lang="en">Military lawyer Daniel Kaffee(Tom Cruise) is charged withdefending two marines accused of killing their colleague. His defense teammate Galloway (Demi Moore) believes they were only following orders from their superior. They unite to prove the truth that the Colonel wants to hide with all his might.</desc>
+  <programme start="20260201160000 +0800" stop="20260201180000 +0800" channel="mbc max">
+    <title lang="en">Sleepless</title>
+    <desc lang="en">Vincent Downs is a cop in Las Vegas, who gets involved in adrug robbery with his corrupt partner. The Novaks, the crime family they robbed, abduct Downs's son in exchange for the stolen drugs, but things are not that simple.</desc>
     <category lang="en">Movie
-               (1992)</category>
+               (2017)</category>
   </programme>
   <programme start="20260130063000 +0800" stop="20260130090000 +0800" channel="mbc 2">
     <title lang="en">Paddington 2</title>
@@ -359,5 +353,11 @@
     <desc lang="en">The life of an unemployed family living in a poor apartmentchanges completely when the son becomes the English tutor for the daughter of a wealthy family. As the lives of the wealthy Park family and the destitute Kim family intersect, what follows is a web of deceit and disturbing violence.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260201160000 +0800" stop="20260201173000 +0800" channel="mbc 2">
+    <title lang="en">The Winter Lake</title>
+    <desc lang="en">When a troubled teenager makes an awful discovery in anearby lake, he gets in over his head as he uncovers a shocking truth that involves his neighbors who are hiding a dark secret.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
 </tv>
