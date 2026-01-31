@@ -361,9 +361,6 @@
 <channel id="Premier_Sports_Rugby">
   <display-name lang="zh">Premier Sports Rugby</display-name>
 </channel>
-<channel id="Astro_Cricket_Plus">
-  <display-name lang="zh">Astro Cricket Plus</display-name>
-</channel>
 <channel id="HITZ_FM">
   <display-name lang="zh">HITZ FM</display-name>
 </channel>
@@ -6177,11 +6174,11 @@
   <title lang="zh">Oru Nalla Naal Paathu Solren</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260201043000 +0800" stop="20260201073000 +0800" channel="KTV">
+<programme start="20260201043000 +0800" stop="20260201065000 +0800" channel="KTV">
   <title lang="zh">Pesadha Kannum Pesume</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260201073000 +0800" stop="20260201093000 +0800" channel="KTV">
+<programme start="20260201065000 +0800" stop="20260201093000 +0800" channel="KTV">
   <title lang="zh">Piragu</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -29011,10 +29008,6 @@
 </programme>
 <programme start="20260202220200 +0800" stop="20260202235200 +0800" channel="Premier_Sports_Rugby">
   <title lang="zh">URC: Sharks V Stormers</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260201003000 +0800" stop="20260201050000 +0800" channel="Astro_Cricket_Plus">
-  <title lang="zh">Thank You</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260201000000 +0800" stop="20260201030000 +0800" channel="HITZ_FM">
