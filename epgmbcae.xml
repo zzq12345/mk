@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260202100000 +0800" stop="20260202120000 +0800" channel="mbc max">
-    <title lang="en">Edge of Darkness</title>
-    <desc lang="en">Detective Thomas Craven is investigating the murder of hisactivist daughter. He not only exposes sensitive aspects of her secret life, but also clashes with crime organizations that try to erase any thread that may link her to them.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260202120000 +0800" stop="20260202140000 +0800" channel="mbc max">
     <title lang="en">Kill the Messenger</title>
     <desc lang="en">The reporter Gary Webb's life becomes threatened , when heuncovers a CIA inside plot that involves arming Contra rebels in Nicaragua and trafficking cocaine into California.</desc>
@@ -204,17 +198,17 @@
     <category lang="en">Movie
                (2020)</category>
   </programme>
-  <programme start="20260202093000 +0800" stop="20260202113000 +0800" channel="mbc 2">
-    <title lang="en">All I See Is You</title>
-    <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
-    <category lang="en">Movie
-               (2016)</category>
+  <programme start="20260204213500 +0800" stop="20260204220000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
-  <programme start="20260202113000 +0800" stop="20260202133000 +0800" channel="mbc 2">
-    <title lang="en">Thoroughbreds</title>
-    <desc lang="en">After years of growing apart, two high-class teenage girlsrevive their friendship again, and try to figure out a way to solve their problems together no matter what they have to do.</desc>
+  <programme start="20260204220000 +0800" stop="20260204233000 +0800" channel="mbc max">
+    <title lang="en">Goosebumps</title>
+    <desc lang="en">A young kid meets author R.L Stine's niece in the town ofGreendale, Maryland, following one of the writer's turns in which he uncovers his imagination's demons.</desc>
     <category lang="en">Movie
-               (2017)</category>
+               (2015)</category>
   </programme>
   <programme start="20260202133000 +0800" stop="20260202160000 +0800" channel="mbc 2">
     <title lang="en">Parasite</title>
@@ -413,5 +407,17 @@
     <desc lang="en">The story follows two New Orleans paramedics whose livesspiral out of control after a designer drug with strange effects causes a series of horrific deaths.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260204211000 +0800" stop="20260204230000 +0800" channel="mbc 2">
+    <title lang="en">In the Earth</title>
+    <desc lang="en">A scientist and a park scout travel far into the woods insearch of a cure for a deadly virus. As night falls, the forest around them comes to life, and their journey turns into a terrifying journey through the depths of the night.</desc>
+    <category lang="en">Movie
+               (2021)</category>
+  </programme>
+  <programme start="20260204230000 +0800" stop="20260205005000 +0800" channel="mbc 2">
+    <title lang="en">Flatliners</title>
+    <desc lang="en">Medical students experiment with the moments just beforedeath when the tragic and horrific events that are involved start to affect their lives negatively.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
