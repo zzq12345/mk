@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260202160000 +0800" stop="20260202173000 +0800" channel="mbc max">
-    <title lang="en">Sleepless</title>
-    <desc lang="en">Vincent Downs is a cop in Las Vegas, who gets involved in adrug robbery with his corrupt partner. The Novaks, the crime family they robbed, abduct Downs's son in exchange for the stolen drugs, but things are not that simple.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260202180000 +0800" stop="20260202193500 +0800" channel="mbc max">
     <title lang="en">Burn After Reading</title>
     <desc lang="en">A series of unexpected events leave a CD containinginformation from a former CIA operative in the hands of two gym employees who try to sell it back to him. When he refuses to take the bait, they try selling it to the Russian embassy.</desc>
@@ -209,12 +203,6 @@
     <desc lang="en">In the prehistoric period, when a horse-riding warlordsattack the tribe of (D'Leh) and abduct a number of its members, including his beloved, and flee to an unknown area. Dale leads a group of his tribe on a journey through this unknown land to take revenge on them and bring back his love and friends.</desc>
     <category lang="en">Movie
                (2008)</category>
-  </programme>
-  <programme start="20260202160000 +0800" stop="20260202173000 +0800" channel="mbc 2">
-    <title lang="en">The Winter Lake</title>
-    <desc lang="en">When a troubled teenager makes an awful discovery in anearby lake, he gets in over his head as he uncovers a shocking truth that involves his neighbors who are hiding a dark secret.</desc>
-    <category lang="en">Movie
-               (2020)</category>
   </programme>
   <programme start="20260202173000 +0800" stop="20260202191000 +0800" channel="mbc 2">
     <title lang="en">The Purge</title>
@@ -419,5 +407,11 @@
     <desc lang="en">An Italian American bouncer is hired by an African Americanpianist to accompany him around his venues in the 1960s when prejudice was still pervasive in southern America. Through their travels, they get closer.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260205030000 +0800" stop="20260205043500 +0800" channel="mbc 2">
+    <title lang="en">Seberg</title>
+    <desc lang="en">Based on true events, the film depicts the life of theFrench New Wave icon, Jean Seberg, whose political activism and her romantic relationship with Hakim Jamal, a civil activist as well, made her a target to Hoover's FBI.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
