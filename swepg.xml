@@ -1800,10 +1800,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260201013000 +0800" stop="20260201033000 +0800" channel="mbc max">
-    <title lang="en">Due Date</title>
-    <desc lang="en">Peter Highman (Robert Downey Jr.) is expecting the birth ofhis first baby in 5 days. On his way home from Atlanta, he loses his wallet and therefore is not allowed to board the plane.   In order not to miss the birth of his son, he must accept a ride cross country with Ethan Tremblay (Zach Galifianakis). Chaos ensues as the two men with nothing in common drive each other crazy.</desc>
-  </programme>
   <programme start="20260201033000 +0800" stop="20260201053000 +0800" channel="mbc max">
     <title lang="en">Burn After Reading</title>
     <desc lang="en">A series of unexpected events leave a CD containinginformation from a former CIA operative in the hands of two gym employees who try to sell it back to him. When he refuses to take the bait, they try selling it to the Russian embassy.</desc>
@@ -1832,10 +1828,6 @@
     <title lang="en">Sleepless</title>
     <desc lang="en">Vincent Downs is a cop in Las Vegas, who gets involved in adrug robbery with his corrupt partner. The Novaks, the crime family they robbed, abduct Downs's son in exchange for the stolen drugs, but things are not that simple.</desc>
   </programme>
-  <programme start="20260201013000 +0800" stop="20260201033000 +0800" channel="mbc 2">
-    <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
-    <desc lang="en">Ricky Bobby enjoys being a top NASCAR driver, but he oweshis success to the agreement between him and his best friend Cal Naughton, Jr. When a French Formula One driver enters the scene, Ricky Bobby's position is threatened and his talent is put under a true test.</desc>
-  </programme>
   <programme start="20260201033000 +0800" stop="20260201050000 +0800" channel="mbc 2">
     <title lang="en">Holmes &amp; Watson</title>
     <desc lang="en">A humorous take on Sir Arthur Conan Doyle's classic storiesfeaturing Sherlock Holmes and Doctor Watson as they investigate a mysterious murder at Buckingham Palace.</desc>
@@ -1863,10 +1855,6 @@
   <programme start="20260201160000 +0800" stop="20260201173000 +0800" channel="mbc 2">
     <title lang="en">The Winter Lake</title>
     <desc lang="en">When a troubled teenager makes an awful discovery in anearby lake, he gets in over his head as he uncovers a shocking truth that involves his neighbors who are hiding a dark secret.</desc>
-  </programme>
-  <programme start="20260201023000 +0800" stop="20260201033000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-    <desc lang="en">Monkey D. Luffy ate a fruit called Devil Fruit - Rubber to turn into a rubber boy when he was young. At the age of 17, he decides to go on a journey to sail the seas in search of the legendary treasure One Piece that Gol D. Roger mentioned before his execution. He is accompanied by a team of 8 people. What does fate have in store for them? | Type: Series (1999) | Rating: 8.8/10</desc>
   </programme>
   <programme start="20260201033000 +0800" stop="20260201050000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -2098,6 +2086,10 @@
   </programme>
   <programme start="20260203120000 +0800" stop="20260203130000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260203130000 +0800" stop="20260203140000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
   </programme>
   <programme start="20260126060000 +0800" stop="20260126063000 +0800" channel="第一财经">
@@ -71068,10 +71060,6 @@
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="华视">
-    <title lang="zh">华视1600整点新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201110000 +0000" channel="华视">
     <title lang="zh">华视新闻晚报</title>
     <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
@@ -71115,18 +71103,6 @@
   <programme start="20260201220000 +0000" stop="20260201230000 +0000" channel="华视">
     <title lang="zh">三国演议</title>
     <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201081500 +0000" channel="好消息2台">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
-  </programme>
-  <programme start="20260201081500 +0000" stop="20260201083000 +0000" channel="好消息2台">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
-  </programme>
-  <programme start="20260201083000 +0000" stop="20260201090000 +0000" channel="好消息2台">
-    <title lang="zh">空中主日学</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="好消息2台">
     <title lang="zh">叶光明讲座</title>
@@ -72003,14 +71979,6 @@
   <programme start="20260206073000 +0000" stop="20260206080000 +0000" channel="好消息2台">
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
-  </programme>
-  <programme start="20260201070000 +0000" stop="20260201090000 +0000" channel="好消息">
-    <title lang="zh">家庭电影院</title>
-    <desc lang="zh">「家庭电影院」推出充满人文气息的感人好片，让观众在家享受一个轻松的周末！</desc>
-  </programme>
-  <programme start="20260201090000 +0000" stop="20260201091500 +0000" channel="好消息">
-    <title lang="zh">小珍珠与阿达叔叔</title>
-    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
   </programme>
   <programme start="20260201091500 +0000" stop="20260201093000 +0000" channel="好消息">
     <title lang="zh">小珍珠与阿达叔叔</title>
@@ -73000,10 +72968,6 @@
     <title lang="zh">精选系列生命更新专题</title>
     <desc lang="zh">好消息电视台制作的一系列特别节目，内容围绕生命更新、信仰成长、圣经真理，旨在帮助观众认识耶稣、建立门徒生活，涵盖见证分享、专题讲座、职场／家庭／亲子等多元主题，是华人基督徒信仰造就的重要资源。</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="亚洲旅游台">
     <title lang="zh">效廉出发吧</title>
     <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
@@ -73480,10 +73444,6 @@
     <title lang="zh">暴走兄弟朝圣趣</title>
     <desc lang="zh">透过主持人卢广仲、李玉玺、美丽本人三兄弟挑战世界唯二被联合国列为世界文化遗产的参拜道：西班牙圣雅各之路与日本熊野古道的冒险实境节目，究竟其中有什么魔力吸引著一波又一波不论国界不分年龄的朝圣者，涌入这条古老的朝圣之路？</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201084000 +0000" channel="东森购物1台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260201084000 +0000" stop="20260201092000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
     <desc lang="zh">暂无描述</desc>
@@ -73857,10 +73817,6 @@
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260203224000 +0000" stop="20260203232000 +0000" channel="东森购物1台">
-    <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201084000 +0000" channel="东森购物2台">
     <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
@@ -74240,10 +74196,6 @@
     <title lang="zh">1/1-1/31全月消费实付满5,000元送【500元现金券】(每人限赠1次)。</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="华视新闻">
-    <title lang="zh">华视1600整点新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201110000 +0000" channel="华视新闻">
     <title lang="zh">华视新闻晚报</title>
     <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
@@ -74363,10 +74315,6 @@
   <programme start="20260204160000 +0000" stop="20260204200000 +0000" channel="倪珍播新闻">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">话时代人物</title>
-    <desc lang="zh">主持人郑弘仪，为您《话时代人物》，带来最精彩的人物专访。</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">iNEWS财经晚报</title>
@@ -74579,10 +74527,6 @@
   <programme start="20260203220000 +0000" stop="20260203230000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">2300iNEWS财经夜世界</title>
     <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="寰宇财经台">
-    <title lang="zh">小食光台味志</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="寰宇财经台">
     <title lang="zh">巷弄美食家</title>
@@ -74832,10 +74776,6 @@
     <title lang="zh">理财达人秀</title>
     <desc lang="zh">全台湾最精采好懂的理财影片！保险、股市、房地产、基金、投资观念，最实用的知识一看就通！投资新手到专家的讨论园地。</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻即时现场</title>
-    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="中视新闻">
     <title lang="zh">60分钟</title>
     <desc lang="zh">新闻杂志节目，深入探讨新闻时事与议题，将带给你全方位的报导。</desc>
@@ -74891,10 +74831,6 @@
   <programme start="20260201220000 +0000" stop="20260201230000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="中天新闻台">
-    <title lang="zh">cti网路论坛</title>
-    <desc lang="zh">中天2024全新网路论坛《两岸永久和平 大师对话系列》，每周六晚上11点准时开讲，我们邀请最顶尖大师，探讨两岸永久和平的可能性，更剖析年轻人心中的集体焦虑。</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="中天新闻台">
     <title lang="zh">中天新闻 1700整点新闻</title>
@@ -75372,10 +75308,6 @@
     <title lang="zh">15大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播陪你一起来解卦！！！</desc>
   </programme>
-  <programme start="20260201075500 +0000" stop="20260201085500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇整点新闻</title>
-    <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
   <programme start="20260201085500 +0000" stop="20260201095500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
     <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
@@ -75652,10 +75584,6 @@
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
   </programme>
-  <programme start="20260201075500 +0000" stop="20260201085500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球现场</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260201085500 +0000" stop="20260201095500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
     <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
@@ -75931,18 +75859,6 @@
   <programme start="20260204160000 +0000" stop="20260204200000 +0000" channel="寰宇新闻台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201083000 +0000" channel="第1商业台">
-    <title lang="zh">股市全攻略-丰银投顾-龚鸿彬分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260201083000 +0000" stop="20260201090000 +0000" channel="第1商业台">
-    <title lang="zh">汪海华_操盘的智慧</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260201090000 +0000" stop="20260201093000 +0000" channel="第1商业台">
-    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260201093000 +0000" stop="20260201100000 +0000" channel="第1商业台">
     <title lang="zh">赢家应对-顾德投顾-林泓橡分析师</title>
@@ -76812,10 +76728,6 @@
     <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260201050000 +0000" stop="20260201090000 +0000" channel="国会频道1台">
-    <title lang="zh">本周立法院会议转播</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201130000 +0000" channel="国会频道1台">
     <title lang="zh">本周立法院会议转播</title>
     <desc lang="zh">暂无描述</desc>
@@ -76895,10 +76807,6 @@
   <programme start="20260204160000 +0000" stop="20260204200000 +0000" channel="国会频道1台">
     <title lang="zh">节目未定</title>
     <desc lang="zh">节目资讯尚未公布。</desc>
-  </programme>
-  <programme start="20260201050000 +0000" stop="20260201090000 +0000" channel="国会频道2台">
-    <title lang="zh">本周立法院会议转播</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201130000 +0000" channel="国会频道2台">
     <title lang="zh">本周立法院会议转播</title>
@@ -99943,163 +99851,6 @@ Gino心疼最后太辛苦了
   <programme start="20250225080500 +0000" stop="20250225085500 +0000" channel="包青天 1993版">
     <title lang="zh"/>
     <desc lang="zh">湖州文家四兄弟，横行湖州，天怒人怨。王丞相（曹健）到湖州办事遇袭，幸展昭相救。皇帝把包拯贬往湖州，实名其暗中查清文家兄弟恶行。包公到湖州重审九尸十命大案，文家四少爷文信（宋达民饰，绰号玉面龙）心肠较好，与伶人施凤英（金玉岚饰）暗中相恋。宁儿向包大人说出当年灭门惨案始末。</desc>
-  </programme>
-  <programme start="20250221053500 +0000" stop="20250221062500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥与珍贺斋小儿子秉信要结婚了，但衰事却接二连三而来，婆婆苏林彩香认为小鸥是扫把星。三年后，小鸥与秉信结婚纪念日出游，秉信却意外往生，夫家对小鸥更不谅解。某年中秋，不相往来的前婆婆竟来了电话，要小鸥回去吃团圆饭。</desc>
-  </programme>
-  <programme start="20250221062500 +0000" stop="20250221071500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">前婆婆要小鸥放弃继承秉信保险金，小鸥只有一个条件，从此各走各的路。彩香心里愧疚，要师傅发贵送小鸥去搭车，路上却出车祸，只能先回珍贺斋。儿女们没人想接传统饼铺，彩香也因为生意不好不想再打拼，决定要跟儿子去台北生活。</desc>
-  </programme>
-  <programme start="20250221071500 +0000" stop="20250221080500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">珍贺斋暂时歇业，大家共挤一车回台北，路上车子抛锚，大家怪罪小鸥带赛，小鸥一气之下下车。老二秉孝先前听到妈妈有保险金，想著可以挖点钱，便将妈妈接回自家。小鸥把内衣忘在珍贺斋，发贵问他该如何处理？两人聊起珍贺斋，想著秉信。</desc>
-  </programme>
-  <programme start="20250221080500 +0000" stop="20250221090000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">大美为了让小鸥从失去丈夫的伤痛中走出来，怂恿他找寻另一段感情。小鸥参加同学会，喝醉酒后更想念秉信，打了电话给发贵，两人对汉饼理念不合吵了起来。秉孝带彩香四处享受，时机到了便游说彩香投资，彩香经不起儿子步步进逼，只能拿钱出来。</desc>
-  </programme>
-  <programme start="20250221090000 +0000" stop="20250221095500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">彩香认为秉孝靠不住，不愿再投资，秉孝就用女儿妮妮出国比赛为理由向彩香要经费，妮妮私下告诉阿妈自己没天分。虽然珍贺斋暂时歇业，发贵却没闲著，他决定要重新让珍贺斋光耀门楣。秉孝无法再用相同招数向妈妈拿钱，于是改变方针再次进击。</desc>
-  </programme>
-  <programme start="20250221095500 +0000" stop="20250221105000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">大美逼著小鸥与古董商约见面。骨董商是发贵朋友陪著同去，发现对象是小鸥，两人不说一声便离开。小鸥在等待骨董商时，碰到大哥秉忠在欺骗女网友，当场拆穿真面目，女网友愤而离开。彩香为了脱离秉孝，坚持住在秉忠家，惹得媳妇佳纯不开心。</desc>
-  </programme>
-  <programme start="20250221105000 +0000" stop="20250221114500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">彩香住到秉忠家，由于生活习惯与价值观的差异，与大媳妇常闹意见；直到参加电视节目录影，终于爆发婆媳之间的大争吵。秉忠因为生意出问题，希望彩香能出钱帮他。大美帮小鸥约了一个从事殡葬的网友见面，黑道海星对她很有好感。</desc>
-  </programme>
-  <programme start="20250221114500 +0000" stop="20250221124000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">彩香拿出两百万给秉忠，想不到转眼被投资人卷款而逃，秉忠失魂落魄；但佳纯无时无刻不逼著秉忠请彩香离开。小鸥被海星缠上了，只好躲起来避不见面。发贵来到了小鸥的咖啡厅，正好遇上黑道兄弟找小鸥，大美要发贵保护小鸥离开。</desc>
-  </programme>
-  <programme start="20250221124000 +0000" stop="20250221133500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥没地方去，发贵只好带她回珍贺斋；小鸥跟发贵去找坤哥做生意，在小鸥的游说下，终于同意把女儿结婚的喜饼交给珍贺斋来做。佳纯找了外佣来，要彩香让出房间。电视播出曾国城的《谁来晚餐》节目，佳纯崩溃，婆婆决定住到秉仁家去。</desc>
-  </programme>
-  <programme start="20250221133500 +0000" stop="20250221143000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">发贵找了几个师傅来帮忙做饼，阿顺也来了，让小鸥发现阿顺竟然是放她鸽子的古董商。秉仁终于当了导演，在大美的咖啡厅拍摄，恰巧海星来找小鸥，阴错阳差被彩香给吓走了。秉仁私生活浪荡，常带不同女人回家，彩香担心，开始想计谋，要挖洞给他跳。</desc>
-  </programme>
-  <programme start="20250221143000 +0000" stop="20250221152500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥想要促成上云与发贵，借故让两人独处，但发贵却对这样的安排很反感，因为他心里已经住著别人。彩香为了让秉仁安定下来，一起带著小飞去动物园玩，却换来秉仁明确告知不会结婚的消息。喜饼惨遭坤哥退货，小鸥只能将喜饼寄卖在大美店里，被误会是小鸥与发贵的喜饼。</desc>
-  </programme>
-  <programme start="20250221152500 +0000" stop="20250221162000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">彩香又被踢皮球的送到秉爱家去，这次换秉爱游说彩香替她男友艾力克开健身房。彩香看不惯艾力克的所做所为，替秉爱不值。小鸥回台北促销喜饼，赚的钱送去给彩香，秉爱趁机要小鸥将彩香带走，小鸥将她安顿在与秉信结婚时买的房子。</desc>
-  </programme>
-  <programme start="20250221162000 +0000" stop="20250221171500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">彩香发现秉信家里有为她准备的水杯，她想起秉信伤心，于是离开住处，在路上闲逛，遇到来台北找她的一哥，彩香说不想回去秉信的家，一哥带她去住青年旅社。秉爱从大美口中知道妈妈住在青年旅社，不愿她和一哥在一起，把彩香带走。</desc>
-  </programme>
-  <programme start="20250221171500 +0000" stop="20250221181000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥遇到跟秉信长得相似的客人，但他隔天一早就要回国，只有一个晚上的相处时间。彩香不再经营珍贺斋，要发贵另谋出路。他打算到台中做太阳饼，但搭车过头到了台北，于是去找小鸥。小鸥带发贵四处去品尝有名的糕饼店，希望从中吸取情报。</desc>
-  </programme>
-  <programme start="20250221181000 +0000" stop="20250221190500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥带发贵到她家住，隔天还说服大美让发贵去店里当甜点师傅。一哥去找上云观落阴，希望苏通答应让他照顾彩香，苏通要一哥找继承人经营珍贺斋。大美和小鸥、发贵吵了一架，大美的话语刺伤小鸥，小鸥伤心离开。</desc>
-  </programme>
-  <programme start="20250221190500 +0000" stop="20250221200000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">发贵找到面包店的工作，但发贵看不惯面包店偷工减料的工作模式，头也不回的离开了。小鸥送小飞回台南，正好帮珍贺斋化解了一段灾难，彩香谢谢小鸥便给了她秉信的玩具，小鸥看著玩偶和玩具，像是听到了秉信在要她留下来一起奋斗。</desc>
-  </programme>
-  <programme start="20250221200000 +0000" stop="20250221205500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">一哥的爸爸一公要做百岁大寿，寿宴要珍贺斋举办，大家讨论活动细节，只有小鸥提出的花招最对一公的胃口，就这么拍板定案。彩香不开心不愿帮忙，小鸥找以前的师傅帮忙，却处处被刁难，这时发贵就像有预感小鸥有麻烦似的，赶回来救场。</desc>
-  </programme>
-  <programme start="20250221205500 +0000" stop="20250221215000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">一公做完大寿后，彩香小鸥发贵三人都喝醉了，不知不觉签下重开珍贺斋的协议，隔天在一哥的促成下，珍贺斋终于重新开幕。但彩香与小鸥却还是常闹意见。秉孝听说了珍贺斋重新开幕的消息，找齐兄弟三人商量把小鸥赶出珍贺斋。</desc>
-  </programme>
-  <programme start="20250221215000 +0000" stop="20250221224500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">秉孝用上云这块招牌来吓彩香，说小鸥在此三天便会有血光之灾，彩香听信害怕，整天疑神疑鬼，三天到了当然没事发生。三兄弟没得逞，趁著小鸥回台北，又设计了秉忠被仙人跳的遭遇，要彩香卖地契，彩香没办法看自己孩子束手无策，准备把地契拿出来。</desc>
-  </programme>
-  <programme start="20250221224500 +0000" stop="20250221234000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥拆穿三兄弟的骗局，三兄弟只能回台北。
-珍贺斋面临经营困境，小鸥提出改革，加入现代化的经营方式。秉孝带著女儿妮妮回来跟彩香道歉，暗地里却跟乡亲募款，说是妮妮要参加国际比赛为国争光，募了一百多万，秉孝拿到钱就赶紧离开。</desc>
-  </programme>
-  <programme start="20250221234000 +0000" stop="20250222003500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">秉孝骗不成妈妈，转头骗了乡亲，彩香只能一一赔罪。秉仁被房东赶出，只能回家要钱。彩香要他对珍贺斋有贡献，才愿意给钱，小鸥便派秉仁一起去做市场调查，但却让发贵跟彩香误会，还找一哥陪她跟踪秉仁与小鸥，但反倒让人误会彩香跟一哥偷情。</desc>
-  </programme>
-  <programme start="20250222003500 +0000" stop="20250222013000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥经过市场调查后，推出椪饼当明星商品，刚开始生意有起色，没多久就又生意清淡了。彩香从某人过世的祭台上看到了一堆椪饼，才知道最近几乎都是一哥花钱请人来买的，于是决定改推出女皇饼。一推出果然生意兴隆，还接到三百盒订单。</desc>
-  </programme>
-  <programme start="20250222013000 +0000" stop="20250222022500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">三百盒订单，客人反悔取消了，原来这是某人为了要让小鸥死心而设计的。再加上发生口蹄疫，让加有猪肉的女皇饼更是不能再卖了。秉仁决定采用OEM的方式销售太阳饼，彩香愿意给他一次机会听从。但OEM偷工减料，太阳饼不好吃，当然卖得不好。</desc>
-  </programme>
-  <programme start="20250222022500 +0000" stop="20250222032000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">奚妈与奚姊联合秉仁用尽办法要把小鸥带回台北，小鸥跟妈妈约定两年的时间，没成功就会回家听从安排。艾力克要离开台北到高雄健身房当店长，秉爱觉得如果有钱帮艾力克开健身房，艾力克就不用离开，于是她也开始滋长了歪脑筋。</desc>
-  </programme>
-  <programme start="20250222032000 +0000" stop="20250222041500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">秉爱伙同仲介，把一哥要卖250万的房子提高到500万，让买方的彩香白白损失了250万。纸包不住火，彩香还是得知了秉爱吞了她的钱，但彩香不愿追究，就让她走了。大美带一日本记者来找小鸥，要小鸥带记者介绍台南观光。</desc>
-  </programme>
-  <programme start="20250222041500 +0000" stop="20250222051000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥带英树四处参观拍照，俩人相处愉快，英树对小鸥告白，还希望能与他一起去欧洲。发贵受到英树的刺激，想用新口味的饼留下小鸥，更加奋发努力研发新产品。彩香请大家来试吃评价，大家都称赞有加，唯独小鸥觉得还是不够好。</desc>
-  </programme>
-  <programme start="20250222051000 +0000" stop="20250222060500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">彩香和发贵知道英树向小鸥告白后，深怕小鸥会跟英树离开，无一不想尽办法取得小鸥欢心。发贵做出土凤梨和金钻两种不同内馅凤梨酥，彩香和小鸥喜好不同，各有坚持，在争执不下的情况，于是举办试吃会让大家评选。</desc>
-  </programme>
-  <programme start="20250222060500 +0000" stop="20250222070000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">发贵最后靠金钻和土凤梨融合成的凤梨酥，赢得在场所有人的一致认同，明星商品就这样决定了。但彩香和小鸥又为了行销方式僵持不下。佳纯告知秉忠珍贺斋凤梨酥大卖，秉忠在老婆的怂恿下赶回台南家里，准备当现成的珍贺斋老板。</desc>
-  </programme>
-  <programme start="20250222070000 +0000" stop="20250222075500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥要发贵去参加凤梨酥神人大赛，发贵虽然很是犹豫，却还是听话去了，秉忠虽不同意却也无权力阻止，但要求不能耽误店里出货。秉忠百般制造机会，说服彩香由他全权经营珍贺斋。发贵白天工作，只能趁晚上下工练习，小鸥带宵夜陪伴。</desc>
-  </programme>
-  <programme start="20250222075500 +0000" stop="20250222085000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">比赛日到了，小鸥却因连日的劳累病倒了，所有人都到现场替发贵加油。临近比赛时间，小鸥发现发贵竟忘了带走比赛用的厨师服，于是她不顾自己的不舒服，紧急将制服送达，发贵才得以比赛。菠萝蜜和阿堂离开台北面包店，跑来投靠发贵。</desc>
-  </programme>
-  <programme start="20250222085000 +0000" stop="20250222094500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">秉忠虽然接了很多网路订单，被投诉的也不少。小鸥想提升凤梨酥的形象，改善包装，于是她回台北，找以前秉信任职的公司咨询设计。一哥近来感觉身体常常出状况，拿著身体检查报告去找医生询问，才知道身体长了坏东西，医生要他尽快住院开刀。</desc>
-  </programme>
-  <programme start="20250222094500 +0000" stop="20250222104000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">小鸥了解凤梨酥有很大的市场，但需要花六百万包装产品与形象。彩香不愿意花这笔钱，宣布退休，饼店由秉忠继承，秉忠将小鸥贬为时薪人员，小鸥决定离开珍贺斋，发贵阿堂跟进，决心自行开业。一哥替他们想了店名-深圆烘焙，小鸥申请贷款，开始装潢店面。</desc>
-  </programme>
-  <programme start="20250222104000 +0000" stop="20250222113500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">发贵向小鸥表白，小鸥有些心动，气氛正好要接吻时，却同时想起秉信，两人决定当朋友，全心创业。珍贺斋赶著中秋节订单，人手不足，加上发贵已离职，凤梨酥品质当然不好，一堆人来退货。一哥不让小鸥发贵知道生病的事，骗说即将要去阿根廷。</desc>
-  </programme>
-  <programme start="20250222113500 +0000" stop="20250222123000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">珍贺斋一过中秋后，生意一落千丈。小鸥避开中秋节这大战场，选在中秋夜悄悄开幕，主打网路行销，订单慢慢增多；秉忠不甘心，用下流手段恶性竞争，毁谤深圆烘焙的凤梨酥所使用的凤梨有打生长激素，影响深圆烘焙的生意。秉仁持续失踪著。</desc>
-  </programme>
-  <programme start="20250222123000 +0000" stop="20250222132500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">这次换秉孝出招，他到处放话发贵和小鸥私奔、还发存证信函要告发贵，说他偷走凤梨酥配方，要让他们停卖凤梨酥。彩香一直找不到的秉仁，大美一通简讯就找到了，原来是秉仁生病，不愿意让妈妈彩香担心，所以躲起来不接电话、也不联络。</desc>
-  </programme>
-  <programme start="20250222132500 +0000" stop="20250222142000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">秉仁教大美剪接，将当初在研发凤梨酥时所拍的影片，剪好放到网路上，造成舆论转向，对深圆烘焙一片叫好，业绩节节上升。秉孝与旅行社合作，争取大陆观光客，果然接到不少订单，但师傅都不愿再来珍贺斋工作。在这节骨眼上，秉孝被警察带走了。</desc>
-  </programme>
-  <programme start="20250222142000 +0000" stop="20250222151500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">秉爱卖山寨版珍贺斋女儿饼，被发贵和小鸥撞见，双方大吵一架，不欢而散。发贵送小鸥一条项链当生日礼物。彩香终于知道秉仁和一哥的去向，俩人都瞒著她独自承受身体病痛，彩香痛哭失声。菠萝蜜爆料珍贺斋使用过期奶油，只能暂时歇业。</desc>
-  </programme>
-  <programme start="20250222151500 +0000" stop="20250222161000 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">彩香去一哥家里拿换洗衣物，发现一哥留了遗书。彩香决定北上，聚集所有的孩子，劝他们要脚踏实地，因为她决定不再替孩子们担心受怕，她要放手过自己想要的生活。彩香学著一哥立下遗书，交代了身后事，并写明将不会留遗产给任何孩子。</desc>
-  </programme>
-  <programme start="20250222161000 +0000" stop="20250222170500 +0000" channel="我的婆婆怎么那么可爱">
-    <title lang="zh"/>
-    <desc lang="zh">秉孝终于可以保释出狱，代价是妮妮要在深圆工作三年偿还保释金。彩香将遗书寄给孩子后，就去医院全心照顾一哥。孩子们收到后，担心遗产著落，纷纷赶回去找彩香；找了许久终于在医院找到，他们希望彩香能授权告深圆，求取侵权赔偿金。</desc>
   </programme>
   <programme start="20250221182500 +0000" stop="20250221191500 +0000" channel="村里来了个暴走女外科">
     <title lang="zh"/>
@@ -196944,19 +196695,15 @@ Gino心疼最后太辛苦了
     <title lang="zh">Total Combat 2025: Episode Number 43</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260202083000 +0800" stop="20260202110000 +0800" channel="Astro_Sports_Plus">
-    <title lang="zh">(L) Nascar 2026: Cook Out Clash</title>
+  <programme start="20260202083000 +0800" stop="20260202101000 +0800" channel="Astro_Sports_Plus">
+    <title lang="zh">UCI Cyclo-cross WC: Women Junior</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260202110000 +0800" stop="20260202113100 +0800" channel="Astro_Sports_Plus">
-    <title lang="zh">Own The Moment: Ep1 - Sekys</title>
+  <programme start="20260202101000 +0800" stop="20260202120000 +0800" channel="Astro_Sports_Plus">
+    <title lang="zh">UCI Cyclo-cross WC: Men U23</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260202113100 +0800" stop="20260202120100 +0800" channel="Astro_Sports_Plus">
-    <title lang="zh">Own The Moment: Ep2 - Innocent</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260202120100 +0800" stop="20260202144000 +0800" channel="Astro_Sports_Plus">
+  <programme start="20260202120000 +0800" stop="20260202144000 +0800" channel="Astro_Sports_Plus">
     <title lang="zh">(D) FEI NAL Jumping WC Qualifiers Thermal</title>
     <desc lang="zh"> </desc>
   </programme>

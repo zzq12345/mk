@@ -1800,10 +1800,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260201013000 +0800" stop="20260201033000 +0800" channel="mbc max">
-    <title lang="en">Due Date</title>
-    <desc lang="en">Peter Highman (Robert Downey Jr.) is expecting the birth ofhis first baby in 5 days. On his way home from Atlanta, he loses his wallet and therefore is not allowed to board the plane.   In order not to miss the birth of his son, he must accept a ride cross country with Ethan Tremblay (Zach Galifianakis). Chaos ensues as the two men with nothing in common drive each other crazy.</desc>
-  </programme>
   <programme start="20260201033000 +0800" stop="20260201053000 +0800" channel="mbc max">
     <title lang="en">Burn After Reading</title>
     <desc lang="en">A series of unexpected events leave a CD containinginformation from a former CIA operative in the hands of two gym employees who try to sell it back to him. When he refuses to take the bait, they try selling it to the Russian embassy.</desc>
@@ -1832,10 +1828,6 @@
     <title lang="en">Sleepless</title>
     <desc lang="en">Vincent Downs is a cop in Las Vegas, who gets involved in adrug robbery with his corrupt partner. The Novaks, the crime family they robbed, abduct Downs's son in exchange for the stolen drugs, but things are not that simple.</desc>
   </programme>
-  <programme start="20260201013000 +0800" stop="20260201033000 +0800" channel="mbc 2">
-    <title lang="en">Talladega Nights: The Ballad of Ricky Bobby</title>
-    <desc lang="en">Ricky Bobby enjoys being a top NASCAR driver, but he oweshis success to the agreement between him and his best friend Cal Naughton, Jr. When a French Formula One driver enters the scene, Ricky Bobby's position is threatened and his talent is put under a true test.</desc>
-  </programme>
   <programme start="20260201033000 +0800" stop="20260201050000 +0800" channel="mbc 2">
     <title lang="en">Holmes &amp; Watson</title>
     <desc lang="en">A humorous take on Sir Arthur Conan Doyle's classic storiesfeaturing Sherlock Holmes and Doctor Watson as they investigate a mysterious murder at Buckingham Palace.</desc>
@@ -1863,10 +1855,6 @@
   <programme start="20260201160000 +0800" stop="20260201173000 +0800" channel="mbc 2">
     <title lang="en">The Winter Lake</title>
     <desc lang="en">When a troubled teenager makes an awful discovery in anearby lake, he gets in over his head as he uncovers a shocking truth that involves his neighbors who are hiding a dark secret.</desc>
-  </programme>
-  <programme start="20260201023000 +0800" stop="20260201033000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-    <desc lang="en">Monkey D. Luffy ate a fruit called Devil Fruit - Rubber to turn into a rubber boy when he was young. At the age of 17, he decides to go on a journey to sail the seas in search of the legendary treasure One Piece that Gol D. Roger mentioned before his execution. He is accompanied by a team of 8 people. What does fate have in store for them? | Type: Series (1999) | Rating: 8.8/10</desc>
   </programme>
   <programme start="20260201033000 +0800" stop="20260201050000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -2098,6 +2086,10 @@
   </programme>
   <programme start="20260203120000 +0800" stop="20260203130000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260203130000 +0800" stop="20260203140000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
   </programme>
   <programme start="20260126060000 +0800" stop="20260126063000 +0800" channel="第一財經">
@@ -71068,10 +71060,6 @@
     <title lang="zh">中視新聞</title>
     <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="華視">
-    <title lang="zh">華視1600整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201110000 +0000" channel="華視">
     <title lang="zh">華視新聞晚報</title>
     <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
@@ -71115,18 +71103,6 @@
   <programme start="20260201220000 +0000" stop="20260201230000 +0000" channel="華視">
     <title lang="zh">三國演議</title>
     <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞臺北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201081500 +0000" channel="好消息2臺">
-    <title lang="zh">小珍珠與阿達叔叔</title>
-    <desc lang="zh">好消息電視臺製播的兒少節目，由充滿人生智慧的阿達叔叔劉清彥主持，精力十足又問題多多的的小珍珠每次都要來找阿達叔叔的麻煩…不，是請阿達叔叔幫她解決層出不窮的各種麻煩，透過兩人的趣味互動，讓小朋友輕鬆學習做人的道理。</desc>
-  </programme>
-  <programme start="20260201081500 +0000" stop="20260201083000 +0000" channel="好消息2臺">
-    <title lang="zh">小珍珠與阿達叔叔</title>
-    <desc lang="zh">好消息電視臺製播的兒少節目，由充滿人生智慧的阿達叔叔劉清彥主持，精力十足又問題多多的的小珍珠每次都要來找阿達叔叔的麻煩…不，是請阿達叔叔幫她解決層出不窮的各種麻煩，透過兩人的趣味互動，讓小朋友輕鬆學習做人的道理。</desc>
-  </programme>
-  <programme start="20260201083000 +0000" stop="20260201090000 +0000" channel="好消息2臺">
-    <title lang="zh">空中主日學</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="好消息2臺">
     <title lang="zh">葉光明講座</title>
@@ -72003,14 +71979,6 @@
   <programme start="20260206073000 +0000" stop="20260206080000 +0000" channel="好消息2臺">
     <title lang="zh">福氣人生</title>
     <desc lang="zh">如何才能擁有福氣人生?看牧師們以臺語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-  </programme>
-  <programme start="20260201070000 +0000" stop="20260201090000 +0000" channel="好消息">
-    <title lang="zh">家庭電影院</title>
-    <desc lang="zh">「家庭電影院」推出充滿人文氣息的感人好片，讓觀眾在家享受一個輕鬆的週末！</desc>
-  </programme>
-  <programme start="20260201090000 +0000" stop="20260201091500 +0000" channel="好消息">
-    <title lang="zh">小珍珠與阿達叔叔</title>
-    <desc lang="zh">好消息電視臺製播的兒少節目，由充滿人生智慧的阿達叔叔劉清彥主持，精力十足又問題多多的的小珍珠每次都要來找阿達叔叔的麻煩…不，是請阿達叔叔幫她解決層出不窮的各種麻煩，透過兩人的趣味互動，讓小朋友輕鬆學習做人的道理。</desc>
   </programme>
   <programme start="20260201091500 +0000" stop="20260201093000 +0000" channel="好消息">
     <title lang="zh">小珍珠與阿達叔叔</title>
@@ -73000,10 +72968,6 @@
     <title lang="zh">精選系列生命更新專題</title>
     <desc lang="zh">好消息電視臺製作的一系列特別節目，內容圍繞生命更新、信仰成長、聖經真理，旨在幫助觀眾認識耶穌、建立門徒生活，涵蓋見證分享、專題講座、職場／家庭／親子等多元主題，是華人基督徒信仰造就的重要資源。</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="亞洲旅遊臺">
-    <title lang="zh">效廉出發吧</title>
-    <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="亞洲旅遊臺">
     <title lang="zh">效廉出發吧</title>
     <desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
@@ -73480,10 +73444,6 @@
     <title lang="zh">暴走兄弟朝聖趣</title>
     <desc lang="zh">透過主持人盧廣仲、李玉璽、美麗本人三兄弟挑戰世界唯二被聯合國列為世界文化遺產的參拜道：西班牙聖雅各之路與日本熊野古道的冒險實境節目，究竟其中有什麼魔力吸引著一波又一波不論國界不分年齡的朝聖者，湧入這條古老的朝聖之路？</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201084000 +0000" channel="東森購物1臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260201084000 +0000" stop="20260201092000 +0000" channel="東森購物1臺">
     <title lang="zh">鎖定CH.43、CH.49選購</title>
     <desc lang="zh">暫無描述</desc>
@@ -73857,10 +73817,6 @@
     <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260203224000 +0000" stop="20260203232000 +0000" channel="東森購物1臺">
-    <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201084000 +0000" channel="東森購物2臺">
     <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
@@ -74240,10 +74196,6 @@
     <title lang="zh">1/1-1/31全月消費實付滿5,000元送【500元現金券】(每人限贈1次)。</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="華視新聞">
-    <title lang="zh">華視1600整點新聞</title>
-    <desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201110000 +0000" channel="華視新聞">
     <title lang="zh">華視新聞晚報</title>
     <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
@@ -74363,10 +74315,6 @@
   <programme start="20260204160000 +0000" stop="20260204200000 +0000" channel="倪珍播新聞">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="三立新聞iNEWS">
-    <title lang="zh">話時代人物</title>
-    <desc lang="zh">主持人鄭弘儀，為您《話時代人物》，帶來最精彩的人物專訪。</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">iNEWS財經晚報</title>
@@ -74579,10 +74527,6 @@
   <programme start="20260203220000 +0000" stop="20260203230000 +0000" channel="三立新聞iNEWS">
     <title lang="zh">2300iNEWS財經夜世界</title>
     <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="寰宇財經臺">
-    <title lang="zh">小食光臺味誌</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="寰宇財經臺">
     <title lang="zh">巷弄美食家</title>
@@ -74832,10 +74776,6 @@
     <title lang="zh">理財達人秀</title>
     <desc lang="zh">全臺灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</desc>
   </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="中視新聞">
-    <title lang="zh">中視新聞即時現場</title>
-    <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="中視新聞">
     <title lang="zh">60分鐘</title>
     <desc lang="zh">新聞雜誌節目，深入探討新聞時事與議題，將帶給你全方位的報導。</desc>
@@ -74891,10 +74831,6 @@
   <programme start="20260201220000 +0000" stop="20260201230000 +0000" channel="中視新聞">
     <title lang="zh">中視新聞全球報導</title>
     <desc lang="zh">中視每晚七點由主播哈遠儀為全國觀眾最專業、準確的新聞報導。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="中天新聞臺">
-    <title lang="zh">cti網路論壇</title>
-    <desc lang="zh">中天2024全新網路論壇《兩岸永久和平 大師對話系列》，每週六晚上11點準時開講，我們邀請最頂尖大師，探討兩岸永久和平的可能性，更剖析年輕人心中的集體焦慮。</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="中天新聞臺">
     <title lang="zh">中天新聞 1700整點新聞</title>
@@ -75372,10 +75308,6 @@
     <title lang="zh">15大新聞大爆卦</title>
     <desc lang="zh">每週一到週五《大新聞大爆卦》中天主播陪你一起來解卦！！！</desc>
   </programme>
-  <programme start="20260201075500 +0000" stop="20260201085500 +0000" channel="寰宇新聞臺灣臺">
-    <title lang="zh">寰宇整點新聞</title>
-    <desc lang="zh">來自路透的國際新聞、最在地的臺灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-  </programme>
   <programme start="20260201085500 +0000" stop="20260201095500 +0000" channel="寰宇新聞臺灣臺">
     <title lang="zh">寰宇晚間新聞</title>
     <desc lang="zh">寰宇晚間新聞給你最在地的臺灣新聞、最深入的兩岸焦點，掌握國際情勢帶您瞭解社會脈動。</desc>
@@ -75652,10 +75584,6 @@
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
   </programme>
-  <programme start="20260201075500 +0000" stop="20260201085500 +0000" channel="寰宇新聞臺">
-    <title lang="zh">寰宇全球現場</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260201085500 +0000" stop="20260201095500 +0000" channel="寰宇新聞臺">
     <title lang="zh">寰宇全球新聞</title>
     <desc lang="zh">搶先揭露全球各地政經、社會、娛樂的第一手新聞訊息，讓觀眾不漏接關鍵的世界大事。</desc>
@@ -75931,18 +75859,6 @@
   <programme start="20260204160000 +0000" stop="20260204200000 +0000" channel="寰宇新聞臺">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
-  </programme>
-  <programme start="20260201080000 +0000" stop="20260201083000 +0000" channel="第1商業臺">
-    <title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260201083000 +0000" stop="20260201090000 +0000" channel="第1商業臺">
-    <title lang="zh">汪海華_操盤的智慧</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
-  <programme start="20260201090000 +0000" stop="20260201093000 +0000" channel="第1商業臺">
-    <title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260201093000 +0000" stop="20260201100000 +0000" channel="第1商業臺">
     <title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title>
@@ -76812,10 +76728,6 @@
     <title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
     <desc lang="zh">暫無描述</desc>
   </programme>
-  <programme start="20260201050000 +0000" stop="20260201090000 +0000" channel="國會頻道1臺">
-    <title lang="zh">本週立法院會議轉播</title>
-    <desc lang="zh">暫無描述</desc>
-  </programme>
   <programme start="20260201090000 +0000" stop="20260201130000 +0000" channel="國會頻道1臺">
     <title lang="zh">本週立法院會議轉播</title>
     <desc lang="zh">暫無描述</desc>
@@ -76895,10 +76807,6 @@
   <programme start="20260204160000 +0000" stop="20260204200000 +0000" channel="國會頻道1臺">
     <title lang="zh">節目未定</title>
     <desc lang="zh">節目資訊尚未公佈。</desc>
-  </programme>
-  <programme start="20260201050000 +0000" stop="20260201090000 +0000" channel="國會頻道2臺">
-    <title lang="zh">本週立法院會議轉播</title>
-    <desc lang="zh">暫無描述</desc>
   </programme>
   <programme start="20260201090000 +0000" stop="20260201130000 +0000" channel="國會頻道2臺">
     <title lang="zh">本週立法院會議轉播</title>
@@ -99943,163 +99851,6 @@ Gino心疼最後太辛苦了
   <programme start="20250225080500 +0000" stop="20250225085500 +0000" channel="包青天 1993版">
     <title lang="zh"/>
     <desc lang="zh">湖州文家四兄弟，橫行湖州，天怒人怨。王丞相（曹健）到湖州辦事遇襲，幸展昭相救。皇帝把包拯貶往湖州，實名其暗中查清文家兄弟惡行。包公到湖州重審九屍十命大案，文家四少爺文信（宋達民飾，綽號玉面龍）心腸較好，與伶人施鳳英（金玉嵐飾）暗中相戀。寧兒向包大人說出當年滅門慘案始末。</desc>
-  </programme>
-  <programme start="20250221053500 +0000" stop="20250221062500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗與珍賀齋小兒子秉信要結婚了，但衰事卻接二連三而來，婆婆蘇林彩香認為小鷗是掃把星。三年後，小鷗與秉信結婚紀念日出遊，秉信卻意外往生，夫家對小鷗更不諒解。某年中秋，不相往來的前婆婆竟來了電話，要小鷗回去喫團圓飯。</desc>
-  </programme>
-  <programme start="20250221062500 +0000" stop="20250221071500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">前婆婆要小鷗放棄繼承秉信保險金，小鷗只有一個條件，從此各走各的路。彩香心裡愧疚，要師傅發貴送小鷗去搭車，路上卻出車禍，只能先回珍賀齋。兒女們沒人想接傳統餅鋪，彩香也因為生意不好不想再打拼，決定要跟兒子去臺北生活。</desc>
-  </programme>
-  <programme start="20250221071500 +0000" stop="20250221080500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">珍賀齋暫時歇業，大家共擠一車回臺北，路上車子拋錨，大家怪罪小鷗帶賽，小鷗一氣之下下車。老二秉孝先前聽到媽媽有保險金，想著可以挖點錢，便將媽媽接回自家。小鷗把內衣忘在珍賀齋，發貴問他該如何處理？兩人聊起珍賀齋，想著秉信。</desc>
-  </programme>
-  <programme start="20250221080500 +0000" stop="20250221090000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">大美為了讓小鷗從失去丈夫的傷痛中走出來，慫恿他找尋另一段感情。小鷗參加同學會，喝醉酒後更想念秉信，打了電話給發貴，兩人對漢餅理念不合吵了起來。秉孝帶彩香四處享受，時機到了便遊說彩香投資，彩香經不起兒子步步進逼，只能拿錢出來。</desc>
-  </programme>
-  <programme start="20250221090000 +0000" stop="20250221095500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">彩香認為秉孝靠不住，不願再投資，秉孝就用女兒妮妮出國比賽為理由向彩香要經費，妮妮私下告訴阿媽自己沒天分。雖然珍賀齋暫時歇業，發貴卻沒閒著，他決定要重新讓珍賀齋光耀門楣。秉孝無法再用相同招數向媽媽拿錢，於是改變方針再次進擊。</desc>
-  </programme>
-  <programme start="20250221095500 +0000" stop="20250221105000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">大美逼著小鷗與古董商約見面。骨董商是發貴朋友陪著同去，發現對象是小鷗，兩人不說一聲便離開。小鷗在等待骨董商時，碰到大哥秉忠在欺騙女網友，當場拆穿真面目，女網友憤而離開。彩香為了脫離秉孝，堅持住在秉忠家，惹得媳婦佳純不開心。</desc>
-  </programme>
-  <programme start="20250221105000 +0000" stop="20250221114500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">彩香住到秉忠家，由於生活習慣與價值觀的差異，與大媳婦常鬧意見；直到參加電視節目錄影，終於爆發婆媳之間的大爭吵。秉忠因為生意出問題，希望彩香能出錢幫他。大美幫小鷗約了一個從事殯葬的網友見面，黑道海星對她很有好感。</desc>
-  </programme>
-  <programme start="20250221114500 +0000" stop="20250221124000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">彩香拿出兩百萬給秉忠，想不到轉眼被投資人捲款而逃，秉忠失魂落魄；但佳純無時無刻不逼著秉忠請彩香離開。小鷗被海星纏上了，只好躲起來避不見面。發貴來到了小鷗的咖啡廳，正好遇上黑道兄弟找小鷗，大美要發貴保護小鷗離開。</desc>
-  </programme>
-  <programme start="20250221124000 +0000" stop="20250221133500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗沒地方去，發貴只好帶她回珍賀齋；小鷗跟發貴去找坤哥做生意，在小鷗的遊說下，終於同意把女兒結婚的喜餅交給珍賀齋來做。佳純找了外傭來，要彩香讓出房間。電視播出曾國城的《誰來晚餐》節目，佳純崩潰，婆婆決定住到秉仁家去。</desc>
-  </programme>
-  <programme start="20250221133500 +0000" stop="20250221143000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">發貴找了幾個師傅來幫忙做餅，阿順也來了，讓小鷗發現阿順竟然是放她鴿子的古董商。秉仁終於當了導演，在大美的咖啡廳拍攝，恰巧海星來找小鷗，陰錯陽差被彩香給嚇走了。秉仁私生活浪蕩，常帶不同女人回家，彩香擔心，開始想計謀，要挖洞給他跳。</desc>
-  </programme>
-  <programme start="20250221143000 +0000" stop="20250221152500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗想要促成上雲與發貴，藉故讓兩人獨處，但發貴卻對這樣的安排很反感，因為他心裡已經住著別人。彩香為了讓秉仁安定下來，一起帶著小飛去動物園玩，卻換來秉仁明確告知不會結婚的消息。喜餅慘遭坤哥退貨，小鷗只能將喜餅寄賣在大美店裡，被誤會是小鷗與發貴的喜餅。</desc>
-  </programme>
-  <programme start="20250221152500 +0000" stop="20250221162000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">彩香又被踢皮球的送到秉愛家去，這次換秉愛遊說彩香替她男友艾力克開健身房。彩香看不慣艾力克的所做所為，替秉愛不值。小鷗回臺北促銷喜餅，賺的錢送去給彩香，秉愛趁機要小鷗將彩香帶走，小鷗將她安頓在與秉信結婚時買的房子。</desc>
-  </programme>
-  <programme start="20250221162000 +0000" stop="20250221171500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">彩香發現秉信家裡有為她準備的水杯，她想起秉信傷心，於是離開住處，在路上閒逛，遇到來臺北找她的一哥，彩香說不想回去秉信的家，一哥帶她去住青年旅社。秉愛從大美口中知道媽媽住在青年旅社，不願她和一哥在一起，把彩香帶走。</desc>
-  </programme>
-  <programme start="20250221171500 +0000" stop="20250221181000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗遇到跟秉信長得相似的客人，但他隔天一早就要回國，只有一個晚上的相處時間。彩香不再經營珍賀齋，要發貴另謀出路。他打算到臺中做太陽餅，但搭車過頭到了臺北，於是去找小鷗。小鷗帶發貴四處去品嘗有名的糕餅店，希望從中吸取情報。</desc>
-  </programme>
-  <programme start="20250221181000 +0000" stop="20250221190500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗帶發貴到她家住，隔天還說服大美讓發貴去店裡當甜點師傅。一哥去找上雲觀落陰，希望蘇通答應讓他照顧彩香，蘇通要一哥找繼承人經營珍賀齋。大美和小鷗、發貴吵了一架，大美的話語刺傷小鷗，小鷗傷心離開。</desc>
-  </programme>
-  <programme start="20250221190500 +0000" stop="20250221200000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">發貴找到麵包店的工作，但發貴看不慣麵包店偷工減料的工作模式，頭也不回的離開了。小鷗送小飛回臺南，正好幫珍賀齋化解了一段災難，彩香謝謝小鷗便給了她秉信的玩具，小鷗看著玩偶和玩具，像是聽到了秉信在要她留下來一起奮鬥。</desc>
-  </programme>
-  <programme start="20250221200000 +0000" stop="20250221205500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">一哥的爸爸一公要做百歲大壽，壽宴要珍賀齋舉辦，大家討論活動細節，只有小鷗提出的花招最對一公的胃口，就這麼拍板定案。彩香不開心不願幫忙，小鷗找以前的師傅幫忙，卻處處被刁難，這時發貴就像有預感小鷗有麻煩似的，趕回來救場。</desc>
-  </programme>
-  <programme start="20250221205500 +0000" stop="20250221215000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">一公做完大壽後，彩香小鷗發貴三人都喝醉了，不知不覺簽下重開珍賀齋的協議，隔天在一哥的促成下，珍賀齋終於重新開幕。但彩香與小鷗卻還是常鬧意見。秉孝聽說了珍賀齋重新開幕的消息，找齊兄弟三人商量把小鷗趕出珍賀齋。</desc>
-  </programme>
-  <programme start="20250221215000 +0000" stop="20250221224500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">秉孝用上雲這塊招牌來嚇彩香，說小鷗在此三天便會有血光之災，彩香聽信害怕，整天疑神疑鬼，三天到了當然沒事發生。三兄弟沒得逞，趁著小鷗回臺北，又設計了秉忠被仙人跳的遭遇，要彩香賣地契，彩香沒辦法看自己孩子束手無策，準備把地契拿出來。</desc>
-  </programme>
-  <programme start="20250221224500 +0000" stop="20250221234000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗拆穿三兄弟的騙局，三兄弟只能回臺北。
-珍賀齋面臨經營困境，小鷗提出改革，加入現代化的經營方式。秉孝帶著女兒妮妮回來跟彩香道歉，暗地裡卻跟鄉親募款，說是妮妮要參加國際比賽為國爭光，募了一百多萬，秉孝拿到錢就趕緊離開。</desc>
-  </programme>
-  <programme start="20250221234000 +0000" stop="20250222003500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">秉孝騙不成媽媽，轉頭騙了鄉親，彩香只能一一賠罪。秉仁被房東趕出，只能回家要錢。彩香要他對珍賀齋有貢獻，才願意給錢，小鷗便派秉仁一起去做市場調查，但卻讓發貴跟彩香誤會，還找一哥陪她跟蹤秉仁與小鷗，但反倒讓人誤會彩香跟一哥偷情。</desc>
-  </programme>
-  <programme start="20250222003500 +0000" stop="20250222013000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗經過市場調查後，推出椪餅當明星商品，剛開始生意有起色，沒多久就又生意清淡了。彩香從某人過世的祭臺上看到了一堆椪餅，才知道最近幾乎都是一哥花錢請人來買的，於是決定改推出女皇餅。一推出果然生意興隆，還接到三百盒訂單。</desc>
-  </programme>
-  <programme start="20250222013000 +0000" stop="20250222022500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">三百盒訂單，客人反悔取消了，原來這是某人為了要讓小鷗死心而設計的。再加上發生口蹄疫，讓加有豬肉的女皇餅更是不能再賣了。秉仁決定採用OEM的方式銷售太陽餅，彩香願意給他一次機會聽從。但OEM偷工減料，太陽餅不好喫，當然賣得不好。</desc>
-  </programme>
-  <programme start="20250222022500 +0000" stop="20250222032000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">奚媽與奚姊聯合秉仁用盡辦法要把小鷗帶回臺北，小鷗跟媽媽約定兩年的時間，沒成功就會回家聽從安排。艾力克要離開臺北到高雄健身房當店長，秉愛覺得如果有錢幫艾力克開健身房，艾力克就不用離開，於是她也開始滋長了歪腦筋。</desc>
-  </programme>
-  <programme start="20250222032000 +0000" stop="20250222041500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">秉愛夥同仲介，把一哥要賣250萬的房子提高到500萬，讓買方的彩香白白損失了250萬。紙包不住火，彩香還是得知了秉愛吞了她的錢，但彩香不願追究，就讓她走了。大美帶一日本記者來找小鷗，要小鷗帶記者介紹臺南觀光。</desc>
-  </programme>
-  <programme start="20250222041500 +0000" stop="20250222051000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗帶英樹四處參觀拍照，倆人相處愉快，英樹對小鷗告白，還希望能與他一起去歐洲。發貴受到英樹的刺激，想用新口味的餅留下小鷗，更加奮發努力研發新產品。彩香請大家來試喫評價，大家都稱讚有加，唯獨小鷗覺得還是不夠好。</desc>
-  </programme>
-  <programme start="20250222051000 +0000" stop="20250222060500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">彩香和發貴知道英樹向小鷗告白後，深怕小鷗會跟英樹離開，無一不想盡辦法取得小鷗歡心。發貴做出土鳳梨和金鑽兩種不同內餡鳳梨酥，彩香和小鷗喜好不同，各有堅持，在爭執不下的情況，於是舉辦試喫會讓大家評選。</desc>
-  </programme>
-  <programme start="20250222060500 +0000" stop="20250222070000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">發貴最後靠金鑽和土鳳梨融合成的鳳梨酥，贏得在場所有人的一致認同，明星商品就這樣決定了。但彩香和小鷗又為了行銷方式僵持不下。佳純告知秉忠珍賀齋鳳梨酥大賣，秉忠在老婆的慫恿下趕回臺南家裡，準備當現成的珍賀齋老闆。</desc>
-  </programme>
-  <programme start="20250222070000 +0000" stop="20250222075500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗要發貴去參加鳳梨酥神人大賽，發貴雖然很是猶豫，卻還是聽話去了，秉忠雖不同意卻也無權力阻止，但要求不能耽誤店裡出貨。秉忠百般製造機會，說服彩香由他全權經營珍賀齋。發貴白天工作，只能趁晚上下工練習，小鷗帶宵夜陪伴。</desc>
-  </programme>
-  <programme start="20250222075500 +0000" stop="20250222085000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">比賽日到了，小鷗卻因連日的勞累病倒了，所有人都到現場替發貴加油。臨近比賽時間，小鷗發現發貴竟忘了帶走比賽用的廚師服，於是她不顧自己的不舒服，緊急將制服送達，發貴才得以比賽。菠蘿蜜和阿堂離開臺北麵包店，跑來投靠發貴。</desc>
-  </programme>
-  <programme start="20250222085000 +0000" stop="20250222094500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">秉忠雖然接了很多網路訂單，被投訴的也不少。小鷗想提升鳳梨酥的形象，改善包裝，於是她回臺北，找以前秉信任職的公司諮詢設計。一哥近來感覺身體常常出狀況，拿著身體檢查報告去找醫生詢問，才知道身體長了壞東西，醫生要他盡快住院開刀。</desc>
-  </programme>
-  <programme start="20250222094500 +0000" stop="20250222104000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">小鷗瞭解鳳梨酥有很大的市場，但需要花六百萬包裝產品與形象。彩香不願意花這筆錢，宣佈退休，餅店由秉忠繼承，秉忠將小鷗貶為時薪人員，小鷗決定離開珍賀齋，發貴阿堂跟進，決心自行開業。一哥替他們想了店名-深圓烘焙，小鷗申請貸款，開始裝潢店面。</desc>
-  </programme>
-  <programme start="20250222104000 +0000" stop="20250222113500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">發貴向小鷗表白，小鷗有些心動，氣氛正好要接吻時，卻同時想起秉信，兩人決定當朋友，全心創業。珍賀齋趕著中秋節訂單，人手不足，加上發貴已離職，鳳梨酥品質當然不好，一堆人來退貨。一哥不讓小鷗發貴知道生病的事，騙說即將要去阿根廷。</desc>
-  </programme>
-  <programme start="20250222113500 +0000" stop="20250222123000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">珍賀齋一過中秋後，生意一落千丈。小鷗避開中秋節這大戰場，選在中秋夜悄悄開幕，主打網路行銷，訂單慢慢增多；秉忠不甘心，用下流手段惡性競爭，毀謗深圓烘焙的鳳梨酥所使用的鳳梨有打生長激素，影響深圓烘焙的生意。秉仁持續失蹤著。</desc>
-  </programme>
-  <programme start="20250222123000 +0000" stop="20250222132500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">這次換秉孝出招，他到處放話發貴和小鷗私奔、還發存證信函要告發貴，說他偷走鳳梨酥配方，要讓他們停賣鳳梨酥。彩香一直找不到的秉仁，大美一通簡訊就找到了，原來是秉仁生病，不願意讓媽媽彩香擔心，所以躲起來不接電話、也不聯絡。</desc>
-  </programme>
-  <programme start="20250222132500 +0000" stop="20250222142000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">秉仁教大美剪接，將當初在研發鳳梨酥時所拍的影片，剪好放到網路上，造成輿論轉向，對深圓烘焙一片叫好，業績節節上升。秉孝與旅行社合作，爭取大陸觀光客，果然接到不少訂單，但師傅都不願再來珍賀齋工作。在這節骨眼上，秉孝被警察帶走了。</desc>
-  </programme>
-  <programme start="20250222142000 +0000" stop="20250222151500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">秉愛賣山寨版珍賀齋女兒餅，被發貴和小鷗撞見，雙方大吵一架，不歡而散。發貴送小鷗一條項鍊當生日禮物。彩香終於知道秉仁和一哥的去向，倆人都瞞著她獨自承受身體病痛，彩香痛哭失聲。菠蘿蜜爆料珍賀齋使用過期奶油，只能暫時歇業。</desc>
-  </programme>
-  <programme start="20250222151500 +0000" stop="20250222161000 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">彩香去一哥家裡拿換洗衣物，發現一哥留了遺書。彩香決定北上，聚集所有的孩子，勸他們要腳踏實地，因為她決定不再替孩子們擔心受怕，她要放手過自己想要的生活。彩香學著一哥立下遺書，交代了身後事，並寫明將不會留遺產給任何孩子。</desc>
-  </programme>
-  <programme start="20250222161000 +0000" stop="20250222170500 +0000" channel="我的婆婆怎麼那麼可愛">
-    <title lang="zh"/>
-    <desc lang="zh">秉孝終於可以保釋出獄，代價是妮妮要在深圓工作三年償還保釋金。彩香將遺書寄給孩子後，就去醫院全心照顧一哥。孩子們收到後，擔心遺產著落，紛紛趕回去找彩香；找了許久終於在醫院找到，他們希望彩香能授權告深圓，求取侵權賠償金。</desc>
   </programme>
   <programme start="20250221182500 +0000" stop="20250221191500 +0000" channel="村裡來了個暴走女外科">
     <title lang="zh"/>
@@ -196944,19 +196695,15 @@ Gino心疼最後太辛苦了
     <title lang="zh">Total Combat 2025: Episode Number 43</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260202083000 +0800" stop="20260202110000 +0800" channel="Astro_Sports_Plus">
-    <title lang="zh">(L) Nascar 2026: Cook Out Clash</title>
+  <programme start="20260202083000 +0800" stop="20260202101000 +0800" channel="Astro_Sports_Plus">
+    <title lang="zh">UCI Cyclo-cross WC: Women Junior</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260202110000 +0800" stop="20260202113100 +0800" channel="Astro_Sports_Plus">
-    <title lang="zh">Own The Moment: Ep1 - Sekys</title>
+  <programme start="20260202101000 +0800" stop="20260202120000 +0800" channel="Astro_Sports_Plus">
+    <title lang="zh">UCI Cyclo-cross WC: Men U23</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260202113100 +0800" stop="20260202120100 +0800" channel="Astro_Sports_Plus">
-    <title lang="zh">Own The Moment: Ep2 - Innocent</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260202120100 +0800" stop="20260202144000 +0800" channel="Astro_Sports_Plus">
+  <programme start="20260202120000 +0800" stop="20260202144000 +0800" channel="Astro_Sports_Plus">
     <title lang="zh">(D) FEI NAL Jumping WC Qualifiers Thermal</title>
     <desc lang="zh"> </desc>
   </programme>
