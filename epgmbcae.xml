@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260201053000 +0800" stop="20260201080000 +0800" channel="mbc max">
-    <title lang="en">In Bruges</title>
-    <desc lang="en">After an unforgivable mistake is made by Ray the hitman, hisboss Harry sends him with his partner Ken to lay low in Bruges, Belgium. Things get complicated when Ken gets orders to kill Ray.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
   <programme start="20260201080000 +0800" stop="20260201100000 +0800" channel="mbc max">
     <title lang="en">88 Minutes</title>
     <desc lang="en">Dr. Jack Gramm is a forensic psychologist whose testimonyhelps convict serial killer Jon Forster. As Forster's execution date looms closer, Gramm receives a call informing him that he only has 88 minutes to live.</desc>
@@ -203,6 +197,12 @@
     <desc lang="en">When a mysterious couple convinces Dr. Grant to take them toIsla Sorna, he later discovers that they have a hidden motive after they become stuck on the island with its deadly inhabitants.</desc>
     <category lang="en">Movie
                (2001)</category>
+  </programme>
+  <programme start="20260203180000 +0800" stop="20260203193000 +0800" channel="mbc max">
+    <title lang="en">Penguins of Madagascar</title>
+    <desc lang="en">The four penguins Skipper, Kowalski, Rico, and Private, teamup with a secret organization led by Agent Classified to foil the evil Dr. Octavius Brine's plot to destroy the world.</desc>
+    <category lang="en">Movie - Cartoon
+               (2014)</category>
   </programme>
   <programme start="20260201073000 +0800" stop="20260201093000 +0800" channel="mbc 2">
     <title lang="en">A Million Ways to Die in the West</title>
