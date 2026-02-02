@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260202180000 +0800" stop="20260202193500 +0800" channel="mbc max">
-    <title lang="en">Burn After Reading</title>
-    <desc lang="en">A series of unexpected events leave a CD containinginformation from a former CIA operative in the hands of two gym employees who try to sell it back to him. When he refuses to take the bait, they try selling it to the Russian embassy.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
-  <programme start="20260202193500 +0800" stop="20260202213000 +0800" channel="mbc max">
-    <title lang="en">Focus</title>
-    <desc lang="en">A con man, Nicky, finds that his past is back to haunt himin the form of Jess, a former apprentice of his with whom he shared a romantic relationship before pushing her away. But now she is back to implement the tricks of his trade that he taught her.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260202213000 +0800" stop="20260202230000 +0800" channel="mbc max">
     <title lang="en">Due Date</title>
     <desc lang="en">Peter Highman (Robert Downey Jr.) is expecting the birth ofhis first baby in 5 days. On his way home from Atlanta, he loses his wallet and therefore is not allowed to board the plane.   In order not to miss the birth of his son, he must accept a ride cross country with Ethan Tremblay (Zach Galifianakis). Chaos ensues as the two men with nothing in common drive each other crazy.</desc>
@@ -204,17 +192,23 @@
     <category lang="en">Movie
                (2008)</category>
   </programme>
-  <programme start="20260202173000 +0800" stop="20260202191000 +0800" channel="mbc 2">
-    <title lang="en">The Purge</title>
-    <desc lang="en">In a dark future, crime and prison overcrowding is sorampant, the U.S. government allows a 12-hour period during which all crime is permissible. One suburban family risks everything when they take in someone wanted by a bloodthirsty mob.</desc>
+  <programme start="20260205033000 +0800" stop="20260205053000 +0800" channel="mbc max">
+    <title lang="en">Jurassic Park</title>
+    <desc lang="en">Businessman John Hammond opens a wildlife park containingcloned dinosaurs, but when a power failure causes the dinosaurs to roam freely, a group of visitors struggle to escape the lethal creatures.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (1993)</category>
   </programme>
-  <programme start="20260202191000 +0800" stop="20260202205500 +0800" channel="mbc 2">
-    <title lang="en">A Million Ways to Die in the West</title>
-    <desc lang="en">Albert is a sheep farmer who lacks courage, he loses hisbeloved girlfriend when he withdraws from a duel. He soon meets another lady, and his bravery and confidence must be put to the test when the lady's spouse, an infamous criminal, demands payback.</desc>
-    <category lang="en">Movie
-               (2014)</category>
+  <programme start="20260205053000 +0800" stop="20260205060000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260205060000 +0800" stop="20260205073000 +0800" channel="mbc max">
+    <title lang="en">Hotel Transylvania 2</title>
+    <desc lang="en">Vampire Vlad arrives at Hotel Transylvania for a surprisefamily get-together, and a collision between supernatural old-school and modern day coolness ensues.</desc>
+    <category lang="en">Movie - Cartoon
+               (2015)</category>
   </programme>
   <programme start="20260202212000 +0800" stop="20260202230000 +0800" channel="mbc 2">
     <title lang="en">We're the Millers</title>
@@ -413,5 +407,23 @@
     <desc lang="en">Based on true events, the film depicts the life of theFrench New Wave icon, Jean Seberg, whose political activism and her romantic relationship with Hakim Jamal, a civil activist as well, made her a target to Hoover's FBI.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260205043500 +0800" stop="20260205050000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
+  </programme>
+  <programme start="20260205050000 +0800" stop="20260205065500 +0800" channel="mbc 2">
+    <title lang="en">The Informant</title>
+    <desc lang="en">The US government decides to pursue the giant of the worldof agriculture,and arrest him for illegal price-fixing, based on many complaints and reports submitted to the government and decides to put an informant to investigate this.</desc>
+    <category lang="en">Movie
+               (2009)</category>
+  </programme>
+  <programme start="20260205065500 +0800" stop="20260205090000 +0800" channel="mbc 2">
+    <title lang="en">Roman J Israel, Esq.</title>
+    <desc lang="en">The idealistic defense lawyer Roman J. Israel is trying totake over responsibility after his partner has suffered a heart attack. Under pressure to find a new job, he works with his partner's friend George. He exploits one of  the cases he's working on to his advantage, putting him in a major problem.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
