@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260202080000 +0800" stop="20260202093000 +0800" channel="mbc max">
-    <title lang="en">Over the Hedge</title>
-    <desc lang="en">A number of animals wake up from hibernation to find theirforest surrounded by a hedge that separates them from the town. RJ has an agreement with Vincent to get him food within a week, and due to the looming deadline, RJ decides to go over the hedge. Will he be able to succeed?</desc>
-    <category lang="en">Movie - Cartoon
-               (2006)</category>
-  </programme>
   <programme start="20260202100000 +0800" stop="20260202113000 +0800" channel="mbc max">
     <title lang="en">Penguins of Madagascar</title>
     <desc lang="en">The four penguins Skipper, Kowalski, Rico, and Private, teamup with a secret organization led by Agent Classified to foil the evil Dr. Octavius Brine's plot to destroy the world.</desc>
@@ -204,17 +198,11 @@
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260202062500 +0800" stop="20260202080000 +0800" channel="mbc 2">
-    <title lang="en">The Winter Lake</title>
-    <desc lang="en">When a troubled teenager makes an awful discovery in anearby lake, he gets in over his head as he uncovers a shocking truth that involves his neighbors who are hiding a dark secret.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
-  <programme start="20260202080000 +0800" stop="20260202083500 +0800" channel="mbc 2">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-    <category lang="en">Program
-               (2012)</category>
+  <programme start="20260204180000 +0800" stop="20260204193000 +0800" channel="mbc max">
+    <title lang="en">Hotel Transylvania 2</title>
+    <desc lang="en">Vampire Vlad arrives at Hotel Transylvania for a surprisefamily get-together, and a collision between supernatural old-school and modern day coolness ensues.</desc>
+    <category lang="en">Movie - Cartoon
+               (2015)</category>
   </programme>
   <programme start="20260202083500 +0800" stop="20260202110000 +0800" channel="mbc 2">
     <title lang="en">The Island</title>
@@ -419,5 +407,11 @@
     <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260204185000 +0800" stop="20260204205500 +0800" channel="mbc 2">
+    <title lang="en">Roman J Israel, Esq.</title>
+    <desc lang="en">The idealistic defense lawyer Roman J. Israel is trying totake over responsibility after his partner has suffered a heart attack. Under pressure to find a new job, he works with his partner's friend George. He exploits one of  the cases he's working on to his advantage, putting him in a major problem.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
