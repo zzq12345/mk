@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260202030000 +0800" stop="20260202050000 +0800" channel="mbc max">
-    <title lang="en">Edge of Darkness</title>
-    <desc lang="en">Detective Thomas Craven is investigating the murder of hisactivist daughter. He not only exposes sensitive aspects of her secret life, but also clashes with crime organizations that try to erase any thread that may link her to them.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
-  <programme start="20260202050000 +0800" stop="20260202053000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260202053000 +0800" stop="20260202073000 +0800" channel="mbc max">
     <title lang="en">Taxi Driver</title>
     <desc lang="en">Travis Bickle is a lonely ex-Marine and Vietnam veteran, whotakes the night shift as a cab driver to cope with his chronic insomnia. He finds himself driven to the brink of insanity as he attempts to rescue an underage prostitute from her pimp.</desc>
@@ -425,5 +413,11 @@
     <desc lang="en">After she discovers that her father might be one of threeold lovers of her mother's, a bride-to-be decides to secretly invite them to her wedding, in an attempt to find out who is her real father.</desc>
     <category lang="en">Movie
                (2008)</category>
+  </programme>
+  <programme start="20260204150000 +0800" stop="20260204170000 +0800" channel="mbc 2">
+    <title lang="en">Mamma Mia! Here We Go Again</title>
+    <desc lang="en">As Sophie finds out more about her mother's past five yearsafter the events of Mamma Mia! (2008), she gets ready for the hotel Bella Donna's grand reopening.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
