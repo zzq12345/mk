@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260204100000 +0800" stop="20260204120000 +0800" channel="mbc max">
-    <title lang="en">10,000 B.C.</title>
-    <desc lang="en">In the prehistoric period, when a horse-riding warlordsattack the tribe of (D'Leh) and abduct a number of its members, including his beloved, and flee to an unknown area. Dale leads a group of his tribe on a journey through this unknown land to take revenge on them and bring back his love and friends.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
   <programme start="20260204120000 +0800" stop="20260204140000 +0800" channel="mbc max">
     <title lang="en">Jurassic Park</title>
     <desc lang="en">Businessman John Hammond opens a wildlife park containingcloned dinosaurs, but when a power failure causes the dinosaurs to roam freely, a group of visitors struggle to escape the lethal creatures.</desc>
@@ -204,17 +198,11 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20260204103500 +0800" stop="20260204110000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
-  <programme start="20260204110000 +0800" stop="20260204123500 +0800" channel="mbc 2">
-    <title lang="en">Seberg</title>
-    <desc lang="en">Based on true events, the film depicts the life of theFrench New Wave icon, Jean Seberg, whose political activism and her romantic relationship with Hakim Jamal, a civil activist as well, made her a target to Hoover's FBI.</desc>
+  <programme start="20260206220000 +0800" stop="20260207000000 +0800" channel="mbc max">
+    <title lang="en">Colombiana</title>
+    <desc lang="en">In 1992 Bogota, a small girl Cataleya, witnesses the murderof her parents by one of the terrorists' bands.  Her uncle Emilio, helps her to recover and teaches her to take revenge from her parents killers. After getting prepared and trained on different sorts of weapons Cataleya starts planning for payback.</desc>
     <category lang="en">Movie
-               (2019)</category>
+               (2011)</category>
   </programme>
   <programme start="20260204130000 +0800" stop="20260204150500 +0800" channel="mbc 2">
     <title lang="en">Green Book</title>
@@ -395,5 +383,11 @@
     <desc lang="en">When a murder takes place, two top paranormal investigators,Ed and Lorraine, scrumble to figure out the truth of a murderer claiming to be possessed by a demon.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260206213000 +0800" stop="20260206233000 +0800" channel="mbc 2">
+    <title lang="en">The Emoji Movie</title>
+    <desc lang="en">In a world inhabited by emojis, Gene feels like the odd oneout as he is the one emoji who could change his expression, whereas the rest of his brethren can only have one expression. But when he sabotages a message that his user Alex sends out, he has to confront the ramifications of being him.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
