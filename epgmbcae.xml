@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260203033000 +0800" stop="20260203050500 +0800" channel="mbc max">
-    <title lang="en">Pixels</title>
-    <desc lang="en">An alien invasion of Earth takes the form of old-schoolarcade video games that are misinterpreted as a war cry. The president decides to seek help from an old friend by assigning him to lead a team of old-school arcaders to defeat the aliens.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260203053000 +0800" stop="20260203071500 +0800" channel="mbc max">
     <title lang="en">Jiu Jitsu</title>
     <desc lang="en">When a celebrated war hero is defeated by the leader of avicious race of alien invaders that attack Earth every six years, an ancient order of jiu-jitsu fighters must find a way to save mankind from destruction.</desc>
@@ -210,12 +204,6 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260203032500 +0800" stop="20260203050000 +0800" channel="mbc 2">
-    <title lang="en">Abominable</title>
-    <desc lang="en">When a teenage girl discovers a young Yeti on the roof ofher apartment building in Shanghai,she sets out on an adventure with her friends to take him back to his home.</desc>
-    <category lang="en">Movie - Cartoon
-               (2019)</category>
-  </programme>
   <programme start="20260203050000 +0800" stop="20260203070000 +0800" channel="mbc 2">
     <title lang="en">Flatliners</title>
     <desc lang="en">Medical students experiment with the moments just beforedeath when the tragic and horrific events that are involved start to affect their lives negatively.</desc>
@@ -407,5 +395,11 @@
     <desc lang="en">An assassin’s life changes upon meeting a young boy whoignites her motherhood instincts.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260205150000 +0800" stop="20260205170000 +0800" channel="mbc 2">
+    <title lang="en">John Wick: Chapter 2</title>
+    <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
