@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260203053000 +0800" stop="20260203071500 +0800" channel="mbc max">
-    <title lang="en">Jiu Jitsu</title>
-    <desc lang="en">When a celebrated war hero is defeated by the leader of avicious race of alien invaders that attack Earth every six years, an ancient order of jiu-jitsu fighters must find a way to save mankind from destruction.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
   <programme start="20260203071500 +0800" stop="20260203080000 +0800" channel="mbc max">
     <title lang="en">Scoop Maa Raya</title>
     <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
@@ -204,11 +198,11 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260203050000 +0800" stop="20260203070000 +0800" channel="mbc 2">
-    <title lang="en">Flatliners</title>
-    <desc lang="en">Medical students experiment with the moments just beforedeath when the tragic and horrific events that are involved start to affect their lives negatively.</desc>
+  <programme start="20260205160000 +0800" stop="20260205180000 +0800" channel="mbc max">
+    <title lang="en">The Art of Self-Defense</title>
+    <desc lang="en">In an attempt to learn how to defend himself after an attackleft him feeling helpless, Casey joins a local karate studio and quickly attracts the attention of the instructor, Sensei, earning himself an invitation to the elusive night classes where a shocking discovery awaits him.</desc>
     <category lang="en">Movie
-               (2017)</category>
+               (2019)</category>
   </programme>
   <programme start="20260203070000 +0800" stop="20260203090000 +0800" channel="mbc 2">
     <title lang="en">Stomp the Yard</title>
@@ -401,5 +395,11 @@
     <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260205170000 +0800" stop="20260205193000 +0800" channel="mbc 2">
+    <title lang="en">John Wick: Chapter 3 - Parabellum</title>
+    <desc lang="en">In this sequel, John Wick has killed a member of the HighTable, a shadowy international assassin's guild, deeming him an excommunicado (excluded member) and raising a US$ 14 million price tag for his head. A whole world of ruthless hit men and women are pursuing him around every corner.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
