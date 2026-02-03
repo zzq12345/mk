@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260204120000 +0800" stop="20260204140000 +0800" channel="mbc max">
-    <title lang="en">Jurassic Park</title>
-    <desc lang="en">Businessman John Hammond opens a wildlife park containingcloned dinosaurs, but when a power failure causes the dinosaurs to roam freely, a group of visitors struggle to escape the lethal creatures.</desc>
-    <category lang="en">Movie
-               (1993)</category>
-  </programme>
   <programme start="20260204140000 +0800" stop="20260204160000 +0800" channel="mbc max">
     <title lang="en">The Lost World: Jurassic Park</title>
     <desc lang="en">As John Hammond leads a team to explore the Jurassic Park'ssecond site, an InGen team is sent there with a different agenda, and chaos ensues when the dinosaurs go wild.</desc>
@@ -204,6 +198,12 @@
     <category lang="en">Movie
                (2011)</category>
   </programme>
+  <programme start="20260207000000 +0800" stop="20260207013000 +0800" channel="mbc max">
+    <title lang="en">Salt</title>
+    <desc lang="en">As a CIA agent, Evelyn Salt vowed to do her duty and protectthe country, but her loyalty is tested when she's accused by being a spy by a Russian defector. She uses all her skills and experience as a secret agent to escape arrest.</desc>
+    <category lang="en">Movie
+               (2010)</category>
+  </programme>
   <programme start="20260204130000 +0800" stop="20260204150500 +0800" channel="mbc 2">
     <title lang="en">Green Book</title>
     <desc lang="en">An Italian American bouncer is hired by an African Americanpianist to accompany him around his venues in the 1960s when prejudice was still pervasive in southern America. Through their travels, they get closer.</desc>
@@ -389,5 +389,11 @@
     <desc lang="en">In a world inhabited by emojis, Gene feels like the odd oneout as he is the one emoji who could change his expression, whereas the rest of his brethren can only have one expression. But when he sabotages a message that his user Alex sends out, he has to confront the ramifications of being him.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260206233000 +0800" stop="20260207010000 +0800" channel="mbc 2">
+    <title lang="en">Second Act</title>
+    <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
