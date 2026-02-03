@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260203013000 +0800" stop="20260203030000 +0800" channel="mbc max">
-    <title lang="en">Goosebumps</title>
-    <desc lang="en">A young kid meets author R.L Stine's niece in the town ofGreendale, Maryland, following one of the writer's turns in which he uncovers his imagination's demons.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20260203030000 +0800" stop="20260203033000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260203033000 +0800" stop="20260203050500 +0800" channel="mbc max">
     <title lang="en">Pixels</title>
     <desc lang="en">An alien invasion of Earth takes the form of old-schoolarcade video games that are misinterpreted as a war cry. The president decides to seek help from an old friend by assigning him to lead a team of old-school arcaders to defeat the aliens.</desc>
@@ -210,11 +198,11 @@
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260203010500 +0800" stop="20260203032500 +0800" channel="mbc 2">
-    <title lang="en">The Island</title>
-    <desc lang="en">In a futuristic colony, all the residents live on the hopeof winning the lottery that enables them to go to The Island, a rumored paradise which is the last surviving uncontaminated location. But one of the residents, Lincoln, soon comes to discover the horrifying truth behind The Island.</desc>
+  <programme start="20260205120000 +0800" stop="20260205140000 +0800" channel="mbc max">
+    <title lang="en">The Boss</title>
+    <desc lang="en">After a successful businesswoman is brought down due toillegal transactions, she has to start back from scratch after her release from prison. With the help of her former assistant, she tries to find her way back to the top, but those she bulldozed before are not inclined to let her.</desc>
     <category lang="en">Movie
-               (2005)</category>
+               (2016)</category>
   </programme>
   <programme start="20260203032500 +0800" stop="20260203050000 +0800" channel="mbc 2">
     <title lang="en">Abominable</title>
@@ -407,5 +395,11 @@
     <desc lang="en">The movie is set in an international flight from New York toLondon. During that trip, Bill Marks (Liam Neeson) receives several threats from an unknown threat that every 20 minutes a passenger will be killed unless $ 150 million is transferred to a bank account. The twist occurs when the owner of this account is revealed.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260205130000 +0800" stop="20260205150000 +0800" channel="mbc 2">
+    <title lang="en">Proud Mary</title>
+    <desc lang="en">An assassin’s life changes upon meeting a young boy whoignites her motherhood instincts.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
