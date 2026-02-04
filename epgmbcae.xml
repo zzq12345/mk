@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260205140500 +0800" stop="20260205160000 +0800" channel="mbc max">
-    <title lang="en">Copshop</title>
-    <desc lang="en">When the professional hitman, Bob Viddick goes after hisnext target, the con artist Teddy Murretto, things spiral out of control when Murretto hides in a small-town police station, only to find that Viddick is on his tail, along with a competing assassin, while a rookie police officer gets caught up in the mayhem.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260205160000 +0800" stop="20260205173500 +0800" channel="mbc max">
     <title lang="en">Salt</title>
     <desc lang="en">As a CIA agent, Evelyn Salt vowed to do her duty and protectthe country, but her loyalty is tested when she's accused by being a spy by a Russian defector. She uses all her skills and experience as a secret agent to escape arrest.</desc>
@@ -367,5 +361,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A woman and her daughter's first night in theirnewly-purchased house takes a dark turn when they are forced to take refuge in the house's panic room during a home invasion. But the burglars know that they are in the room, which also houses the fortune the burglars are after.</desc>
     <category lang="en">Movie
                (2002)</category>
+  </programme>
+  <programme start="20260208013000 +0800" stop="20260208040000 +0800" channel="mbc 2">
+    <title lang="en">Battleship</title>
+    <desc lang="en">In the Hawaiian Islands, an international naval engage anintense battle against an alien species known as "The Regents". The aliens come to planet Earth to build a power source in the ocean</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>
