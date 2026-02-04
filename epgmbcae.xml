@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260204013000 +0800" stop="20260204033000 +0800" channel="mbc max">
-    <title lang="en">10,000 B.C.</title>
-    <desc lang="en">In the prehistoric period, when a horse-riding warlordsattack the tribe of (D'Leh) and abduct a number of its members, including his beloved, and flee to an unknown area. Dale leads a group of his tribe on a journey through this unknown land to take revenge on them and bring back his love and friends.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
   <programme start="20260204033000 +0800" stop="20260204053000 +0800" channel="mbc max">
     <title lang="en">Jurassic Park</title>
     <desc lang="en">Businessman John Hammond opens a wildlife park containingcloned dinosaurs, but when a power failure causes the dinosaurs to roam freely, a group of visitors struggle to escape the lethal creatures.</desc>
@@ -192,11 +186,11 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260204005000 +0800" stop="20260204030000 +0800" channel="mbc 2">
-    <title lang="en">Green Book</title>
-    <desc lang="en">An Italian American bouncer is hired by an African Americanpianist to accompany him around his venues in the 1960s when prejudice was still pervasive in southern America. Through their travels, they get closer.</desc>
+  <programme start="20260206113000 +0800" stop="20260206140000 +0800" channel="mbc max">
+    <title lang="en">The Hunger Games: Mockingjay - Part 2</title>
+    <desc lang="en">After Katniss Everdeen (Jennifer Lawrence) became the symbolof the revolution against the tyrannical Capitol system, and with the return of Peeta Mellark (Josh Hutcherson) to his comrades, Katniss with her revolutionary comrades enter a final battle against the Capitol and President Snow.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2015)</category>
   </programme>
   <programme start="20260204030000 +0800" stop="20260204043500 +0800" channel="mbc 2">
     <title lang="en">Seberg</title>
@@ -377,5 +371,11 @@
     <desc lang="en">Six separate stories, different in time, place and nature,somehow become intertwined in a complicated way. Narrated from a diary of a sea voyage in 1849, some letter from a musician to a lover and a piece of work from the 70's, it revolves around a nuclear power plant, a detained publisher, a Korean girl-clone and a Hawaiian tribe living in a post-apocalypse world.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260206130000 +0800" stop="20260206153000 +0800" channel="mbc 2">
+    <title lang="en">Dune</title>
+    <desc lang="en">Adapted from Frank Herbert's epic novel, Dune tells thestory of the land of Arrakis and its valuable substance that can be found nowhere else. When the Harkonnens want to claim the planet and the valuable 'spice', Paul Atreides must set out to save both and avenge his father's death.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
