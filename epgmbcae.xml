@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260204053000 +0800" stop="20260204060000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
-  <programme start="20260204060000 +0800" stop="20260204073000 +0800" channel="mbc max">
-    <title lang="en">Hotel Transylvania 2</title>
-    <desc lang="en">Vampire Vlad arrives at Hotel Transylvania for a surprisefamily get-together, and a collision between supernatural old-school and modern day coolness ensues.</desc>
-    <category lang="en">Movie - Cartoon
-               (2015)</category>
-  </programme>
   <programme start="20260204080000 +0800" stop="20260204093500 +0800" channel="mbc max">
     <title lang="en">Above Suspicion</title>
     <desc lang="en">The true story of how an affair between an FBI sketch artistand a local Kentucky woman turned into a complete disaster between his marriage and her role as an informant, leading to a murder and a scandal that shook the FBI.</desc>
@@ -192,11 +180,11 @@
     <category lang="en">Movie
                (2021)</category>
   </programme>
-  <programme start="20260204050000 +0800" stop="20260204065500 +0800" channel="mbc 2">
-    <title lang="en">The Informant</title>
-    <desc lang="en">The US government decides to pursue the giant of the worldof agriculture,and arrest him for illegal price-fixing, based on many complaints and reports submitted to the government and decides to put an informant to investigate this.</desc>
+  <programme start="20260206160000 +0800" stop="20260206173000 +0800" channel="mbc max">
+    <title lang="en">Hancock</title>
+    <desc lang="en">A super hero works for civil security in Los Angeles, anddue to his recklessness causes millions of dollars worth of damages which he then tries to make up for by improving his image.</desc>
     <category lang="en">Movie
-               (2009)</category>
+               (2008)</category>
   </programme>
   <programme start="20260204065500 +0800" stop="20260204090000 +0800" channel="mbc 2">
     <title lang="en">Roman J Israel, Esq.</title>
@@ -365,5 +353,11 @@
     <desc lang="en">Adapted from Frank Herbert's epic novel, Dune tells thestory of the land of Arrakis and its valuable substance that can be found nowhere else. When the Harkonnens want to claim the planet and the valuable 'spice', Paul Atreides must set out to save both and avenge his father's death.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260206153000 +0800" stop="20260206180000 +0800" channel="mbc 2">
+    <title lang="en">Battleship</title>
+    <desc lang="en">In the Hawaiian Islands, an international naval engage anintense battle against an alien species known as "The Regents". The aliens come to planet Earth to build a power source in the ocean</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>
