@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260205033000 +0800" stop="20260205060000 +0800" channel="mbc max">
-    <title lang="en">The Lost World: Jurassic Park</title>
-    <desc lang="en">As John Hammond leads a team to explore the Jurassic Park'ssecond site, an InGen team is sent there with a different agenda, and chaos ensues when the dinosaurs go wild.</desc>
-    <category lang="en">Movie
-               (1997)</category>
-  </programme>
   <programme start="20260205060000 +0800" stop="20260205080000 +0800" channel="mbc max">
     <title lang="en">Copshop</title>
     <desc lang="en">When the professional hitman, Bob Viddick goes after hisnext target, the con artist Teddy Murretto, things spiral out of control when Murretto hides in a small-town police station, only to find that Viddick is on his tail, along with a competing assassin, while a rookie police officer gets caught up in the mayhem.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20260205053000 +0800" stop="20260205073000 +0800" channel="mbc 2">
-    <title lang="en">Mamma Mia!</title>
-    <desc lang="en">After she discovers that her father might be one of threeold lovers of her mother's, a bride-to-be decides to secretly invite them to her wedding, in an attempt to find out who is her real father.</desc>
+  <programme start="20260207160000 +0800" stop="20260207183000 +0800" channel="mbc max">
+    <title lang="en">Blade Runner 2049</title>
+    <desc lang="en">After learning of a long-kept secret, young Blade Runner Ksets out to find the thirty-year-missing former Blade Runner Rick Deckard.</desc>
     <category lang="en">Movie
-               (2008)</category>
+               (2017)</category>
   </programme>
   <programme start="20260205073000 +0800" stop="20260205090000 +0800" channel="mbc 2">
     <title lang="en">Abominable</title>
@@ -357,5 +351,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A group of troublemakers are forced to attend night schoolin the hope that they'll pass the GED exam to finish high school.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260207170000 +0800" stop="20260207193000 +0800" channel="mbc 2">
+    <title lang="en">The Upside</title>
+    <desc lang="en">The essentially different lives of a wealthy man withquadriplegia and an unemployed man are intertwined when the latter works for the former, and their encounter proves that human lives cannot be lived in isolation, as both men change one another in ways beyond their imagination.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
