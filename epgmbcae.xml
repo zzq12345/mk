@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260206140000 +0800" stop="20260206160000 +0800" channel="mbc max">
-    <title lang="en">Mr. Right</title>
-    <desc lang="en">When she starts a relationship with a seemingly perfect man,the last thing Martha expects is for him to turn out to be an assassin. When the past comes back to haunt her new beau, Martha must make a choice as she is thrust into a manic world.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260206160000 +0800" stop="20260206180000 +0800" channel="mbc max">
     <title lang="en">The Art of Self-Defense</title>
     <desc lang="en">In an attempt to learn how to defend himself after an attackleft him feeling helpless, Casey joins a local karate studio and quickly attracts the attention of the instructor, Sensei, earning himself an invitation to the elusive night classes where a shocking discovery awaits him.</desc>
@@ -192,12 +186,6 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260206150000 +0800" stop="20260206170000 +0800" channel="mbc 2">
-    <title lang="en">John Wick: Chapter 2</title>
-    <desc lang="en">Retired assassin John Wick unwillingly returns to thecriminal underworld to repay a debt but is faced with many challenges along the way, including a bounty.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260206170000 +0800" stop="20260206193000 +0800" channel="mbc 2">
     <title lang="en">John Wick: Chapter 3 - Parabellum</title>
     <desc lang="en">In this sequel, John Wick has killed a member of the HighTable, a shadowy international assassin's guild, deeming him an excommunicado (excluded member) and raising a US$ 14 million price tag for his head. A whole world of ruthless hit men and women are pursuing him around every corner.</desc>
@@ -365,5 +353,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">The story depicts the struggle of a young music student tobecome a top jazz drummer, and his complicated relationship with his cruel jazz band leader, who uses unorthodox methods to train the students.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260209030000 +0800" stop="20260209050000 +0800" channel="mbc 2">
+    <title lang="en">Night School</title>
+    <desc lang="en">A group of troublemakers are forced to attend night schoolin the hope that they'll pass the GED exam to finish high school.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
