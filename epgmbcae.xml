@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260205013000 +0800" stop="20260205033000 +0800" channel="mbc max">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">In 1992 Bogota, a small girl Cataleya, witnesses the murderof her parents by one of the terrorists' bands.  Her uncle Emilio, helps her to recover and teaches her to take revenge from her parents killers. After getting prepared and trained on different sorts of weapons Cataleya starts planning for payback.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260205033000 +0800" stop="20260205060000 +0800" channel="mbc max">
     <title lang="en">The Lost World: Jurassic Park</title>
     <desc lang="en">As John Hammond leads a team to explore the Jurassic Park'ssecond site, an InGen team is sent there with a different agenda, and chaos ensues when the dinosaurs go wild.</desc>
@@ -186,12 +180,6 @@
     <category lang="en">Movie
                (2022)</category>
   </programme>
-  <programme start="20260205013000 +0800" stop="20260205033000 +0800" channel="mbc 2">
-    <title lang="en">Home</title>
-    <desc lang="en">When Earth is taken over by the overly-confident Boov, analien race in search of a new place to call home, all humans are relocated while all Boov get busy reorganizing the planet. But when the smart girl, Tip, avoids capture, she finds herself the accidental accomplice of a banished Boov named Oh.</desc>
-    <category lang="en">Movie - Cartoon
-               (2015)</category>
-  </programme>
   <programme start="20260205033000 +0800" stop="20260205053000 +0800" channel="mbc 2">
     <title lang="en">Second Act</title>
     <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
@@ -357,5 +345,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A group of friends reunite after their high schoolbasketball coach passes away, spending the Fourth of July holiday weekend together and the events follow.</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260207130000 +0800" stop="20260207150000 +0800" channel="mbc 2">
+    <title lang="en">Grown Ups 2</title>
+    <desc lang="en">Lenny (Adam Sandler) decides to take his family back to hishometown where he grew up with his friends, and throughout the film, Lenny and his friends believe their kids are still children, but they eventually accept the idea that they have grown up and learn from them.</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
