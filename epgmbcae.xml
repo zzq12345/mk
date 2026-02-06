@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260206050000 +0800" stop="20260206070000 +0800" channel="mbc max">
-    <title lang="en">The Art of Self-Defense</title>
-    <desc lang="en">In an attempt to learn how to defend himself after an attackleft him feeling helpless, Casey joins a local karate studio and quickly attracts the attention of the instructor, Sensei, earning himself an invitation to the elusive night classes where a shocking discovery awaits him.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260206070000 +0800" stop="20260206093000 +0800" channel="mbc max">
-    <title lang="en">The Hunger Games: Catching Fire</title>
-    <desc lang="en">The repressed Panem is on the verge of rebellion as 74thHunger Game victors Katniss and Peeta visit the districts on their victory tour. The two have become symbols of defiance against the Capitol, and for that they will be targeted by the despotic President Snow and his regime.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260206093000 +0800" stop="20260206113000 +0800" channel="mbc max">
     <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
     <desc lang="en">Katniss finds herself in District 13 after she literallyshatters the game forever, faced with a decision that could sway the fate of her nation. Under the leadership of President Coin and the advice of her trusted friends, Katniss reluctantly becomes the symbol of mass revolution against the autocratic Capitol.</desc>
@@ -180,11 +168,11 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260206053000 +0800" stop="20260206080000 +0800" channel="mbc 2">
-    <title lang="en">Mamma Mia! Here We Go Again</title>
-    <desc lang="en">As Sophie finds out more about her mother's past five yearsafter the events of Mamma Mia! (2008), she gets ready for the hotel Bella Donna's grand reopening.</desc>
+  <programme start="20260208163000 +0800" stop="20260208183000 +0800" channel="mbc max">
+    <title lang="en">Buried</title>
+    <desc lang="en">Paul Conroy is US truck driver who works as a contractor inIraq. He finds himself buried alive in a wooden coffin, with a cellphone that proved to be useless , he's forced to rely on himself to survive.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2010)</category>
   </programme>
   <programme start="20260206080000 +0800" stop="20260206100000 +0800" channel="mbc 2">
     <title lang="en">The Adjustment Bureau</title>
@@ -353,5 +341,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A remake to the 1972 film Super Fly, about a young drugdealer named Priest, who wants to make one final big deal before he retires.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260208153000 +0800" stop="20260208173000 +0800" channel="mbc 2">
+    <title lang="en">T2 Trainspotting</title>
+    <desc lang="en">Twenty years later, Mark returns to Scotland to find hisfriends Spud, Sick Boy and Begbie waiting for him. As well as reuniting with his friends, he also has to deal with regret, love, friendship and vengeance.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
