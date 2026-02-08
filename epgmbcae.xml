@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260209140000 +0800" stop="20260209163000 +0800" channel="mbc max">
-    <title lang="en">The Revenant</title>
-    <desc lang="en">In the 19th century America, deep in the uncharted Americanwilderness, hunter Hugh Glass is severely injured and left for dead. With sheer will as his only weapon, Glass must navigate a hostile environment, a brutal winter, and warring Native American tribes in a relentless quest to survive.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260209163000 +0800" stop="20260209180000 +0800" channel="mbc max">
     <title lang="en">Buried</title>
     <desc lang="en">Paul Conroy is US truck driver who works as a contractor inIraq. He finds himself buried alive in a wooden coffin, with a cellphone that proved to be useless , he's forced to rely on himself to survive.</desc>
@@ -216,11 +210,11 @@
     <category lang="en">Movie
                (2007)</category>
   </programme>
-  <programme start="20260209133000 +0800" stop="20260209153000 +0800" channel="mbc 2">
-    <title lang="en">SuperFly</title>
-    <desc lang="en">A remake to the 1972 film Super Fly, about a young drugdealer named Priest, who wants to make one final big deal before he retires.</desc>
+  <programme start="20260212010000 +0800" stop="20260212023500 +0800" channel="mbc max">
+    <title lang="en">Paul Blart: Mall Cop 2</title>
+    <desc lang="en">In this sequel, security guard Paul Blart is headed to LasVegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2015)</category>
   </programme>
   <programme start="20260209153000 +0800" stop="20260209173000 +0800" channel="mbc 2">
     <title lang="en">T2 Trainspotting</title>
@@ -419,5 +413,11 @@
     <desc lang="en">Terence McDonagh is a troubled detective who gets addictedto painkillers following an injury during Hurricane Katrina. As he's having trouble dealing with people in his life, he has to get his act together in order to help solve a series of murders.</desc>
     <category lang="en">Movie
                (2009)</category>
+  </programme>
+  <programme start="20260212005000 +0800" stop="20260212024500 +0800" channel="mbc 2">
+    <title lang="en">3 Days to Kill</title>
+    <desc lang="en">International spy Ethan Renner (Kevin Costner) decides toleave his risky life behind to build a stronger relationship with his daughter and wife. but Ethan has to complete one final mission before he retires , to catch the most dangerous terrorist in the world, while taking care of his daughter.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
