@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260209100000 +0800" stop="20260209120000 +0800" channel="mbc max">
-    <title lang="en">Room</title>
-    <desc lang="en">24-year-old Joy and her young son Jack successfully escapetheir captivity after years of being held captive by a kidnapper in a remote hut.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260209120000 +0800" stop="20260209140000 +0800" channel="mbc max">
     <title lang="en">In the Heart of the Sea</title>
     <desc lang="en">The crew of a whaling ship faces an unexpected hurdle in theform of a giant whale that devastates the ship and leaves the crew stranded at sea. With the whale after them and no hope of rescue, the crew resorts to drastic measures in order to survive.</desc>
@@ -210,23 +204,17 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260209093000 +0800" stop="20260209113000 +0800" channel="mbc 2">
-    <title lang="en">Charlie St. Cloud</title>
-    <desc lang="en">After his brother Sam dies in a car crash, Charlie is ableto see him as he works in a cemetery, but when he falls for Tess he becomes torn between losing his new love or loses seeing his brother.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
-  <programme start="20260209113000 +0800" stop="20260209130000 +0800" channel="mbc 2">
-    <title lang="en">Infinitely Polar Bear</title>
-    <desc lang="en">Cameron (Mark Ruffalo) is a depressed father who is addictedto alcohol, trying in various ways to regain his wife Maggie (Zoe Saldana) by taking full responsibility of his young daughters. In his attempt to deal with them, participate in their daily life, and do some chores, the girls do not make this task easy for the father.</desc>
+  <programme start="20260211213000 +0800" stop="20260211230000 +0800" channel="mbc max">
+    <title lang="en">Neighbors</title>
+    <desc lang="en">Mac and Kelly Radner are a young couple with a newborndaughter, Stella, having high hopes in their new life. But soon their life takes an unexpected turn after they are forced to live next to a fraternity house.</desc>
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260209130000 +0800" stop="20260209133000 +0800" channel="mbc 2">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
+  <programme start="20260211230000 +0800" stop="20260211233000 +0800" channel="mbc max">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
     <category lang="en">Program
-               (2012)</category>
+               (2010)</category>
   </programme>
   <programme start="20260209133000 +0800" stop="20260209153000 +0800" channel="mbc 2">
     <title lang="en">SuperFly</title>
@@ -419,5 +407,17 @@
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
     <category lang="en">Program
                (2010)</category>
+  </programme>
+  <programme start="20260211203500 +0800" stop="20260211223000 +0800" channel="mbc 2">
+    <title lang="en">Memory</title>
+    <desc lang="en">Expert assassin Alex Lewis finds himself in the line of fireafter he refuses to finish a job, as the crime syndicate and FBI are on his tail while he battles with his deteriorating memory.</desc>
+    <category lang="en">Movie
+               (2022)</category>
+  </programme>
+  <programme start="20260211225500 +0800" stop="20260212005000 +0800" channel="mbc 2">
+    <title lang="en">Bad Lieutenant: Port of Call New Orleans</title>
+    <desc lang="en">Terence McDonagh is a troubled detective who gets addictedto painkillers following an injury during Hurricane Katrina. As he's having trouble dealing with people in his life, he has to get his act together in order to help solve a series of murders.</desc>
+    <category lang="en">Movie
+               (2009)</category>
   </programme>
 </tv>
