@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260209120000 +0800" stop="20260209140000 +0800" channel="mbc max">
-    <title lang="en">In the Heart of the Sea</title>
-    <desc lang="en">The crew of a whaling ship faces an unexpected hurdle in theform of a giant whale that devastates the ship and leaves the crew stranded at sea. With the whale after them and no hope of rescue, the crew resorts to drastic measures in order to survive.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260209140000 +0800" stop="20260209163000 +0800" channel="mbc max">
     <title lang="en">The Revenant</title>
     <desc lang="en">In the 19th century America, deep in the uncharted Americanwilderness, hunter Hugh Glass is severely injured and left for dead. With sheer will as his only weapon, Glass must navigate a hostile environment, a brutal winter, and warring Native American tribes in a relentless quest to survive.</desc>
@@ -215,6 +209,12 @@
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
     <category lang="en">Program
                (2010)</category>
+  </programme>
+  <programme start="20260211233000 +0800" stop="20260212010000 +0800" channel="mbc max">
+    <title lang="en">Alvin and the Chipmunks</title>
+    <desc lang="en">A chance encounter between a songwriter and a trio ofmusically-inclined chipmunks spells the start of a great musical partnership. But as the unusual collaboration brings them fame, a nefarious record executive plots to drive a wedge between Dave and the chipmunks for his own gain.</desc>
+    <category lang="en">Movie
+               (2007)</category>
   </programme>
   <programme start="20260209133000 +0800" stop="20260209153000 +0800" channel="mbc 2">
     <title lang="en">SuperFly</title>
