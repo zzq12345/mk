@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260208053000 +0800" stop="20260208080000 +0800" channel="mbc max">
-    <title lang="en">The Girl in the Spider's Web</title>
-    <desc lang="en">Young computer hacker (Lisbeth Salander) and journalist(Mikael Blomkvist) find themselves trapped in a web of spies, cybercriminals and corrupt government officials.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260208080000 +0800" stop="20260208100000 +0800" channel="mbc max">
     <title lang="en">Winter's Bone</title>
     <desc lang="en">When her father vanishes after putting their family home onthe line, the teenage Ree is left with no choice but to go looking for him in the hopes of saving her family from a grim fate.</desc>
@@ -419,5 +413,11 @@
     <desc lang="en">On the hunt for a serial killer, Joe "Deke" Deacon and JimBaxter partner up as the former's attention to detail puts them on the right track. But as the case brings up dark secrets from Deke's past, Baxter finds himself in a dilemma, especially as Deke shows a willingness to go around the rules.</desc>
     <category lang="en">Movie
                (2020)</category>
+  </programme>
+  <programme start="20260210173000 +0800" stop="20260210201000 +0800" channel="mbc 2">
+    <title lang="en">Zodiac</title>
+    <desc lang="en">A serial killer calling himself Zodiac taunts the police bysharing the details of his murders and sending cryptic messages to the press. A police officer, a journalist and a cartoonist form an unlikely team to hunt him down.</desc>
+    <category lang="en">Movie
+               (2007)</category>
   </programme>
 </tv>
