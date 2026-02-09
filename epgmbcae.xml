@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260209203100 +0800" stop="20260209230000 +0800" channel="mbc max">
-    <title lang="en">Blade Runner 2049</title>
-    <desc lang="en">After learning of a long-kept secret, young Blade Runner Ksets out to find the thirty-year-missing former Blade Runner Rick Deckard.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
-  <programme start="20260209230000 +0800" stop="20260209233000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260209233000 +0800" stop="20260210010000 +0800" channel="mbc max">
     <title lang="en">Gold</title>
     <desc lang="en">After locating a huge gold nugget, two guys seek to mine ittogether, but as the two dream of the vast fortune the gold would bring them, they soon find themselves prey to avarice and ill-will.</desc>
@@ -222,11 +210,11 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260209210000 +0800" stop="20260209230000 +0800" channel="mbc 2">
-    <title lang="en">The Upside</title>
-    <desc lang="en">The essentially different lives of a wealthy man withquadriplegia and an unemployed man are intertwined when the latter works for the former, and their encounter proves that human lives cannot be lived in isolation, as both men change one another in ways beyond their imagination.</desc>
+  <programme start="20260212085500 +0800" stop="20260212105500 +0800" channel="mbc max">
+    <title lang="en">Rescue Dawn</title>
+    <desc lang="en">A German/American plane goes out on a secret mission, butcrashes in a forest during the Laos bombing of 1965. The plane's crew are taken as hostages and tortured by Vietcong forces. US Navy Pilot successfully plans an escape method for the hostages, but they face plenty of unforeseen events.</desc>
     <category lang="en">Movie
-               (2017)</category>
+               (2006)</category>
   </programme>
   <programme start="20260209230000 +0800" stop="20260210004500 +0800" channel="mbc 2">
     <title lang="en">Dumplin'</title>
@@ -431,5 +419,11 @@
     <desc lang="en">On the hunt for a serial killer, Joe "Deke" Deacon and JimBaxter partner up as the former's attention to detail puts them on the right track. But as the case brings up dark secrets from Deke's past, Baxter finds himself in a dilemma, especially as Deke shows a willingness to go around the rules.</desc>
     <category lang="en">Movie
                (2020)</category>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212110000 +0800" channel="mbc 2">
+    <title lang="en">Space Jam: A New Legacy</title>
+    <desc lang="en">After NBA superstar LeBron James finds himself trapped withhis son in a virtual space, he must join forces with Bugs Bunny and the rest of the Looney Tunes gang to win a fateful basketball game against the Goon Squad and get back home with his son.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
