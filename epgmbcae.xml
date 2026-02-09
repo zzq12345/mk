@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260210135500 +0800" stop="20260210153000 +0800" channel="mbc max">
-    <title lang="en">Vacation</title>
-    <desc lang="en">In an attempt to reconnect with his family, Rusty Griswoldtakes his wife and sons on a road trip, hoping it will send them journeying through their relationship, but things go unexpectedly odd.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260210153000 +0800" stop="20260210160000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
@@ -204,17 +198,11 @@
     <category lang="en">Movie
                (2003)</category>
   </programme>
-  <programme start="20260210130000 +0800" stop="20260210144000 +0800" channel="mbc 2">
-    <title lang="en">Righteous Kill</title>
-    <desc lang="en">With a serial killer who serves as a vigilante on the loose,two veteran cops team up with a younger duo in order to locate the murderer who has taken justice into his own hands. But the generation gap between the two investigating duos soon rears its head as the hunt for the killer heats up.</desc>
+  <programme start="20260213010000 +0800" stop="20260213030000 +0800" channel="mbc max">
+    <title lang="en">Rescue Dawn</title>
+    <desc lang="en">A German/American plane goes out on a secret mission, butcrashes in a forest during the Laos bombing of 1965. The plane's crew are taken as hostages and tortured by Vietcong forces. US Navy Pilot successfully plans an escape method for the hostages, but they face plenty of unforeseen events.</desc>
     <category lang="en">Movie
-               (2008)</category>
-  </programme>
-  <programme start="20260210144000 +0800" stop="20260210150500 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
+               (2006)</category>
   </programme>
   <programme start="20260210150500 +0800" stop="20260210170000 +0800" channel="mbc 2">
     <title lang="en">Memory</title>
@@ -401,5 +389,11 @@
     <desc lang="en">When prominent attorney Claire Kubik learns a startlingsecret about her husband’s past, she decides to defend him in a military court, enlisting the help of veteran military attorney, Charlie Grimes.</desc>
     <category lang="en">Movie
                (2002)</category>
+  </programme>
+  <programme start="20260213005500 +0800" stop="20260213023000 +0800" channel="mbc 2">
+    <title lang="en">Nerve</title>
+    <desc lang="en">The film revolves around a high school senior, who becomescompletely immersed in an online game of Truth or Dare, where her every move is manipulated by  an anonymous community of "watchers.".</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
