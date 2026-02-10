@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260210180000 +0800" stop="20260210195500 +0800" channel="mbc max">
-    <title lang="en">Winter's Bone</title>
-    <desc lang="en">When her father vanishes after putting their family home onthe line, the teenage Ree is left with no choice but to go looking for him in the hopes of saving her family from a grim fate.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260210195500 +0800" stop="20260210223000 +0800" channel="mbc max">
     <title lang="en">The Revenant</title>
     <desc lang="en">In the 19th century America, deep in the uncharted Americanwilderness, hunter Hugh Glass is severely injured and left for dead. With sheer will as his only weapon, Glass must navigate a hostile environment, a brutal winter, and warring Native American tribes in a relentless quest to survive.</desc>
@@ -197,6 +191,18 @@
     <desc lang="en">Following the closure of Jurassic World theme park, theeruption of a dormant volcano on the island makes Owen and Claire return to Isla Nublar to save the dinosaurs from extinction.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213070000 +0800" channel="mbc max">
+    <title lang="en">12 Strong</title>
+    <desc lang="en">Based on a true story, the film tells the story of a SpecialForces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.</desc>
+    <category lang="en">Movie
+               (2018)</category>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213093000 +0800" channel="mbc max">
+    <title lang="en">Miss Sloane</title>
+    <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
   <programme start="20260210213500 +0800" stop="20260210232500 +0800" channel="mbc 2">
     <title lang="en">The Purge: Election Year</title>
@@ -389,5 +395,11 @@
     <desc lang="en">This thriller recounts how the U.S. container ship, theMaersk Alabama, headed by Captain Richard Phillips (Tom Hanks), became the first American ship to be hijacked in two hundred years when they come head to head with Somali pirates.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260213063000 +0800" stop="20260213083000 +0800" channel="mbc 2">
+    <title lang="en">Passengers</title>
+    <desc lang="en">On a spacecraft that is supposed to carry people to a newplanet to colonize it, things go wrong when a technical problem affects the sleeping rooms, prompting two passengers to wake up before the scheduled time for their awakening.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
