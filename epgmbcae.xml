@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260210195500 +0800" stop="20260210223000 +0800" channel="mbc max">
-    <title lang="en">The Revenant</title>
-    <desc lang="en">In the 19th century America, deep in the uncharted Americanwilderness, hunter Hugh Glass is severely injured and left for dead. With sheer will as his only weapon, Glass must navigate a hostile environment, a brutal winter, and warring Native American tribes in a relentless quest to survive.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20260210223000 +0800" stop="20260210230000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260210230000 +0800" stop="20260211010000 +0800" channel="mbc max">
     <title lang="en">Room</title>
     <desc lang="en">24-year-old Joy and her young son Jack successfully escapetheir captivity after years of being held captive by a kidnapper in a remote hut.</desc>
@@ -201,12 +189,6 @@
   <programme start="20260213070000 +0800" stop="20260213093000 +0800" channel="mbc max">
     <title lang="en">Miss Sloane</title>
     <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20260210213500 +0800" stop="20260210232500 +0800" channel="mbc 2">
-    <title lang="en">The Purge: Election Year</title>
-    <desc lang="en">Two years after his son's murder, Leo Barnes, who now worksas a head of security for Senator Charlie Roan, finds himself obliged to ensure the Senator survives the mayhem that is the purge night. She is in danger because of her vow to eliminate the Purge.</desc>
     <category lang="en">Movie
                (2016)</category>
   </programme>
@@ -401,5 +383,11 @@
     <desc lang="en">On a spacecraft that is supposed to carry people to a newplanet to colonize it, things go wrong when a technical problem affects the sleeping rooms, prompting two passengers to wake up before the scheduled time for their awakening.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260213083000 +0800" stop="20260213110000 +0800" channel="mbc 2">
+    <title lang="en">A Few Good Men</title>
+    <desc lang="en">Military lawyer Daniel Kaffee(Tom Cruise) is charged withdefending two marines accused of killing their colleague. His defense teammate Galloway (Demi Moore) believes they were only following orders from their superior. They unite to prove the truth that the Colonel wants to hide with all his might.</desc>
+    <category lang="en">Movie
+               (1992)</category>
   </programme>
 </tv>
