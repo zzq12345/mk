@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260212113000 +0800" stop="20260212133000 +0800" channel="mbc max">
-    <title lang="en">12 Strong</title>
-    <desc lang="en">Based on a true story, the film tells the story of a SpecialForces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260212140000 +0800" stop="20260212160500 +0800" channel="mbc max">
     <title lang="en">Fury</title>
     <desc lang="en">During the final chapter of WWII, Wardaddy, an inured armysergeant, leads a group of soldiers on a risky mission behind enemy lines. With the odds against them, Wardaddy and his crew go through hell as they attempt to carry out their heroic mission.</desc>
@@ -174,23 +168,17 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260212110000 +0800" stop="20260212123500 +0800" channel="mbc 2">
-    <title lang="en">Minions</title>
-    <desc lang="en">Through the ages the Minions have been serving evil masterswith their despicable plans, they get recruited by super-villain  Scarlett Overkill, who's plotting to take over the world.</desc>
-    <category lang="en">Movie - Cartoon
-               (2015)</category>
-  </programme>
-  <programme start="20260212130000 +0800" stop="20260212143500 +0800" channel="mbc 2">
-    <title lang="en">Nerve</title>
-    <desc lang="en">The film revolves around a high school senior, who becomescompletely immersed in an online game of Truth or Dare, where her every move is manipulated by  an anonymous community of "watchers.".</desc>
+  <programme start="20260214230000 +0800" stop="20260215010000 +0800" channel="mbc max">
+    <title lang="en">Miss Sloane</title>
+    <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260212143500 +0800" stop="20260212150000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
+  <programme start="20260215010000 +0800" stop="20260215023000 +0800" channel="mbc max">
+    <title lang="en">Alpha</title>
+    <desc lang="en">A young man in the prehistoric era, split off from his tribeduring a buffalo hunt, battles to find his way back home. He makes a bond with a fellow lost wolf that has the power to transform humanity.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
   <programme start="20260212150000 +0800" stop="20260212170000 +0800" channel="mbc 2">
     <title lang="en">Passengers</title>
@@ -371,5 +359,11 @@
     <desc lang="en">In the 1970s, the film revolves around the life oftelevision reporter Christine Chubbuck, who suffered from depression while trying to advance in her career..</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260215013000 +0800" channel="mbc 2">
+    <title lang="en">A Few Good Men</title>
+    <desc lang="en">Military lawyer Daniel Kaffee(Tom Cruise) is charged withdefending two marines accused of killing their colleague. His defense teammate Galloway (Demi Moore) believes they were only following orders from their superior. They unite to prove the truth that the Colonel wants to hide with all his might.</desc>
+    <category lang="en">Movie
+               (1992)</category>
   </programme>
 </tv>
