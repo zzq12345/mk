@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260211030500 +0800" stop="20260211050500 +0800" channel="mbc max">
-    <title lang="en">Jurassic World</title>
-    <desc lang="en">Two decades after the events of Jurassic Park, a new themepark is open for business, but history has a habit of repeating itself, when a transgenic dinosaur escapes from its enclosure and creates havoc on the island of Isla Nublar.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260211050500 +0800" stop="20260211070000 +0800" channel="mbc max">
     <title lang="en">Rampage</title>
     <desc lang="en">When the gorilla that was once Primatologist Davis Okoye’sfriend is affected by an experiment that turns him into a ruthless monster that evades North America destroying everything in his path, Okoye works with a discredited genetic engineer to find an antidote to save the world and his former friend.</desc>
@@ -179,18 +173,6 @@
     <desc lang="en">When hordes of Kaiju, monstrous alien creatures, attackEarth from deep-sea waters, giant robots piloted by humans are deployed to fight them off and save the human population from utter annihilation.</desc>
     <category lang="en">Movie
                (2013)</category>
-  </programme>
-  <programme start="20260211045000 +0800" stop="20260211063000 +0800" channel="mbc 2">
-    <title lang="en">How to Train Your Dragon: The Hidden World</title>
-    <desc lang="en">As Hiccup fulfills his dream of creating a peaceful dragonutopia, Toothless' discovery of a wild dragon drives the Night Fury away. When danger mounts, Hiccup's reign as village chief is tested, both dragon and rider must make impossible decisions to save their own kind.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260211063000 +0800" stop="20260211065500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
   </programme>
   <programme start="20260211065500 +0800" stop="20260211090000 +0800" channel="mbc 2">
     <title lang="en">The Little Things</title>
@@ -371,5 +353,17 @@
     <desc lang="en">Assigned to Indonesia, a top notch intelligence officer,backed up by top-secret tactical command unit, is commissioned to smuggle a police officer out of the country, as he has some sensitive and classified information.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260213143000 +0800" stop="20260213150000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260213150000 +0800" stop="20260213170000 +0800" channel="mbc 2">
+    <title lang="en">Contraband</title>
+    <desc lang="en">The movie revolves around a security guard who is facingfinancial problems; forcing him back into doing what he does best-running a contraband with his partner.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>
