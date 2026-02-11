@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260211050500 +0800" stop="20260211070000 +0800" channel="mbc max">
-    <title lang="en">Rampage</title>
-    <desc lang="en">When the gorilla that was once Primatologist Davis Okoye’sfriend is affected by an experiment that turns him into a ruthless monster that evades North America destroying everything in his path, Okoye works with a discredited genetic engineer to find an antidote to save the world and his former friend.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
-  <programme start="20260211070000 +0800" stop="20260211085500 +0800" channel="mbc max">
-    <title lang="en">The Water Diviner</title>
-    <desc lang="en">Following the Battle of Gallipoli in 1919, an Australianfarmer decides to head to Turkey in order to locate his three missing sons there, after he promised his wife to give them a proper burial.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260211085500 +0800" stop="20260211105500 +0800" channel="mbc max">
     <title lang="en">Rescue Dawn</title>
     <desc lang="en">A German/American plane goes out on a secret mission, butcrashes in a forest during the Laos bombing of 1965. The plane's crew are taken as hostages and tortured by Vietcong forces. US Navy Pilot successfully plans an escape method for the hostages, but they face plenty of unforeseen events.</desc>
@@ -174,11 +162,17 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260211065500 +0800" stop="20260211090000 +0800" channel="mbc 2">
-    <title lang="en">The Little Things</title>
-    <desc lang="en">On the hunt for a serial killer, Joe "Deke" Deacon and JimBaxter partner up as the former's attention to detail puts them on the right track. But as the case brings up dark secrets from Deke's past, Baxter finds himself in a dilemma, especially as Deke shows a willingness to go around the rules.</desc>
+  <programme start="20260213163000 +0800" stop="20260213190000 +0800" channel="mbc max">
+    <title lang="en">Godzilla</title>
+    <desc lang="en">An epic rebirth to Toho’s iconic Godzilla, the film pits theworld’s most famous monster against malevolent creatures who, bolstered by humanity’s scientific arrogance, threaten our very existence.</desc>
     <category lang="en">Movie
-               (2020)</category>
+               (2014)</category>
+  </programme>
+  <programme start="20260213190000 +0800" stop="20260213211500 +0800" channel="mbc max">
+    <title lang="en">All the Money in the World</title>
+    <desc lang="en">An Italian gang kidnaps John Paul Getty III, grandson of oiltycoon J Paul Getty, in Rome. Soon, his mother frantically attempts to persuade his millionaire grandfather to pay the ransom.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
   <programme start="20260211090000 +0800" stop="20260211110000 +0800" channel="mbc 2">
     <title lang="en">Space Jam: A New Legacy</title>
@@ -365,5 +359,17 @@
     <desc lang="en">The movie revolves around a security guard who is facingfinancial problems; forcing him back into doing what he does best-running a contraband with his partner.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260213170000 +0800" stop="20260213183000 +0800" channel="mbc 2">
+    <title lang="en">The Mechanic</title>
+    <desc lang="en">An elite hitman is successful working in the shadows. Nowhe's teaching his trade to an apprentice who is related to one of his previous victims.</desc>
+    <category lang="en">Movie
+               (2011)</category>
+  </programme>
+  <programme start="20260213190000 +0800" stop="20260213210000 +0800" channel="mbc 2">
+    <title lang="en">Welcome to Marwen</title>
+    <desc lang="en">The true story of Mark Hogancamp, ​​who was the victim of abrutal attack when five men severely beat him up, but during his recovery he finds a unique and beautiful therapeutic outlet.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
