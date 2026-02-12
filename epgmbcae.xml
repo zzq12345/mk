@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260212163500 +0800" stop="20260212183500 +0800" channel="mbc max">
-    <title lang="en">1917</title>
-    <desc lang="en">During World War I, two British soldiers go on an impossiblemission, where they must enter the enemy territory, to deliver a message to prevent their beleaguered troops from marching towards a deadly trap.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260212183500 +0800" stop="20260212203000 +0800" channel="mbc max">
-    <title lang="en">Rampage</title>
-    <desc lang="en">When the gorilla that was once Primatologist Davis Okoye’sfriend is affected by an experiment that turns him into a ruthless monster that evades North America destroying everything in his path, Okoye works with a discredited genetic engineer to find an antidote to save the world and his former friend.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260212203000 +0800" stop="20260212223500 +0800" channel="mbc max">
     <title lang="en">Across the Universe</title>
     <desc lang="en">While looking for his American father, Jude meets theadventurous Max and his sister Lucy who he starts to fall for. As the war in Vietnam escalates, Max joins the army as Lucy supports an anti-war movement.</desc>
@@ -186,17 +174,11 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260212170000 +0800" stop="20260212190000 +0800" channel="mbc 2">
-    <title lang="en">Looper</title>
-    <desc lang="en">In the future when the mob wants to get rid of someone, theyuse time travel to send them back a few decades, where "looper" Joe (Joseph Gordon-Levitt) is waiting to kill them off. Joe excels at his job, but one day he must face off against his future self (Bruce Willis) when the mob decides to "close the loop."</desc>
+  <programme start="20260215053000 +0800" stop="20260215073000 +0800" channel="mbc max">
+    <title lang="en">Pacific Rim</title>
+    <desc lang="en">When hordes of Kaiju, monstrous alien creatures, attackEarth from deep-sea waters, giant robots piloted by humans are deployed to fight them off and save the human population from utter annihilation.</desc>
     <category lang="en">Movie
-               (2012)</category>
-  </programme>
-  <programme start="20260212190000 +0800" stop="20260212211000 +0800" channel="mbc 2">
-    <title lang="en">State of Play</title>
-    <desc lang="en">When a congressional aide is killed, an investigativejournalist discovers that she was having an affair with her boss, his old college friend. His search for answers about her death leads him to a vast conspiracy that links a series of seemingly unrelated murders.</desc>
-    <category lang="en">Movie
-               (2009)</category>
+               (2013)</category>
   </programme>
   <programme start="20260212211000 +0800" stop="20260212230000 +0800" channel="mbc 2">
     <title lang="en">Whiplash</title>
@@ -377,5 +359,17 @@
     <desc lang="en">A woman gets a rare second chance to relive her childhood,after the pressure of being an adult becomes too much to bear.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215070000 +0800" channel="mbc 2">
+    <title lang="en">Pitch Perfect 2</title>
+    <desc lang="en">An A cappella group enter into an international competitionthat no American team has ever won before.</desc>
+    <category lang="en">Movie
+               (2015)</category>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215083000 +0800" channel="mbc 2">
+    <title lang="en">Pitch Perfect 3</title>
+    <desc lang="en">After their win in the World Championship, the Bellas splitup. When they reunite for one last time for an overseas USO tour, they come up against a group who can not only sing but also play instruments.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
