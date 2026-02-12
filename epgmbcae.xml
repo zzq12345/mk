@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260213140000 +0800" stop="20260213160000 +0800" channel="mbc max">
-    <title lang="en">War Dogs</title>
-    <desc lang="en">Based on the story of two young men in their twenties, DavidPackouz and Efraim Diveroli, who won a large deal worth $300 million contract from the Pentagon to arm America's allies in Afghanistan.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
   <programme start="20260213160000 +0800" stop="20260213190000 +0800" channel="mbc max">
     <title lang="en">The Wolf of Wall Street</title>
     <desc lang="en">Based on his own book, this is the true story of JordanBelfort. A stock-broker who had it all after his rise to the high life of a millionaire and lost it all after his fall involving crime and the federal government.</desc>
@@ -389,5 +383,11 @@
     <desc lang="en">An elite hitman is successful working in the shadows. Nowhe's teaching his trade to an apprentice who is related to one of his previous victims.</desc>
     <category lang="en">Movie
                (2011)</category>
+  </programme>
+  <programme start="20260216013000 +0800" stop="20260216033000 +0800" channel="mbc 2">
+    <title lang="en">Taken 3</title>
+    <desc lang="en">Ex-government operative Bryan Mills finds his life shatteredwhen he's falsely accused of a murder that hits close to home. As he's pursued by a savvy police inspector, Mills employs his particular set of skills to track the real killer and exact his unique brand of justice.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
