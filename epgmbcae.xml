@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260212203000 +0800" stop="20260212223500 +0800" channel="mbc max">
-    <title lang="en">Across the Universe</title>
-    <desc lang="en">While looking for his American father, Jude meets theadventurous Max and his sister Lucy who he starts to fall for. As the war in Vietnam escalates, Max joins the army as Lucy supports an anti-war movement.</desc>
-    <category lang="en">Movie
-               (2007)</category>
-  </programme>
   <programme start="20260212223500 +0800" stop="20260213010000 +0800" channel="mbc max">
     <title lang="en">Hulk</title>
     <desc lang="en">A geneticist tries to evade his tragic past, but hisfather's legacy gets passed on to him. As Banner gets exposed to gamma radiation, it leaves a marked side-effect upon him, turning him into a raging green monster when he is enraged.</desc>
@@ -180,11 +174,11 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260212211000 +0800" stop="20260212230000 +0800" channel="mbc 2">
-    <title lang="en">Whiplash</title>
-    <desc lang="en">The story depicts the struggle of a young music student tobecome a top jazz drummer, and his complicated relationship with his cruel jazz band leader, who uses unorthodox methods to train the students.</desc>
+  <programme start="20260215080000 +0800" stop="20260215100000 +0800" channel="mbc max">
+    <title lang="en">Notting Hill</title>
+    <desc lang="en">A chance meeting between William, a bookstore owner, andAnna Scott, the world-famous actress, sparks a love story after Anna enlists his help to hide from a tabloid scandal. But falling for the world's most desired woman is not easy, neither is the public scrutiny that comes with it.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (1999)</category>
   </programme>
   <programme start="20260212230000 +0800" stop="20260213005500 +0800" channel="mbc 2">
     <title lang="en">High Crimes</title>
@@ -371,5 +365,17 @@
     <desc lang="en">After their win in the World Championship, the Bellas splitup. When they reunite for one last time for an overseas USO tour, they come up against a group who can not only sing but also play instruments.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260215083000 +0800" stop="20260215090000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215110000 +0800" channel="mbc 2">
+    <title lang="en">The Break-Up</title>
+    <desc lang="en">All hell breaks loose after Brooke breaks up with herimmature boyfriend Gary, as neither of them wants to move out of the apartment.</desc>
+    <category lang="en">Movie
+               (2006)</category>
   </programme>
 </tv>
