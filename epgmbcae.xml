@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260212010000 +0800" stop="20260212030000 +0800" channel="mbc max">
-    <title lang="en">Rescue Dawn</title>
-    <desc lang="en">A German/American plane goes out on a secret mission, butcrashes in a forest during the Laos bombing of 1965. The plane's crew are taken as hostages and tortured by Vietcong forces. US Navy Pilot successfully plans an escape method for the hostages, but they face plenty of unforeseen events.</desc>
-    <category lang="en">Movie
-               (2006)</category>
-  </programme>
   <programme start="20260212030000 +0800" stop="20260212050000 +0800" channel="mbc max">
     <title lang="en">Jurassic World: Fallen Kingdom</title>
     <desc lang="en">Following the closure of Jurassic World theme park, theeruption of a dormant volcano on the island makes Owen and Claire return to Isla Nublar to save the dinosaurs from extinction.</desc>
@@ -180,11 +174,11 @@
     <category lang="en">Movie
                (2011)</category>
   </programme>
-  <programme start="20260212005500 +0800" stop="20260212023000 +0800" channel="mbc 2">
-    <title lang="en">Nerve</title>
-    <desc lang="en">The film revolves around a high school senior, who becomescompletely immersed in an online game of Truth or Dare, where her every move is manipulated by  an anonymous community of "watchers.".</desc>
+  <programme start="20260214120000 +0800" stop="20260214140000 +0800" channel="mbc max">
+    <title lang="en">Bridesmaids</title>
+    <desc lang="en">When Annie, a simple Midwestern girl, is asked to be herbest friend Lillian's maid of honor, she struggles to please the snobby, rich bridesmaids at every pre-wedding event.</desc>
     <category lang="en">Movie
-               (2016)</category>
+               (2011)</category>
   </programme>
   <programme start="20260212023000 +0800" stop="20260212040000 +0800" channel="mbc 2">
     <title lang="en">Minions</title>
@@ -377,5 +371,11 @@
     <desc lang="en">After a global blackout, a struggling musician shockinglydiscovers that he’s the only person on earth who remembers the world renowned music band, The Beatles.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214150000 +0800" channel="mbc 2">
+    <title lang="en">Focus</title>
+    <desc lang="en">A con man, Nicky, finds that his past is back to haunt himin the form of Jess, a former apprentice of his with whom he shared a romantic relationship before pushing her away. But now she is back to implement the tricks of his trade that he taught her.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
