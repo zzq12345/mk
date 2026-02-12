@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260213093000 +0800" stop="20260213120000 +0800" channel="mbc max">
-    <title lang="en">All the Money in the World</title>
-    <desc lang="en">An Italian gang kidnaps John Paul Getty III, grandson of oiltycoon J Paul Getty, in Rome. Soon, his mother frantically attempts to persuade his millionaire grandfather to pay the ransom.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260213120000 +0800" stop="20260213140000 +0800" channel="mbc max">
     <title lang="en">Our Brand Is Crisis</title>
     <desc lang="en">An American political consultant, Jane Bodine, is hired by aBolivian presidential candidate to ensure his success in the 2002 Bolivian presidential election. But his opponent also has an American political consultant who just happens to be Jane's nemesis.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260213083000 +0800" stop="20260213110000 +0800" channel="mbc 2">
-    <title lang="en">A Few Good Men</title>
-    <desc lang="en">Military lawyer Daniel Kaffee(Tom Cruise) is charged withdefending two marines accused of killing their colleague. His defense teammate Galloway (Demi Moore) believes they were only following orders from their superior. They unite to prove the truth that the Colonel wants to hide with all his might.</desc>
+  <programme start="20260215210000 +0800" stop="20260215230000 +0800" channel="mbc max">
+    <title lang="en">Pacific Rim</title>
+    <desc lang="en">When hordes of Kaiju, monstrous alien creatures, attackEarth from deep-sea waters, giant robots piloted by humans are deployed to fight them off and save the human population from utter annihilation.</desc>
     <category lang="en">Movie
-               (1992)</category>
+               (2013)</category>
   </programme>
   <programme start="20260213110000 +0800" stop="20260213130000 +0800" channel="mbc 2">
     <title lang="en">Welcome to Marwen</title>
@@ -383,5 +377,17 @@
     <desc lang="en">The movie revolves around a security guard who is facingfinancial problems; forcing him back into doing what he does best-running a contraband with his partner.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260215213000 +0800" stop="20260215220000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215233000 +0800" channel="mbc 2">
+    <title lang="en">Mile 22</title>
+    <desc lang="en">Assigned to Indonesia, a top notch intelligence officer,backed up by top-secret tactical command unit, is commissioned to smuggle a police officer out of the country, as he has some sensitive and classified information.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
