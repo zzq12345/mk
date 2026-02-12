@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260212030000 +0800" stop="20260212050000 +0800" channel="mbc max">
-    <title lang="en">Jurassic World: Fallen Kingdom</title>
-    <desc lang="en">Following the closure of Jurassic World theme park, theeruption of a dormant volcano on the island makes Owen and Claire return to Isla Nublar to save the dinosaurs from extinction.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260212050000 +0800" stop="20260212070000 +0800" channel="mbc max">
     <title lang="en">12 Strong</title>
     <desc lang="en">Based on a true story, the film tells the story of a SpecialForces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260212040000 +0800" stop="20260212063000 +0800" channel="mbc 2">
-    <title lang="en">Captain Phillips</title>
-    <desc lang="en">This thriller recounts how the U.S. container ship, theMaersk Alabama, headed by Captain Richard Phillips (Tom Hanks), became the first American ship to be hijacked in two hundred years when they come head to head with Somali pirates.</desc>
+  <programme start="20260214160000 +0800" stop="20260214180000 +0800" channel="mbc max">
+    <title lang="en">The Big Sick</title>
+    <desc lang="en">After performing one of his stand-up shows,Pakistani-borncomedian Kumail Nanjiani meets grad student Emily Gardner.  Their relationship develops into true love but they have to face many challenges.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2017)</category>
   </programme>
   <programme start="20260212063000 +0800" stop="20260212083000 +0800" channel="mbc 2">
     <title lang="en">Passengers</title>
@@ -377,5 +371,11 @@
     <desc lang="en">A con man, Nicky, finds that his past is back to haunt himin the form of Jess, a former apprentice of his with whom he shared a romantic relationship before pushing her away. But now she is back to implement the tricks of his trade that he taught her.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260214150000 +0800" stop="20260214170000 +0800" channel="mbc 2">
+    <title lang="en">Long Shot</title>
+    <desc lang="en">When Fred Flarsky reunites with his high school crush,Charlotte Field, now one of the most influential women in the world, a new spark is born between them. She hires him to write her speeches, as she prepares to run for US presidency.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
