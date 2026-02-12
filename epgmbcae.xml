@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260213120000 +0800" stop="20260213140000 +0800" channel="mbc max">
-    <title lang="en">Our Brand Is Crisis</title>
-    <desc lang="en">An American political consultant, Jane Bodine, is hired by aBolivian presidential candidate to ensure his success in the 2002 Bolivian presidential election. But his opponent also has an American political consultant who just happens to be Jane's nemesis.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260213140000 +0800" stop="20260213160000 +0800" channel="mbc max">
     <title lang="en">War Dogs</title>
     <desc lang="en">Based on the story of two young men in their twenties, DavidPackouz and Efraim Diveroli, who won a large deal worth $300 million contract from the Pentagon to arm America's allies in Afghanistan.</desc>
@@ -186,9 +180,9 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260213110000 +0800" stop="20260213130000 +0800" channel="mbc 2">
-    <title lang="en">Welcome to Marwen</title>
-    <desc lang="en">The true story of Mark Hogancamp, ​​who was the victim of abrutal attack when five men severely beat him up, but during his recovery he finds a unique and beautiful therapeutic outlet.</desc>
+  <programme start="20260215230000 +0800" stop="20260216010000 +0800" channel="mbc max">
+    <title lang="en">Mortal Engines</title>
+    <desc lang="en">After the 60-minute war, the survived cities thrive to stayon the now infertile Earth. The strong survivors then decide to attack the smaller ones using huge wheels to take their resources.</desc>
     <category lang="en">Movie
                (2018)</category>
   </programme>
@@ -389,5 +383,11 @@
     <desc lang="en">Assigned to Indonesia, a top notch intelligence officer,backed up by top-secret tactical command unit, is commissioned to smuggle a police officer out of the country, as he has some sensitive and classified information.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216013000 +0800" channel="mbc 2">
+    <title lang="en">The Mechanic</title>
+    <desc lang="en">An elite hitman is successful working in the shadows. Nowhe's teaching his trade to an apprentice who is related to one of his previous victims.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
