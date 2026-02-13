@@ -30,6 +30,9 @@
   <channel id="HOY体育台">
     <display-name lang="zh">HOY体育台</display-name>
   </channel>
+  <channel id="阿根廷甲组足球联赛 - 独立队 对 拉努斯 (早上6:55)">
+    <display-name lang="zh">阿根廷甲组足球联赛 - 独立队 对 拉努斯 (早上6:55)</display-name>
+  </channel>
   <channel id="HOY怪谈台">
     <display-name lang="zh">HOY怪谈台</display-name>
   </channel>
@@ -1797,10 +1800,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260214140000 +0800" stop="20260214163000 +0800" channel="mbc max">
-    <title lang="en">Pacific Rim</title>
-    <desc lang="en">When hordes of Kaiju, monstrous alien creatures, attackEarth from deep-sea waters, giant robots piloted by humans are deployed to fight them off and save the human population from utter annihilation.</desc>
-  </programme>
   <programme start="20260214163000 +0800" stop="20260214190000 +0800" channel="mbc max">
     <title lang="en">Godzilla</title>
     <desc lang="en">An epic rebirth to Toho’s iconic Godzilla, the film pits theworld’s most famous monster against malevolent creatures who, bolstered by humanity’s scientific arrogance, threaten our very existence.</desc>
@@ -2016,10 +2015,6 @@
   <programme start="20260216153000 +0800" stop="20260216173000 +0800" channel="mbc 2">
     <title lang="en">My Friend Dahmer</title>
     <desc lang="en">The story of Jeffrey Dahmer's teenage years as told by hishigh school friend, John Backderf, from his struggle to fit in school, to his unsettling obsession with how dead animals are "fitted together",  to his first murder.</desc>
-  </programme>
-  <programme start="20260213150000 +0800" stop="20260213163000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
   </programme>
   <programme start="20260213163000 +0800" stop="20260213170000 +0800" channel="mbc action">
     <title lang="en">برنامج the inside line </title>
@@ -21114,11 +21109,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213020900 +0800" stop="20260213020900 +0800" channel="spot on news">
-    <title lang="zh">Stolen car flies spectacularly over intersection</title>
+    <title lang="zh">Due to engine failure: Cessna makes emergency landing on beach</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213020900 +0800" stop="20260213020900 +0800" channel="spot on news">
-    <title lang="zh">Due to engine failure: Cessna makes emergency landing on beach</title>
+    <title lang="zh">Stolen car flies spectacularly over intersection</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213020900 +0800" stop="20260213021000 +0800" channel="spot on news">
@@ -25578,11 +25573,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213190400 +0800" stop="20260213190400 +0800" channel="spot on news">
-    <title lang="zh">Overloaded truck overturns onto Jeep - one dead</title>
+    <title lang="zh">Man rampages on airplane roof</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213190400 +0800" stop="20260213190400 +0800" channel="spot on news">
-    <title lang="zh">Man rampages on airplane roof</title>
+    <title lang="zh">Overloaded truck overturns onto Jeep - one dead</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213190400 +0800" stop="20260213190500 +0800" channel="spot on news">
@@ -26118,11 +26113,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213210000 +0800" stop="20260213210000 +0800" channel="spot on news">
-    <title lang="zh">Car explodes on highway: driver narrowly escapes death</title>
+    <title lang="zh">Huge Christmas tree goes up in flames</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213210000 +0800" stop="20260213210000 +0800" channel="spot on news">
-    <title lang="zh">Huge Christmas tree goes up in flames</title>
+    <title lang="zh">Car explodes on highway: driver narrowly escapes death</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213210000 +0800" stop="20260213210100 +0800" channel="spot on news">
@@ -26162,11 +26157,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213210900 +0800" stop="20260213210900 +0800" channel="spot on news">
-    <title lang="zh">Crash car misses man by inches</title>
+    <title lang="zh">Scary moment: Lightning strikes car</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213210900 +0800" stop="20260213210900 +0800" channel="spot on news">
-    <title lang="zh">Scary moment: Lightning strikes car</title>
+    <title lang="zh">Crash car misses man by inches</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260213210900 +0800" stop="20260213211000 +0800" channel="spot on news">
@@ -26938,11 +26933,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260214000000 +0800" stop="20260214000000 +0800" channel="spot on news">
-    <title lang="zh">At the last second: Driver jumps out of crashing bus</title>
+    <title lang="zh">Inferno in the Philippines: Over 1,000 houses in flames</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260214000000 +0800" stop="20260214000000 +0800" channel="spot on news">
-    <title lang="zh">Inferno in the Philippines: Over 1,000 houses in flames</title>
+    <title lang="zh">At the last second: Driver jumps out of crashing bus</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260214000000 +0800" stop="20260214000100 +0800" channel="spot on news">
@@ -27822,11 +27817,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260214032000 +0800" stop="20260214032000 +0800" channel="spot on news">
-    <title lang="zh">State of Indiana: Mass pile-up caused by winter storm</title>
+    <title lang="zh">Military plane nearly hits Tesla during crash landing</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260214032000 +0800" stop="20260214032000 +0800" channel="spot on news">
-    <title lang="zh">Military plane nearly hits Tesla during crash landing</title>
+    <title lang="zh">State of Indiana: Mass pile-up caused by winter storm</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260214032000 +0800" stop="20260214032100 +0800" channel="spot on news">
@@ -176059,11 +176054,11 @@
     <title lang="zh">Aadalam Boys Chinnatha Dance</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260214050800 +0800" stop="20260214073000 +0800" channel="KTV">
+  <programme start="20260214050800 +0800" stop="20260214072000 +0800" channel="KTV">
     <title lang="zh">Subha Muhurtham</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260214073000 +0800" stop="20260214093000 +0800" channel="KTV">
+  <programme start="20260214072000 +0800" stop="20260214093000 +0800" channel="KTV">
     <title lang="zh">Sumai</title>
     <desc lang="zh"> </desc>
   </programme>
