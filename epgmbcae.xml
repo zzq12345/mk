@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260216140000 +0800" stop="20260216163000 +0800" channel="mbc max">
-    <title lang="en">King Richard</title>
-    <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260216163000 +0800" stop="20260216183000 +0800" channel="mbc max">
     <title lang="en">Concussion</title>
     <desc lang="en">The film follows how American football players suffer fromrepeated concussions and life-long debilitating hygienic issues and how the NFL always tries to deny any responsibility for these problems.</desc>
@@ -407,5 +401,11 @@
     <desc lang="en">Jupiter Jones finds her ordinary life turned upside down,when she discovers that she's an heiress of intergalactic nobility and together with an ex-military hunter must fight to save Earth from a destructive force.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260219013000 +0800" stop="20260219031500 +0800" channel="mbc 2">
+    <title lang="en">Charlie's Angels: Full Throttle</title>
+    <desc lang="en">The three deadly angels are back, who have been trained incombat by their mysterious boss, as they are involved with dangerous groups, as they attempt to catch them while keeping themselves alive.</desc>
+    <category lang="en">Movie
+               (2003)</category>
   </programme>
 </tv>
