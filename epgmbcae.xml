@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260216113000 +0800" stop="20260216140000 +0800" channel="mbc max">
-    <title lang="en">42</title>
-    <desc lang="en">The film follows the life of baseball player JackieRobinson, and how he wrote down history as the first African-American to play in Major League,playing with the Brooklyn Dodger under the management of Branch Rickey.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260216140000 +0800" stop="20260216163000 +0800" channel="mbc max">
     <title lang="en">King Richard</title>
     <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
@@ -407,5 +401,11 @@
     <desc lang="en">Hank, a charming dog with aspirations of becoming a samurai,ventures out in pursuit of his destiny.</desc>
     <category lang="en">Movie
                (2022)</category>
+  </programme>
+  <programme start="20260218233000 +0800" stop="20260219013000 +0800" channel="mbc 2">
+    <title lang="en">Jupiter Ascending</title>
+    <desc lang="en">Jupiter Jones finds her ordinary life turned upside down,when she discovers that she's an heiress of intergalactic nobility and together with an ex-military hunter must fight to save Earth from a destructive force.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
