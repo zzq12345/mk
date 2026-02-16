@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260216203000 +0800" stop="20260216223000 +0800" channel="mbc max">
-    <title lang="en">How Do You Know</title>
-    <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260216225800 +0800" stop="20260217010000 +0800" channel="mbc max">
     <title lang="en">The Big Sick</title>
     <desc lang="en">After performing one of his stand-up shows,Pakistani-borncomedian Kumail Nanjiani meets grad student Emily Gardner.  Their relationship develops into true love but they have to face many challenges.</desc>
@@ -192,17 +186,11 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260216212500 +0800" stop="20260216225000 +0800" channel="mbc 2">
-    <title lang="en">Moonrise Kingdom</title>
-    <desc lang="en">Set in the sixties, in an island in New England, a12-year-old boy and girl fall in love and secretly plan to run away together. This angers the authorities in the island, and the situation escalates to the point where they attempt to track the young couple in all directions.</desc>
+  <programme start="20260219080000 +0800" stop="20260219100000 +0800" channel="mbc max">
+    <title lang="en">Jane Eyre</title>
+    <desc lang="en">As the governess Jayne Eyre falls for her employer EdwardRochester, her happiness proves short-lived as Edward's long-buried secret threatens to tear them apart.</desc>
     <category lang="en">Movie
-               (2012)</category>
-  </programme>
-  <programme start="20260216225000 +0800" stop="20260216231500 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
+               (2011)</category>
   </programme>
   <programme start="20260216231500 +0800" stop="20260217010000 +0800" channel="mbc 2">
     <title lang="en">The Break-Up</title>
@@ -413,5 +401,11 @@
     <desc lang="en">The true story of how a French street performer undertookthe daunting task of walking a tightrope between the Twin Towers of the World Trade Center, all with the aid of a misfit group that he put together</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260219083000 +0800" stop="20260219103500 +0800" channel="mbc 2">
+    <title lang="en">Hugo</title>
+    <desc lang="en">In 1930's Paris, orphaned Hugo lives in a crowded trainstation. He enters a new adventure with Isabelle, in an attempt to solve the mystery his father has left behind regarding an automaton.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
