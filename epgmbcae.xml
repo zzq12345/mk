@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260217065500 +0800" stop="20260217073000 +0800" channel="mbc max">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-    <category lang="en">Program
-               (2012)</category>
-  </programme>
   <programme start="20260217073000 +0800" stop="20260217090500 +0800" channel="mbc max">
     <title lang="en">Limitless</title>
     <desc lang="en">Down on his luck, Eddie is introduced to an experimentaldrug that ends up turning his life around as it allows him to unlock his mind's full potential. However, his newfound abilities soon garner unwanted attention, which puts his life on the line just as he starts suffering from side effects.</desc>
@@ -173,6 +167,12 @@
     <desc lang="en">Set in the 1950s, a private detective with Tourette'ssyndrome, Lionel Essrog, loses his only friend and mentor Frank Minna. Lionel then ventures into the slums of Brooklyn and Harlem to uncover the truth about his friend's death.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260219163000 +0800" stop="20260219183000 +0800" channel="mbc max">
+    <title lang="en">Lucky Number Slevin</title>
+    <desc lang="en">A case of mistaken identity lands Slevin in the middle of awar between two rival crime bosses. Put under surveillance by a detective and an assassin, he has to plan his move before they make their own.</desc>
+    <category lang="en">Movie
+               (2006)</category>
   </programme>
   <programme start="20260217063000 +0800" stop="20260217083500 +0800" channel="mbc 2">
     <title lang="en">Jupiter Ascending</title>
@@ -371,5 +371,11 @@
     <desc lang="en">A bouncer with a violent anger-management problem uses anelectrode-lined vest to control her homicidal tendencies. But when the man she loves is killed, she sets out on a bloody pursuit to find the murderer.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219190000 +0800" channel="mbc 2">
+    <title lang="en">Cop Out</title>
+    <desc lang="en">When Jimmy Monroe decides to sell a precious baseball cardin order to get the necessary money for his daughter’s wedding, the card gets stolen, and Jimmy recruits his fellow cop Peter to find the thief who turns out to be a football-memorabilia-obsessed gangster.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
 </tv>
