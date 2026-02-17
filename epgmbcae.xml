@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260218140000 +0800" stop="20260218163000 +0800" channel="mbc max">
-    <title lang="en">Den of Thieves</title>
-    <desc lang="en">While planning a bank robbery, a thief is surrounded by twogroups of dangerous criminals.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260218163000 +0800" stop="20260218183000 +0800" channel="mbc max">
     <title lang="en">Baby Driver</title>
     <desc lang="en">When a crime boss threatens to harm his girlfriend, Baby isforced to participate in a heist with a few volatile individuals, which makes the whole thing a recipe for disaster.</desc>
@@ -173,6 +167,12 @@
     <desc lang="en">As the governess Jayne Eyre falls for her employer EdwardRochester, her happiness proves short-lived as Edward's long-buried secret threatens to tear them apart.</desc>
     <category lang="en">Movie
                (2011)</category>
+  </programme>
+  <programme start="20260221013000 +0800" stop="20260221040000 +0800" channel="mbc max">
+    <title lang="en">Reservation Road</title>
+    <desc lang="en">Tragedy befalls two families when the lawyer Dwightaccidentally runs a young boy on Reservation Road and flees the scene. As he searches for answers, the boy's father, Ethan, hires a lawyer who just happens to be Dwight.</desc>
+    <category lang="en">Movie
+               (2007)</category>
   </programme>
   <programme start="20260218150500 +0800" stop="20260218172500 +0800" channel="mbc 2">
     <title lang="en">The Equalizer</title>
@@ -365,5 +365,11 @@
     <desc lang="en">In 1930's Paris, orphaned Hugo lives in a crowded trainstation. He enters a new adventure with Isabelle, in an attempt to solve the mystery his father has left behind regarding an automaton.</desc>
     <category lang="en">Movie
                (2011)</category>
+  </programme>
+  <programme start="20260221013000 +0800" stop="20260221040000 +0800" channel="mbc 2">
+    <title lang="en">Mr. Jones</title>
+    <desc lang="en">Gareth Jones is a Welsh journalist who just happens to be inthe Soviet Union during the time of the man-made Holodomor famine that ended the life of millions of people, as he grows determined to uncover the truth behind the famine, even if he loses his life for it.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
