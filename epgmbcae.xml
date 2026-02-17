@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260217003000 +0800" stop="20260217022500 +0800" channel="mbc max">
-    <title lang="en">Ender's Game</title>
-    <desc lang="en">Seventy years after a horrific war with aliens, anexceptionally gifted child is sent to an advanced military school in space to prepare for the future invasion.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260217022500 +0800" stop="20260217043000 +0800" channel="mbc max">
     <title lang="en">Ready Player One</title>
     <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2004)</category>
   </programme>
-  <programme start="20260217001000 +0800" stop="20260217013500 +0800" channel="mbc 2">
-    <title lang="en">Alice, Darling</title>
-    <desc lang="en">As Alice is pushed to the edge by her abusive boyfriend, sheembarks on a journey of self-discovery as she goes on vacation with her two best friends.</desc>
+  <programme start="20260219113000 +0800" stop="20260219140000 +0800" channel="mbc max">
+    <title lang="en">BlacKkKlansman</title>
+    <desc lang="en">A Colorado African-American police officer, Ron Stallworth,manages to join one of the KKK’s groups, and works his way up to leading it, in his attempt to arrest its members.</desc>
     <category lang="en">Movie
-               (2022)</category>
+               (2018)</category>
   </programme>
   <programme start="20260217013500 +0800" stop="20260217031500 +0800" channel="mbc 2">
     <title lang="en">Charlie's Angels</title>
@@ -389,5 +383,11 @@
     <desc lang="en">Terrorists have cultivated a bomb on a public transportationbus. Once armed, the bus must stay above 50 mph to keep from exploding. An LAPD gets on the bus and tries to save as many people as he could from the tense situation.</desc>
     <category lang="en">Movie
                (1994)</category>
+  </programme>
+  <programme start="20260219110000 +0800" stop="20260219130000 +0800" channel="mbc 2">
+    <title lang="en">Wanted</title>
+    <desc lang="en">An office worker leads a dull life that is only disturbed bythe news of his father's murder. After learning that his father was an assassin, the son is recruited to follow into his father's footsteps.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
