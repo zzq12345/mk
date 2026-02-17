@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260217160000 +0800" stop="20260217180000 +0800" channel="mbc max">
-    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
-    <desc lang="en">Raccoon City was originally the headquarters of the UmbrellaPharmaceuticals, which collapsed following the infamous Raccoon Trials, and after the spread of diseases and the devastation of the world, a group of survivors attempts to unravel the mysteries behind this organisation.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
-  <programme start="20260217180000 +0800" stop="20260217193000 +0800" channel="mbc max">
-    <title lang="en">Boogie</title>
-    <desc lang="en">As the high school student Alfred "Boogie" Chin dreams ofplaying in the NBA, he follows his parents' guidance who want to get him a scholarship from a prestigious university, while he has to cope with many obstacles.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
-  <programme start="20260217193000 +0800" stop="20260217213500 +0800" channel="mbc max">
-    <title lang="en">Jerry Maguire</title>
-    <desc lang="en">Sports agent Jerry Maguire is fired after he exposes thedishonesty and corruption that rules his career field. As he loses everything, he tries to prove the success of his new management philosophy with the help of his secretary and the one client who agreed not to fire him.</desc>
-    <category lang="en">Movie
-               (1996)</category>
-  </programme>
   <programme start="20260217220000 +0800" stop="20260218003000 +0800" channel="mbc max">
     <title lang="en">King Richard</title>
     <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
@@ -186,11 +168,17 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20260217173000 +0800" stop="20260217193500 +0800" channel="mbc 2">
-    <title lang="en">Jupiter Ascending</title>
-    <desc lang="en">Jupiter Jones finds her ordinary life turned upside down,when she discovers that she's an heiress of intergalactic nobility and together with an ex-military hunter must fight to save Earth from a destructive force.</desc>
+  <programme start="20260220033000 +0800" stop="20260220053000 +0800" channel="mbc max">
+    <title lang="en">Anna Karenina</title>
+    <desc lang="en">Set in 19th century imperial Russia, the beautifularistocrat Anna Karenina is restless in her loveless marriage and begins an ill-fated affair with a young military officer, Alexei Vronsky.</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (2012)</category>
+  </programme>
+  <programme start="20260220053000 +0800" stop="20260220073000 +0800" channel="mbc max">
+    <title lang="en">Winter's Tale</title>
+    <desc lang="en">In 1916  an orphaned young man named Peter (Colin Farrell)tries to steal a mansion thinking that no one is inside. But he discovers the presence of Beverly (Jessica Brown Findlay) and they fall in love.  They have to face difficult challenges to save their love.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
   <programme start="20260217193500 +0800" stop="20260217220000 +0800" channel="mbc 2">
     <title lang="en">Gone Girl</title>
@@ -395,5 +383,17 @@
     <desc lang="en">The Addams family finds their home in danger when a realityTV star labels their eerie mansion as a threat to the picture-perfect community she is trying to build. As she employs every mean to get rid of them, the Addams family must fight to save their home.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260220040000 +0800" stop="20260220060000 +0800" channel="mbc 2">
+    <title lang="en">47 Ronin</title>
+    <desc lang="en">This action epic brings to life the real tale of 47 samuraiwarriors who in 18th century Japan set out on a quest to avenge the death of their master, killed by a treacherous overlord who banished them from their homeland.</desc>
+    <category lang="en">Movie
+               (2013)</category>
+  </programme>
+  <programme start="20260220060000 +0800" stop="20260220083000 +0800" channel="mbc 2">
+    <title lang="en">King Arthur: Legend of the Sword</title>
+    <desc lang="en">The story of young King Arthur who succeeded in drawing thepowerful sword of Excalibur from the rock  where it is lodged. He has to control his sword and unite the people under one front in order to defeat the tyrannical Vortigern, who had killed his parents and seized his throne in the past.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
