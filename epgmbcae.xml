@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260217022500 +0800" stop="20260217043000 +0800" channel="mbc max">
-    <title lang="en">Ready Player One</title>
-    <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260217043000 +0800" stop="20260217050000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
@@ -185,6 +179,12 @@
     <desc lang="en">A Colorado African-American police officer, Ron Stallworth,manages to join one of the KKK’s groups, and works his way up to leading it, in his attempt to arrest its members.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219163000 +0800" channel="mbc max">
+    <title lang="en">Motherless Brooklyn</title>
+    <desc lang="en">Set in the 1950s, a private detective with Tourette'ssyndrome, Lionel Essrog, loses his only friend and mentor Frank Minna. Lionel then ventures into the slums of Brooklyn and Harlem to uncover the truth about his friend's death.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
   <programme start="20260217034000 +0800" stop="20260217060000 +0800" channel="mbc 2">
     <title lang="en">The Amazing Spider-Man 2</title>

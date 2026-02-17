@@ -1797,10 +1797,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260217022500 +0800" stop="20260217043000 +0800" channel="mbc max">
-    <title lang="en">Ready Player One</title>
-    <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
-  </programme>
   <programme start="20260217043000 +0800" stop="20260217050000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
@@ -1916,6 +1912,10 @@
   <programme start="20260219113000 +0800" stop="20260219140000 +0800" channel="mbc max">
     <title lang="en">BlacKkKlansman</title>
     <desc lang="en">A Colorado African-American police officer, Ron Stallworth,manages to join one of the KKK’s groups, and works his way up to leading it, in his attempt to arrest its members.</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219163000 +0800" channel="mbc max">
+    <title lang="en">Motherless Brooklyn</title>
+    <desc lang="en">Set in the 1950s, a private detective with Tourette'ssyndrome, Lionel Essrog, loses his only friend and mentor Frank Minna. Lionel then ventures into the slums of Brooklyn and Harlem to uncover the truth about his friend's death.</desc>
   </programme>
   <programme start="20260217034000 +0800" stop="20260217060000 +0800" channel="mbc 2">
     <title lang="en">The Amazing Spider-Man 2</title>
@@ -2048,10 +2048,6 @@
   <programme start="20260219130000 +0800" stop="20260219150000 +0800" channel="mbc 2">
     <title lang="en">Guns Akimbo</title>
     <desc lang="en">The video game developer Miles finds himself fighting tostay alive when he becomes a participant in an ultra-violent online game as he gets chased across the city by the ruthless opponent Nix, while having guns bolted to his hands.</desc>
-  </programme>
-  <programme start="20260217033000 +0800" stop="20260217043000 +0800" channel="mbc action">
-    <title lang="en">One Piece</title>
-    <desc lang="en">Monkey D. Luffy ate a fruit called Devil Fruit - Rubber to turn into a rubber boy when he was young. At the age of 17, he decides to go on a journey to sail the seas in search of the legendary treasure One Piece that Gol D. Roger mentioned before his execution. He is accompanied by a team of 8 people. What does fate have in store for them? | Type: Series (1999) | Rating: 8.8/10</desc>
   </programme>
   <programme start="20260217043000 +0800" stop="20260217060000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -2279,6 +2275,10 @@
   </programme>
   <programme start="20260219130000 +0800" stop="20260219133000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260219133000 +0800" stop="20260219150000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
   </programme>
   <programme start="20260216060000 +0800" stop="20260216064500 +0800" channel="第一财经">
@@ -21202,11 +21202,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260216060600 +0800" stop="20260216060600 +0800" channel="spot on news">
-    <title lang="zh">Huge sea foam engulfs roads and houses</title>
+    <title lang="zh">School bus full of students crashes into three vehicles</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260216060600 +0800" stop="20260216060600 +0800" channel="spot on news">
-    <title lang="zh">School bus full of students crashes into three vehicles</title>
+    <title lang="zh">Huge sea foam engulfs roads and houses</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260216060600 +0800" stop="20260216060900 +0800" channel="spot on news">
@@ -21218,11 +21218,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260216061000 +0800" stop="20260216061000 +0800" channel="spot on news">
-    <title lang="zh">Golden Retrievers see pair of otters and go crazy</title>
+    <title lang="zh">In Beijing museum: Child knocks gold crown off pedestal</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260216061000 +0800" stop="20260216061000 +0800" channel="spot on news">
-    <title lang="zh">In Beijing museum: Child knocks gold crown off pedestal</title>
+    <title lang="zh">Golden Retrievers see pair of otters and go crazy</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260216061000 +0800" stop="20260216061100 +0800" channel="spot on news">
@@ -26714,11 +26714,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260217024900 +0800" stop="20260217024900 +0800" channel="spot on news">
-    <title lang="zh">Car explodes on highway: driver narrowly escapes death</title>
+    <title lang="zh">Fire rages in 45-story high-rise: tenants evacuated</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260217024900 +0800" stop="20260217024900 +0800" channel="spot on news">
-    <title lang="zh">Fire rages in 45-story high-rise: tenants evacuated</title>
+    <title lang="zh">Car explodes on highway: driver narrowly escapes death</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260217024900 +0800" stop="20260217025000 +0800" channel="spot on news">
@@ -70481,14 +70481,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260217090000 +0000" stop="20260217092800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260217092800 +0000" stop="20260217095800 +0000" channel="中视">
-    <title lang="zh">中视新闻</title>
-    <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
   <programme start="20260217095800 +0000" stop="20260217105800 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
@@ -71377,10 +71369,6 @@
     <title lang="zh">华视1500整点新闻</title>
     <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
   </programme>
-  <programme start="20260217090000 +0000" stop="20260217100000 +0000" channel="好消息2台">
-    <title lang="zh">大卫鲍森讲座</title>
-    <desc lang="zh">圣经权威大卫鲍森牧师，带你以宏观的神学角度，观看神伟大的神性与恩典，并从其中明白救恩计划的重要。</desc>
-  </programme>
   <programme start="20260217100000 +0000" stop="20260217103000 +0000" channel="好消息2台">
     <title lang="zh">共享观点</title>
     <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
@@ -72229,14 +72217,6 @@
     <title lang="zh">相约在会幕</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260217090000 +0000" stop="20260217093000 +0000" channel="好消息">
-    <title lang="zh">大家说英语</title>
-    <desc lang="zh">将最受欢迎的美语生活会话杂志《大家说英语》内容制作成电视教学节目，教学轻松活泼，以生活实用会话为单元主题，是新闻局推荐的优质节目。不仅能帮助您轻松开口说英语，更提供许多实用的英语语汇与技巧，让您用简单的单字，就能说一口漂亮英语。</desc>
-  </programme>
-  <programme start="20260217093000 +0000" stop="20260217100000 +0000" channel="好消息">
-    <title lang="zh">蔬菜狂想曲</title>
-    <desc lang="zh">这是一部生动有趣的卡通，主角兼任旁白的是两位蔬菜主角：理性世故的蕃茄小布，以及总是少根筋的黄瓜赖瑞，此外还有善良的芦笋家族、令人喷饭的青葱三坏蛋、常互相漏气的葡萄一族、还有爱好和平的傻气葫芦兄弟…等，多达二十几种的蔬菜角色，拟人化演出一系列好戏。</desc>
-  </programme>
   <programme start="20260217100000 +0000" stop="20260217103000 +0000" channel="好消息">
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
@@ -72997,10 +72977,6 @@
     <title lang="zh">与天使有约</title>
     <desc lang="zh">天使莫妮卡（萝玛道尼）被派下凡帮助遇上人生十字路口的凡人解决困难，而黛丝（黛拉丽丝）则是辅导她的上级天使，总是能适时指引莫妮卡做出正确判断；加上常与两人合作、身兼"死亡天使"之职的安德鲁（约翰戴），这三位天使虽无法完满解决所有人的问题，却总能为人们带来希望…</desc>
   </programme>
-  <programme start="20260217090000 +0000" stop="20260217100000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
-  </programme>
   <programme start="20260217100000 +0000" stop="20260217110000 +0000" channel="亚洲旅游台">
     <title lang="zh">惊奇大冒险</title>
     <desc lang="zh">带您深入各国体验在地文化，贴近当地人民的生活，真实呈现秘境探险、 寻找奇景的过程，让您知道怎么玩才好玩，怎么玩才刺激！</desc>
@@ -73472,10 +73448,6 @@
   <programme start="20260222070000 +0000" stop="20260222080000 +0000" channel="亚洲旅游台">
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
-  </programme>
-  <programme start="20260217092000 +0000" stop="20260217100000 +0000" channel="东森购物1台">
-    <title lang="zh">2/1-2/28全月消费实付满8,000元送【888元现金券】(每人限赠1次)</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260217100000 +0000" stop="20260217104000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
@@ -74183,10 +74155,6 @@
   </programme>
   <programme start="20260222072000 +0000" stop="20260222080000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH.43、CH.49选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260217092000 +0000" stop="20260217100000 +0000" channel="东森购物2台">
-    <title lang="zh">2/1-2/28全月消费实付满8,000元送【888元现金券】(每人限赠1次)</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260217100000 +0000" stop="20260217104000 +0000" channel="东森购物2台">
@@ -75369,10 +75337,6 @@
     <title lang="zh">华视1500整点新闻</title>
     <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
   </programme>
-  <programme start="20260217040000 +0000" stop="20260217100000 +0000" channel="倪珍播新闻">
-    <title lang="zh">午安新闻</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260217100000 +0000" stop="20260217160000 +0000" channel="倪珍播新闻">
     <title lang="zh">晚安新闻</title>
     <desc lang="zh">暂无描述</desc>
@@ -75448,10 +75412,6 @@
   <programme start="20260221220000 +0000" stop="20260222040000 +0000" channel="倪珍播新闻">
     <title lang="zh">早安新闻</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260217090000 +0000" stop="20260217100000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS1700整点新闻</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
   </programme>
   <programme start="20260217100000 +0000" stop="20260217115500 +0000" channel="三立新闻iNEWS">
     <title lang="zh">1819钱进大头条</title>
@@ -75923,10 +75883,6 @@
   </programme>
   <programme start="20260222070000 +0000" stop="20260222080000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">新闻深一度特别报导(重)</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260217090000 +0000" stop="20260217100000 +0000" channel="寰宇财经台">
-    <title lang="zh">巷弄美食家</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260217100000 +0000" stop="20260217110000 +0000" channel="寰宇财经台">
@@ -76401,10 +76357,6 @@
     <title lang="zh">台湾大代志</title>
     <desc lang="zh">时间播回1996年，当时爆发了两国论台海危机，李登辉总统抛出了两国论，大陆方面做出对台导弹试射进行威胁，不过李登辉总统说出了一句话：「他说不用怕啦！他们射出的都是哑巴弹空包弹，根本就是在作秀」大陆查到底是谁掀底牌的，分别是刘连昆、邵正宗，谁为他们牵线布下整个情报脉络的呢？</desc>
   </programme>
-  <programme start="20260217090000 +0000" stop="20260217100000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
   <programme start="20260217100000 +0000" stop="20260217105800 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">中视每晚七点由主播哈远仪为全国观众最专业、准确的新闻报导。</desc>
@@ -76876,10 +76828,6 @@
   <programme start="20260222070000 +0000" stop="20260222080000 +0000" channel="中视新闻">
     <title lang="zh">科技新视界</title>
     <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260217090000 +0000" stop="20260217100000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 1700整点新闻</title>
-    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
   </programme>
   <programme start="20260217100000 +0000" stop="20260217110000 +0000" channel="中天新闻台">
     <title lang="zh">中天辣晚报</title>
@@ -77353,10 +77301,6 @@
     <title lang="zh">周末大爆卦</title>
     <desc lang="zh">中天主播为您带来最新、最即时的重点新闻、内幕爆卦，锁定《周末大爆挂》！</desc>
   </programme>
-  <programme start="20260217085500 +0000" stop="20260217095500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
   <programme start="20260217095500 +0000" stop="20260217105500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
     <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
@@ -77829,10 +77773,6 @@
     <title lang="zh">嘘你不知道的事</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260217085500 +0000" stop="20260217095500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
   <programme start="20260217095500 +0000" stop="20260217105500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球新闻</title>
     <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
@@ -78303,14 +78243,6 @@
   </programme>
   <programme start="20260222065500 +0000" stop="20260222075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇全球现场</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260217090000 +0000" stop="20260217093000 +0000" channel="第1商业台">
-    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260217093000 +0000" stop="20260217100000 +0000" channel="第1商业台">
-    <title lang="zh">赢家应对-顾德投顾-林泓橡分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260217100000 +0000" stop="20260217103000 +0000" channel="第1商业台">
@@ -173361,7 +173293,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260218120500 +0800" stop="20260218130000 +0800" channel="TV1_HD">
-    <title lang="zh">Help! We Brought a Village Ep06</title>
+    <title lang="zh">Bongsai Dan Dunia Ep02</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260218130000 +0800" stop="20260218133000 +0800" channel="TV1_HD">
@@ -178104,11 +178036,11 @@
     <title lang="zh">Pottu Amman</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260217180000 +0800" stop="20260217183000 +0800" channel="SUN_TV_HD">
+  <programme start="20260217180000 +0800" stop="20260217183400 +0800" channel="SUN_TV_HD">
     <title lang="zh">News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260217183000 +0800" stop="20260217190000 +0800" channel="SUN_TV_HD">
+  <programme start="20260217183400 +0800" stop="20260217190000 +0800" channel="SUN_TV_HD">
     <title lang="zh">Chellame Chellame Ep49</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -201181,7 +201113,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260217200000 +0800" stop="20260217203000 +0800" channel="Astro_Football">
-    <title lang="zh">Emirates FA Cup: Round 4 Highlights</title>
+    <title lang="zh">Emirates FA Cup: Round 4 Preview</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260217203000 +0800" stop="20260217213000 +0800" channel="Astro_Football">
