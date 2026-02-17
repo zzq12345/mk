@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260218093000 +0800" stop="20260218112500 +0800" channel="mbc max">
-    <title lang="en">The Commuter</title>
-    <desc lang="en">A former cop's commute takes a dark turn when his wife'slife is held as leverage against him identifying a mysterious passenger on the train he is on. With time running out, the stakes have never been so high as he is drawn into a complex conspiracy with a deadly outcome.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260218112500 +0800" stop="20260218133000 +0800" channel="mbc max">
     <title lang="en">White House Down</title>
     <desc lang="en">DC police officer Cale is on a White House tour with hisdaughter when it is attacked by armed paramilitary invaders. He must save his daughter and the President of the United States, though the odds are against him.</desc>
@@ -174,11 +168,11 @@
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260218110000 +0800" stop="20260218123500 +0800" channel="mbc 2">
-    <title lang="en">Safe</title>
-    <desc lang="en">Luke finds himself responsible for the safety of 12-year-oldMei, who is pursued by the Chinese Triads and a group of Russians, for possessing priceless top-secret information in the form of numerical codes. While on the run, Luke decides that he will protect the little Mei at any cost.</desc>
+  <programme start="20260220210000 +0800" stop="20260220233000 +0800" channel="mbc max">
+    <title lang="en">The Great Gatsby</title>
+    <desc lang="en">Nick Carraway, a young Midwesterner and aspiring writer,moves to New York City in the roaring 1920s. Drawn to the lavish lifestyle of his mysterious neighbor Jay Gatsby, he soon finds himself a witness to obsession and tragedy.</desc>
     <category lang="en">Movie
-               (2012)</category>
+               (2013)</category>
   </programme>
   <programme start="20260218130000 +0800" stop="20260218144000 +0800" channel="mbc 2">
     <title lang="en">21 Bridges</title>
@@ -365,5 +359,11 @@
     <desc lang="en">The Addams family finds their home in danger when a realityTV star labels their eerie mansion as a threat to the picture-perfect community she is trying to build. As she employs every mean to get rid of them, the Addams family must fight to save their home.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260220210000 +0800" stop="20260220233000 +0800" channel="mbc 2">
+    <title lang="en">King Arthur: Legend of the Sword</title>
+    <desc lang="en">The story of young King Arthur who succeeded in drawing thepowerful sword of Excalibur from the rock  where it is lodged. He has to control his sword and unite the people under one front in order to defeat the tyrannical Vortigern, who had killed his parents and seized his throne in the past.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
