@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260219140000 +0800" stop="20260219160000 +0800" channel="mbc max">
-    <title lang="en">Winter's Tale</title>
-    <desc lang="en">In 1916  an orphaned young man named Peter (Colin Farrell)tries to steal a mansion thinking that no one is inside. But he discovers the presence of Beverly (Jessica Brown Findlay) and they fall in love.  They have to face difficult challenges to save their love.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260219160000 +0800" stop="20260219183000 +0800" channel="mbc max">
     <title lang="en">The Great Gatsby</title>
     <desc lang="en">Nick Carraway, a young Midwesterner and aspiring writer,moves to New York City in the roaring 1920s. Drawn to the lavish lifestyle of his mysterious neighbor Jay Gatsby, he soon finds himself a witness to obsession and tragedy.</desc>
@@ -167,6 +161,12 @@
     <desc lang="en">A case of mistaken identity lands Slevin in the middle of awar between two rival crime bosses. Put under surveillance by a detective and an assassin, he has to plan his move before they make their own.</desc>
     <category lang="en">Movie
                (2006)</category>
+  </programme>
+  <programme start="20260222013000 +0800" stop="20260222033000 +0800" channel="mbc max">
+    <title lang="en">Despicable Me</title>
+    <desc lang="en">The evil master mind Gru lives in a mansion with his smallarmy of minions, as he prepares for his most daring heist, he comes across three orphaned girls who disrupt his wicked plans.</desc>
+    <category lang="en">Movie - Cartoon
+               (2010)</category>
   </programme>
   <programme start="20260219150000 +0800" stop="20260219170500 +0800" channel="mbc 2">
     <title lang="en">King Arthur: Legend of the Sword</title>
@@ -335,5 +335,11 @@
     <desc lang="en">Terrorists have cultivated a bomb on a public transportationbus. Once armed, the bus must stay above 50 mph to keep from exploding. An LAPD gets on the bus and tries to save as many people as he could from the tense situation.</desc>
     <category lang="en">Movie
                (1994)</category>
+  </programme>
+  <programme start="20260222013000 +0800" stop="20260222033000 +0800" channel="mbc 2">
+    <title lang="en">xXx: State of the Union</title>
+    <desc lang="en">(Darius Stone), a new agent for xXx program, is sent toWashington DC to defuse the power struggle between national leaders.</desc>
+    <category lang="en">Movie
+               (2005)</category>
   </programme>
 </tv>
