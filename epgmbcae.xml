@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260218025000 +0800" stop="20260218032500 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260218032500 +0800" stop="20260218050000 +0800" channel="mbc max">
     <title lang="en">The Smurfs</title>
     <desc lang="en">The evil wizard Gargamel chased the Smurfs out of theirhome so they head to Central Park and get help from Patrick and Grace who help them return to their village and events unfold.</desc>
@@ -174,17 +168,11 @@
     <category lang="en">Movie - Cartoon
                (2017)</category>
   </programme>
-  <programme start="20260218013000 +0800" stop="20260218031500 +0800" channel="mbc 2">
-    <title lang="en">Charlie's Angels: Full Throttle</title>
-    <desc lang="en">The three deadly angels are back, who have been trained incombat by their mysterious boss, as they are involved with dangerous groups, as they attempt to catch them while keeping themselves alive.</desc>
+  <programme start="20260220140000 +0800" stop="20260220160000 +0800" channel="mbc max">
+    <title lang="en">Holmes &amp; Watson</title>
+    <desc lang="en">A humorous take on Sir Arthur Conan Doyle's classic storiesfeaturing Sherlock Holmes and Doctor Watson as they investigate a mysterious murder at Buckingham Palace.</desc>
     <category lang="en">Movie
-               (2003)</category>
-  </programme>
-  <programme start="20260218031500 +0800" stop="20260218034000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
+               (2018)</category>
   </programme>
   <programme start="20260218034000 +0800" stop="20260218060500 +0800" channel="mbc 2">
     <title lang="en">Spider-Man: No Way Home</title>
@@ -359,5 +347,11 @@
     <desc lang="en">(Darius Stone), a new agent for xXx program, is sent toWashington DC to defuse the power struggle between national leaders.</desc>
     <category lang="en">Movie
                (2005)</category>
+  </programme>
+  <programme start="20260220130000 +0800" stop="20260220153000 +0800" channel="mbc 2">
+    <title lang="en">Batman v Superman: Dawn of Justice</title>
+    <desc lang="en">After his battle in Metropolis, Bruce Wayne believes thatSuperman must be stopped, as the evil Lex Luthor manipulates Batman into defeating the Man of Steel.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
