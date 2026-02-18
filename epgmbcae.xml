@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260218210000 +0800" stop="20260218230000 +0800" channel="mbc max">
-    <title lang="en">Resident Evil: Welcome to Raccoon City</title>
-    <desc lang="en">Raccoon City was originally the headquarters of the UmbrellaPharmaceuticals, which collapsed following the infamous Raccoon Trials, and after the spread of diseases and the devastation of the world, a group of survivors attempts to unravel the mysteries behind this organisation.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260218230000 +0800" stop="20260219010000 +0800" channel="mbc max">
     <title lang="en">The Green Hornet</title>
     <desc lang="en">Britt Reid is the under-achieving son of an LA mediamagnate. The unanticipated death of his father kick-starts his life as he decides to use resources inherited from his father to fight city crime. In his efforts to fight crime Reid recruits the help of his father’s mechanic and a criminologist. Disputes threaten the crime-fighting trio before they have a chance to make a difference.</desc>
@@ -174,11 +168,11 @@
     <category lang="en">Movie
                (2006)</category>
   </programme>
-  <programme start="20260218213000 +0800" stop="20260218230500 +0800" channel="mbc 2">
-    <title lang="en">Paws of Fury: The Legend of Hank</title>
-    <desc lang="en">Hank, a charming dog with aspirations of becoming a samurai,ventures out in pursuit of his destiny.</desc>
-    <category lang="en">Movie
-               (2022)</category>
+  <programme start="20260221083000 +0800" stop="20260221100000 +0800" channel="mbc max">
+    <title lang="en">Despicable Me</title>
+    <desc lang="en">The evil master mind Gru lives in a mansion with his smallarmy of minions, as he prepares for his most daring heist, he comes across three orphaned girls who disrupt his wicked plans.</desc>
+    <category lang="en">Movie - Cartoon
+               (2010)</category>
   </programme>
   <programme start="20260218233000 +0800" stop="20260219013000 +0800" channel="mbc 2">
     <title lang="en">Jupiter Ascending</title>
@@ -359,5 +353,11 @@
     <desc lang="en">When Jimmy Monroe decides to sell a precious baseball cardin order to get the necessary money for his daughter’s wedding, the card gets stolen, and Jimmy recruits his fellow cop Peter to find the thief who turns out to be a football-memorabilia-obsessed gangster.</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260221083000 +0800" stop="20260221110000 +0800" channel="mbc 2">
+    <title lang="en">Blade</title>
+    <desc lang="en">The story of the vampire hunter Blade, who is going throughinternal and external conflicts between his bloodthirsty nature and his desire to face evil.</desc>
+    <category lang="en">Movie
+               (2025)</category>
   </programme>
 </tv>
