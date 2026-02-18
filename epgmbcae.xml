@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260219100000 +0800" stop="20260219120000 +0800" channel="mbc max">
-    <title lang="en">Anna Karenina</title>
-    <desc lang="en">Set in 19th century imperial Russia, the beautifularistocrat Anna Karenina is restless in her loveless marriage and begins an ill-fated affair with a young military officer, Alexei Vronsky.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
-  <programme start="20260219120000 +0800" stop="20260219140000 +0800" channel="mbc max">
-    <title lang="en">Downton Abbey</title>
-    <desc lang="en">The film is a continuation of the television series,tellingthe story of the Crawley family, the wealthy owners of a large estate in the English countryside in the early 20th century.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260219140000 +0800" stop="20260219160000 +0800" channel="mbc max">
     <title lang="en">Winter's Tale</title>
     <desc lang="en">In 1916  an orphaned young man named Peter (Colin Farrell)tries to steal a mansion thinking that no one is inside. But he discovers the presence of Beverly (Jessica Brown Findlay) and they fall in love.  They have to face difficult challenges to save their love.</desc>
@@ -174,23 +162,11 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20260219110000 +0800" stop="20260219123500 +0800" channel="mbc 2">
-    <title lang="en">The Addams Family</title>
-    <desc lang="en">The Addams family finds their home in danger when a realityTV star labels their eerie mansion as a threat to the picture-perfect community she is trying to build. As she employs every mean to get rid of them, the Addams family must fight to save their home.</desc>
+  <programme start="20260221233000 +0800" stop="20260222013000 +0800" channel="mbc max">
+    <title lang="en">Lucky Number Slevin</title>
+    <desc lang="en">A case of mistaken identity lands Slevin in the middle of awar between two rival crime bosses. Put under surveillance by a detective and an assassin, he has to plan his move before they make their own.</desc>
     <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260219123500 +0800" stop="20260219130000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
-  </programme>
-  <programme start="20260219130000 +0800" stop="20260219150000 +0800" channel="mbc 2">
-    <title lang="en">The Huntsman: Winter's War</title>
-    <desc lang="en">Raised as soldiers in Ice Queen Freya's army, Eric and Sara,a fellow warrior, attempt to hide their forbidden love while they battle to survive Freya and her sister Ravenna's evil plans.</desc>
-    <category lang="en">Movie
-               (2016)</category>
+               (2006)</category>
   </programme>
   <programme start="20260219150000 +0800" stop="20260219170500 +0800" channel="mbc 2">
     <title lang="en">King Arthur: Legend of the Sword</title>
@@ -347,5 +323,17 @@
     <desc lang="en">An office worker leads a dull life that is only disturbed bythe news of his father's murder. After learning that his father was an assassin, the son is recruited to follow into his father's footsteps.</desc>
     <category lang="en">Movie
                (2008)</category>
+  </programme>
+  <programme start="20260221213000 +0800" stop="20260221233000 +0800" channel="mbc 2">
+    <title lang="en">Jolt</title>
+    <desc lang="en">A bouncer with a violent anger-management problem uses anelectrode-lined vest to control her homicidal tendencies. But when the man she loves is killed, she sets out on a bloody pursuit to find the murderer.</desc>
+    <category lang="en">Movie
+               (2021)</category>
+  </programme>
+  <programme start="20260221233000 +0800" stop="20260222013000 +0800" channel="mbc 2">
+    <title lang="en">Speed</title>
+    <desc lang="en">Terrorists have cultivated a bomb on a public transportationbus. Once armed, the bus must stay above 50 mph to keep from exploding. An LAPD gets on the bus and tries to save as many people as he could from the tense situation.</desc>
+    <category lang="en">Movie
+               (1994)</category>
   </programme>
 </tv>
