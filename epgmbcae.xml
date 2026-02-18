@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260218053000 +0800" stop="20260218073000 +0800" channel="mbc max">
-    <title lang="en">White House Down</title>
-    <desc lang="en">DC police officer Cale is on a White House tour with hisdaughter when it is attacked by armed paramilitary invaders. He must save his daughter and the President of the United States, though the odds are against him.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260218080000 +0800" stop="20260218100000 +0800" channel="mbc max">
     <title lang="en">Jane Eyre</title>
     <desc lang="en">As the governess Jayne Eyre falls for her employer EdwardRochester, her happiness proves short-lived as Edward's long-buried secret threatens to tear them apart.</desc>
@@ -168,17 +162,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260218034000 +0800" stop="20260218060500 +0800" channel="mbc 2">
-    <title lang="en">Spider-Man: No Way Home</title>
-    <desc lang="en">As Spider-Man's identity is revealed and he is no longerable to keep Peter Parker's life out of that of Spider-Man, he turns to Doctor Strange for help, but things take a dangerous turn when he realizes what it takes to be who he is.</desc>
+  <programme start="20260220160000 +0800" stop="20260220183000 +0800" channel="mbc max">
+    <title lang="en">Scott Pilgrim vs. the World</title>
+    <desc lang="en">Scott Pilgrim (Michael Cera) is the bass guitarist for theband "Sex Bob-omb". After he begins dating Knives Chau (Ellen Wong), he later meets Ramona Flowers (Mary Elizabeth Winstead) and falls in love with her, losing interest in Knives. As if juggling 2 girls was not difficult enough, Scott learns from Ramona that in order to date her, he must defeat all seven of her evil exes.</desc>
     <category lang="en">Movie
-               (2021)</category>
-  </programme>
-  <programme start="20260218060500 +0800" stop="20260218063000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
+               (2010)</category>
   </programme>
   <programme start="20260218063000 +0800" stop="20260218083000 +0800" channel="mbc 2">
     <title lang="en">The Walk</title>
@@ -347,5 +335,11 @@
     <desc lang="en">After his battle in Metropolis, Bruce Wayne believes thatSuperman must be stopped, as the evil Lex Luthor manipulates Batman into defeating the Man of Steel.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260220153000 +0800" stop="20260220173000 +0800" channel="mbc 2">
+    <title lang="en">Birds of Prey</title>
+    <desc lang="en">Harley Quinn tells the story of how she found her path afterher breakup with the Joker, coming together with three fierce and fearsome superheroes, Black Canary, Huntress, and Renee Montoya, to protect a young girl from the nefarious designs of a crime lord.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
 </tv>
