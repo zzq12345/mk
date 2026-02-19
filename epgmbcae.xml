@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260219160000 +0800" stop="20260219183000 +0800" channel="mbc max">
-    <title lang="en">The Great Gatsby</title>
-    <desc lang="en">Nick Carraway, a young Midwesterner and aspiring writer,moves to New York City in the roaring 1920s. Drawn to the lavish lifestyle of his mysterious neighbor Jay Gatsby, he soon finds himself a witness to obsession and tragedy.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
-  <programme start="20260219183000 +0800" stop="20260219200500 +0800" channel="mbc max">
-    <title lang="en">Limitless</title>
-    <desc lang="en">Down on his luck, Eddie is introduced to an experimentaldrug that ends up turning his life around as it allows him to unlock his mind's full potential. However, his newfound abilities soon garner unwanted attention, which puts his life on the line just as he starts suffering from side effects.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260219203000 +0800" stop="20260219225500 +0800" channel="mbc max">
     <title lang="en">Den of Thieves</title>
     <desc lang="en">While planning a bank robbery, a thief is surrounded by twogroups of dangerous criminals.</desc>
@@ -168,17 +156,23 @@
     <category lang="en">Movie - Cartoon
                (2010)</category>
   </programme>
-  <programme start="20260219173000 +0800" stop="20260219192500 +0800" channel="mbc 2">
-    <title lang="en">47 Ronin</title>
-    <desc lang="en">This action epic brings to life the real tale of 47 samuraiwarriors who in 18th century Japan set out on a quest to avenge the death of their master, killed by a treacherous overlord who banished them from their homeland.</desc>
+  <programme start="20260222033000 +0800" stop="20260222053000 +0800" channel="mbc max">
+    <title lang="en">Scott Pilgrim vs. the World</title>
+    <desc lang="en">Scott Pilgrim (Michael Cera) is the bass guitarist for theband "Sex Bob-omb". After he begins dating Knives Chau (Ellen Wong), he later meets Ramona Flowers (Mary Elizabeth Winstead) and falls in love with her, losing interest in Knives. As if juggling 2 girls was not difficult enough, Scott learns from Ramona that in order to date her, he must defeat all seven of her evil exes.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2010)</category>
   </programme>
-  <programme start="20260219192500 +0800" stop="20260219213500 +0800" channel="mbc 2">
-    <title lang="en">The Equalizer</title>
-    <desc lang="en">McCall (Denzel Washington) is a former black ops commandowho has faked his death to live a quiet life in Boston. When he comes out of his self-imposed retirement to rescue a young girl, Teri (Chloë Grace Moretz), he finds himself face to face with notorious Russian gangsters. As he serves vengeance against those who brutalize the helpless, McCall's desire for justice is reawakened.</desc>
+  <programme start="20260222053000 +0800" stop="20260222070000 +0800" channel="mbc max">
+    <title lang="en">Holmes &amp; Watson</title>
+    <desc lang="en">A humorous take on Sir Arthur Conan Doyle's classic storiesfeaturing Sherlock Holmes and Doctor Watson as they investigate a mysterious murder at Buckingham Palace.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2018)</category>
+  </programme>
+  <programme start="20260222070000 +0800" stop="20260222093000 +0800" channel="mbc max">
+    <title lang="en">Blackhat</title>
+    <desc lang="en">After a case of high-level computer hacking arises, a man isreleased from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The cat-and-mouse chase leads them from the U.S.A to Hong Kong.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
   <programme start="20260219213500 +0800" stop="20260219230500 +0800" channel="mbc 2">
     <title lang="en">Safe</title>
@@ -335,5 +329,17 @@
     <desc lang="en">(Darius Stone), a new agent for xXx program, is sent toWashington DC to defuse the power struggle between national leaders.</desc>
     <category lang="en">Movie
                (2005)</category>
+  </programme>
+  <programme start="20260222033000 +0800" stop="20260222053000 +0800" channel="mbc 2">
+    <title lang="en">The Peanut Butter Falcon</title>
+    <desc lang="en">Striving to be a wrestler, Zak, a man with Down Syndrome,escape his care facility to chase his dreams. Fate leads him to Tyler, an outlaw who ends up befriending him and becoming his coach.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
+  <programme start="20260222053000 +0800" stop="20260222083000 +0800" channel="mbc 2">
+    <title lang="en">Batman v Superman: Dawn of Justice</title>
+    <desc lang="en">After his battle in Metropolis, Bruce Wayne believes thatSuperman must be stopped, as the evil Lex Luthor manipulates Batman into defeating the Man of Steel.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
