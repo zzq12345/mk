@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260222033000 +0800" stop="20260222053000 +0800" channel="mbc max">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">The real story of how the Spotlight team of the Boston Globeuncovered a massive scandal about the systemic coverup the Catholic Church conducted to bury the truth about Catholic priests sexually abusing children in the Boston area.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260222053000 +0800" stop="20260222080000 +0800" channel="mbc max">
     <title lang="en">Wasp Network</title>
     <desc lang="en">Five Cuban spies face life sentences by the Americangovernment on the charges of murder and espionage in the late 1990s.</desc>
@@ -216,12 +210,6 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260222030000 +0800" stop="20260222050000 +0800" channel="mbc 2">
-    <title lang="en">Come Away</title>
-    <desc lang="en">A prequel to the tales of Peter Pan and Alice in Wonderland,as the siblings Peter Pan and Alice must endure the tragedy of their elder brother's death. But as they reach Neverland and Wonderland, it gets hard for them to differentiate between the real world and the fantasy world.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
   <programme start="20260222050000 +0800" stop="20260222063000 +0800" channel="mbc 2">
     <title lang="en">The Hustle</title>
     <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
@@ -413,5 +401,11 @@
     <desc lang="en">A brilliant accountant moonlighting as an assassin helpsfacilitate the work of illicit outlaws.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260224150000 +0800" stop="20260224170500 +0800" channel="mbc 2">
+    <title lang="en">The Equalizer 2</title>
+    <desc lang="en">Susan Plummer, a close friend of Robert McCall, dies whilelooking into a murder-suicide. He uses his resources and experience as a former spy and marine to track out the assailant and exact revenge on her.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
