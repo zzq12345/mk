@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260224120000 +0800" stop="20260224140000 +0800" channel="mbc max">
-    <title lang="en">Our Friend</title>
-    <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260224140000 +0800" stop="20260224153000 +0800" channel="mbc max">
-    <title lang="en">Alice, Darling</title>
-    <desc lang="en">As Alice is pushed to the edge by her abusive boyfriend, sheembarks on a journey of self-discovery as she goes on vacation with her two best friends.</desc>
-    <category lang="en">Movie
-               (2022)</category>
-  </programme>
   <programme start="20260224160000 +0800" stop="20260224180000 +0800" channel="mbc max">
     <title lang="en">By the Sea</title>
     <desc lang="en">During a trip to a coastal town in France, a couple isforced to confront the growing chasm between them and what it means for the future of their relationship.</desc>
@@ -216,11 +204,11 @@
     <category lang="en">Movie
                (2017)</category>
   </programme>
-  <programme start="20260224130000 +0800" stop="20260224150000 +0800" channel="mbc 2">
-    <title lang="en">Hunter Killer</title>
-    <desc lang="en">An untested submarine captain teams up with the Navy Sealsto rescue the Russian president who got kidnapped by a rogue general.</desc>
+  <programme start="20260227010000 +0800" stop="20260227033000 +0800" channel="mbc max">
+    <title lang="en">The Bourne Identity</title>
+    <desc lang="en">A fishing boat rescues a wounded man at sea who has lost hismemory. He tries to regain it while dodging a group of professional hit-men.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2002)</category>
   </programme>
   <programme start="20260224150000 +0800" stop="20260224170000 +0800" channel="mbc 2">
     <title lang="en">Sicario</title>
@@ -401,5 +389,11 @@
     <desc lang="en">Driver (Dwayne "The Rock" Johnson) seeks revenge againstthose who put him in prison as well as those who killed his brother. After 10 years, he is released from prison, drives through the deserts of Nevada in search of his enemies while being chased by a contract killer (Oliver Jackson-Cohen) and a veteran cop (Billy Bob Thornton).</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260227010000 +0800" stop="20260227030000 +0800" channel="mbc 2">
+    <title lang="en">Howl's Moving Castle</title>
+    <desc lang="en">A story about a young girl named Sophie, who sells hats inthe magical kingdom of Ingary.  One night she meets a witch who turns her into a 90-year-old woman. She decides to head to the woods to find a way to break the curse which leads her to Howl's strange moving castle.</desc>
+    <category lang="en">Movie - Cartoon
+               (2004)</category>
   </programme>
 </tv>
