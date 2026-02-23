@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260224100500 +0800" stop="20260224120000 +0800" channel="mbc max">
-    <title lang="en">The Perfect Guy</title>
-    <desc lang="en">Following a painful breakup, the lobbyist Leah Vaughncrosses paths with the charming Carter Duncan. Soon enough, however, the volatile side of Duncan emerges, turning their budding romance into a mind-game where the two questions she has to answer are who she should trust and who she should fear.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260224120000 +0800" stop="20260224140000 +0800" channel="mbc max">
     <title lang="en">Our Friend</title>
     <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
@@ -216,17 +210,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260224105500 +0800" stop="20260224123500 +0800" channel="mbc 2">
-    <title lang="en">The American</title>
-    <desc lang="en">After he survives an assassination attempt in Sweden, thecontract killer Jack flees to Rome where he is hired to build a custom sniper rifle for a client, as he vows that this will be his last job.</desc>
+  <programme start="20260226223000 +0800" stop="20260227010000 +0800" channel="mbc max">
+    <title lang="en">Molly's Game</title>
+    <desc lang="en">After an injury ends her career, world-class skier MollyBloom starts running an exclusive underground poker empire, but she soon lands herself in trouble after the FBI exposes her operation.</desc>
     <category lang="en">Movie
-               (2010)</category>
-  </programme>
-  <programme start="20260224123500 +0800" stop="20260224130000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
+               (2017)</category>
   </programme>
   <programme start="20260224130000 +0800" stop="20260224150000 +0800" channel="mbc 2">
     <title lang="en">Hunter Killer</title>
@@ -407,5 +395,11 @@
     <desc lang="en">In this sequel to the 2015 film Sicario, the drug war on theUS-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260226232500 +0800" stop="20260227010000 +0800" channel="mbc 2">
+    <title lang="en">Faster</title>
+    <desc lang="en">Driver (Dwayne "The Rock" Johnson) seeks revenge againstthose who put him in prison as well as those who killed his brother. After 10 years, he is released from prison, drives through the deserts of Nevada in search of his enemies while being chased by a contract killer (Oliver Jackson-Cohen) and a veteran cop (Billy Bob Thornton).</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
 </tv>
