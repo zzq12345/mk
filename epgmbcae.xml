@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260225120000 +0800" stop="20260225140000 +0800" channel="mbc max">
-    <title lang="en">A Simple Favor</title>
-    <desc lang="en">Stephanie, a mother who works as a blogger, seeks todiscover the mystery of the disappearance of her friend Emily from the city by joining her friend's husband, where everyone is subjected to love and loyalty tests and secrets that could cause murder and revenge.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260225140000 +0800" stop="20260225160000 +0800" channel="mbc max">
     <title lang="en">Now You See Me 2</title>
     <desc lang="en">In the world of magic and optical illusions, the FourHorsemen face a tech genius who tries to exploit them, and they must clear their names before society and reveal the truth through one last stunt.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (1991)</category>
   </programme>
-  <programme start="20260225122500 +0800" stop="20260225143500 +0800" channel="mbc 2">
-    <title lang="en">The Accountant</title>
-    <desc lang="en">A brilliant accountant moonlighting as an assassin helpsfacilitate the work of illicit outlaws.</desc>
+  <programme start="20260227233000 +0800" stop="20260228010000 +0800" channel="mbc max">
+    <title lang="en">Mr. Deeds</title>
+    <desc lang="en">A sudden inheritance leaves a simple man swimming inmillions, which turns his life upside down as greedy associates and tabloids all vie to get something out of him, whether it's money or a juicy story.</desc>
     <category lang="en">Movie
-               (2016)</category>
+               (2002)</category>
   </programme>
   <programme start="20260225150000 +0800" stop="20260225170500 +0800" channel="mbc 2">
     <title lang="en">The Equalizer 2</title>
@@ -365,5 +359,11 @@
     <desc lang="en">When he returns from the war to find that the corruptSheriff of Nottingham has seized his land, Robin of Loxley comes to realize the extent of the corruption underlying England's Crusades, leaving him to join forces with his best friend and an Arabian warrior to challenge the English crown.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260227233000 +0800" stop="20260228010000 +0800" channel="mbc 2">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Dracula runs a high-end resort for monsters far away fromthe human world. The Count's monster-haven bubble is burst when a boy named Jonathan stumbles upon his resort and falls in love with his daughter.</desc>
+    <category lang="en">Movie - Cartoon
+               (2012)</category>
   </programme>
 </tv>
