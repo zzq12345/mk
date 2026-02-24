@@ -6,30 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260224160000 +0800" stop="20260224180000 +0800" channel="mbc max">
-    <title lang="en">By the Sea</title>
-    <desc lang="en">During a trip to a coastal town in France, a couple isforced to confront the growing chasm between them and what it means for the future of their relationship.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20260224180000 +0800" stop="20260224183000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
-  </programme>
-  <programme start="20260224183000 +0800" stop="20260224203000 +0800" channel="mbc max">
-    <title lang="en">The Nice Guys</title>
-    <desc lang="en">In 1970s Los Angeles, private investigator Holland March(Ryan Gosling) is forced to work with another private eye  Jackson Healey (Russell Crowe) to investigate the mysterious death of a porn star and a missing girl.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20260224203000 +0800" stop="20260224210000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260224210000 +0800" stop="20260224230000 +0800" channel="mbc max">
     <title lang="en">The Hitman's Bodyguard</title>
     <desc lang="en">When the best bodyguard in the world is appointed to protecta notorious hitman to bring him to court, they both have to put their ego aside to reach court on time.</desc>
@@ -210,11 +186,17 @@
     <category lang="en">Movie
                (2002)</category>
   </programme>
-  <programme start="20260224170000 +0800" stop="20260224190000 +0800" channel="mbc 2">
-    <title lang="en">Sicario: Day of the Soldado</title>
-    <desc lang="en">In this sequel to the 2015 film Sicario, the drug war on theUS-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border.</desc>
+  <programme start="20260227033000 +0800" stop="20260227060000 +0800" channel="mbc max">
+    <title lang="en">Robin Hood: Prince of Thieves</title>
+    <desc lang="en">After Robin of Locksley was captured by Turks during theCrusades, he escapes to England with the Moroccan Azeem. Robin discovers that his father was murdered by the Sheriff of Nottingham.  He vows to avenge his father, and escapes into the woods,joined by a band of exiled villagers to save the city.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (1991)</category>
+  </programme>
+  <programme start="20260227060000 +0800" stop="20260227080000 +0800" channel="mbc max">
+    <title lang="en">Mr. Deeds</title>
+    <desc lang="en">A sudden inheritance leaves a simple man swimming inmillions, which turns his life upside down as greedy associates and tabloids all vie to get something out of him, whether it's money or a juicy story.</desc>
+    <category lang="en">Movie
+               (2002)</category>
   </programme>
   <programme start="20260224220000 +0800" stop="20260224233500 +0800" channel="mbc 2">
     <title lang="en">Candyman</title>
@@ -395,5 +377,17 @@
     <desc lang="en">Using a magic portal, an Orc horde is invading the planetAzeroth, and a small group of human heroes and dissident Orcs are fighting to stop the real evil that is causing this war.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260227050000 +0800" stop="20260227070000 +0800" channel="mbc 2">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Dracula runs a high-end resort for monsters far away fromthe human world. The Count's monster-haven bubble is burst when a boy named Jonathan stumbles upon his resort and falls in love with his daughter.</desc>
+    <category lang="en">Movie - Cartoon
+               (2012)</category>
+  </programme>
+  <programme start="20260227070000 +0800" stop="20260227090000 +0800" channel="mbc 2">
+    <title lang="en">The Dark Tower</title>
+    <desc lang="en">In a parallel universe, Roland Deschain fights witheverything he has to prevent his enemy, the Man in Black, from bringing down a structure that preserves reality. With the Man in Black trying to use psychic children to unleash darkness, Roland takes one of them in to save both him and the world.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
