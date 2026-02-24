@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260224033000 +0800" stop="20260224053000 +0800" channel="mbc max">
-    <title lang="en">Our Friend</title>
-    <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260224060000 +0800" stop="20260224080000 +0800" channel="mbc max">
     <title lang="en">By the Sea</title>
     <desc lang="en">During a trip to a coastal town in France, a couple isforced to confront the growing chasm between them and what it means for the future of their relationship.</desc>
@@ -192,12 +186,6 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260224033500 +0800" stop="20260224053500 +0800" channel="mbc 2">
-    <title lang="en">Hunter Killer</title>
-    <desc lang="en">An untested submarine captain teams up with the Navy Sealsto rescue the Russian president who got kidnapped by a rogue general.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260224060000 +0800" stop="20260224080500 +0800" channel="mbc 2">
     <title lang="en">The Fighter</title>
     <desc lang="en">The life story of Mickey Ward, and his relationship with hisbrother Dicky, who is more famous than him in the boxing ring, as well as his exposure to a world of poverty, crime and drugs.</desc>
@@ -377,5 +365,11 @@
     <desc lang="en">Peter goes to Hawaii on vacation to try to forget hisgirlfriend the TV star Sarah, who ended their relationship a short time ago, only to find her staying in the same resort with her new boyfriend.</desc>
     <category lang="en">Movie
                (2008)</category>
+  </programme>
+  <programme start="20260226150000 +0800" stop="20260226170000 +0800" channel="mbc 2">
+    <title lang="en">Julie &amp; Julia</title>
+    <desc lang="en">Based on true events, the film juxtaposes the journey ofrenowned chef Julia Child and how she achieved her fame, and the story of an ordinary woman, Julie Powell, who tries to reinvent her life by documenting her year-long challenge to cook all the available recipes in Julia Child’s cookbook.</desc>
+    <category lang="en">Movie
+               (2009)</category>
   </programme>
 </tv>
