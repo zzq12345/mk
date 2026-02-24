@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260224013000 +0800" stop="20260224030000 +0800" channel="mbc max">
-    <title lang="en">Alice, Darling</title>
-    <desc lang="en">As Alice is pushed to the edge by her abusive boyfriend, sheembarks on a journey of self-discovery as she goes on vacation with her two best friends.</desc>
-    <category lang="en">Movie
-               (2022)</category>
-  </programme>
-  <programme start="20260224030000 +0800" stop="20260224033000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260224033000 +0800" stop="20260224053000 +0800" channel="mbc max">
     <title lang="en">Our Friend</title>
     <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
@@ -198,18 +186,6 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260224013000 +0800" stop="20260224031000 +0800" channel="mbc 2">
-    <title lang="en">The American</title>
-    <desc lang="en">After he survives an assassination attempt in Sweden, thecontract killer Jack flees to Rome where he is hired to build a custom sniper rifle for a client, as he vows that this will be his last job.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
-  <programme start="20260224031000 +0800" stop="20260224033500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260224033500 +0800" stop="20260224053500 +0800" channel="mbc 2">
     <title lang="en">Hunter Killer</title>
     <desc lang="en">An untested submarine captain teams up with the Navy Sealsto rescue the Russian president who got kidnapped by a rogue general.</desc>
@@ -389,5 +365,11 @@
     <desc lang="en">Master chef Kate heads the crew at one of Manhattan's famousrestaurants, focused on finer details at her work. Her life turns upside down when her only sister dies and her daughter Zoe comes to live with her while a new assistant arrives and she feels he's planning to take her place.</desc>
     <category lang="en">Movie
                (2007)</category>
+  </programme>
+  <programme start="20260226130000 +0800" stop="20260226150000 +0800" channel="mbc 2">
+    <title lang="en">Forgetting Sarah Marshall</title>
+    <desc lang="en">Peter goes to Hawaii on vacation to try to forget hisgirlfriend the TV star Sarah, who ended their relationship a short time ago, only to find her staying in the same resort with her new boyfriend.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
