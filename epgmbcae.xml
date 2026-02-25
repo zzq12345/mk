@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260225205500 +0800" stop="20260225223000 +0800" channel="mbc max">
-    <title lang="en">The Words</title>
-    <desc lang="en">An ambitious writer achieves fame when he pens the nextgreat American novel. His secret? The story isn't his. He soon realizes the cost of his success is much higher than expected when he has to live up to his plagiarism.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
-  <programme start="20260225223000 +0800" stop="20260225230000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260225230000 +0800" stop="20260226010000 +0800" channel="mbc max">
     <title lang="en">Our Friend</title>
     <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
@@ -180,11 +168,11 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260225205500 +0800" stop="20260225225500 +0800" channel="mbc 2">
-    <title lang="en">Sicario</title>
-    <desc lang="en">In the border stretching between Mexico and the U.S.A., anarea that has been always out of the reach of the law, an idealistic FBI agent is assigned to aid in the escalating war against the cartel.</desc>
+  <programme start="20260228080000 +0800" stop="20260228100000 +0800" channel="mbc max">
+    <title lang="en">Jumanji</title>
+    <desc lang="en">While playing a magical board game that serves as a portalbetween worlds, young Alan Parrish gets trapped inside the game for over two decades. Finally set free by two children playing the game, Alan must team up with them and his old childhood friend to finish playing the game and save the world.</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (1995)</category>
   </programme>
   <programme start="20260225225500 +0800" stop="20260226005500 +0800" channel="mbc 2">
     <title lang="en">The Brave One</title>
@@ -365,5 +353,11 @@
     <desc lang="en">When Solomon meets Jennifer sparks fly and they fall headover heels in love. As they decide to get married, their wedding plans are disrupted when they find out that Solomon has liver cancer.</desc>
     <category lang="en">Movie
                (2020)</category>
+  </programme>
+  <programme start="20260228090000 +0800" stop="20260228110000 +0800" channel="mbc 2">
+    <title lang="en">Hellboy II: The Golden Army</title>
+    <desc lang="en">An evil dwarf penetrates the world between humans andmythical creatures, who declare war against the human race. A secret mission is planned to release the Golden Army, that is made up of a great number of strange and vicious creatures. Hellboy and his team are summoned to stop them and save humanity.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
