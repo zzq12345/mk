@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260607073000 +0800" stop="20260607093000 +0800" channel="mbc max">
-    <title lang="en">R.I.P.D.</title>
-    <desc lang="en">In a force of undead police officers, the Rest in PeaceDepartment, a young slain cop (Ryan Reynolds) teams up with veteran sheriff (Jeff Bridges) to protect the living from roving, monstrous spirits who have not yet crossed over.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260607093000 +0800" stop="20260607113000 +0800" channel="mbc max">
     <title lang="en">Edge of Darkness</title>
     <desc lang="en">Detective Thomas Craven is investigating the murder of hisactivist daughter. He not only exposes sensitive aspects of her secret life, but also clashes with crime organizations that try to erase any thread that may link her to them.</desc>
@@ -203,12 +197,6 @@
     <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
     <category lang="en">Movie
                (2018)</category>
-  </programme>
-  <programme start="20260607073000 +0800" stop="20260607090000 +0800" channel="mbc 2">
-    <title lang="en">The Addams Family 2</title>
-    <desc lang="en">The eccentric Addams family is back in a new adventure, asMorticia and Gomez set out to take the children and the rest of the gang on a road trip to bond, which leads them to get into a series of hilarious situations.</desc>
-    <category lang="en">Movie
-               (2021)</category>
   </programme>
   <programme start="20260607090000 +0800" stop="20260607110000 +0800" channel="mbc 2">
     <title lang="en">Ricki and the Flash</title>
@@ -407,5 +395,17 @@
     <desc lang="en">When the known playboy Connor tries to put a stop to hisbrother's wedding, he is visited by three ghosts who force him to examine the history of his own relationships and the future that awaits him if he continues his current womanizing ways.</desc>
     <category lang="en">Movie
                (2009)</category>
+  </programme>
+  <programme start="20260609184000 +0800" stop="20260609190500 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260609190500 +0800" stop="20260609211000 +0800" channel="mbc 2">
+    <title lang="en">Finding You</title>
+    <desc lang="en">Finley Sinclair, a violinist, goes to an Irish beach town tostart her semester abroad. She runs into the outgoing and relentless idol movie actor Beckett Rush at the B&amp;B managed by her host family.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
 </tv>
