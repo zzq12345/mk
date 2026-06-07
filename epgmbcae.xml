@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260608133000 +0800" stop="20260608160000 +0800" channel="mbc max">
-    <title lang="en">12 Strong</title>
-    <desc lang="en">Based on a true story, the film tells the story of a SpecialForces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260608160000 +0800" stop="20260608180000 +0800" channel="mbc max">
     <title lang="en">The Ice Road</title>
     <desc lang="en">An ice driver leads a high-stakes rescue mission to savetrapped miners after a remote diamond mine collapses in far northern Canada.</desc>
@@ -204,11 +198,11 @@
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260608130000 +0800" stop="20260608150000 +0800" channel="mbc 2">
-    <title lang="en">3 Days to Kill</title>
-    <desc lang="en">International spy Ethan Renner (Kevin Costner) decides toleave his risky life behind to build a stronger relationship with his daughter and wife. but Ethan has to complete one final mission before he retires , to catch the most dangerous terrorist in the world, while taking care of his daughter.</desc>
+  <programme start="20260611012500 +0800" stop="20260611030000 +0800" channel="mbc max">
+    <title lang="en">Semi-Pro</title>
+    <desc lang="en">In the 1970s in the state of Michigan, Jackie Moon'sbasketball team is at last place, with few fans in the seats.  Jackie dreams of a merger for his team in the NBA, together with Monix and Clarence they try to pull the team together to achieve their near impossible dream.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2008)</category>
   </programme>
   <programme start="20260608150000 +0800" stop="20260608170000 +0800" channel="mbc 2">
     <title lang="en">Above Suspicion</title>
@@ -413,5 +407,11 @@
     <desc lang="en">The green ogre (Shrek) lives in the swamps alone until oneday he finds all the characters of the fairy tales sleeping in his swamps.  He goes to Lord (Farquaad) with donkey to make them leave, but (Farquaad) sends him to save Princess (Fiona)  who's locked in a castle tower guarded by a dragon.</desc>
     <category lang="en">Movie - Cartoon
                (2001)</category>
+  </programme>
+  <programme start="20260611013000 +0800" stop="20260611030000 +0800" channel="mbc 2">
+    <title lang="en">Moonrise Kingdom</title>
+    <desc lang="en">Set in the sixties, in an island in New England, a12-year-old boy and girl fall in love and secretly plan to run away together. This angers the authorities in the island, and the situation escalates to the point where they attempt to track the young couple in all directions.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>
