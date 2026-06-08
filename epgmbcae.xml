@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260609180000 +0800" stop="20260609193000 +0800" channel="mbc max">
-    <title lang="en">Get Him to the Greek</title>
-    <desc lang="en">British rock star Aldous Snow lives in a whirlwind ofalcohol and drugs. When Aaron interns at a record company, his manager assigns him to get Aldous from London to Los Angeles for a concert. When he reaches London and Aldous, he finds himself in chaos and unable to get him to the concert, while Aldous postpones their trip numerous times.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260609193000 +0800" stop="20260609200000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
@@ -203,6 +197,12 @@
     <desc lang="en">Bridget Cardigan has an easy life, until her husband, Don,loses his high-paying job, and she is forced to work to pay off his debts. She finds a job as a cleaner at the Federal Reserve Bank in Kansas, leading her to come up with a plan to steal some money in order to keep her house, together with her colleagues Nina and Jackie.</desc>
     <category lang="en">Movie
                (2008)</category>
+  </programme>
+  <programme start="20260612050000 +0800" stop="20260612064500 +0800" channel="mbc max">
+    <title lang="en">Mirror Mirror</title>
+    <desc lang="en">A modern copy of the classic tale of "Snow White". The filmtells the story of an evil Queen (Roberts) who takes control of a kingdom, and an exiled princess (Collins) who asks the help of seven rebels to win back her royal life.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
   <programme start="20260609190000 +0800" stop="20260609210500 +0800" channel="mbc 2">
     <title lang="en">Howl's Moving Castle</title>
@@ -407,5 +407,11 @@
     <desc lang="en">Paddington is happily living with the Brown family inWindsor Gardens, where he becomes a popular member of the community. He finds a special book to give to his Aunt Lucy for her 100th birthday at Mr. Gruber's antique shop, and gets involved in a series of peculiar jobs to buy it.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260612045000 +0800" stop="20260612063000 +0800" channel="mbc 2">
+    <title lang="en">Dolittle</title>
+    <desc lang="en">The famous physician John Dolittle has the ability to talkto animals, which gives him tremendous potential, as he embarks  on an unforgettable journey with his beloved animals.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
 </tv>

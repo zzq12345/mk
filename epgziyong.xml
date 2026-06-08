@@ -1773,10 +1773,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260609180000 +0800" stop="20260609193000 +0800" channel="mbc max">
-    <title lang="en">Get Him to the Greek</title>
-    <desc lang="en">British rock star Aldous Snow lives in a whirlwind ofalcohol and drugs. When Aaron interns at a record company, his manager assigns him to get Aldous from London to Los Angeles for a concert. When he reaches London and Aldous, he finds himself in chaos and unable to get him to the concert, while Aldous postpones their trip numerous times.</desc>
-  </programme>
   <programme start="20260609193000 +0800" stop="20260609200000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
@@ -1904,6 +1900,10 @@
   <programme start="20260612030000 +0800" stop="20260612043000 +0800" channel="mbc max">
     <title lang="en">Mad Money</title>
     <desc lang="en">Bridget Cardigan has an easy life, until her husband, Don,loses his high-paying job, and she is forced to work to pay off his debts. She finds a job as a cleaner at the Federal Reserve Bank in Kansas, leading her to come up with a plan to steal some money in order to keep her house, together with her colleagues Nina and Jackie.</desc>
+  </programme>
+  <programme start="20260612050000 +0800" stop="20260612064500 +0800" channel="mbc max">
+    <title lang="en">Mirror Mirror</title>
+    <desc lang="en">A modern copy of the classic tale of "Snow White". The filmtells the story of an evil Queen (Roberts) who takes control of a kingdom, and an exiled princess (Collins) who asks the help of seven rebels to win back her royal life.</desc>
   </programme>
   <programme start="20260609190000 +0800" stop="20260609210500 +0800" channel="mbc 2">
     <title lang="en">Howl's Moving Castle</title>
@@ -2041,9 +2041,9 @@
     <title lang="en">Paddington 2</title>
     <desc lang="en">Paddington is happily living with the Brown family inWindsor Gardens, where he becomes a popular member of the community. He finds a special book to give to his Aunt Lucy for her 100th birthday at Mr. Gruber's antique shop, and gets involved in a series of peculiar jobs to buy it.</desc>
   </programme>
-  <programme start="20260609180000 +0800" stop="20260609190000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars</title>
-    <desc lang=""/>
+  <programme start="20260612045000 +0800" stop="20260612063000 +0800" channel="mbc 2">
+    <title lang="en">Dolittle</title>
+    <desc lang="en">The famous physician John Dolittle has the ability to talkto animals, which gives him tremendous potential, as he embarks  on an unforgettable journey with his beloved animals.</desc>
   </programme>
   <programme start="20260609190000 +0800" stop="20260609203000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -2276,6 +2276,10 @@
   <programme start="20260611030000 +0800" stop="20260611043000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
     <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
+  <programme start="20260611043000 +0800" stop="20260611053000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
+    <desc lang=""/>
   </programme>
   <programme start="20260608060000 +0800" stop="20260608063000 +0800" channel="第一财经">
     <title lang="zh">两说</title>
@@ -170732,6 +170736,114 @@
     <title lang="zh">Berita Satu Malam</title>
     <desc lang="zh"> </desc>
   </programme>
+  <programme start="20260609001700 +0700" stop="20260609015900 +0700" channel="BUDDY STARS">
+    <title lang="zh">Space Racers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609015900 +0700" stop="20260609032600 +0700" channel="BUDDY STARS">
+    <title lang="zh">Howard Lovecraft &amp; Undersea...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609032600 +0700" stop="20260609050500 +0700" channel="BUDDY STARS">
+    <title lang="zh">House Of Wonder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609050500 +0700" stop="20260609070400 +0700" channel="BUDDY STARS">
+    <title lang="zh">Erik Stoneheart</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609070400 +0700" stop="20260609083900 +0700" channel="BUDDY STARS">
+    <title lang="zh">Space Racers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609083900 +0700" stop="20260609101000 +0700" channel="BUDDY STARS">
+    <title lang="zh">Back To The Jurassic</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609101000 +0700" stop="20260609115100 +0700" channel="BUDDY STARS">
+    <title lang="zh">House Of Wonder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609115100 +0700" stop="20260609135400 +0700" channel="BUDDY STARS">
+    <title lang="zh">A Little Game</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609135400 +0700" stop="20260609153000 +0700" channel="BUDDY STARS">
+    <title lang="zh">Space Racers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609153000 +0700" stop="20260609171400 +0700" channel="BUDDY STARS">
+    <title lang="zh">Lenny The Wonder Dog</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609171400 +0700" stop="20260609190000 +0700" channel="BUDDY STARS">
+    <title lang="zh">House Of Wonder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609190000 +0700" stop="20260609203800 +0700" channel="BUDDY STARS">
+    <title lang="zh">A Monster In Paris</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609203800 +0700" stop="20260609222900 +0700" channel="BUDDY STARS">
+    <title lang="zh">Space Racers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260609222900 +0700" stop="20260609235800 +0700" channel="BUDDY STARS">
+    <title lang="zh">The Skeleton's Compass</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610012900 +0700" stop="20260610030200 +0700" channel="BUDDY STARS">
+    <title lang="zh">A Fish Tale</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610030200 +0700" stop="20260610044900 +0700" channel="BUDDY STARS">
+    <title lang="zh">Space Racers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610044900 +0700" stop="20260610062700 +0700" channel="BUDDY STARS">
+    <title lang="zh">Dragon Hunters</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610062700 +0700" stop="20260610075900 +0700" channel="BUDDY STARS">
+    <title lang="zh">House Of Wonder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610075900 +0700" stop="20260610093300 +0700" channel="BUDDY STARS">
+    <title lang="zh">Mees Kees langs de lijn</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610093300 +0700" stop="20260610112500 +0700" channel="BUDDY STARS">
+    <title lang="zh">Space Racers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610112500 +0700" stop="20260610125700 +0700" channel="BUDDY STARS">
+    <title lang="zh">Dreambuilders</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610125700 +0700" stop="20260610144000 +0700" channel="BUDDY STARS">
+    <title lang="zh">House Of Wonder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610144000 +0700" stop="20260610160600 +0700" channel="BUDDY STARS">
+    <title lang="zh">Mees Kees langs de lijn</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610160600 +0700" stop="20260610175600 +0700" channel="BUDDY STARS">
+    <title lang="zh">Space Racers</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610175600 +0700" stop="20260610193500 +0700" channel="BUDDY STARS">
+    <title lang="zh">Faunutland And The Lost Magic</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610193500 +0700" stop="20260610210400 +0700" channel="BUDDY STARS">
+    <title lang="zh">House Of Wonder</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610210400 +0700" stop="20260610230300 +0700" channel="BUDDY STARS">
+    <title lang="zh">Least Of These: Christmas Story</title>
+    <desc lang="zh"> </desc>
+  </programme>
   <programme start="20260609001700 +0700" stop="20260609015900 +0700" channel="BUDDY STARS HD">
     <title lang="zh">Space Racers</title>
     <desc lang="zh"> </desc>
@@ -172162,6 +172274,146 @@
   </programme>
   <programme start="20260609223000 +0700" stop="20260609230000 +0700" channel="CGTN Documentary">
     <title lang="zh">Wisdom's Breath, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610000000 +0700" stop="20260610003000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Treasures And Masks, Ep 1</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610003000 +0700" stop="20260610010000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Voyages Of Zheng He, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610010000 +0700" stop="20260610020000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Ringing In New Year S2, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610020000 +0700" stop="20260610023000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The New Youth S11, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610023000 +0700" stop="20260610030000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Our Friends In Wenzhou, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610030000 +0700" stop="20260610040000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Blue World, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610040000 +0700" stop="20260610043000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Magic Of Lingqu Canal, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610043000 +0700" stop="20260610050000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Wisdom's Breath, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610050000 +0700" stop="20260610060000 +0700" channel="CGTN Documentary">
+    <title lang="zh">From The Great Wall To...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610060000 +0700" stop="20260610063000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Treasures And Masks, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610063000 +0700" stop="20260610070000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Voyages Of Zheng He, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610070000 +0700" stop="20260610080000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Ringing In New Year S2, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610080000 +0700" stop="20260610083000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The New Youth S11, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610083000 +0700" stop="20260610090000 +0700" channel="CGTN Documentary">
+    <title lang="zh">A Tale Of 2 Cities: Jingdezhen</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610090000 +0700" stop="20260610100000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Blue World, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610100000 +0700" stop="20260610103000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Magic Of Lingqu Canal, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610103000 +0700" stop="20260610110000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Wisdom's Breath, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610110000 +0700" stop="20260610120000 +0700" channel="CGTN Documentary">
+    <title lang="zh">From The Great Wall To...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610120000 +0700" stop="20260610123000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Treasures And Masks, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610123000 +0700" stop="20260610130000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Voyages Of Zheng He, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610130000 +0700" stop="20260610140000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Ringing In New Year S2, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610140000 +0700" stop="20260610143000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The New Youth S11, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610143000 +0700" stop="20260610150000 +0700" channel="CGTN Documentary">
+    <title lang="zh">A Tale Of 2 Cities: Jingdezhen</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610150000 +0700" stop="20260610160000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Blue World, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610160000 +0700" stop="20260610163000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Magic Of Lingqu Canal, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610163000 +0700" stop="20260610170000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Wisdom's Breath, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610170000 +0700" stop="20260610180000 +0700" channel="CGTN Documentary">
+    <title lang="zh">From The Great Wall To...</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610180000 +0700" stop="20260610183000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Treasures And Masks, Ep 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610183000 +0700" stop="20260610190000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Voyages Of Zheng He, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610190000 +0700" stop="20260610200000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Ringing In New Year S2, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610200000 +0700" stop="20260610203000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The New Youth S11, Ep 3</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610203000 +0700" stop="20260610210000 +0700" channel="CGTN Documentary">
+    <title lang="zh">A Tale Of 2 Cities: Jingdezhen</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610210000 +0700" stop="20260610220000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Blue World, Ep 5</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610220000 +0700" stop="20260610223000 +0700" channel="CGTN Documentary">
+    <title lang="zh">The Magic Of Lingqu Canal, Ep 4</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260610223000 +0700" stop="20260610230000 +0700" channel="CGTN Documentary">
+    <title lang="zh">Wisdom's Breath, Ep 5</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260609000000 +0700" stop="20260609010000 +0700" channel="Channel News Asia">
