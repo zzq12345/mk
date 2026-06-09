@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260610113000 +0800" stop="20260610133000 +0800" channel="mbc max">
-    <title lang="en">Catwoman</title>
-    <desc lang="en">Patience Phillips (Halle Berry) is a shy lady who works asdesigner in a cosmetics company. When she discovers a secret about a new product the company plans on releasing, they get rid of her but she comes back with special abilities that gives her power;and uses her abilities to have her revenge.</desc>
-    <category lang="en">Movie
-               (2004)</category>
-  </programme>
   <programme start="20260610133000 +0800" stop="20260610160000 +0800" channel="mbc max">
     <title lang="en">Hulk</title>
     <desc lang="en">A geneticist tries to evade his tragic past, but hisfather's legacy gets passed on to him. As Banner gets exposed to gamma radiation, it leaves a marked side-effect upon him, turning him into a raging green monster when he is enraged.</desc>
@@ -198,15 +192,9 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260610110500 +0800" stop="20260610130000 +0800" channel="mbc 2">
-    <title lang="en">Sleepless in Seattle</title>
-    <desc lang="en">Sam and his son Jonah relocate from Chicago to Seattle afterhis wife passes away. Unable to get over his late wife, Sam talks about his perfect marriage on a radio talk show, only for Annie who lives in Baltimore to be infatuated with his story.</desc>
-    <category lang="en">Movie
-               (1993)</category>
-  </programme>
-  <programme start="20260610130000 +0800" stop="20260610143000 +0800" channel="mbc 2">
-    <title lang="en">Four Christmases</title>
-    <desc lang="en">The story of a couple struggling to visit all four of theirdivorced parents, and it seems very difficult for everyone to regroup again because of the trouble it brings. Things may be harder than they seem.</desc>
+  <programme start="20260612233000 +0800" stop="20260613013000 +0800" channel="mbc max">
+    <title lang="en">In Bruges</title>
+    <desc lang="en">After an unforgivable mistake is made by Ray the hitman, hisboss Harry sends him with his partner Ken to lay low in Bruges, Belgium. Things get complicated when Ken gets orders to kill Ray.</desc>
     <category lang="en">Movie
                (2008)</category>
   </programme>
@@ -407,5 +395,11 @@
     <desc lang="en">The famous physician John Dolittle has the ability to talkto animals, which gives him tremendous potential, as he embarks  on an unforgettable journey with his beloved animals.</desc>
     <category lang="en">Movie
                (2020)</category>
+  </programme>
+  <programme start="20260612235500 +0800" stop="20260613013000 +0800" channel="mbc 2">
+    <title lang="en">Pets United</title>
+    <desc lang="en">When robots take over Robo City, the stray dog Roger teamsup with a group of pampered pets, led by glamour cat Belle, as they embark on a wild adventure to face the threat and take back their city.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
