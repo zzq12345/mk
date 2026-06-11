@@ -1,11 +1,144 @@
-页面 1 日期: Jun 10, 2026, 节目数量: 0
-页面 2 日期: Jun 11, 2026, 节目数量: 0
-页面 3 日期: Jun 12, 2026, 节目数量: 0
-页面 4 日期: Jun 13, 2026, 节目数量: 0
+页面 1 日期: Jun 9, 2026, 节目数量: 16
+页面 2 日期: Jun 12, 2026, 节目数量: 0
+页面 3 日期: Jun 11, 2026, 节目数量: 13
+页面 4 日期: Jun 12, 2026, 节目数量: 5
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
+  <programme start="20260609003000 +0400" stop="20260609023000 +0400" channel="Dubai One">
+    <title lang="en">Die Hard</title>
+    <desc lang="en">A New York City cop gets trapped in a Los Angeles high-rise occupied by terrorists on Christmas Eve.</desc>
+  </programme>
+  <programme start="20260609023000 +0400" stop="20260609030000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260609030000 +0400" stop="20260609040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260609040000 +0400" stop="20260609060000 +0400" channel="Dubai One">
+    <title lang="en">The Age of Adaline</title>
+    <desc lang="en">Love is timeless</desc>
+  </programme>
+  <programme start="20260609060000 +0400" stop="20260609080000 +0400" channel="Dubai One">
+    <title lang="en">Flamin' Hot</title>
+    <desc lang="en">The Flavor You Know. The Story You Don't.</desc>
+  </programme>
+  <programme start="20260609080000 +0400" stop="20260609083000 +0400" channel="Dubai One">
+    <title lang="en">بتوقيت دبي</title>
+  </programme>
+  <programme start="20260609083000 +0400" stop="20260609090000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+  </programme>
+  <programme start="20260609090000 +0400" stop="20260609110000 +0400" channel="Dubai One">
+    <title lang="en">The Age of Adaline</title>
+    <desc lang="en">Love is timeless</desc>
+  </programme>
+  <programme start="20260609110000 +0400" stop="20260609150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260609150000 +0400" stop="20260609160000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260609160000 +0400" stop="20260609170000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260609170000 +0400" stop="20260609190000 +0400" channel="Dubai One">
+    <title lang="en">Die Hard</title>
+    <desc lang="en">A New York City cop gets trapped in a Los Angeles high-rise occupied by terrorists on Christmas Eve.</desc>
+  </programme>
+  <programme start="20260609190000 +0400" stop="20260609200000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260609200000 +0400" stop="20260609213000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260609213000 +0400" stop="20260609223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260609223000 +0400" stop="20260612000000 +0400" channel="Dubai One">
+    <title lang="en">The Last Duel</title>
+  </programme>
+  <programme start="20260611003000 +0400" stop="20260611033000 +0400" channel="Dubai One">
+    <title lang="en">Braveheart Braveheart</title>
+    <desc lang="en">The courage to face fear</desc>
+  </programme>
+  <programme start="20260611033000 +0400" stop="20260611040000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260611040000 +0400" stop="20260611060000 +0400" channel="Dubai One">
+    <title lang="en">Made in Italy</title>
+    <desc lang="en">The past is set in stone, but the future is a blank canvas.</desc>
+  </programme>
+  <programme start="20260611060000 +0400" stop="20260611080000 +0400" channel="Dubai One">
+    <title lang="en">Just Married</title>
+    <desc lang="en">Welcome to the honeymoon from hell.</desc>
+  </programme>
+  <programme start="20260611080000 +0400" stop="20260611090000 +0400" channel="Dubai One">
+    <title lang="en">Sisi</title>
+    <desc lang="en">The life of Empress Elisabeth of Austria</desc>
+  </programme>
+  <programme start="20260611090000 +0400" stop="20260611110000 +0400" channel="Dubai One">
+    <title lang="en">Made in Italy</title>
+    <desc lang="en">The past is set in stone, but the future is a blank canvas.</desc>
+  </programme>
+  <programme start="20260611110000 +0400" stop="20260611150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260611150000 +0400" stop="20260611160000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260611160000 +0400" stop="20260611190000 +0400" channel="Dubai One">
+    <title lang="en">Braveheart Braveheart</title>
+    <desc lang="en">The courage to face fear</desc>
+  </programme>
+  <programme start="20260611190000 +0400" stop="20260611200000 +0400" channel="Dubai One">
+    <title lang="en">Sisi</title>
+    <desc lang="en">The life of Empress Elisabeth of Austria</desc>
+  </programme>
+  <programme start="20260611200000 +0400" stop="20260611213000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260611213000 +0400" stop="20260611223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260611223000 +0400" stop="20260612030000 +0400" channel="Dubai One">
+    <title lang="en">Prey</title>
+    <desc lang="en">The Hunt Begins</desc>
+  </programme>
+  <programme start="20260612030000 +0400" stop="20260612110000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260612110000 +0400" stop="20260612160000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260612160000 +0400" stop="20260612200000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260612200000 +0400" stop="20260612213000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260612213000 +0400" stop="20260613000000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
 </tv>
