@@ -4769,7 +4769,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260613013000 +0700" stop="20260613023000 +0700" channel="BTV">
-<title lang="zh">Berita Satu Sore</title>
+<title lang="zh">Berita Satu Siang</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260613023000 +0700" stop="20260613033000 +0700" channel="BTV">
@@ -12709,7 +12709,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260612040000 +0700" stop="20260612043000 +0700" channel="Indosiar">
-<title lang="zh">Pintu Pintu Syurga</title>
+<title lang="zh">Pintu-Pintu Surga</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260612043000 +0700" stop="20260612060000 +0700" channel="Indosiar">
@@ -12817,7 +12817,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260612040000 +0700" stop="20260612043000 +0700" channel="Indosiar HD">
-<title lang="zh">Pintu Pintu Syurga</title>
+<title lang="zh">Pintu-Pintu Surga</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260612043000 +0700" stop="20260612060000 +0700" channel="Indosiar HD">
@@ -15457,7 +15457,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260613113000 +0700" stop="20260613122500 +0700" channel="MDTV">
-<title lang="zh">NyariMakan</title>
+<title lang="zh">Nyari Makan</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260613122500 +0700" stop="20260613135500 +0700" channel="MDTV">
@@ -17700,12 +17700,8 @@
 <title lang="zh">Natural Grandeur Of The East</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613143000 +0700" stop="20260613155900 +0700" channel="NHK World Premium">
+<programme start="20260613143000 +0700" stop="20260613160000 +0700" channel="NHK World Premium">
 <title lang="zh">National Track &amp; Fields C'ships</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260613155900 +0700" stop="20260613160000 +0700" channel="NHK World Premium">
-<title lang="zh">1-Minute Anime: Songs For SDGs</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260613160000 +0700" stop="20260613160500 +0700" channel="NHK World Premium">
@@ -17750,6 +17746,10 @@
 </programme>
 <programme start="20260613185300 +0700" stop="20260613185500 +0700" channel="NHK World Premium">
 <title lang="zh">World Weather</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260613185500 +0700" stop="20260613190000 +0700" channel="NHK World Premium">
+<title lang="zh">News &amp; Weather</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260612000000 +0700" stop="20260612000500 +0700" channel="Nick Jr. HD">
@@ -24076,15 +24076,11 @@
 <title lang="zh">Insert Story</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260612200000 +0700" stop="20260612210000 +0700" channel="Trans TV">
-<title lang="zh">Dunia Punya Cerita</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260612210000 +0700" stop="20260612230000 +0700" channel="Trans TV">
+<programme start="20260612200000 +0700" stop="20260612220000 +0700" channel="Trans TV">
 <title lang="zh">Bioskop Trans TV</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613010000 +0700" stop="20260613050000 +0700" channel="Trans TV">
+<programme start="20260613000000 +0700" stop="20260613050000 +0700" channel="Trans TV">
 <title lang="zh">CNN Indonesia Connected</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -24096,51 +24092,55 @@
 <title lang="zh">Insert Pagi (L)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613073000 +0700" stop="20260613083000 +0700" channel="Trans TV">
-<title lang="zh">CNN Indonesia Good Morning</title>
+<programme start="20260613073000 +0700" stop="20260613090000 +0700" channel="Trans TV">
+<title lang="zh">Kajian Hati</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613083000 +0700" stop="20260613103000 +0700" channel="Trans TV">
-<title lang="zh">Pagi-Pagi Ambyar</title>
+<programme start="20260613090000 +0700" stop="20260613103000 +0700" channel="Trans TV">
+<title lang="zh">Ambyar In Weekend</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613103000 +0700" stop="20260613123000 +0700" channel="Trans TV">
+<programme start="20260613103000 +0700" stop="20260613113000 +0700" channel="Trans TV">
 <title lang="zh">Insert Siang</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613123000 +0700" stop="20260613140000 +0700" channel="Trans TV">
-<title lang="zh">Brownis (Obrowlan Manis)</title>
+<programme start="20260613113000 +0700" stop="20260613123000 +0700" channel="Trans TV">
+<title lang="zh">Spill DD Tea</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260613123000 +0700" stop="20260613133000 +0700" channel="Trans TV">
+<title lang="zh">Brownis On The Weekend</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260613133000 +0700" stop="20260613140000 +0700" channel="Trans TV">
+<title lang="zh">Masak Anti Ribet</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260613140000 +0700" stop="20260613150000 +0700" channel="Trans TV">
-<title lang="zh">Rumpi: No Secret</title>
+<title lang="zh">Rumpi Hot Of The Week</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260613150000 +0700" stop="20260613160000 +0700" channel="Trans TV">
-<title lang="zh">Insert Today</title>
+<title lang="zh">Insert Investigasi</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613160000 +0700" stop="20260613163000 +0700" channel="Trans TV">
-<title lang="zh">CNN Indonesia News Update</title>
+<programme start="20260613160000 +0700" stop="20260613170000 +0700" channel="Trans TV">
+<title lang="zh">Sehari Jadi Ratu</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613163000 +0700" stop="20260613173000 +0700" channel="Trans TV">
-<title lang="zh">Dream Box Indonesia</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260613173000 +0700" stop="20260613184500 +0700" channel="Trans TV">
+<programme start="20260613170000 +0700" stop="20260613180000 +0700" channel="Trans TV">
 <title lang="zh">Bikin Laper</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613184500 +0700" stop="20260613200000 +0700" channel="Trans TV">
+<programme start="20260613180000 +0700" stop="20260613191500 +0700" channel="Trans TV">
 <title lang="zh">Insert Story</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613200000 +0700" stop="20260613210000 +0700" channel="Trans TV">
-<title lang="zh">Dunia Punya Cerita</title>
+<programme start="20260613191500 +0700" stop="20260613201500 +0700" channel="Trans TV">
+<title lang="zh">Monitor Ketua</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260613210000 +0700" stop="20260613230000 +0700" channel="Trans TV">
+<programme start="20260613201500 +0700" stop="20260613221500 +0700" channel="Trans TV">
 <title lang="zh">Bioskop Trans TV</title>
 <desc lang="zh"> </desc>
 </programme>
