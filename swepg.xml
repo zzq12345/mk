@@ -1773,10 +1773,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260615140000 +0800" stop="20260615160000 +0800" channel="mbc max">
-    <title lang="en">The Man with the Iron Fists</title>
-    <desc lang="en">Set in feudal China, where a hunt for a treasure of goldtakes place between a group of murderers ,warriors and a British soldier in a remote village,where a simple blacksmith tries to defend himself and his fellow residents.</desc>
-  </programme>
   <programme start="20260615160000 +0800" stop="20260615180000 +0800" channel="mbc max">
     <title lang="en">The Legend of Tarzan</title>
     <desc lang="en">Tarzan is living in London, after many years from bringinghim from the jungle, in which he has long settled and grew up. Tarzan returns back to the forest as a delegate for trade in the Congo, where he investigates the activities in a mining camp , without knowing that he is just bait by other people.</desc>
@@ -1917,9 +1913,9 @@
     <title lang="en">Notting Hill</title>
     <desc lang="en">A chance meeting between William, a bookstore owner, andAnna Scott, the world-famous actress, sparks a love story after Anna enlists his help to hide from a tabloid scandal. But falling for the world's most desired woman is not easy, neither is the public scrutiny that comes with it.</desc>
   </programme>
-  <programme start="20260615150000 +0800" stop="20260615170000 +0800" channel="mbc 2">
-    <title lang="en">Our Brand Is Crisis</title>
-    <desc lang="en">An American political consultant, Jane Bodine, is hired by aBolivian presidential candidate to ensure his success in the 2002 Bolivian presidential election. But his opponent also has an American political consultant who just happens to be Jane's nemesis.</desc>
+  <programme start="20260618030000 +0800" stop="20260618043000 +0800" channel="mbc max">
+    <title lang="en">The Angry Birds Movie</title>
+    <desc lang="en">Red, Chuck and Bomb are the grumpy outcasts living in anisland populated by happy birds. When mysterious green piggies visit their island, it's up to them to save their community.</desc>
   </programme>
   <programme start="20260615170000 +0800" stop="20260615193500 +0800" channel="mbc 2">
     <title lang="en">The Wolf of Wall Street</title>
@@ -2057,9 +2053,13 @@
     <title lang="en">The American</title>
     <desc lang="en">After he survives an assassination attempt in Sweden, thecontract killer Jack flees to Rome where he is hired to build a custom sniper rifle for a client, as he vows that this will be his last job.</desc>
   </programme>
-  <programme start="20260614153000 +0800" stop="20260614170000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  <programme start="20260618013000 +0800" stop="20260618030000 +0800" channel="mbc 2">
+    <title lang="en">Shrek 2</title>
+    <desc lang="en">Princess Fiona has been turned into an ogre and she andShrek are married. They head out to meet Fiona's parents, the King and Queen, after a long time away. When they see their daughter, they're shocked, and even though her mother accepts the new situation, her father decides to ask the Fairy Godmother help him get his daughter back.</desc>
+  </programme>
+  <programme start="20260618030000 +0800" stop="20260618050000 +0800" channel="mbc 2">
+    <title lang="en">Fool's Gold</title>
+    <desc lang="en">Finn and his ex-wife Tess embark on a treasure hunt thatrekindles the flames of their love.</desc>
   </programme>
   <programme start="20260614170000 +0800" stop="20260614180000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast </title>
@@ -2285,6 +2285,14 @@
     <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
   </programme>
+  <programme start="20260617020000 +0800" stop="20260617030000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260617030000 +0800" stop="20260617043000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
   <programme start="20260615060000 +0800" stop="20260615063000 +0800" channel="第一财经">
     <title lang="zh">两说</title>
     <desc lang="zh">两说</desc>
@@ -2492,6 +2500,282 @@
   <programme start="20260616013000 +0800" stop="20260616020000 +0800" channel="东方财经">
     <title lang="zh">创时代</title>
     <desc lang="zh">创时代</desc>
+  </programme>
+  <programme start="20260612003000 +0400" stop="20260612023000 +0400" channel="Dubai One">
+    <title lang="en">Antebellum</title>
+    <desc lang="en">If it chooses you nothing can save you.</desc>
+  </programme>
+  <programme start="20260612023000 +0400" stop="20260612030000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260612030000 +0400" stop="20260612040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260612040000 +0400" stop="20260612060000 +0400" channel="Dubai One">
+    <title lang="en">Prey</title>
+    <desc lang="en">The Hunt Begins</desc>
+  </programme>
+  <programme start="20260612060000 +0400" stop="20260612080000 +0400" channel="Dubai One">
+    <title lang="en">Acts Of Vengeance</title>
+    <desc lang="en">Action Speaks Louder Than Words</desc>
+  </programme>
+  <programme start="20260612080000 +0400" stop="20260612090000 +0400" channel="Dubai One">
+    <title lang="en">Sisi</title>
+    <desc lang="en">The life of Empress Elisabeth of Austria</desc>
+  </programme>
+  <programme start="20260612090000 +0400" stop="20260612110000 +0400" channel="Dubai One">
+    <title lang="en">Prey</title>
+    <desc lang="en">The Hunt Begins</desc>
+  </programme>
+  <programme start="20260612110000 +0400" stop="20260612150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260612150000 +0400" stop="20260612160000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260612160000 +0400" stop="20260612170000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260612170000 +0400" stop="20260612190000 +0400" channel="Dubai One">
+    <title lang="en">Antebellum</title>
+    <desc lang="en">If it chooses you nothing can save you.</desc>
+  </programme>
+  <programme start="20260612190000 +0400" stop="20260612193000 +0400" channel="Dubai One">
+    <title lang="en">The Mysteries Of The Brain</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260612193000 +0400" stop="20260612200000 +0400" channel="Dubai One">
+    <title lang="en">بتوقيت دبي</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260612200000 +0400" stop="20260612213000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260612213000 +0400" stop="20260612223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260612223000 +0400" stop="20260613003000 +0400" channel="Dubai One">
+    <title lang="en">No Exit</title>
+    <desc lang="en">How far would you go for a stranger?</desc>
+  </programme>
+  <programme start="20260613003000 +0400" stop="20260613023000 +0400" channel="Dubai One">
+    <title lang="en">C'mon C'mon</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260613023000 +0400" stop="20260613030000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260613030000 +0400" stop="20260613040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260613040000 +0400" stop="20260613060000 +0400" channel="Dubai One">
+    <title lang="en">No Exit</title>
+    <desc lang="en">How far would you go for a stranger?</desc>
+  </programme>
+  <programme start="20260613060000 +0400" stop="20260613080000 +0400" channel="Dubai One">
+    <title lang="en">Antebellum</title>
+    <desc lang="en">If it chooses you nothing can save you.</desc>
+  </programme>
+  <programme start="20260613080000 +0400" stop="20260613083000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260613083000 +0400" stop="20260613123000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260613123000 +0400" stop="20260613143000 +0400" channel="Dubai One">
+    <title lang="en">No Exit</title>
+    <desc lang="en">How far would you go for a stranger?</desc>
+  </programme>
+  <programme start="20260613143000 +0400" stop="20260613150000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260613150000 +0400" stop="20260613160000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260613160000 +0400" stop="20260613180000 +0400" channel="Dubai One">
+    <title lang="en">C'mon C'mon</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260613180000 +0400" stop="20260613200000 +0400" channel="Dubai One">
+    <title lang="en">Ice Age: Collision Course</title>
+    <desc lang="en">One small step. One giant mess.</desc>
+  </programme>
+  <programme start="20260613200000 +0400" stop="20260613210000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260613210000 +0400" stop="20260613213000 +0400" channel="Dubai One">
+    <title lang="en">Freeze</title>
+    <desc lang="en">The challenge to remain calm...</desc>
+  </programme>
+  <programme start="20260613213000 +0400" stop="20260613223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260613223000 +0400" stop="20260614003000 +0400" channel="Dubai One">
+    <title lang="en">Lucy in the Sky</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260614003000 +0400" stop="20260614023000 +0400" channel="Dubai One">
+    <title lang="en">Graduation</title>
+    <desc lang="en">A film about compromises and the implications of the parent's role.</desc>
+  </programme>
+  <programme start="20260614023000 +0400" stop="20260614033000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260614033000 +0400" stop="20260614040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260614040000 +0400" stop="20260614060000 +0400" channel="Dubai One">
+    <title lang="en">Lucy in the Sky</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260614060000 +0400" stop="20260614080000 +0400" channel="Dubai One">
+    <title lang="en">Ice Age: Collision Course</title>
+    <desc lang="en">One small step. One giant mess.</desc>
+  </programme>
+  <programme start="20260614080000 +0400" stop="20260614083000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
+  </programme>
+  <programme start="20260614083000 +0400" stop="20260614090000 +0400" channel="Dubai One">
+    <title lang="en">The Mysteries Of The Brain</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260614090000 +0400" stop="20260614093000 +0400" channel="Dubai One">
+    <title lang="en">Freeze</title>
+    <desc lang="en">The challenge to remain calm...</desc>
+  </programme>
+  <programme start="20260614093000 +0400" stop="20260614113000 +0400" channel="Dubai One">
+    <title lang="en">C'mon C'mon</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260614113000 +0400" stop="20260614123000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260614123000 +0400" stop="20260614143000 +0400" channel="Dubai One">
+    <title lang="en">Antebellum</title>
+    <desc lang="en">If it chooses you nothing can save you.</desc>
+  </programme>
+  <programme start="20260614143000 +0400" stop="20260614150000 +0400" channel="Dubai One">
+    <title lang="en">بتوقيت دبي</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260614150000 +0400" stop="20260614160000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260614160000 +0400" stop="20260614180000 +0400" channel="Dubai One">
+    <title lang="en">Lucy in the Sky</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260614180000 +0400" stop="20260614200000 +0400" channel="Dubai One">
+    <title lang="en">Graduation</title>
+    <desc lang="en">A film about compromises and the implications of the parent's role.</desc>
+  </programme>
+  <programme start="20260614200000 +0400" stop="20260614203000 +0400" channel="Dubai One">
+    <title lang="en">The Quest For Knowledge</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260614203000 +0400" stop="20260614210000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260614210000 +0400" stop="20260614213000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
+  </programme>
+  <programme start="20260614213000 +0400" stop="20260614223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260614223000 +0400" stop="20260615003000 +0400" channel="Dubai One">
+    <title lang="en">Mr. Jones</title>
+    <desc lang="en">The truth can't be hidden forever.</desc>
+  </programme>
+  <programme start="20260615003000 +0400" stop="20260615023000 +0400" channel="Dubai One">
+    <title lang="en">See How They Run</title>
+    <desc lang="en">The greatest murder ever staged.</desc>
+  </programme>
+  <programme start="20260615023000 +0400" stop="20260615030000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
+  </programme>
+  <programme start="20260615030000 +0400" stop="20260615033000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260615033000 +0400" stop="20260615040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260615040000 +0400" stop="20260615060000 +0400" channel="Dubai One">
+    <title lang="en">Mr. Jones</title>
+    <desc lang="en">The truth can't be hidden forever.</desc>
+  </programme>
+  <programme start="20260615060000 +0400" stop="20260615080000 +0400" channel="Dubai One">
+    <title lang="en">Graduation</title>
+    <desc lang="en">A film about compromises and the implications of the parent's role.</desc>
+  </programme>
+  <programme start="20260615080000 +0400" stop="20260615090000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260615090000 +0400" stop="20260615110000 +0400" channel="Dubai One">
+    <title lang="en">Mr. Jones</title>
+    <desc lang="en">The truth can't be hidden forever.</desc>
+  </programme>
+  <programme start="20260615110000 +0400" stop="20260615150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260615150000 +0400" stop="20260615160000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260615160000 +0400" stop="20260615170000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260615170000 +0400" stop="20260615190000 +0400" channel="Dubai One">
+    <title lang="en">See How They Run</title>
+    <desc lang="en">The greatest murder ever staged.</desc>
+  </programme>
+  <programme start="20260615190000 +0400" stop="20260615193000 +0400" channel="Dubai One">
+    <title lang="en">Freeze</title>
+    <desc lang="en">The challenge to remain calm...</desc>
+  </programme>
+  <programme start="20260615193000 +0400" stop="20260615200000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260615200000 +0400" stop="20260615213000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260615213000 +0400" stop="20260615223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260615223000 +0400" stop="20260616000000 +0400" channel="Dubai One">
+    <title lang="en">The Father</title>
+    <desc lang="en">Nothing is as it seems</desc>
   </programme>
   <programme start="20260601010000 +0800" stop="20260601020000 +0800" channel="HOY 76">
     <title lang="zh">玛吉比尔的大使命</title>
@@ -46317,14 +46601,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260614183000 +0000" stop="20260614203000 +0000" channel="中视">
-    <title lang="zh">综艺玩很大</title>
-    <desc lang="zh">由本土天王吴宗宪主持，打造台湾电视史上第一个最真实的外景实境秀。每趟旅程带领8位艺人，挑战时间内募集返家所需旅费。成功队伍可以顺利回家，失败队则直接被流放当地，露宿街头。综艺玩很大，要玩就玩大的！</desc>
-  </programme>
-  <programme start="20260614203000 +0000" stop="20260614210000 +0000" channel="中视">
-    <title lang="zh">台湾味道</title>
-    <desc lang="zh">以台湾这片土地上奋斗的小人物为主角的系列纪录片。这些升斗小民、寻常人家为追求他们的愿望、向往、志向、使命或执著，坚持著一种作为。这个作为，就是他们之所以活得精彩的故事，也是《台湾味道》探寻、撷取的影像题材、故事的基础。</desc>
-  </programme>
   <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="中视">
     <title lang="zh">大陆寻奇</title>
     <desc lang="zh">您不必跋山涉水就可以将奇峰峻岭壮阔山河尽收眼底，「大陆寻奇」不惜巨资的大制作足迹踏遍各现代城市，穷乡僻壤，深入各民族村落，记录了外人难得一见的生活情况，以准确的地理、历史定位、用现代化思维，把中华文化忠实的呈现。</desc>
@@ -46813,22 +47089,6 @@
     <title lang="zh">综艺一级棒</title>
     <desc lang="zh">中视团队再推歌唱综艺新作《综艺一级棒》超强主持阵容-康康、许志豪、陈随意、陈孟贤、李子森、杜忻恬！希望在最美好的舞台上给大家带来满满两个小时的金曲时光！</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="华视">
-    <title lang="zh">华视2400夜间新闻</title>
-    <desc lang="zh">由专业华视主播带来最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
-  <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="华视">
-    <title lang="zh">接住流星的人</title>
-    <desc lang="zh">剧情描述慈济师姑江柑（陆小芬）在三重区开设新芽课辅班，教育青少年儿童学习教育的故事。三重访视志工江柑深知能改变这些照顾户命运的，唯有教育，于是志工们走进照顾户家中陪孩子写作业、课辅，让教育成为这些孩子人生中第一道光…</desc>
-  </programme>
-  <programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="华视">
-    <title lang="zh">三国演议</title>
-    <desc lang="zh">华视新闻部制播新闻专题节目。由国际政经专家汪浩、日本产经新闻台北支局长矢板明夫搭档主持，深度讲评最新国际政经重大事件，跳脱传统政论谈话节目的框架属性。</desc>
-  </programme>
-  <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="华视">
-    <title lang="zh">GOOD Morning台湾</title>
-    <desc lang="zh">每天早上七点、八点，为观众报导最新国内外大事件。</desc>
-  </programme>
   <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="华视">
     <title lang="zh">土地公传奇</title>
     <desc lang="zh">玉帝赐封的土地公（廖峻）原是民间税官，因他是凡人不会当神，玉帝就选了才貌双全的城隍爷三女儿（陈亚兰）为妻，协助他为百姓做事。除了土地公土地婆来到人间做善事，还有城隍爷身边的文判官（施羽）、武判官（黄仲裕）也不时协助…</desc>
@@ -47249,49 +47509,97 @@
     <title lang="zh">健康早知道</title>
     <desc lang="zh">华视制播健康资讯节目，介绍全方位的健康知识、饮食健康、预防癌症，远离三高、慢性病。由资深医药记者洪素卿主持，每周邀各领域专家，畅谈日常生活会遇到的健康故事，并分享给长辈的健康保健的知识，介绍自我保健秘诀与养生方式。</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="好消息2台">
-    <title lang="zh">大卫鲍森讲座</title>
-    <desc lang="zh">圣经权威大卫鲍森牧师，带你以宏观的神学角度，观看神伟大的神性与恩典，并从其中明白救恩计划的重要。</desc>
+  <programme start="20260619075500 +0000" stop="20260619085400 +0000" channel="华视">
+    <title lang="zh">华视新闻杂志</title>
+    <desc lang="zh">华视新闻团队主持，结合文创、趋势、电影、旅游等元素，让你掌握最新资讯，是适合全家观赏的深度新闻性节目。</desc>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260614210500 +0000" channel="好消息2台">
-    <title lang="zh">恩典365</title>
-    <desc lang="zh">跟著寇绍恩牧师，每天五分钟，领受上帝的话语，在实际生活中行出来，让我们天天浸泡在上帝的爱和恩典里面。</desc>
+  <programme start="20260619085400 +0000" stop="20260619085800 +0000" channel="华视">
+    <title lang="zh">华视生活广场</title>
+    <desc lang="zh">华视生活广场。</desc>
   </programme>
-  <programme start="20260614210500 +0000" stop="20260614213000 +0000" channel="好消息2台">
-    <title lang="zh">为祢唱新歌</title>
-    <desc lang="zh">李明依主持，节目内容丰富，有采访资深诗歌创作人， 谈那些创作诗歌背后不为人知的经历，有知名艺人分享， 影响他们生命的一首歌。</desc>
+  <programme start="20260619085800 +0000" stop="20260619105800 +0000" channel="华视">
+    <title lang="zh">华视新闻晚报</title>
+    <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
   </programme>
-  <programme start="20260614213000 +0000" stop="20260614214500 +0000" channel="好消息2台">
-    <title lang="zh">经典音乐河</title>
-    <desc lang="zh">古典圣诗具有历久弥新、感人至深的迷人特质。即使经过百年，这些诗歌所蕴含的生命力，仍继续向人们诉说上帝的荣耀作为和救赎恩典。</desc>
+  <programme start="20260619105800 +0000" stop="20260619120000 +0000" channel="华视">
+    <title lang="zh">华视晚间新闻</title>
+    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
   </programme>
-  <programme start="20260614214500 +0000" stop="20260614220000 +0000" channel="好消息2台">
-    <title lang="zh">经典音乐河</title>
-    <desc lang="zh">古典圣诗具有历久弥新、感人至深的迷人特质。即使经过百年，这些诗歌所蕴含的生命力，仍继续向人们诉说上帝的荣耀作为和救赎恩典。</desc>
+  <programme start="20260619120000 +0000" stop="20260619130000 +0000" channel="华视">
+    <title lang="zh">接住流星的人</title>
+    <desc lang="zh">剧情描述慈济师姑江柑（陆小芬）在三重区开设新芽课辅班，教育青少年儿童学习教育的故事。三重访视志工江柑深知能改变这些照顾户命运的，唯有教育，于是志工们走进照顾户家中陪孩子写作业、课辅，让教育成为这些孩子人生中第一道光…</desc>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260614223000 +0000" channel="好消息2台">
-    <title lang="zh">祷告大军迎接复兴</title>
-    <desc lang="zh">好消息电视台为全球信徒提供一个大家共同祷告的园地，由来自各地的牧师带领观众进行祷告，节选圣经中切合人生际遇的章节，为各位教友传达神的旨意，灌溉心灵园地。</desc>
+  <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="华视">
+    <title lang="zh">接住流星的人</title>
+    <desc lang="zh">剧情描述慈济师姑江柑（陆小芬）在三重区开设新芽课辅班，教育青少年儿童学习教育的故事。三重访视志工江柑深知能改变这些照顾户命运的，唯有教育，于是志工们走进照顾户家中陪孩子写作业、课辅，让教育成为这些孩子人生中第一道光…</desc>
   </programme>
-  <programme start="20260614223000 +0000" stop="20260614230000 +0000" channel="好消息2台">
-    <title lang="zh">天堂敬拜</title>
-    <desc lang="zh">敬拜与祷告是基督徒生命中不可少的两件事。新的一年，让我们用敬拜与祷告翻开得胜的新篇章。</desc>
+  <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="华视">
+    <title lang="zh">倚天屠龙记</title>
+    <desc lang="zh">张翠山与殷素素夫妻因拒透露义兄谢逊下落，为全气节而自杀，留下身中寒毒的儿子张无忌。无忌（苏有朋）后来屡获奇遇，学得绝世医术、九阳神功、乾坤大挪移等，解六大派围攻光明顶之危，被推举为明教教主，又与周芷若、赵敏等卷入儿女情仇与国仇家恨…</desc>
   </programme>
-  <programme start="20260614230000 +0000" stop="20260614233000 +0000" channel="好消息2台">
-    <title lang="zh">共享观点</title>
-    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="华视">
+    <title lang="zh">百大医言堂</title>
+    <desc lang="zh">台湾许多名医闻名遐迩，我们却始终挂不到号。本节目由慈月基金会及神脑科技文教基金会合作，邀请名医亲临现场解答各种疑难杂症，希望传递最正确、实用、先进的疾病相关资讯。每集邀请一位不同领域的权威医师到场分享，为国人的健康把关！</desc>
   </programme>
-  <programme start="20260614233000 +0000" stop="20260615000000 +0000" channel="好消息2台">
-    <title lang="zh">祷告大军迎接复兴</title>
-    <desc lang="zh">好消息电视台为全球信徒提供一个大家共同祷告的园地，由来自各地的牧师带领观众进行祷告，节选圣经中切合人生际遇的章节，为各位教友传达神的旨意，灌溉心灵园地。</desc>
+  <programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="华视">
+    <title lang="zh">接住流星的人</title>
+    <desc lang="zh">剧情描述慈济师姑江柑（陆小芬）在三重区开设新芽课辅班，教育青少年儿童学习教育的故事。三重访视志工江柑深知能改变这些照顾户命运的，唯有教育，于是志工们走进照顾户家中陪孩子写作业、课辅，让教育成为这些孩子人生中第一道光…</desc>
   </programme>
-  <programme start="20260615000000 +0000" stop="20260615001500 +0000" channel="好消息2台">
-    <title lang="zh">经典音乐河</title>
-    <desc lang="zh">古典圣诗具有历久弥新、感人至深的迷人特质。即使经过百年，这些诗歌所蕴含的生命力，仍继续向人们诉说上帝的荣耀作为和救赎恩典。</desc>
+  <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="华视">
+    <title lang="zh">接住流星的人</title>
+    <desc lang="zh">剧情描述慈济师姑江柑（陆小芬）在三重区开设新芽课辅班，教育青少年儿童学习教育的故事。三重访视志工江柑深知能改变这些照顾户命运的，唯有教育，于是志工们走进照顾户家中陪孩子写作业、课辅，让教育成为这些孩子人生中第一道光…</desc>
   </programme>
-  <programme start="20260615001500 +0000" stop="20260615003000 +0000" channel="好消息2台">
-    <title lang="zh">为祢唱新歌</title>
-    <desc lang="zh">李明依主持，节目内容丰富，有采访资深诗歌创作人， 谈那些创作诗歌背后不为人知的经历，有知名艺人分享， 影响他们生命的一首歌。</desc>
+  <programme start="20260619180000 +0000" stop="20260619190000 +0000" channel="华视">
+    <title lang="zh">倚天屠龙记</title>
+    <desc lang="zh">张翠山与殷素素夫妻因拒透露义兄谢逊下落，为全气节而自杀，留下身中寒毒的儿子张无忌。无忌（苏有朋）后来屡获奇遇，学得绝世医术、九阳神功、乾坤大挪移等，解六大派围攻光明顶之危，被推举为明教教主，又与周芷若、赵敏等卷入儿女情仇与国仇家恨…</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619200000 +0000" channel="华视">
+    <title lang="zh">旧情绵绵</title>
+    <desc lang="zh">这是一个恩怨情仇，前后纠葛了四十余年的故事。台湾光复前后，嘉义布袋大地主之子颜海猪（霍正奇）、烧炭工的儿子汪邦雄（沈世朋），与佃农的女儿林桂莲（周幼婷），这三个身分地位悬殊的童年玩伴，因为现实的捉弄而走上不同的命运…</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="华视">
+    <title lang="zh">旧情绵绵</title>
+    <desc lang="zh">这是一个恩怨情仇，前后纠葛了四十余年的故事。台湾光复前后，嘉义布袋大地主之子颜海猪（霍正奇）、烧炭工的儿子汪邦雄（沈世朋），与佃农的女儿林桂莲（周幼婷），这三个身分地位悬殊的童年玩伴，因为现实的捉弄而走上不同的命运…</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619220000 +0000" channel="华视">
+    <title lang="zh">咱的城咱的市咱台湾的味</title>
+    <desc lang="zh">金钟歌王荒山亮主持，用歌声带观众游台湾，每集会介绍一个地方，并用一首歌贯穿这集的主题，过程中有美食也有好歌声，让节目更加多元与富有意涵。荒山亮要带观众体验厨师与职人的心路历程，让大家看到台湾各地的乡土民情。</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="华视">
+    <title lang="zh">华视台语新闻杂志</title>
+    <desc lang="zh">以闽南语播报的新闻谈话节目，内容包括许多时事议题。</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260620000000 +0000" channel="华视">
+    <title lang="zh">GOOD Morning台湾</title>
+    <desc lang="zh">每天早上七点、八点，为观众报导最新国内外大事件。</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620013000 +0000" channel="华视">
+    <title lang="zh">莒光园地</title>
+    <desc lang="zh">「莒光园地」电视教学，乃国军政治教育之主要作为与重要管道，亦为社会教育及公民教育之重要部份与延续，依据宪法、国防法之规范，结合政府政策目标，考量社会情势、两岸关系发展与建军备战等需要，进行节目策划，藉多元、活泼之宣教方式落实推展。</desc>
+  </programme>
+  <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="华视">
+    <title lang="zh">品牌人物志</title>
+    <desc lang="zh">《品牌人物志》为华视制播的人物深度专访节目，访谈对象锁定台湾企业界品牌的领军人物。</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="华视">
+    <title lang="zh">华视1000新闻抢先报</title>
+    <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
+  </programme>
+  <programme start="20260620030000 +0000" stop="20260620035700 +0000" channel="华视">
+    <title lang="zh">华视1100新闻抢先报</title>
+    <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
+  </programme>
+  <programme start="20260620035700 +0000" stop="20260620050000 +0000" channel="华视">
+    <title lang="zh">华视午间新闻</title>
+    <desc lang="zh">华视午间新闻由最专业的华视主播，带给观众朋友更多元化的新闻。</desc>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="华视">
+    <title lang="zh">华视1300午间新闻</title>
+    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620070000 +0000" channel="华视">
+    <title lang="zh">俗女养成记</title>
+    <desc lang="zh">39岁的陈嘉玲（谢盈萱）没房没车没老公没小孩，还丢了工作，正式加入鲁蛇行列。而这也表示当年不惜引发家庭革命仍决心要离开家乡的她，在台北奋斗了近二十年，到头来是一场空。然而嘉玲到底又是如何把自己的人生走到这般境地的？</desc>
   </programme>
   <programme start="20260615003000 +0000" stop="20260615010000 +0000" channel="好消息2台">
     <title lang="zh">空中圣经学院</title>
@@ -48077,45 +48385,193 @@
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="好消息">
-    <title lang="zh">新旧约纵览</title>
-    <desc lang="zh">大卫鲍森牧师《新旧约纵览》系列，内容从旧约一直到新约，完整的播出一遍，刚好讲完整本圣经所有的经卷。</desc>
+  <programme start="20260619080000 +0000" stop="20260619081500 +0000" channel="好消息2台">
+    <title lang="zh">小珍珠与阿达叔叔</title>
+    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260614213000 +0000" channel="好消息">
+  <programme start="20260619081500 +0000" stop="20260619083000 +0000" channel="好消息2台">
+    <title lang="zh">小珍珠与阿达叔叔</title>
+    <desc lang="zh">好消息电视台制播的儿少节目，由充满人生智慧的阿达叔叔刘清彦主持，精力十足又问题多多的的小珍珠每次都要来找阿达叔叔的麻烦…不，是请阿达叔叔帮她解决层出不穷的各种麻烦，透过两人的趣味互动，让小朋友轻松学习做人的道理。</desc>
+  </programme>
+  <programme start="20260619083000 +0000" stop="20260619090000 +0000" channel="好消息2台">
+    <title lang="zh">空中主日学</title>
+    <desc lang="zh">系统性研读新约真理，明白耶稣基督的救赎与门徒使命。</desc>
+  </programme>
+  <programme start="20260619090000 +0000" stop="20260619100000 +0000" channel="好消息2台">
+    <title lang="zh">叶光明讲座</title>
+    <desc lang="zh">由全球肯定的圣经教师与作家叶光明（Derek Prince）牧师，向世界宣扬上帝启示的话语。五十多年来，叶牧师已经以50多种语言，向全球一百多个国家宣示上帝的旨意，牧养无数教友。</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619103000 +0000" channel="好消息2台">
+    <title lang="zh">共享观点</title>
+    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
+  </programme>
+  <programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="好消息2台">
+    <title lang="zh">爱＋好医生</title>
+    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
+  </programme>
+  <programme start="20260619110000 +0000" stop="20260619120000 +0000" channel="好消息2台">
+    <title lang="zh">幸福学堂</title>
+    <desc lang="zh">幸福学堂是一个深度探讨家庭问题的节目，让观众的家庭问题可以在节目中得到协助，这些辅导经验丰富的专家，也是信仰坚定的基督徒学者，包含林如萍、武自珍、叶高芳、钱玉芬等教授，透过深入的讨与讲解，为现场观众解答家庭的疑惑。</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619120500 +0000" channel="好消息2台">
+    <title lang="zh">维他命施</title>
+    <desc lang="zh">出版超过二十多本畅销书的作家施以诺，擅长传递激励人心的小故事。《维他命施》针对年轻人，职场青年所设计的节目，短短三分钟，带给您满满的正能量。</desc>
+  </programme>
+  <programme start="20260619120500 +0000" stop="20260619130000 +0000" channel="好消息2台">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
+  </programme>
+  <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="好消息2台">
+    <title lang="zh">精选系列生命更新专题</title>
+    <desc lang="zh">好消息电视台制作的一系列特别节目，内容围绕生命更新、信仰成长、圣经真理，旨在帮助观众认识耶稣、建立门徒生活，涵盖见证分享、专题讲座、职场／家庭／亲子等多元主题，是华人基督徒信仰造就的重要资源。</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619143000 +0000" channel="好消息2台">
+    <title lang="zh">生命的赢家</title>
+    <desc lang="zh">美国湖木教会牧师也是全美畅销书「活出美好」作者约尔欧斯汀制作的电视福音布道节目，不仅在美国创下高收视率，自播出后也相当受台湾观众欢迎，在欧斯汀牧师所写的《活出美好》一书中，鼓励弟兄姊妹要力求卓越，因为上帝并不祝福平庸，祂祝福卓越、杰出与正直…</desc>
+  </programme>
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="好消息2台">
+    <title lang="zh">生命的触动</title>
+    <desc lang="zh">在像是查尔斯史丹利牧师等知名事工或牧师引领下，带领教友导读圣经，以深入浅出的话语，引用圣经中的智慧，宣扬上帝启示。</desc>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619152000 +0000" channel="好消息2台">
+    <title lang="zh">经典音乐河</title>
+    <desc lang="zh">古典圣诗具有历久弥新、感人至深的迷人特质。即使经过百年，这些诗歌所蕴含的生命力，仍继续向人们诉说上帝的荣耀作为和救赎恩典。</desc>
+  </programme>
+  <programme start="20260619152000 +0000" stop="20260619153000 +0000" channel="好消息2台">
+    <title lang="zh">爱我们的家</title>
+    <desc lang="zh">内容依家庭周期划分六大类别，涵盖婚姻经营、亲子关系、银发族财务规划及心理健康等议题，邀请专家陪同守护家庭。</desc>
+  </programme>
+  <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="好消息2台">
+    <title lang="zh">爱＋好医生</title>
+    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619161500 +0000" channel="好消息2台">
+    <title lang="zh">经典音乐河</title>
+    <desc lang="zh">古典圣诗具有历久弥新、感人至深的迷人特质。即使经过百年，这些诗歌所蕴含的生命力，仍继续向人们诉说上帝的荣耀作为和救赎恩典。</desc>
+  </programme>
+  <programme start="20260619161500 +0000" stop="20260619164500 +0000" channel="好消息2台">
     <title lang="zh">祷告大军迎接复兴</title>
     <desc lang="zh">好消息电视台为全球信徒提供一个大家共同祷告的园地，由来自各地的牧师带领观众进行祷告，节选圣经中切合人生际遇的章节，为各位教友传达神的旨意，灌溉心灵园地。</desc>
   </programme>
-  <programme start="20260614213000 +0000" stop="20260614220000 +0000" channel="好消息">
-    <title lang="zh">空中圣经学院</title>
-    <desc lang="zh">由GOOD TV和中华福音神学院共同制作推出。这是历史性的一刻，神的话语要透过卫星传送至全世界，实现平信徒神学教育之梦。</desc>
-  </programme>
-  <programme start="20260614220000 +0000" stop="20260614221200 +0000" channel="好消息">
-    <title lang="zh">来 跳赞美操</title>
-    <desc lang="zh">从原本两位近70岁的退休长辈，在荣星公园，以圣经经文搭配音乐旋律及肢体动作，让圣经变成舞蹈，这项由国际赞美操董事长吴美云老师自创的体操运动，20年后跳到全台，也跳到亚洲、跳到全世界二十几个国家。</desc>
-  </programme>
-  <programme start="20260614221200 +0000" stop="20260614222500 +0000" channel="好消息">
-    <title lang="zh">来 跳赞美操</title>
-    <desc lang="zh">从原本两位近70岁的退休长辈，在荣星公园，以圣经经文搭配音乐旋律及肢体动作，让圣经变成舞蹈，这项由国际赞美操董事长吴美云老师自创的体操运动，20年后跳到全台，也跳到亚洲、跳到全世界二十几个国家。</desc>
-  </programme>
-  <programme start="20260614222500 +0000" stop="20260614223000 +0000" channel="好消息">
+  <programme start="20260619164500 +0000" stop="20260619165500 +0000" channel="好消息2台">
     <title lang="zh">恩典365</title>
     <desc lang="zh">跟著寇绍恩牧师，每天五分钟，领受上帝的话语，在实际生活中行出来，让我们天天浸泡在上帝的爱和恩典里面。</desc>
   </programme>
-  <programme start="20260614223000 +0000" stop="20260614230000 +0000" channel="好消息">
-    <title lang="zh">丰盛人生</title>
-    <desc lang="zh">基督徒必看节目，特邀国内外讲员，为教友带来精辟信息，传达神的信息。</desc>
+  <programme start="20260619165500 +0000" stop="20260619170000 +0000" channel="好消息2台">
+    <title lang="zh">维他命施</title>
+    <desc lang="zh">出版超过二十多本畅销书的作家施以诺，擅长传递激励人心的小故事。《维他命施》针对年轻人，职场青年所设计的节目，短短三分钟，带给您满满的正能量。</desc>
   </programme>
-  <programme start="20260614230000 +0000" stop="20260614233000 +0000" channel="好消息">
+  <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="好消息2台">
+    <title lang="zh">幸福学堂</title>
+    <desc lang="zh">幸福学堂是一个深度探讨家庭问题的节目，让观众的家庭问题可以在节目中得到协助，这些辅导经验丰富的专家，也是信仰坚定的基督徒学者，包含林如萍、武自珍、叶高芳、钱玉芬等教授，透过深入的讨与讲解，为现场观众解答家庭的疑惑。</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619190000 +0000" channel="好消息2台">
+    <title lang="zh">空中礼拜堂</title>
+    <desc lang="zh">邀请国内外各地知名讲员，分享最新最挑旺的信息，让你在家，也能跟上圣灵的水流，接受真理的装备。</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="好消息2台">
+    <title lang="zh">空中主日学</title>
+    <desc lang="zh">系统性研读新约真理，明白耶稣基督的救赎与门徒使命。</desc>
+  </programme>
+  <programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="好消息2台">
+    <title lang="zh">生命的触动</title>
+    <desc lang="zh">在像是查尔斯史丹利牧师等知名事工或牧师引领下，带领教友导读圣经，以深入浅出的话语，引用圣经中的智慧，宣扬上帝启示。</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="好消息2台">
+    <title lang="zh">叶光明讲座</title>
+    <desc lang="zh">由全球肯定的圣经教师与作家叶光明（Derek Prince）牧师，向世界宣扬上帝启示的话语。五十多年来，叶牧师已经以50多种语言，向全球一百多个国家宣示上帝的旨意，牧养无数教友。</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619210500 +0000" channel="好消息2台">
+    <title lang="zh">恩典365</title>
+    <desc lang="zh">跟著寇绍恩牧师，每天五分钟，领受上帝的话语，在实际生活中行出来，让我们天天浸泡在上帝的爱和恩典里面。</desc>
+  </programme>
+  <programme start="20260619210500 +0000" stop="20260619213000 +0000" channel="好消息2台">
+    <title lang="zh">为祢唱新歌</title>
+    <desc lang="zh">李明依主持，节目内容丰富，有采访资深诗歌创作人， 谈那些创作诗歌背后不为人知的经历，有知名艺人分享， 影响他们生命的一首歌。</desc>
+  </programme>
+  <programme start="20260619213000 +0000" stop="20260619214500 +0000" channel="好消息2台">
+    <title lang="zh">经典音乐河</title>
+    <desc lang="zh">古典圣诗具有历久弥新、感人至深的迷人特质。即使经过百年，这些诗歌所蕴含的生命力，仍继续向人们诉说上帝的荣耀作为和救赎恩典。</desc>
+  </programme>
+  <programme start="20260619214500 +0000" stop="20260619220000 +0000" channel="好消息2台">
+    <title lang="zh">经典音乐河</title>
+    <desc lang="zh">古典圣诗具有历久弥新、感人至深的迷人特质。即使经过百年，这些诗歌所蕴含的生命力，仍继续向人们诉说上帝的荣耀作为和救赎恩典。</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="好消息2台">
     <title lang="zh">祷告大军迎接复兴</title>
     <desc lang="zh">好消息电视台为全球信徒提供一个大家共同祷告的园地，由来自各地的牧师带领观众进行祷告，节选圣经中切合人生际遇的章节，为各位教友传达神的旨意，灌溉心灵园地。</desc>
   </programme>
-  <programme start="20260614233000 +0000" stop="20260615000000 +0000" channel="好消息">
-    <title lang="zh">国度视野-好消息会客室</title>
-    <desc lang="zh">本节目由寇绍恩牧师与各界国度领袖进行深度生命对话，带领华人基督徒一同思想上帝的作为。</desc>
+  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="好消息2台">
+    <title lang="zh">天堂敬拜</title>
+    <desc lang="zh">敬拜与祷告是基督徒生命中不可少的两件事。新的一年，让我们用敬拜与祷告翻开得胜的新篇章。</desc>
   </programme>
-  <programme start="20260615000000 +0000" stop="20260615003000 +0000" channel="好消息">
+  <programme start="20260619230000 +0000" stop="20260619231500 +0000" channel="好消息2台">
+    <title lang="zh">共享观点</title>
+    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
+  </programme>
+  <programme start="20260619231500 +0000" stop="20260619233000 +0000" channel="好消息2台">
+    <title lang="zh">共享观点</title>
+    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
+  </programme>
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="好消息2台">
     <title lang="zh">祷告大军迎接复兴</title>
     <desc lang="zh">好消息电视台为全球信徒提供一个大家共同祷告的园地，由来自各地的牧师带领观众进行祷告，节选圣经中切合人生际遇的章节，为各位教友传达神的旨意，灌溉心灵园地。</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620001500 +0000" channel="好消息2台">
+    <title lang="zh">经典音乐河</title>
+    <desc lang="zh">古典圣诗具有历久弥新、感人至深的迷人特质。即使经过百年，这些诗歌所蕴含的生命力，仍继续向人们诉说上帝的荣耀作为和救赎恩典。</desc>
+  </programme>
+  <programme start="20260620001500 +0000" stop="20260620003000 +0000" channel="好消息2台">
+    <title lang="zh">为祢唱新歌</title>
+    <desc lang="zh">李明依主持，节目内容丰富，有采访资深诗歌创作人， 谈那些创作诗歌背后不为人知的经历，有知名艺人分享， 影响他们生命的一首歌。</desc>
+  </programme>
+  <programme start="20260620003000 +0000" stop="20260620010000 +0000" channel="好消息2台">
+    <title lang="zh">空中主日学</title>
+    <desc lang="zh">系统性研读新约真理，明白耶稣基督的救赎与门徒使命。</desc>
+  </programme>
+  <programme start="20260620010000 +0000" stop="20260620020000 +0000" channel="好消息2台">
+    <title lang="zh">叶光明讲座</title>
+    <desc lang="zh">由全球肯定的圣经教师与作家叶光明（Derek Prince）牧师，向世界宣扬上帝启示的话语。五十多年来，叶牧师已经以50多种语言，向全球一百多个国家宣示上帝的旨意，牧养无数教友。</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="好消息2台">
+    <title lang="zh">生命导航</title>
+    <desc lang="zh">GOOD TV中英双语讲道节目，由美国生命教会创办人暨主任牧师克雷葛罗雪主讲。集集精彩，分秒扎心！</desc>
+  </programme>
+  <programme start="20260620023000 +0000" stop="20260620030000 +0000" channel="好消息2台">
+    <title lang="zh">生命的触动</title>
+    <desc lang="zh">在像是查尔斯史丹利牧师等知名事工或牧师引领下，带领教友导读圣经，以深入浅出的话语，引用圣经中的智慧，宣扬上帝启示。</desc>
+  </programme>
+  <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="好消息2台">
+    <title lang="zh">空中礼拜堂</title>
+    <desc lang="zh">邀请国内外各地知名讲员，分享最新最挑旺的信息，让你在家，也能跟上圣灵的水流，接受真理的装备。</desc>
+  </programme>
+  <programme start="20260620040000 +0000" stop="20260620040500 +0000" channel="好消息2台">
+    <title lang="zh">维他命施</title>
+    <desc lang="zh">出版超过二十多本畅销书的作家施以诺，擅长传递激励人心的小故事。《维他命施》针对年轻人，职场青年所设计的节目，短短三分钟，带给您满满的正能量。</desc>
+  </programme>
+  <programme start="20260620040500 +0000" stop="20260620050000 +0000" channel="好消息2台">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="好消息2台">
+    <title lang="zh">寇住幸福</title>
+    <desc lang="zh">因现代人娱乐方式改变，媒体宣教更成为重要的传福音管道。GOOD TV发现如今有更多人驻足在网路上，因此投入制作合乎网路媒体特性的节目，《寇住幸福》应运而生！由寇绍恩牧师主持，节目结合精彩的家庭生活短剧、动人的诗歌音乐与信息分享。</desc>
+  </programme>
+  <programme start="20260620053000 +0000" stop="20260620054500 +0000" channel="好消息2台">
+    <title lang="zh">机智青年生活</title>
+    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
+  </programme>
+  <programme start="20260620054500 +0000" stop="20260620060000 +0000" channel="好消息2台">
+    <title lang="zh">机智青年生活</title>
+    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620070000 +0000" channel="好消息2台">
+    <title lang="zh">特会</title>
+    <desc lang="zh">以造就、培灵与更新为宗旨，邀请来自世界各国的知名布道牧师，为信徒传递神国信息，挑望灵火，奋兴众人！为信徒提供一个提升性灵的园地。(资料来源：GOOD TV)</desc>
+  </programme>
+  <programme start="20260620070000 +0000" stop="20260620080000 +0000" channel="好消息2台">
+    <title lang="zh">特会</title>
+    <desc lang="zh">以造就、培灵与更新为宗旨，邀请来自世界各国的知名布道牧师，为信徒传递神国信息，挑望灵火，奋兴众人！为信徒提供一个提升性灵的园地。(资料来源：GOOD TV)</desc>
   </programme>
   <programme start="20260615003000 +0000" stop="20260615010000 +0000" channel="好消息">
     <title lang="zh">展翅上腾</title>
@@ -48977,17 +49433,181 @@
     <title lang="zh">精选系列生命更新专题</title>
     <desc lang="zh">好消息电视台制作的一系列特别节目，内容围绕生命更新、信仰成长、圣经真理，旨在帮助观众认识耶稣、建立门徒生活，涵盖见证分享、专题讲座、职场／家庭／亲子等多元主题，是华人基督徒信仰造就的重要资源。</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614220000 +0000" channel="亚洲旅游台">
-    <title lang="zh">效廉出发吧</title>
-    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
+  <programme start="20260619080000 +0000" stop="20260619083000 +0000" channel="好消息">
+    <title lang="zh">健康新煮流</title>
+    <desc lang="zh">开创夫妻同厨同煮潮流的KC夫妇，继《健康医食代》后，走出摄影棚，带大家全台走透透，发掘上帝赏赐的美味食材，内容融合新加坡南洋风和客家纯朴味，加上台湾独特的闽南风情，互相激荡交织出的火花，打造出独一无二的美食节目。</desc>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="亚洲旅游台">
-    <title lang="zh">唐绮阳逍遥游</title>
-    <desc lang="zh">华人最具影响力的占星师，唐绮阳专属的旅游节目。跟著独特的唐氏风格，观众可以用不同的角度看世界，同时见证东西方占星大师的对话。</desc>
+  <programme start="20260619083000 +0000" stop="20260619090000 +0000" channel="好消息">
+    <title lang="zh">爱＋好医生</title>
+    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
   </programme>
-  <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="亚洲旅游台">
-    <title lang="zh">城市的100个发现</title>
-    <desc lang="zh">《城市的100个发现》由主持人胡文华、谢哲青搭配不同类型的艺术家，挖掘鲜为人知的历史印记，并以生活美学的角度展开一趟色彩探险之旅。</desc>
+  <programme start="20260619090000 +0000" stop="20260619093000 +0000" channel="好消息">
+    <title lang="zh">大家说英语</title>
+    <desc lang="zh">将最受欢迎的美语生活会话杂志《大家说英语》内容制作成电视教学节目，教学轻松活泼，以生活实用会话为单元主题，是新闻局推荐的优质节目。不仅能帮助您轻松开口说英语，更提供许多实用的英语语汇与技巧，让您用简单的单字，就能说一口漂亮英语。</desc>
+  </programme>
+  <programme start="20260619093000 +0000" stop="20260619100000 +0000" channel="好消息">
+    <title lang="zh">火焰传奇</title>
+    <desc lang="zh">述说宣教士的故事，在世界各地每个不同的角落，宣教士们带著神的爱，像颗种子埋在当地，成为当地人守护的灯台。</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619103000 +0000" channel="好消息">
+    <title lang="zh">福气人生</title>
+    <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
+  </programme>
+  <programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="好消息">
+    <title lang="zh">健康新煮流</title>
+    <desc lang="zh">开创夫妻同厨同煮潮流的KC夫妇，继《健康医食代》后，走出摄影棚，带大家全台走透透，发掘上帝赏赐的美味食材，内容融合新加坡南洋风和客家纯朴味，加上台湾独特的闽南风情，互相激荡交织出的火花，打造出独一无二的美食节目。</desc>
+  </programme>
+  <programme start="20260619110000 +0000" stop="20260619111500 +0000" channel="好消息">
+    <title lang="zh">机智青年生活</title>
+    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
+  </programme>
+  <programme start="20260619111500 +0000" stop="20260619113000 +0000" channel="好消息">
+    <title lang="zh">机智青年生活</title>
+    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
+  </programme>
+  <programme start="20260619113000 +0000" stop="20260619120000 +0000" channel="好消息">
+    <title lang="zh">烤箱读书会</title>
+    <desc lang="zh">会织毛衣、爱做点心的说书人刘清彦，与歌声甜美的星光歌手李宣榕共同主持，首创了将图画书和点心食谱结合在一起的《烤箱读书会》，趁著点心在烤箱里烘培的时间，带领读书会成员一起读图画书。</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="好消息">
+    <title lang="zh">寇住幸福</title>
+    <desc lang="zh">因现代人娱乐方式改变，媒体宣教更成为重要的传福音管道。GOOD TV发现如今有更多人驻足在网路上，因此投入制作合乎网路媒体特性的节目，《寇住幸福》应运而生！由寇绍恩牧师主持，节目结合精彩的家庭生活短剧、动人的诗歌音乐与信息分享。</desc>
+  </programme>
+  <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="好消息">
+    <title lang="zh">妳今天好吗</title>
+    <desc lang="zh">内容围绕女性生活、信仰、家庭、亲子教养、职场沟通及身心健康，透过访谈与真理分享，在忙碌生活中带来温暖、智慧与信仰的力量。</desc>
+  </programme>
+  <programme start="20260619130000 +0000" stop="20260619130500 +0000" channel="好消息">
+    <title lang="zh">遇见祝福</title>
+    <desc lang="zh">由寇绍恩、宋达民、洪百榕等讲员分享基督信仰的信息与经历，旨在鼓励人心、带来生命转换的温暖力量。</desc>
+  </programme>
+  <programme start="20260619130500 +0000" stop="20260619140000 +0000" channel="好消息">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="好消息">
+    <title lang="zh">道在人间(国)</title>
+    <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619153000 +0000" channel="好消息">
+    <title lang="zh">展翅上腾</title>
+    <desc lang="zh">史帝文‧弗提克为美国北卡罗来纳州夏洛特市 Elevation Church 的主任牧师，他融合了新世代的文化与正统基督教的信息，且擅长运用讲台空间与道具，讲道方式活泼有力，广受青年人喜爱，盼望能激励青年人，跳出宗教的框架，抱著对主的热情再次思考福音。</desc>
+  </programme>
+  <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="好消息">
+    <title lang="zh">妳今天好吗</title>
+    <desc lang="zh">内容围绕女性生活、信仰、家庭、亲子教养、职场沟通及身心健康，透过访谈与真理分享，在忙碌生活中带来温暖、智慧与信仰的力量。</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="好消息">
+    <title lang="zh">恩雨之声</title>
+    <desc lang="zh">由梁燕城博士和谭品立牧师共同主持，带领观众走访世界各地，广览基督教遗迹，深度探讨文化根源，浩瀚风光，令人眼界大开。（GOODTV提供）</desc>
+  </programme>
+  <programme start="20260619163000 +0000" stop="20260619163500 +0000" channel="好消息">
+    <title lang="zh">遇见祝福</title>
+    <desc lang="zh">由寇绍恩、宋达民、洪百榕等讲员分享基督信仰的信息与经历，旨在鼓励人心、带来生命转换的温暖力量。</desc>
+  </programme>
+  <programme start="20260619163500 +0000" stop="20260619173000 +0000" channel="好消息">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
+  </programme>
+  <programme start="20260619173000 +0000" stop="20260619180000 +0000" channel="好消息">
+    <title lang="zh">福气人生</title>
+    <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619181500 +0000" channel="好消息">
+    <title lang="zh">为祢唱新歌</title>
+    <desc lang="zh">李明依主持，节目内容丰富，有采访资深诗歌创作人， 谈那些创作诗歌背后不为人知的经历，有知名艺人分享， 影响他们生命的一首歌。</desc>
+  </programme>
+  <programme start="20260619181500 +0000" stop="20260619183000 +0000" channel="好消息">
+    <title lang="zh">为祢唱新歌</title>
+    <desc lang="zh">李明依主持，节目内容丰富，有采访资深诗歌创作人， 谈那些创作诗歌背后不为人知的经历，有知名艺人分享， 影响他们生命的一首歌。</desc>
+  </programme>
+  <programme start="20260619183000 +0000" stop="20260619190000 +0000" channel="好消息">
+    <title lang="zh">好消息特别节目</title>
+    <desc lang="zh">好消息频道制播之精选特辑，纪录各种与好消息相关别具意义的特别活动、或各种福音相关之盛会，借由影音纪录与观众分享。</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619200000 +0000" channel="好消息">
+    <title lang="zh">道在人间(国)</title>
+    <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="好消息">
+    <title lang="zh">真情部落格</title>
+    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="好消息">
+    <title lang="zh">祷告大军迎接复兴</title>
+    <desc lang="zh">好消息电视台为全球信徒提供一个大家共同祷告的园地，由来自各地的牧师带领观众进行祷告，节选圣经中切合人生际遇的章节，为各位教友传达神的旨意，灌溉心灵园地。</desc>
+  </programme>
+  <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="好消息">
+    <title lang="zh">空中圣经学院</title>
+    <desc lang="zh">由GOOD TV和中华福音神学院共同制作推出。这是历史性的一刻，神的话语要透过卫星传送至全世界，实现平信徒神学教育之梦。</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619222500 +0000" channel="好消息">
+    <title lang="zh">天堂敬拜</title>
+    <desc lang="zh">敬拜与祷告是基督徒生命中不可少的两件事。新的一年，让我们用敬拜与祷告翻开得胜的新篇章。</desc>
+  </programme>
+  <programme start="20260619222500 +0000" stop="20260619223000 +0000" channel="好消息">
+    <title lang="zh">恩典365</title>
+    <desc lang="zh">跟著寇绍恩牧师，每天五分钟，领受上帝的话语，在实际生活中行出来，让我们天天浸泡在上帝的爱和恩典里面。</desc>
+  </programme>
+  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="好消息">
+    <title lang="zh">福气人生</title>
+    <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="好消息">
+    <title lang="zh">祷告大军迎接复兴</title>
+    <desc lang="zh">好消息电视台为全球信徒提供一个大家共同祷告的园地，由来自各地的牧师带领观众进行祷告，节选圣经中切合人生际遇的章节，为各位教友传达神的旨意，灌溉心灵园地。</desc>
+  </programme>
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="好消息">
+    <title lang="zh">空中主日学</title>
+    <desc lang="zh">系统性研读新约真理，明白耶稣基督的救赎与门徒使命。</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620003000 +0000" channel="好消息">
+    <title lang="zh">恩雨之声</title>
+    <desc lang="zh">由梁燕城博士和谭品立牧师共同主持，带领观众走访世界各地，广览基督教遗迹，深度探讨文化根源，浩瀚风光，令人眼界大开。（GOODTV提供）</desc>
+  </programme>
+  <programme start="20260620003000 +0000" stop="20260620010000 +0000" channel="好消息">
+    <title lang="zh">CWN世界新闻</title>
+    <desc lang="zh">内容涵盖教会增长、福音事工、社会焦点与人道救援等。目标在于建立教会与事工团体的国际化网络，为了神在全球的工作，作出更好的报导。</desc>
+  </programme>
+  <programme start="20260620010000 +0000" stop="20260620020000 +0000" channel="好消息">
+    <title lang="zh">道在人间(台)</title>
+    <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="好消息">
+    <title lang="zh">特会</title>
+    <desc lang="zh">以造就、培灵与更新为宗旨，邀请来自世界各国的知名布道牧师，为信徒传递神国信息，挑望灵火，奋兴众人！为信徒提供一个提升性灵的园地。(资料来源：GOOD TV)</desc>
+  </programme>
+  <programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="好消息">
+    <title lang="zh">国度视野-好消息会客室</title>
+    <desc lang="zh">本节目由寇绍恩牧师与各界国度领袖进行深度生命对话，带领华人基督徒一同思想上帝的作为。</desc>
+  </programme>
+  <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="好消息">
+    <title lang="zh">国度视野-好消息会客室</title>
+    <desc lang="zh">本节目由寇绍恩牧师与各界国度领袖进行深度生命对话，带领华人基督徒一同思想上帝的作为。</desc>
+  </programme>
+  <programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="好消息">
+    <title lang="zh">好消息国度瞭望</title>
+    <desc lang="zh">台湾与全球教会的重点新闻和专题报导，并有世界各地宣教事工、慈惠事工的拓展，与事工内容介绍，以及全球地方教会新闻报。让您看到上帝奇妙的手，在全球华人教会中施行奇妙的作为。</desc>
+  </programme>
+  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="好消息">
+    <title lang="zh">CWN世界新闻</title>
+    <desc lang="zh">内容涵盖教会增长、福音事工、社会焦点与人道救援等。目标在于建立教会与事工团体的国际化网络，为了神在全球的工作，作出更好的报导。</desc>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="好消息">
+    <title lang="zh">生命的赢家</title>
+    <desc lang="zh">美国湖木教会牧师也是全美畅销书「活出美好」作者约尔欧斯汀制作的电视福音布道节目，不仅在美国创下高收视率，自播出后也相当受台湾观众欢迎，在欧斯汀牧师所写的《活出美好》一书中，鼓励弟兄姊妹要力求卓越，因为上帝并不祝福平庸，祂祝福卓越、杰出与正直…</desc>
+  </programme>
+  <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="好消息">
+    <title lang="zh">寇住幸福</title>
+    <desc lang="zh">因现代人娱乐方式改变，媒体宣教更成为重要的传福音管道。GOOD TV发现如今有更多人驻足在网路上，因此投入制作合乎网路媒体特性的节目，《寇住幸福》应运而生！由寇绍恩牧师主持，节目结合精彩的家庭生活短剧、动人的诗歌音乐与信息分享。</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620065000 +0000" channel="好消息">
+    <title lang="zh">家庭８点档转转发现爱</title>
+    <desc lang="zh">专注于婚姻、亲子、家庭及生活议题。节目内容涵盖教养实战、恋爱交友、理财观念与职场甘苦，透过专家多面向剖析、人生故事分享与小游戏，强调「换个思维就能找回爱」。</desc>
+  </programme>
+  <programme start="20260620065000 +0000" stop="20260620070000 +0000" channel="好消息">
+    <title lang="zh">机智青年生活</title>
+    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
   </programme>
   <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="亚洲旅游台">
     <title lang="zh">33厨房</title>
@@ -49337,33 +49957,85 @@
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614204000 +0000" channel="东森购物1台">
-    <title lang="zh">6月下单抽100%现金券回馈！</title>
+  <programme start="20260619080000 +0000" stop="20260619100000 +0000" channel="亚洲旅游台">
+    <title lang="zh">效廉出发吧</title>
+    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619110000 +0000" channel="亚洲旅游台">
+    <title lang="zh">唐绮阳逍遥游</title>
+    <desc lang="zh">华人最具影响力的占星师，唐绮阳专属的旅游节目。跟著独特的唐氏风格，观众可以用不同的角度看世界，同时见证东西方占星大师的对话。</desc>
+  </programme>
+  <programme start="20260619110000 +0000" stop="20260619120000 +0000" channel="亚洲旅游台">
+    <title lang="zh">33厨房</title>
+    <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619130000 +0000" channel="亚洲旅游台">
+    <title lang="zh">世界跟我这Young玩</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614204000 +0000" stop="20260614212000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+  <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="亚洲旅游台">
+    <title lang="zh">融融历险记</title>
+    <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619160000 +0000" channel="亚洲旅游台">
+    <title lang="zh">效廉出发吧</title>
+    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="亚洲旅游台">
+    <title lang="zh">大和旅人</title>
+    <desc lang="zh">『大和旅人』，将深入日本的核心精神，带给观众最深的日本印象。从最新一手的旅日资讯，结合新潮、跨时空、大使私房秘境，以及深入产地介绍物产，创造一场最接地气的豪华深度日本旅行。</desc>
+  </programme>
+  <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="亚洲旅游台">
+    <title lang="zh">世界跟我这Young玩</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614212000 +0000" stop="20260614220000 +0000" channel="东森购物1台">
-    <title lang="zh">6月下单抽100%现金券回馈！</title>
+  <programme start="20260619180000 +0000" stop="20260619190000 +0000" channel="亚洲旅游台">
+    <title lang="zh">33厨房</title>
+    <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619200000 +0000" channel="亚洲旅游台">
+    <title lang="zh">融融历险记</title>
+    <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619220000 +0000" channel="亚洲旅游台">
+    <title lang="zh">效廉出发吧</title>
+    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="亚洲旅游台">
+    <title lang="zh">大和旅人</title>
+    <desc lang="zh">『大和旅人』，将深入日本的核心精神，带给观众最深的日本印象。从最新一手的旅日资讯，结合新潮、跨时空、大使私房秘境，以及深入产地介绍物产，创造一场最接地气的豪华深度日本旅行。</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260620000000 +0000" channel="亚洲旅游台">
+    <title lang="zh">世界跟我这Young玩</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260614224000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+  <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="亚洲旅游台">
+    <title lang="zh">33厨房</title>
+    <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
+  </programme>
+  <programme start="20260620010000 +0000" stop="20260620020000 +0000" channel="亚洲旅游台">
+    <title lang="zh">融融历险记</title>
+    <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620040000 +0000" channel="亚洲旅游台">
+    <title lang="zh">效廉出发吧</title>
+    <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
+  </programme>
+  <programme start="20260620040000 +0000" stop="20260620050000 +0000" channel="亚洲旅游台">
+    <title lang="zh">大和旅人</title>
+    <desc lang="zh">『大和旅人』，将深入日本的核心精神，带给观众最深的日本印象。从最新一手的旅日资讯，结合新潮、跨时空、大使私房秘境，以及深入产地介绍物产，创造一场最接地气的豪华深度日本旅行。</desc>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="亚洲旅游台">
+    <title lang="zh">33厨房</title>
+    <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620070000 +0000" channel="亚洲旅游台">
+    <title lang="zh">世界跟我这Young玩</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614224000 +0000" stop="20260614232000 +0000" channel="东森购物1台">
-    <title lang="zh">6月下单抽100%现金券回馈！</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260614232000 +0000" stop="20260615000000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260615000000 +0000" stop="20260615004000 +0000" channel="东森购物1台">
-    <title lang="zh">6月下单抽100%现金券回馈！</title>
-    <desc lang="zh">暂无描述</desc>
+  <programme start="20260620070000 +0000" stop="20260620080000 +0000" channel="亚洲旅游台">
+    <title lang="zh">融融历险记</title>
+    <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
   </programme>
   <programme start="20260615004000 +0000" stop="20260615012000 +0000" channel="东森购物1台">
     <title lang="zh">锁定CH43、CH49、CH120选购</title>
@@ -49985,8 +50657,148 @@
     <title lang="zh">锁定CH43、CH49、CH120选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614204000 +0000" channel="东森购物2台">
+  <programme start="20260619080000 +0000" stop="20260619084000 +0000" channel="东森购物1台">
     <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619084000 +0000" stop="20260619092000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619092000 +0000" stop="20260619100000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619104000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619104000 +0000" stop="20260619112000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619112000 +0000" stop="20260619120000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619124000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619124000 +0000" stop="20260619132000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619132000 +0000" stop="20260619140000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619144000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619144000 +0000" stop="20260619152000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619152000 +0000" stop="20260619160000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619164000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619164000 +0000" stop="20260619172000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619172000 +0000" stop="20260619180000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619184000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619184000 +0000" stop="20260619192000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619192000 +0000" stop="20260619200000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619204000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619204000 +0000" stop="20260619212000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619212000 +0000" stop="20260619220000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619224000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619224000 +0000" stop="20260619232000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619232000 +0000" stop="20260620000000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620004000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620004000 +0000" stop="20260620012000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620012000 +0000" stop="20260620020000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620024000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620024000 +0000" stop="20260620032000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620032000 +0000" stop="20260620040000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620040000 +0000" stop="20260620044000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620044000 +0000" stop="20260620052000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620052000 +0000" stop="20260620060000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620064000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620064000 +0000" stop="20260620072000 +0000" channel="东森购物1台">
+    <title lang="zh">6月下单抽100%现金券回馈！</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620072000 +0000" stop="20260620080000 +0000" channel="东森购物1台">
+    <title lang="zh">锁定CH43、CH49、CH120选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260614204000 +0000" stop="20260614212000 +0000" channel="东森购物2台">
@@ -50633,10 +51445,6 @@
     <title lang="zh">锁定CH43、CH49、CH120选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="华视新闻">
-    <title lang="zh">华视2400夜间新闻</title>
-    <desc lang="zh">由专业华视主播带来最即时、最完整、最专业的新闻报导。</desc>
-  </programme>
   <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="华视新闻">
     <title lang="zh">华视夜间新闻</title>
     <desc lang="zh">提供观众朋友重要的国内外大事。</desc>
@@ -51033,10 +51841,6 @@
     <title lang="zh">华视1500整点新闻</title>
     <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
   </programme>
-  <programme start="20260614160000 +0000" stop="20260614220000 +0000" channel="倪珍播新闻">
-    <title lang="zh">晚安新闻</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260614220000 +0000" stop="20260615040000 +0000" channel="倪珍播新闻">
     <title lang="zh">早安新闻</title>
     <desc lang="zh">暂无描述</desc>
@@ -51105,21 +51909,21 @@
     <title lang="zh">早安新闻</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">1819钱进大头条</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻及时事评论…等内容。</desc>
+  <programme start="20260619040000 +0000" stop="20260619100000 +0000" channel="倪珍播新闻">
+    <title lang="zh">午安新闻</title>
+    <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">1819钱进大头条</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻及时事评论…等内容。</desc>
+  <programme start="20260619100000 +0000" stop="20260619160000 +0000" channel="倪珍播新闻">
+    <title lang="zh">晚安新闻</title>
+    <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">360大世界</title>
-    <desc lang="zh">带你360度看世界，介绍世界各地奇闻轶事，每个故事都令人啧啧称奇！</desc>
+  <programme start="20260619160000 +0000" stop="20260619220000 +0000" channel="倪珍播新闻">
+    <title lang="zh">晚安新闻</title>
+    <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS财经早报</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
+  <programme start="20260619220000 +0000" stop="20260620040000 +0000" channel="倪珍播新闻">
+    <title lang="zh">早安新闻</title>
+    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">iNEWS财经早报</title>
@@ -51521,21 +52325,97 @@
     <title lang="zh">全球新食力</title>
     <desc lang="zh">三立iNEWS制播的美食资讯节目，带你全省走透透，吃遍台湾！</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="寰宇财经台">
-    <title lang="zh">巷弄美食家</title>
+  <programme start="20260619080000 +0000" stop="20260619090000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">iNEWS1600整点新闻</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
+  </programme>
+  <programme start="20260619090000 +0000" stop="20260619100000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">iNEWS1700整点新闻</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619115500 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">1819钱进大头条</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻及时事评论…等内容。</desc>
+  </programme>
+  <programme start="20260619115500 +0000" stop="20260619123000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">iNEWS大世界</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，观察财经趋势，理性讨论公共政策，探讨全球化中的台湾动向！</desc>
+  </programme>
+  <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">全民i彩券</title>
+    <desc lang="zh">买彩券，好事发生；看开奖，实现梦想！三立iNEWS制播的台湾公益彩券开奖节目，由最专业的主播团队带来最即时的开奖资讯！</desc>
+  </programme>
+  <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2100 Catch大钱潮</title>
+    <desc lang="zh">主播王志郁带您catch大钱潮！一个小时快速吸收当天国际大事，财经、产业脉动，掌握趋势，拥抱财富。</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2200 Catch大钱潮</title>
+    <desc lang="zh">主播王志郁带您catch大钱潮！一个小时快速吸收当天国际大事，财经、产业脉动，掌握趋势，拥抱财富。</desc>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2300iNEWS财经夜世界</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2100 Catch大钱潮</title>
+    <desc lang="zh">主播王志郁带您catch大钱潮！一个小时快速吸收当天国际大事，财经、产业脉动，掌握趋势，拥抱财富。</desc>
+  </programme>
+  <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2200 Catch大钱潮</title>
+    <desc lang="zh">主播王志郁带您catch大钱潮！一个小时快速吸收当天国际大事，财经、产业脉动，掌握趋势，拥抱财富。</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619190000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2300iNEWS财经夜世界</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619210000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">1819钱进大头条</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻及时事评论…等内容。</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619220000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2300iNEWS财经夜世界</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2100 Catch大钱潮</title>
+    <desc lang="zh">主播王志郁带您catch大钱潮！一个小时快速吸收当天国际大事，财经、产业脉动，掌握趋势，拥抱财富。</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260620000000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">2200 Catch大钱潮</title>
+    <desc lang="zh">主播王志郁带您catch大钱潮！一个小时快速吸收当天国际大事，财经、产业脉动，掌握趋势，拥抱财富。</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">全球新食力</title>
+    <desc lang="zh">三立iNEWS制播的美食资讯节目，带你全省走透透，吃遍台湾！</desc>
+  </programme>
+  <programme start="20260620010000 +0000" stop="20260620020000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">新闻深一度特别报导</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="寰宇财经台">
-    <title lang="zh">小食光台味志</title>
-    <desc lang="zh">暂无描述</desc>
+  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">台湾新思路</title>
+    <desc lang="zh">三立INEWS台的深度专题节目。制作团队打破外界对「财经」过于冷、硬、难的框架，透过人物故事向观众传达财经议题亦可以平易近人，与你我生活息息相关。透过时事话题、科技趋势、人文观察、产业动向，分析台湾与国际之间的脉动。</desc>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="寰宇财经台">
-    <title lang="zh">台湾职人志</title>
-    <desc lang="zh">暂无描述</desc>
+  <programme start="20260620030000 +0000" stop="20260620035500 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">iNEWS1100整点新闻</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
   </programme>
-  <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="寰宇财经台">
-    <title lang="zh">理财达人秀</title>
-    <desc lang="zh">全台湾最精采好懂的理财影片！保险、股市、房地产、基金、投资观念，最实用的知识一看就通！投资新手到专家的讨论园地。</desc>
+  <programme start="20260620035500 +0000" stop="20260620045500 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">iNEWS财经午报</title>
+    <desc lang="zh">三立iNEWS制播的财经新闻节目，每天午间由最专业的主播带来国际时事、财经股汇市报导、深度新闻、时事评论…等内容。</desc>
+  </programme>
+  <programme start="20260620045500 +0000" stop="20260620055500 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">吃货请跟上</title>
+    <desc lang="zh">节目前身为智富食代和旅行东西军，致力于搜罗全台湾值得用心体会的美食滋味与背后主人家的创业故事，每天填饱肚子的料理不再只是一盘盘的食物，透过画面和记者的笔触，更深刻的了解台湾的饮食文化与发展。</desc>
+  </programme>
+  <programme start="20260620055500 +0000" stop="20260620065500 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">好宅敲敲门</title>
+    <desc lang="zh">由廖婕妤主持，节目将深入分析房地产市场动态，提供区域房价、趋势报导，同时有房地产界人物专访，透过人物故事看房市更迭，并搭配每周精选、具吸引力之房地产新闻，以及主播开箱名人明星家，访谈买房心法、投资观点。</desc>
+  </programme>
+  <programme start="20260620065500 +0000" stop="20260620075500 +0000" channel="三立新闻iNEWS">
+    <title lang="zh">国际辩论社</title>
+    <desc lang="zh">三立继节目《消失的国界》后，再推出《国际辩论社》，主持人是海外留学经验丰富、拥有多国语言能力的新生代主播刘宸希担纲，接下主持棒的第一个访问，她就特别飞到澳洲，访问了昆士兰州的议员，还有驻雪梨代表处处长，讨论澳洲打工度假的热门议题。</desc>
   </programme>
   <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="寰宇财经台">
     <title lang="zh">财经透视线</title>
@@ -51953,21 +52833,101 @@
     <title lang="zh">小食光台味志</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="中视新闻">
-    <title lang="zh">中视2100整点新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
+  <programme start="20260619080000 +0000" stop="20260619090000 +0000" channel="寰宇财经台">
+    <title lang="zh">超自然实验室</title>
+    <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻全球报导6点抢先报</title>
-    <desc lang="zh">每晚由最专业的中视新闻主播，为全国观众提供最专业、最准确的即时新闻报导。</desc>
+  <programme start="20260619090000 +0000" stop="20260619100000 +0000" channel="寰宇财经台">
+    <title lang="zh">台湾职人志</title>
+    <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻全球报导</title>
-    <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
+  <programme start="20260619100000 +0000" stop="20260619110000 +0000" channel="寰宇财经台">
+    <title lang="zh">铜板美食呷透透</title>
+    <desc lang="zh">东森新闻制播的美食特辑，记者深入台湾各地，寻找令人回味无穷的美食记忆，介绍各种好吃又便宜的店家。</desc>
   </programme>
-  <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="中视新闻">
-    <title lang="zh">中视早安新闻</title>
-    <desc lang="zh">「中视早安新闻」每天早上以最客观的角度，最专业的主播，为观众报导充分且详实的新闻、气象和交通路况资讯。</desc>
+  <programme start="20260619110000 +0000" stop="20260619120000 +0000" channel="寰宇财经台">
+    <title lang="zh">股动钱潮</title>
+    <desc lang="zh">拥有财经专业播报资历主持人们共同为观众掌握产业变化及趋势、判断新方向。提供最即时的国际重点新闻、资本市场、两岸经贸、产业讯息，报导最新最热门的产业趋势，并加入各种专题报导。</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619130000 +0000" channel="寰宇财经台">
+    <title lang="zh">理财达人秀</title>
+    <desc lang="zh">全台湾最精采好懂的理财影片！保险、股市、房地产、基金、投资观念，最实用的知识一看就通！投资新手到专家的讨论园地。</desc>
+  </programme>
+  <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="寰宇财经台">
+    <title lang="zh">股动钱潮</title>
+    <desc lang="zh">拥有财经专业播报资历主持人们共同为观众掌握产业变化及趋势、判断新方向。提供最即时的国际重点新闻、资本市场、两岸经贸、产业讯息，报导最新最热门的产业趋势，并加入各种专题报导。</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="寰宇财经台">
+    <title lang="zh">宝杰点兵</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="寰宇财经台">
+    <title lang="zh">理财达人秀</title>
+    <desc lang="zh">全台湾最精采好懂的理财影片！保险、股市、房地产、基金、投资观念，最实用的知识一看就通！投资新手到专家的讨论园地。</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="寰宇财经台">
+    <title lang="zh">股动钱潮</title>
+    <desc lang="zh">拥有财经专业播报资历主持人们共同为观众掌握产业变化及趋势、判断新方向。提供最即时的国际重点新闻、资本市场、两岸经贸、产业讯息，报导最新最热门的产业趋势，并加入各种专题报导。</desc>
+  </programme>
+  <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="寰宇财经台">
+    <title lang="zh">超自然实验室</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619190000 +0000" channel="寰宇财经台">
+    <title lang="zh">寰宇追追追</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619200000 +0000" channel="寰宇财经台">
+    <title lang="zh">巷弄美食家</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="寰宇财经台">
+    <title lang="zh">小食光台味志</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619220000 +0000" channel="寰宇财经台">
+    <title lang="zh">超自然实验室</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="寰宇财经台">
+    <title lang="zh">巷弄美食家</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260620000000 +0000" channel="寰宇财经台">
+    <title lang="zh">理财达人秀</title>
+    <desc lang="zh">全台湾最精采好懂的理财影片！保险、股市、房地产、基金、投资观念，最实用的知识一看就通！投资新手到专家的讨论园地。</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="寰宇财经台">
+    <title lang="zh">小食光台味志</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620010000 +0000" stop="20260620020000 +0000" channel="寰宇财经台">
+    <title lang="zh">台湾大代志</title>
+    <desc lang="zh">时间播回1996年，当时爆发了两国论台海危机，李登辉总统抛出了两国论，大陆方面做出对台导弹试射进行威胁，不过李登辉总统说出了一句话：「他说不用怕啦！他们射出的都是哑巴弹空包弹，根本就是在作秀」大陆查到底是谁掀底牌的，分别是刘连昆、邵正宗，谁为他们牵线布下整个情报脉络的呢？</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="寰宇财经台">
+    <title lang="zh">进击的台湾</title>
+    <desc lang="zh">东森财经新闻台制播的优质新闻深度报导节目，要为观众介绍台湾这片土地上各种平凡人的不平凡人生，制作单位踏遍宝岛各个角落，为您诉说台湾在地的好故事！</desc>
+  </programme>
+  <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="寰宇财经台">
+    <title lang="zh">梦想进行式</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620040000 +0000" stop="20260620050000 +0000" channel="寰宇财经台">
+    <title lang="zh">巷弄美食家</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="寰宇财经台">
+    <title lang="zh">怪奇物语</title>
+    <desc lang="zh">东森新闻</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620070000 +0000" channel="寰宇财经台">
+    <title lang="zh">理财达人秀</title>
+    <desc lang="zh">全台湾最精采好懂的理财影片！保险、股市、房地产、基金、投资观念，最实用的知识一看就通！投资新手到专家的讨论园地。</desc>
+  </programme>
+  <programme start="20260620070000 +0000" stop="20260620080000 +0000" channel="寰宇财经台">
+    <title lang="zh">小食光台味志</title>
+    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="中视新闻">
     <title lang="zh">中视整点新闻</title>
@@ -52385,21 +53345,101 @@
     <title lang="zh">中视新闻即时现场</title>
     <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
   </programme>
-  <programme start="20260614190000 +0000" stop="20260614210000 +0000" channel="中天新闻台">
-    <title lang="zh">CTI TALK国际直球对决</title>
-    <desc lang="zh">精选国际新闻事件，从新闻报导、专题剖析到名家对谈，第一手现场直播，提供全面多元的角度，深受全球华人信赖！</desc>
+  <programme start="20260619080000 +0000" stop="20260619090000 +0000" channel="中视新闻">
+    <title lang="zh">新庶民大头家</title>
+    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="中天新闻台">
-    <title lang="zh">绿也掀桌</title>
-    <desc lang="zh">中天新闻制播政论节目，由主持人鲨鲨与美女主播李珮瑄，和政论名嘴共同探讨分析国内政治局势、分析政坛风向。</desc>
+  <programme start="20260619090000 +0000" stop="20260619100000 +0000" channel="中视新闻">
+    <title lang="zh">新庶民大头家</title>
+    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
   </programme>
-  <programme start="20260614220000 +0000" stop="20260614230000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 中天晨报</title>
-    <desc lang="zh">每天早晨时段，由早报主播与您一起读报，看遍天下事。</desc>
+  <programme start="20260619100000 +0000" stop="20260619105800 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻全球报导6点抢先报</title>
+    <desc lang="zh">每晚由最专业的中视新闻主播，为全国观众提供最专业、最准确的即时新闻报导。</desc>
   </programme>
-  <programme start="20260614230000 +0000" stop="20260615000000 +0000" channel="中天新闻台">
-    <title lang="zh">中天新闻 中天晨报</title>
-    <desc lang="zh">每天早晨时段，由早报主播与您一起读报，看遍天下事。</desc>
+  <programme start="20260619105800 +0000" stop="20260619120000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻全球报导</title>
+    <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619130000 +0000" channel="中视新闻">
+    <title lang="zh">新庶民大头家</title>
+    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
+  </programme>
+  <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="中视新闻">
+    <title lang="zh">新庶民大头家</title>
+    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻即时现场</title>
+    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻全球报导</title>
+    <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻即时现场</title>
+    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
+  </programme>
+  <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="中视新闻">
+    <title lang="zh">新庶民大头家</title>
+    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619190000 +0000" channel="中视新闻">
+    <title lang="zh">新庶民大头家</title>
+    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619200000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻全球报导</title>
+    <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻即时现场</title>
+    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619220000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻全球报导6点抢先报</title>
+    <desc lang="zh">每晚由最专业的中视新闻主播，为全国观众提供最专业、最准确的即时新闻报导。</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻全球报导</title>
+    <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260620000000 +0000" channel="中视新闻">
+    <title lang="zh">中视早安新闻</title>
+    <desc lang="zh">「中视早安新闻」每天早上以最客观的角度，最专业的主播，为观众报导充分且详实的新闻、气象和交通路况资讯。</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="中视新闻">
+    <title lang="zh">中视整点新闻</title>
+    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导当日发生之重大国内外重要新闻。</desc>
+  </programme>
+  <programme start="20260620010000 +0000" stop="20260620020000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻即时现场</title>
+    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="中视新闻">
+    <title lang="zh">60分钟</title>
+    <desc lang="zh">新闻杂志节目，深入探讨新闻时事与议题，将带给你全方位的报导。</desc>
+  </programme>
+  <programme start="20260620030000 +0000" stop="20260620035800 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻即时现场</title>
+    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
+  </programme>
+  <programme start="20260620035800 +0000" stop="20260620050000 +0000" channel="中视新闻">
+    <title lang="zh">中视午间新闻</title>
+    <desc lang="zh">「中视午间新闻」每天以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻，并提供最新股市收盘价格。</desc>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻即时现场</title>
+    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620070000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻即时现场</title>
+    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
+  </programme>
+  <programme start="20260620070000 +0000" stop="20260620080000 +0000" channel="中视新闻">
+    <title lang="zh">中视新闻即时现场</title>
+    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
   </programme>
   <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="中天新闻台">
     <title lang="zh">中天新闻 中天晨报</title>
@@ -52765,9 +53805,89 @@
     <title lang="zh">大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
   </programme>
-  <programme start="20260614195500 +0000" stop="20260614205500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
+  <programme start="20260619080000 +0000" stop="20260619090000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 1600整点新闻</title>
+    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
+  </programme>
+  <programme start="20260619090000 +0000" stop="20260619100000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 1700整点新闻</title>
+    <desc lang="zh">收看中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619110000 +0000" channel="中天新闻台">
+    <title lang="zh">中天辣晚报</title>
+    <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
+  </programme>
+  <programme start="20260619110000 +0000" stop="20260619120000 +0000" channel="中天新闻台">
+    <title lang="zh">中天辣晚报</title>
+    <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619140000 +0000" channel="中天新闻台">
+    <title lang="zh">头条开讲</title>
+    <desc lang="zh">中天新闻为服务广大观众，提供多元论述平台，发挥媒体第四权的社会责任，于周一至周五晚间八点，推出《头条开讲》谈话节目，由主播周玉琴及政治中心主任林嘉源共同主持，敬请支持中天的观众朋友准时锁定！</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="中天新闻台">
+    <title lang="zh">中天SUPER夜线</title>
+    <desc lang="zh">由中天新闻专业主播带来最新的晚间新闻特报。</desc>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="中天新闻台">
+    <title lang="zh">全球大视野</title>
+    <desc lang="zh">美中印太到两岸，全球新闻不漏接，邀请重量级专家，最权威报导！</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="中天新闻台">
+    <title lang="zh">中天辣晚报</title>
+    <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
+  </programme>
+  <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="中天新闻台">
+    <title lang="zh">中天辣晚报</title>
+    <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619200000 +0000" channel="中天新闻台">
+    <title lang="zh">头条开讲</title>
+    <desc lang="zh">中天新闻为服务广大观众，提供多元论述平台，发挥媒体第四权的社会责任，于周一至周五晚间八点，推出《头条开讲》谈话节目，由主播周玉琴及政治中心主任林嘉源共同主持，敬请支持中天的观众朋友准时锁定！</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="中天新闻台">
+    <title lang="zh">中天SUPER夜线</title>
+    <desc lang="zh">由中天新闻专业主播带来最新的晚间新闻特报。</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619220000 +0000" channel="中天新闻台">
+    <title lang="zh">全球大视野</title>
+    <desc lang="zh">美中印太到两岸，全球新闻不漏接，邀请重量级专家，最权威报导！</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 中天晨报</title>
+    <desc lang="zh">每天早晨时段，由早报主播与您一起读报，看遍天下事。</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260620000000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 中天晨报</title>
+    <desc lang="zh">每天早晨时段，由早报主播与您一起读报，看遍天下事。</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620010000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 中天晨报</title>
+    <desc lang="zh">每天早晨时段，由早报主播与您一起读报，看遍天下事。</desc>
+  </programme>
+  <programme start="20260620010000 +0000" stop="20260620020000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 0900整点新闻</title>
+    <desc lang="zh">每日上午九点，中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620030000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 1000整点新闻</title>
+    <desc lang="zh">每日上午十点，中天新闻带给你最即时、最完整、最专业的新闻报导。</desc>
+  </programme>
+  <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 1100整点新闻</title>
+    <desc lang="zh">每日上午十一点，中天新闻将带给你上午的最新消息报导，快速掌握午前新闻。</desc>
+  </programme>
+  <programme start="20260620040000 +0000" stop="20260620050000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 1200午间新闻</title>
+    <desc lang="zh">中天正午新闻带给您最新的国内外大事，掌握天下，以及最新疫情新闻消息、疫情指挥中心直播、今日确诊人数统计等重大新闻转播报导。</desc>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="中天新闻台">
+    <title lang="zh">中天新闻 1300午间新闻</title>
+    <desc lang="zh">中天午间新闻带给您最新的国内外大事，掌握天下。</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620080000 +0000" channel="中天新闻台">
+    <title lang="zh">周末大爆卦</title>
+    <desc lang="zh">中天主播为您带来最新、最即时的重点新闻、内幕爆卦，锁定《周末大爆挂》！</desc>
   </programme>
   <programme start="20260614205500 +0000" stop="20260614215500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇晚间新闻</title>
@@ -53197,10 +54317,6 @@
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
   </programme>
-  <programme start="20260614195500 +0000" stop="20260614205500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
   <programme start="20260614205500 +0000" stop="20260614215500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
@@ -53628,42 +54744,6 @@
   <programme start="20260619065500 +0000" stop="20260619075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260614200000 +0000" stop="20260614203000 +0000" channel="第1商业台">
-    <title lang="zh">旗开得胜-顾德投顾-张家豪分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260614203000 +0000" stop="20260614210000 +0000" channel="第1商业台">
-    <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260614210000 +0000" stop="20260614213000 +0000" channel="第1商业台">
-    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260614213000 +0000" stop="20260614220000 +0000" channel="第1商业台">
-    <title lang="zh">台股Lunchtime-亚洲投顾-王兆立分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260614220000 +0000" stop="20260614223000 +0000" channel="第1商业台">
-    <title lang="zh">期股冲冲冲-宝得富-翁士俊分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260614223000 +0000" stop="20260614230000 +0000" channel="第1商业台">
-    <title lang="zh">王博赚钱策略室-顾德投顾-王建文分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260614230000 +0000" stop="20260614233000 +0000" channel="第1商业台">
-    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260614233000 +0000" stop="20260615000000 +0000" channel="第1商业台">
-    <title lang="zh">股市全攻略-丰银投顾-龚鸿彬分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260615000000 +0000" stop="20260615003000 +0000" channel="第1商业台">
-    <title lang="zh">财经资讯</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260615003000 +0000" stop="20260615013000 +0000" channel="第1商业台">
     <title lang="zh">财经资讯</title>
@@ -54413,12 +55493,180 @@
     <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614170000 +0000" stop="20260614210000 +0000" channel="国会频道1台">
-    <title lang="zh">本周立法院会议转播</title>
+  <programme start="20260619080000 +0000" stop="20260619083000 +0000" channel="第1商业台">
+    <title lang="zh">股市全攻略-丰银投顾-龚鸿彬分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260615004700 +0000" channel="国会频道1台">
-    <title lang="zh">前日立法院会议转播</title>
+  <programme start="20260619083000 +0000" stop="20260619090000 +0000" channel="第1商业台">
+    <title lang="zh">汪海华_操盘的智慧</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619090000 +0000" stop="20260619093000 +0000" channel="第1商业台">
+    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619093000 +0000" stop="20260619100000 +0000" channel="第1商业台">
+    <title lang="zh">月薪翻倍计划-顾德投顾-黄紫东分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619103000 +0000" channel="第1商业台">
+    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="第1商业台">
+    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619110000 +0000" stop="20260619113000 +0000" channel="第1商业台">
+    <title lang="zh">旗开得胜-顾德投顾-张家豪分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619113000 +0000" stop="20260619120000 +0000" channel="第1商业台">
+    <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="第1商业台">
+    <title lang="zh">国家宝藏-启发投顾-林国宝分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="第1商业台">
+    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="第1商业台">
+    <title lang="zh">台股Lunchtime-亚洲投顾-王兆立分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619133000 +0000" stop="20260619140000 +0000" channel="第1商业台">
+    <title lang="zh">股市吴限钻-宝得富-吴晓松分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619143000 +0000" channel="第1商业台">
+    <title lang="zh">启发投顾精选</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="第1商业台">
+    <title lang="zh">王博赚钱策略室-顾德投顾-王建文分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619153000 +0000" channel="第1商业台">
+    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="第1商业台">
+    <title lang="zh">期股冲冲冲-宝得富-翁士俊分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="第1商业台">
+    <title lang="zh">股市吴限钻-宝得富-吴晓松分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619163000 +0000" stop="20260619170000 +0000" channel="第1商业台">
+    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619170000 +0000" stop="20260619173000 +0000" channel="第1商业台">
+    <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619173000 +0000" stop="20260619180000 +0000" channel="第1商业台">
+    <title lang="zh">股市吴限钻-宝得富-吴晓松分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619183000 +0000" channel="第1商业台">
+    <title lang="zh">股市第一线-顾德投顾-李冠嵚分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619183000 +0000" stop="20260619190000 +0000" channel="第1商业台">
+    <title lang="zh">月薪翻倍计划-顾德投顾-黄紫东分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="第1商业台">
+    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="第1商业台">
+    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="第1商业台">
+    <title lang="zh">旗开得胜-顾德投顾-张家豪分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="第1商业台">
+    <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="第1商业台">
+    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="第1商业台">
+    <title lang="zh">台股Lunchtime-亚洲投顾-王兆立分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="第1商业台">
+    <title lang="zh">期股冲冲冲-宝得富-翁士俊分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="第1商业台">
+    <title lang="zh">王博赚钱策略室-顾德投顾-王建文分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="第1商业台">
+    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="第1商业台">
+    <title lang="zh">股市全攻略-丰银投顾-龚鸿彬分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620000000 +0000" stop="20260620003000 +0000" channel="第1商业台">
+    <title lang="zh">财经资讯</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620003000 +0000" stop="20260620013000 +0000" channel="第1商业台">
+    <title lang="zh">财经资讯</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="第1商业台">
+    <title lang="zh">财经资讯</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="第1商业台">
+    <title lang="zh">财经资讯</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620023000 +0000" stop="20260620030000 +0000" channel="第1商业台">
+    <title lang="zh">财经资讯</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620030000 +0000" stop="20260620040000 +0000" channel="第1商业台">
+    <title lang="zh">财经资讯</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620040000 +0000" stop="20260620050000 +0000" channel="第1商业台">
+    <title lang="zh">财经资讯</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620050000 +0000" stop="20260620060000 +0000" channel="第1商业台">
+    <title lang="zh">财经资讯</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620060000 +0000" stop="20260620063000 +0000" channel="第1商业台">
+    <title lang="zh">股市吴限钻-宝得富-吴晓松分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="第1商业台">
+    <title lang="zh">启发投顾精选</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="第1商业台">
+    <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="第1商业台">
+    <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260615004700 +0000" stop="20260615010000 +0000" channel="国会频道1台">
@@ -54509,12 +55757,24 @@
     <title lang="zh">周五会议预报</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614170000 +0000" stop="20260614210000 +0000" channel="国会频道2台">
+  <programme start="20260619010000 +0000" stop="20260619100000 +0000" channel="国会频道1台">
+    <title lang="zh">立法院会议直播</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619160000 +0000" channel="国会频道1台">
+    <title lang="zh">当日立法院会议转播</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619210000 +0000" channel="国会频道1台">
+    <title lang="zh">前日立法院会议转播</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260620010000 +0000" channel="国会频道1台">
     <title lang="zh">本周立法院会议转播</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260614210000 +0000" stop="20260615004700 +0000" channel="国会频道2台">
-    <title lang="zh">前日立法院会议转播</title>
+  <programme start="20260620010000 +0000" stop="20260620050000 +0000" channel="国会频道1台">
+    <title lang="zh">本周立法院会议转播</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260615004700 +0000" stop="20260615010000 +0000" channel="国会频道2台">
@@ -54599,6 +55859,26 @@
   </programme>
   <programme start="20260619004700 +0000" stop="20260619010000 +0000" channel="国会频道2台">
     <title lang="zh">周五会议预报</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619010000 +0000" stop="20260619100000 +0000" channel="国会频道2台">
+    <title lang="zh">立法院会议直播</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619160000 +0000" channel="国会频道2台">
+    <title lang="zh">当日立法院会议转播</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619210000 +0000" channel="国会频道2台">
+    <title lang="zh">前日立法院会议转播</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260620010000 +0000" channel="国会频道2台">
+    <title lang="zh">本周立法院会议转播</title>
+    <desc lang="zh">暂无描述</desc>
+  </programme>
+  <programme start="20260620010000 +0000" stop="20260620050000 +0000" channel="国会频道2台">
+    <title lang="zh">本周立法院会议转播</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260614000000 +0000" stop="20260614002500 +0000" channel="空中英语教室HD频道">
@@ -59334,166 +60614,6 @@
     <title lang="zh">王俐人聊口技 认：我是懒女人！帮网友鉴鸟狂赞「很直很漂亮」</title>
     <desc lang="zh">王俐人聊口技 认：我是懒女人！帮网友鉴鸟狂赞「很直很漂亮」</desc>
   </programme>
-  <programme start="20260614000000 +0000" stop="20260614010000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">天下长河</title>
-    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
-  </programme>
-  <programme start="20260614010000 +0000" stop="20260614020000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">天下长河</title>
-    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
-  </programme>
-  <programme start="20260614020000 +0000" stop="20260614030000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">楚乔传</title>
-    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
-  </programme>
-  <programme start="20260614030000 +0000" stop="20260614040000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">楚乔传</title>
-    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
-  </programme>
-  <programme start="20260614040000 +0000" stop="20260614042000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614042000 +0000" stop="20260614044000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614044000 +0000" stop="20260614050000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614050000 +0000" stop="20260614052000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614052000 +0000" stop="20260614054000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614054000 +0000" stop="20260614060000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614060000 +0000" stop="20260614070000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">天下长河</title>
-    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
-  </programme>
-  <programme start="20260614070000 +0000" stop="20260614080000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">天下长河</title>
-    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
-  </programme>
-  <programme start="20260614080000 +0000" stop="20260614090000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">楚乔传</title>
-    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
-  </programme>
-  <programme start="20260614090000 +0000" stop="20260614100000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">楚乔传</title>
-    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
-  </programme>
-  <programme start="20260614100000 +0000" stop="20260614102000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614102000 +0000" stop="20260614104000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614104000 +0000" stop="20260614110000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614110000 +0000" stop="20260614112000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614112000 +0000" stop="20260614114000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614114000 +0000" stop="20260614120000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614120000 +0000" stop="20260614130000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">天下长河</title>
-    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
-  </programme>
-  <programme start="20260614130000 +0000" stop="20260614140000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">天下长河</title>
-    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
-  </programme>
-  <programme start="20260614140000 +0000" stop="20260614150000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">楚乔传</title>
-    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
-  </programme>
-  <programme start="20260614150000 +0000" stop="20260614160000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">楚乔传</title>
-    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
-  </programme>
-  <programme start="20260614160000 +0000" stop="20260614162000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614162000 +0000" stop="20260614164000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614164000 +0000" stop="20260614170000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614170000 +0000" stop="20260614172000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614172000 +0000" stop="20260614174000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614174000 +0000" stop="20260614180000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614180000 +0000" stop="20260614190000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">天下长河</title>
-    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
-  </programme>
-  <programme start="20260614190000 +0000" stop="20260614200000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">天下长河</title>
-    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
-  </programme>
-  <programme start="20260614200000 +0000" stop="20260614210000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">楚乔传</title>
-    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
-  </programme>
-  <programme start="20260614210000 +0000" stop="20260614220000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">楚乔传</title>
-    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
-  </programme>
-  <programme start="20260614220000 +0000" stop="20260614222000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614222000 +0000" stop="20260614224000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614224000 +0000" stop="20260614230000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614230000 +0000" stop="20260614232000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614232000 +0000" stop="20260614234000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
-  <programme start="20260614234000 +0000" stop="20260615000000 +0000" channel="Focus风采戏剧台">
-    <title lang="zh">芳华里</title>
-    <desc lang="zh">陆家孙女陆心念为守护家族嫁入王府，却目睹青梅竹马陆十七奉旨屠戮陆家满门，劫后余生的她被迫踏上复仇之路，在追寻真相过程中逐渐揭开与陆十七纠葛半生的爱恨情仇。</desc>
-  </programme>
   <programme start="20260615000000 +0000" stop="20260615010000 +0000" channel="Focus风采戏剧台">
     <title lang="zh">天下长河</title>
     <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
@@ -60133,6 +61253,166 @@
   <programme start="20260618234000 +0000" stop="20260619000000 +0000" channel="Focus风采戏剧台">
     <title lang="zh">夺天阙</title>
     <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619000000 +0000" stop="20260619010000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">天下长河</title>
+    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
+  </programme>
+  <programme start="20260619010000 +0000" stop="20260619020000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">天下长河</title>
+    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
+  </programme>
+  <programme start="20260619020000 +0000" stop="20260619030000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">楚乔传</title>
+    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
+  </programme>
+  <programme start="20260619030000 +0000" stop="20260619040000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">楚乔传</title>
+    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
+  </programme>
+  <programme start="20260619040000 +0000" stop="20260619042000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619042000 +0000" stop="20260619044000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619044000 +0000" stop="20260619050000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619050000 +0000" stop="20260619052000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619052000 +0000" stop="20260619054000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619054000 +0000" stop="20260619060000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619060000 +0000" stop="20260619070000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">天下长河</title>
+    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
+  </programme>
+  <programme start="20260619070000 +0000" stop="20260619080000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">天下长河</title>
+    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
+  </programme>
+  <programme start="20260619080000 +0000" stop="20260619090000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">楚乔传</title>
+    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
+  </programme>
+  <programme start="20260619090000 +0000" stop="20260619100000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">楚乔传</title>
+    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619102000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619102000 +0000" stop="20260619104000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619104000 +0000" stop="20260619110000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619110000 +0000" stop="20260619112000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619112000 +0000" stop="20260619114000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619114000 +0000" stop="20260619120000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619130000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">天下长河</title>
+    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
+  </programme>
+  <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">天下长河</title>
+    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">楚乔传</title>
+    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">楚乔传</title>
+    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619162000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619162000 +0000" stop="20260619164000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619164000 +0000" stop="20260619170000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619170000 +0000" stop="20260619172000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619172000 +0000" stop="20260619174000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619174000 +0000" stop="20260619180000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619190000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">天下长河</title>
+    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619200000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">天下长河</title>
+    <desc lang="zh">康熙十五年一场巨大的水患之后，康熙帝招纳治河贤才，二十四岁的落第举子陈潢脱颖而出，与同样有志于治河的靳辅搭档。在历经半个世纪的栉风沐雨和朝政风波后，君臣逐渐平定河患，留下了让后世为之称道的丰功伟绩的真实历史故事。康熙五十一年，台湾收复，准噶尔平定，黄河安澜，河水转清。</desc>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">楚乔传</title>
+    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619220000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">楚乔传</title>
+    <desc lang="zh">西魏年间乱世混战，奴籍少女楚乔幸得燕北世子燕洵与宇文玥暗中相救，并经过宇文玥严厉训练后成为谍者。同时与燕洵结下深厚友谊。但燕洵在家族满门被灭后，回到燕北割据称雄，楚乔在绝望中与他分道扬镳。与力求「天下一统、释奴止戈」的宇文玥并肩作战，粉碎燕洵的复仇计划，成为心怀苍生的巾帼将军。</desc>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619222000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619222000 +0000" stop="20260619224000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">夺天阙</title>
+    <desc lang="zh">小女修龙丘承颜与令三界修仙者都闻风丧胆的上古魔兽——尘之间超萌好嗑的爱情故事。承颜偶遇显出猫型真身的上古魔兽，却误以为他不过是招摇撞骗的魔族小猫，将世间罕见的纯阴灵气渡给他续命。万万没想到，这一吻竟然让二人结下了不可断绝的契约。</desc>
+  </programme>
+  <programme start="20260619224000 +0000" stop="20260619230000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">公主变形记</title>
+    <desc lang="zh">本是富庶肥沃、制衣文化闻名遐迩的青城县，随着青壮年逐渐外出务工，只留下老人和孩子独守家园，高超的制衣技巧便因此逐渐失传。公主盛桃桃天生爱美，来到青城县后决心发扬制衣手艺。在盛桃桃的运作后，朝廷颁布了养老令，重振了青城的商贸事业，吸引了很多年轻人回来工作，令青城再创繁荣。</desc>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260619232000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">公主变形记</title>
+    <desc lang="zh">本是富庶肥沃、制衣文化闻名遐迩的青城县，随着青壮年逐渐外出务工，只留下老人和孩子独守家园，高超的制衣技巧便因此逐渐失传。公主盛桃桃天生爱美，来到青城县后决心发扬制衣手艺。在盛桃桃的运作后，朝廷颁布了养老令，重振了青城的商贸事业，吸引了很多年轻人回来工作，令青城再创繁荣。</desc>
+  </programme>
+  <programme start="20260619232000 +0000" stop="20260619234000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">公主变形记</title>
+    <desc lang="zh">本是富庶肥沃、制衣文化闻名遐迩的青城县，随着青壮年逐渐外出务工，只留下老人和孩子独守家园，高超的制衣技巧便因此逐渐失传。公主盛桃桃天生爱美，来到青城县后决心发扬制衣手艺。在盛桃桃的运作后，朝廷颁布了养老令，重振了青城的商贸事业，吸引了很多年轻人回来工作，令青城再创繁荣。</desc>
+  </programme>
+  <programme start="20260619234000 +0000" stop="20260620000000 +0000" channel="Focus风采戏剧台">
+    <title lang="zh">公主变形记</title>
+    <desc lang="zh">本是富庶肥沃、制衣文化闻名遐迩的青城县，随着青壮年逐渐外出务工，只留下老人和孩子独守家园，高超的制衣技巧便因此逐渐失传。公主盛桃桃天生爱美，来到青城县后决心发扬制衣手艺。在盛桃桃的运作后，朝廷颁布了养老令，重振了青城的商贸事业，吸引了很多年轻人回来工作，令青城再创繁荣。</desc>
   </programme>
   <programme start="20260614000000 +0000" stop="20260614010000 +0000" channel="掏掏新闻">
     <title lang="zh">大大平评理</title>

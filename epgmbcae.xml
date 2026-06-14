@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260615140000 +0800" stop="20260615160000 +0800" channel="mbc max">
-    <title lang="en">The Man with the Iron Fists</title>
-    <desc lang="en">Set in feudal China, where a hunt for a treasure of goldtakes place between a group of murderers ,warriors and a British soldier in a remote village,where a simple blacksmith tries to defend himself and his fellow residents.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
   <programme start="20260615160000 +0800" stop="20260615180000 +0800" channel="mbc max">
     <title lang="en">The Legend of Tarzan</title>
     <desc lang="en">Tarzan is living in London, after many years from bringinghim from the jungle, in which he has long settled and grew up. Tarzan returns back to the forest as a delegate for trade in the Congo, where he investigates the activities in a mining camp , without knowing that he is just bait by other people.</desc>
@@ -222,11 +216,11 @@
     <category lang="en">Movie
                (1999)</category>
   </programme>
-  <programme start="20260615150000 +0800" stop="20260615170000 +0800" channel="mbc 2">
-    <title lang="en">Our Brand Is Crisis</title>
-    <desc lang="en">An American political consultant, Jane Bodine, is hired by aBolivian presidential candidate to ensure his success in the 2002 Bolivian presidential election. But his opponent also has an American political consultant who just happens to be Jane's nemesis.</desc>
+  <programme start="20260618030000 +0800" stop="20260618043000 +0800" channel="mbc max">
+    <title lang="en">The Angry Birds Movie</title>
+    <desc lang="en">Red, Chuck and Bomb are the grumpy outcasts living in anisland populated by happy birds. When mysterious green piggies visit their island, it's up to them to save their community.</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (2016)</category>
   </programme>
   <programme start="20260615170000 +0800" stop="20260615193500 +0800" channel="mbc 2">
     <title lang="en">The Wolf of Wall Street</title>
@@ -431,5 +425,17 @@
     <desc lang="en">After he survives an assassination attempt in Sweden, thecontract killer Jack flees to Rome where he is hired to build a custom sniper rifle for a client, as he vows that this will be his last job.</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260618013000 +0800" stop="20260618030000 +0800" channel="mbc 2">
+    <title lang="en">Shrek 2</title>
+    <desc lang="en">Princess Fiona has been turned into an ogre and she andShrek are married. They head out to meet Fiona's parents, the King and Queen, after a long time away. When they see their daughter, they're shocked, and even though her mother accepts the new situation, her father decides to ask the Fairy Godmother help him get his daughter back.</desc>
+    <category lang="en">Movie - Cartoon
+               (2004)</category>
+  </programme>
+  <programme start="20260618030000 +0800" stop="20260618050000 +0800" channel="mbc 2">
+    <title lang="en">Fool's Gold</title>
+    <desc lang="en">Finn and his ex-wife Tess embark on a treasure hunt thatrekindles the flames of their love.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
