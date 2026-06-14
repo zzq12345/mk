@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260614073000 +0800" stop="20260614100000 +0800" channel="mbc max">
-    <title lang="en">First Man</title>
-    <desc lang="en">A look at the life of Neil Armstrong, the legendaryastronaut who was the first man to walk on the Moon on July 20, 1969.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260614100000 +0800" stop="20260614120000 +0800" channel="mbc max">
     <title lang="en">Jiu Jitsu</title>
     <desc lang="en">When a celebrated war hero is defeated by the leader of avicious race of alien invaders that attack Earth every six years, an ancient order of jiu-jitsu fighters must find a way to save mankind from destruction.</desc>
@@ -216,11 +210,11 @@
     <category lang="en">Movie
                (2021)</category>
   </programme>
-  <programme start="20260614080000 +0800" stop="20260614103000 +0800" channel="mbc 2">
-    <title lang="en">Central Intelligence</title>
-    <desc lang="en">Accountant Calvin Joyner and Bob Stone ,are old schoolmateswho reconnect through Facebook.  But Calvin suddenly finds himself lured into the world of espionage and collecting information with its various dangers.</desc>
+  <programme start="20260616200000 +0800" stop="20260616213000 +0800" channel="mbc max">
+    <title lang="en">Going the Distance</title>
+    <desc lang="en">While in New York for an internship, Erin crosses paths withGarrett, with whom she decides to have a short, casual romance during her stay. But as they start to develop feelings for one another, they try to have a long-distance relationship, which proves to be difficult.</desc>
     <category lang="en">Movie
-               (2016)</category>
+               (2010)</category>
   </programme>
   <programme start="20260614103000 +0800" stop="20260614130000 +0800" channel="mbc 2">
     <title lang="en">Erin Brockovich</title>
@@ -425,5 +419,11 @@
     <desc lang="en">Finn and his ex-wife Tess embark on a treasure hunt thatrekindles the flames of their love.</desc>
     <category lang="en">Movie
                (2008)</category>
+  </programme>
+  <programme start="20260616190000 +0800" stop="20260616210000 +0800" channel="mbc 2">
+    <title lang="en">How Do You Know</title>
+    <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
