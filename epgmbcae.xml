@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260614053000 +0800" stop="20260614073000 +0800" channel="mbc max">
-    <title lang="en">Gravity</title>
-    <desc lang="en">A brilliant medical engineer (Sandra Bullock) is on herfirst shuttle mission with veteran astronaut (George Clooney) when disaster strikes, leaving both of them drifting alone in the terrifying expanse of outer space.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260614073000 +0800" stop="20260614100000 +0800" channel="mbc max">
     <title lang="en">First Man</title>
     <desc lang="en">A look at the life of Neil Armstrong, the legendaryastronaut who was the first man to walk on the Moon on July 20, 1969.</desc>
@@ -216,11 +210,11 @@
     <category lang="en">Movie
                (2017)</category>
   </programme>
-  <programme start="20260614060000 +0800" stop="20260614080000 +0800" channel="mbc 2">
-    <title lang="en">Room</title>
-    <desc lang="en">24-year-old Joy and her young son Jack successfully escapetheir captivity after years of being held captive by a kidnapper in a remote hut.</desc>
+  <programme start="20260616180000 +0800" stop="20260616200000 +0800" channel="mbc max">
+    <title lang="en">Hitman's Wife's Bodyguard</title>
+    <desc lang="en">Bodyguard Michael Bryce finds himself embroiled in a newdangerous mission, as he teams up with hitman Darius Kincaid and his wife Sonia  in order to thwart a cyberattack in Europe.</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (2021)</category>
   </programme>
   <programme start="20260614080000 +0800" stop="20260614103000 +0800" channel="mbc 2">
     <title lang="en">Central Intelligence</title>
@@ -425,5 +419,11 @@
     <desc lang="en">George Dryer, a charming former Scottish football star, isdown on his luck and unable to find a sports-related job to pay his bills. He has a minimal connection with his son, Lewis, but as his ex-wife, Stacie, decides to remarry, he gets despondent and decides to pull his life together for his son and to win her back. To do this, he must rise above temptations, bribery and wrong career choices.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260616170000 +0800" stop="20260616190000 +0800" channel="mbc 2">
+    <title lang="en">Fool's Gold</title>
+    <desc lang="en">Finn and his ex-wife Tess embark on a treasure hunt thatrekindles the flames of their love.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
