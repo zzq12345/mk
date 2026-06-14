@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260615160000 +0800" stop="20260615180000 +0800" channel="mbc max">
-    <title lang="en">The Legend of Tarzan</title>
-    <desc lang="en">Tarzan is living in London, after many years from bringinghim from the jungle, in which he has long settled and grew up. Tarzan returns back to the forest as a delegate for trade in the Congo, where he investigates the activities in a mining camp , without knowing that he is just bait by other people.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20260615180000 +0800" stop="20260615193000 +0800" channel="mbc max">
-    <title lang="en">Gretel and Hansel</title>
-    <desc lang="en">Desperate to find work to support themselves, siblingsHansel and Gretel stumble upon a remote house in the woods whose owner offers them food and work, only for them to come to realize the terrifying secret that she is hiding.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
   <programme start="20260615193000 +0800" stop="20260615215500 +0800" channel="mbc max">
     <title lang="en">First Man</title>
     <desc lang="en">A look at the life of Neil Armstrong, the legendaryastronaut who was the first man to walk on the Moon on July 20, 1969.</desc>
@@ -222,11 +210,17 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260615170000 +0800" stop="20260615193500 +0800" channel="mbc 2">
-    <title lang="en">The Wolf of Wall Street</title>
-    <desc lang="en">Based on his own book, this is the true story of JordanBelfort. A stock-broker who had it all after his rise to the high life of a millionaire and lost it all after his fall involving crime and the federal government.</desc>
+  <programme start="20260618043000 +0800" stop="20260618050000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260618050000 +0800" stop="20260618070000 +0800" channel="mbc max">
+    <title lang="en">Ocean's Eleven</title>
+    <desc lang="en">When Danny Ocean reunites with his World War II comrades,they devise a daring plan to simultaneously rob five Las Vegas casinos. As the gang executes the heist, they run into unexpected trouble that could jeopardize the entire operation.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (1960)</category>
   </programme>
   <programme start="20260615193500 +0800" stop="20260615213000 +0800" channel="mbc 2">
     <title lang="en">Halloween Ends</title>
@@ -437,5 +431,11 @@
     <desc lang="en">Finn and his ex-wife Tess embark on a treasure hunt thatrekindles the flames of their love.</desc>
     <category lang="en">Movie
                (2008)</category>
+  </programme>
+  <programme start="20260618050000 +0800" stop="20260618065000 +0800" channel="mbc 2">
+    <title lang="en">Playing for Keeps</title>
+    <desc lang="en">George Dryer, a charming former Scottish football star, isdown on his luck and unable to find a sports-related job to pay his bills. He has a minimal connection with his son, Lewis, but as his ex-wife, Stacie, decides to remarry, he gets despondent and decides to pull his life together for his son and to win her back. To do this, he must rise above temptations, bribery and wrong career choices.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>
