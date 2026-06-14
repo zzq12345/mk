@@ -3,21 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20260614113000 +0800" stop="20260614123000 +0800" channel="mbc action">
-    <title lang="en">برنامج cars &amp; stars </title>
-  </programme>
-  <programme start="20260614123000 +0800" stop="20260614130000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-    <desc lang="en">Three talented children in a secluded orphanage discover the evil purpose behind their upbringing, so they plan to escape and lead the other children in this dangerous scheme. | Type: Series (2019)</desc>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Sumire Morohoshi</actor>
-      <actor>Mariya Ise</actor>
-      <actor>Yoshino Aoyama</actor>
-      <actor>Mari Hino</actor>
-    </credits>
-    <date>2019</date>
-  </programme>
   <programme start="20260614130000 +0800" stop="20260614140000 +0800" channel="mbc action">
     <title lang="en">برنامج Celebrity Car Wars</title>
   </programme>
@@ -344,5 +329,20 @@
   </programme>
   <programme start="20260617210000 +0800" stop="20260617220000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
+  </programme>
+  <programme start="20260617220000 +0800" stop="20260617230000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
+  </programme>
+  <programme start="20260617230000 +0800" stop="20260617233000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+    <desc lang="en">Three talented children in a secluded orphanage discover the evil purpose behind their upbringing, so they plan to escape and lead the other children in this dangerous scheme. | Type: Series (2019)</desc>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Sumire Morohoshi</actor>
+      <actor>Mariya Ise</actor>
+      <actor>Yoshino Aoyama</actor>
+      <actor>Mari Hino</actor>
+    </credits>
+    <date>2019</date>
   </programme>
 </tv>
