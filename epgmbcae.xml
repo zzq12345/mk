@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260616140000 +0800" stop="20260616153000 +0800" channel="mbc max">
-    <title lang="en">Going the Distance</title>
-    <desc lang="en">While in New York for an internship, Erin crosses paths withGarrett, with whom she decides to have a short, casual romance during her stay. But as they start to develop feelings for one another, they try to have a long-distance relationship, which proves to be difficult.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260616160000 +0800" stop="20260616180000 +0800" channel="mbc max">
     <title lang="en">The Big Sick</title>
     <desc lang="en">After performing one of his stand-up shows,Pakistani-borncomedian Kumail Nanjiani meets grad student Emily Gardner.  Their relationship develops into true love but they have to face many challenges.</desc>
@@ -210,17 +204,23 @@
     <category lang="en">Movie
                (2017)</category>
   </programme>
-  <programme start="20260616150500 +0800" stop="20260616164000 +0800" channel="mbc 2">
-    <title lang="en">Puss in Boots</title>
-    <desc lang="en">In an attempt to steal the goose that lays golden eggs, thefamous warrior, lover, and outlaw Cat-in-Boots begins his adventure alongside the tough and street-smart Kitty Softpaws and the mastermind Humpty Dumpty.</desc>
-    <category lang="en">Movie - Cartoon
-               (2011)</category>
-  </programme>
-  <programme start="20260616164000 +0800" stop="20260616170000 +0800" channel="mbc 2">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
+  <programme start="20260619010000 +0800" stop="20260619013000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
     <category lang="en">Program
-               (2012)</category>
+               (1998)</category>
+  </programme>
+  <programme start="20260619013000 +0800" stop="20260619030000 +0800" channel="mbc max">
+    <title lang="en">Mr. Deeds</title>
+    <desc lang="en">A sudden inheritance leaves a simple man swimming inmillions, which turns his life upside down as greedy associates and tabloids all vie to get something out of him, whether it's money or a juicy story.</desc>
+    <category lang="en">Movie
+               (2002)</category>
+  </programme>
+  <programme start="20260619030000 +0800" stop="20260619050000 +0800" channel="mbc max">
+    <title lang="en">Blackhat</title>
+    <desc lang="en">After a case of high-level computer hacking arises, a man isreleased from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The cat-and-mouse chase leads them from the U.S.A to Hong Kong.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
   <programme start="20260616170000 +0800" stop="20260616184000 +0800" channel="mbc 2">
     <title lang="en">Puss in Boots: The Last Wish</title>
@@ -419,5 +419,17 @@
     <desc lang="en">In the 1970s, the film revolves around the life oftelevision reporter Christine Chubbuck, who suffered from depression while trying to advance in her career..</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260619010500 +0800" stop="20260619030000 +0800" channel="mbc 2">
+    <title lang="en">Life as We Know It</title>
+    <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
+    <category lang="en">Movie
+               (2010)</category>
+  </programme>
+  <programme start="20260619030000 +0800" stop="20260619050000 +0800" channel="mbc 2">
+    <title lang="en">Blended</title>
+    <desc lang="en">After their blind date goes horribly bad, Jim and Laurendecide they should never see each other again, until they get stuck with their respective kids at a family resort.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
