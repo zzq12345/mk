@@ -5497,11 +5497,11 @@
   <title lang="zh">Per Sollum Pillai</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260615180000 +0800" stop="20260615183000 +0800" channel="SUN_TV_HD">
+<programme start="20260615180000 +0800" stop="20260615183300 +0800" channel="SUN_TV_HD">
   <title lang="zh">News</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260615183000 +0800" stop="20260615190000 +0800" channel="SUN_TV_HD">
+<programme start="20260615183300 +0800" stop="20260615190000 +0800" channel="SUN_TV_HD">
   <title lang="zh">Chellame Chellame Ep150</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -15302,7 +15302,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260615203000 +0800" stop="20260615210000 +0800" channel="Bernama_TV">
-  <title lang="zh">(L) Darah Muda</title>
+  <title lang="zh">Darah Muda</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260615210000 +0800" stop="20260615220000 +0800" channel="Bernama_TV">
@@ -15381,12 +15381,16 @@
   <title lang="zh">Radio@TV</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616090000 +0800" stop="20260616100000 +0800" channel="Bernama_TV">
+<programme start="20260616090000 +0800" stop="20260616101500 +0800" channel="Bernama_TV">
   <title lang="zh">(L) Apa Khabar Malaysia</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616100000 +0800" stop="20260616110000 +0800" channel="Bernama_TV">
-  <title lang="zh">Ruang Bicara</title>
+<programme start="20260616101500 +0800" stop="20260616103000 +0800" channel="Bernama_TV">
+  <title lang="zh">Apa Kata Tetamu</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260616103000 +0800" stop="20260616110000 +0800" channel="Bernama_TV">
+  <title lang="zh">Sukan+ Close up</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616110000 +0800" stop="20260616113000 +0800" channel="Bernama_TV">
@@ -16682,7 +16686,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260615223200 +0800" stop="20260615230200 +0800" channel="Al_Jazeera_English_HD">
-  <title lang="zh">Talk to Al Jazeera</title>
+  <title lang="zh">Fault Lines : Stephen Miller&apos;s War</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616000200 +0800" stop="20260616003200 +0800" channel="Al_Jazeera_English_HD">
@@ -16802,7 +16806,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616173200 +0800" stop="20260616180200 +0800" channel="Al_Jazeera_English_HD">
-  <title lang="zh">Talk to Al Jazeera</title>
+  <title lang="zh">Fault Lines : Stephen Miller&apos;s War</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616180200 +0800" stop="20260616190200 +0800" channel="Al_Jazeera_English_HD">
@@ -26841,12 +26845,8 @@
   <title lang="zh">(L) VNL Men&apos;s: Week 1: USA vs ITA</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260615082000 +0800" stop="20260615131000 +0800" channel="Astro_Grandstand">
+<programme start="20260615082000 +0800" stop="20260615133000 +0800" channel="Astro_Grandstand">
   <title lang="zh">(L) UFC Freedom 250: Topuria vs Gaethje</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260615131000 +0800" stop="20260615133000 +0800" channel="Astro_Grandstand">
-  <title lang="zh">W2RC: Desafío Ruta 40 YPF Final Program Hls</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260615133000 +0800" stop="20260615140000 +0800" channel="Astro_Grandstand">
@@ -27433,12 +27433,8 @@
   <title lang="zh">UFC Countdown: UFC Freedom 250</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260615080000 +0800" stop="20260615131000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260615080000 +0800" stop="20260615133000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">(L) UFC Freedom 250: Topuria vs Gaethje</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260615131000 +0800" stop="20260615133000 +0800" channel="Astro_Sports_Plus">
-  <title lang="zh">MLMC 2026: Rd 2: Castellet</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260615133000 +0800" stop="20260615140000 +0800" channel="Astro_Sports_Plus">
@@ -27463,10 +27459,6 @@
 </programme>
 <programme start="20260615202000 +0800" stop="20260615225000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">(D) VNL Men&apos;s: Week 1: SLO vs JPN</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260616033000 +0800" stop="20260616040000 +0800" channel="Astro_Sports_Plus">
-  <title lang="zh">UIM F1H2O GP: Regiome Sardegna HL</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616040000 +0800" stop="20260616050000 +0800" channel="Astro_Sports_Plus">
@@ -27661,7 +27653,11 @@
   <title lang="zh">LFCTV Classic : Liverpool Vs Man United PL 2022/23</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616001500 +0800" stop="20260616022000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260616002000 +0800" stop="20260616003000 +0800" channel="beIN_SPORTS_1">
+  <title lang="zh">LaLiga Goals Galore 2024/25</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260616003000 +0800" stop="20260616022000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">LaLiga : Real Oviedo Vs Real Madrid</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -27701,12 +27697,16 @@
   <title lang="zh">LFCTV Specials 2025/26</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616110500 +0800" stop="20260616123000 +0800" channel="beIN_SPORTS_1">
+<programme start="20260616110500 +0800" stop="20260616121500 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">LFCTV Classic : Liverpool Vs Man United PL 2022/23</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616123000 +0800" stop="20260616130500 +0800" channel="beIN_SPORTS_1">
+<programme start="20260616121500 +0800" stop="20260616125000 +0800" channel="beIN_SPORTS_1">
   <title lang="zh">LFC Trending 2025/26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260616125000 +0800" stop="20260616130500 +0800" channel="beIN_SPORTS_1">
+  <title lang="zh">LaLiga Specials 2025/26</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616130500 +0800" stop="20260616145500 +0800" channel="beIN_SPORTS_1">
