@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260616160000 +0800" stop="20260616180000 +0800" channel="mbc max">
-    <title lang="en">The Big Sick</title>
-    <desc lang="en">After performing one of his stand-up shows,Pakistani-borncomedian Kumail Nanjiani meets grad student Emily Gardner.  Their relationship develops into true love but they have to face many challenges.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
-  <programme start="20260616180000 +0800" stop="20260616183000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
-  <programme start="20260616183000 +0800" stop="20260616203000 +0800" channel="mbc max">
-    <title lang="en">The Intern</title>
-    <desc lang="en">Hoping to turn his life around, the 70-year-old BenWhittaker realizes that retirement should never be a phase of waiting for death. As he takes a job as an intern in a fashion house, he strikes an unlikely friendship with Jules, becoming her assistant, a fatherly figure, and a trustworthy friend.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260616203000 +0800" stop="20260616210000 +0800" channel="mbc max">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
@@ -222,11 +204,17 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260616170000 +0800" stop="20260616184000 +0800" channel="mbc 2">
-    <title lang="en">Puss in Boots: The Last Wish</title>
-    <desc lang="en">After consuming eight of his nine lives, the adventurousPuss in Boots embarks on a wild mission to locate the legendary Last Wish and get his nine lives back.</desc>
-    <category lang="en">Movie - Cartoon
-               (2022)</category>
+  <programme start="20260619050000 +0800" stop="20260619053000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260619053000 +0800" stop="20260619073000 +0800" channel="mbc max">
+    <title lang="en">Spotlight</title>
+    <desc lang="en">The real story of how the Spotlight team of the Boston Globeuncovered a massive scandal about the systemic coverup the Catholic Church conducted to bury the truth about Catholic priests sexually abusing children in the Boston area.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
   <programme start="20260616190500 +0800" stop="20260616210000 +0800" channel="mbc 2">
     <title lang="en">Ponyo</title>
@@ -431,5 +419,11 @@
     <desc lang="en">After their blind date goes horribly bad, Jim and Laurendecide they should never see each other again, until they get stuck with their respective kids at a family resort.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260619050000 +0800" stop="20260619063000 +0800" channel="mbc 2">
+    <title lang="en">The Boss Baby</title>
+    <desc lang="en">While his family welcomes his newborn brother, the7-year-old Tim is disgruntled that his new brother is stealing all the attention away from him. But when Tim learns of the nefarious scheme of the CEO of Puppy Co, he teams up with his baby brother to put a stop to it.</desc>
+    <category lang="en">Movie - Cartoon
+               (2017)</category>
   </programme>
 </tv>
