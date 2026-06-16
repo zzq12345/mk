@@ -74,12 +74,16 @@
 <title lang="zh">每日財經</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616145800 +0800" stop="20260616175800 +0800" channel="澳視澳門">
+<programme start="20260616145800 +0800" stop="20260616164500 +0800" channel="澳視澳門">
 <title lang="zh">直播行政長官立法會答問大會</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616175800 +0800" stop="20260616183800 +0800" channel="澳視澳門">
-<title lang="zh">重播動感教菁</title>
+<programme start="20260616164500 +0800" stop="20260616170000 +0800" channel="澳視澳門">
+<title lang="zh">新聞報道</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260616170000 +0800" stop="20260616183800 +0800" channel="澳視澳門">
+<title lang="zh">直播行政長官立法會答問大會</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616183800 +0800" stop="20260616184300 +0800" channel="澳視澳門">
@@ -588,16 +592,16 @@
 <title lang="zh">每日財經</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616145800 +0800" stop="20260616180500 +0800" channel="澳門資訊">
+<programme start="20260616145800 +0800" stop="20260616164500 +0800" channel="澳門資訊">
 <title lang="zh">直播行政長官立法會答問大會</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616180500 +0800" stop="20260616180700 +0800" channel="澳門資訊">
-<title lang="zh">TDM 新視點</title>
+<programme start="20260616164500 +0800" stop="20260616170000 +0800" channel="澳門資訊">
+<title lang="zh">新聞報道</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616180700 +0800" stop="20260616183000 +0800" channel="澳門資訊">
-<title lang="zh">澳門早晨精華錄</title>
+<programme start="20260616170000 +0800" stop="20260616183000 +0800" channel="澳門資訊">
+<title lang="zh">直播行政長官立法會答問大會</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616183000 +0800" stop="20260616190000 +0800" channel="澳門資訊">
@@ -2421,23 +2425,19 @@
 <title lang="zh">2100寶島西米樂守護(0268)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616220000 +0800" stop="20260617000000 +0800" channel="台視HD">
+<programme start="20260616220000 +0800" stop="20260617002000 +0800" channel="台視HD">
 <title lang="zh">2026FIFA世界盃TM小組賽(0001)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617000000 +0800" stop="20260617010000 +0800" channel="台視HD">
+<programme start="20260617002000 +0800" stop="20260617012000 +0800" channel="台視HD">
 <title lang="zh">晚間寶島西米樂守護(0268)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617010000 +0800" stop="20260617020000 +0800" channel="台視HD">
+<programme start="20260617012000 +0800" stop="20260617022000 +0800" channel="台視HD">
 <title lang="zh">３６０行向前衝(0794)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617020000 +0800" stop="20260617023000 +0800" channel="台視HD">
-<title lang="zh">尋找台灣感動力(0498)</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617023000 +0800" stop="20260617025000 +0800" channel="台視HD">
+<programme start="20260617022000 +0800" stop="20260617025000 +0800" channel="台視HD">
 <title lang="zh">2026FIFA世界盃TM賽事精華(0004)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -12033,20 +12033,52 @@
 <title lang="zh">立法院會議直播</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616180000 +0800" stop="20260617000000 +0800" channel="國會頻道1HD">
-<title lang="zh">當日立法院會議轉播</title>
+<programme start="20260616123100 +0800" stop="20260616141800 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617000000 +0800" stop="20260617050000 +0800" channel="國會頻道1HD">
-<title lang="zh">前日立法院會議轉播</title>
+<programme start="20260616141800 +0800" stop="20260616160500 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617050000 +0800" stop="20260617084700 +0800" channel="國會頻道1HD">
-<title lang="zh">前日立法院會議轉播</title>
+<programme start="20260616160500 +0800" stop="20260616175100 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617084700 +0800" stop="20260617090000 +0800" channel="國會頻道1HD">
-<title lang="zh">週三會議預報</title>
+<programme start="20260616175100 +0800" stop="20260616193800 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260616193800 +0800" stop="20260616212500 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260616212500 +0800" stop="20260616231200 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260616231200 +0800" stop="20260617005900 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617005900 +0800" stop="20260617024500 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617024500 +0800" stop="20260617043200 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617043200 +0800" stop="20260617061900 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617061900 +0800" stop="20260617080600 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617080600 +0800" stop="20260617090000 +0800" channel="國會頻道1HD">
+<title lang="zh">立法院院會</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617090000 +0800" stop="20260617180000 +0800" channel="國會頻道1HD">
@@ -12077,20 +12109,48 @@
 <title lang="zh">立法院會議直播</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616180000 +0800" stop="20260617000000 +0800" channel="國會頻道2HD">
-<title lang="zh">當日立法院會議轉播</title>
+<programme start="20260616123100 +0800" stop="20260616141800 +0800" channel="國會頻道2HD">
+<title lang="zh">立法院院會</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617000000 +0800" stop="20260617050000 +0800" channel="國會頻道2HD">
-<title lang="zh">前日立法院會議轉播</title>
+<programme start="20260616141800 +0800" stop="20260616160500 +0800" channel="國會頻道2HD">
+<title lang="zh">立法院院會</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617050000 +0800" stop="20260617084700 +0800" channel="國會頻道2HD">
-<title lang="zh">前日立法院會議轉播</title>
+<programme start="20260616160500 +0800" stop="20260616175100 +0800" channel="國會頻道2HD">
+<title lang="zh">立法院院會</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617084700 +0800" stop="20260617090000 +0800" channel="國會頻道2HD">
-<title lang="zh">週三會議預報</title>
+<programme start="20260616175100 +0800" stop="20260616193800 +0800" channel="國會頻道2HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260616193800 +0800" stop="20260616225800 +0800" channel="國會頻道2HD">
+<title lang="zh">教育及文化委員會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260616225800 +0800" stop="20260617010700 +0800" channel="國會頻道2HD">
+<title lang="zh">教育及文化委員會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617010700 +0800" stop="20260617025400 +0800" channel="國會頻道2HD">
+<title lang="zh">立法院院會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617025400 +0800" stop="20260617045400 +0800" channel="國會頻道2HD">
+<title lang="zh">教育及文化委員會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617045400 +0800" stop="20260617061300 +0800" channel="國會頻道2HD">
+<title lang="zh">教育及文化委員會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617061300 +0800" stop="20260617082200 +0800" channel="國會頻道2HD">
+<title lang="zh">教育及文化委員會</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617082200 +0800" stop="20260617090000 +0800" channel="國會頻道2HD">
+<title lang="zh">立法院院會</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617090000 +0800" stop="20260617180000 +0800" channel="國會頻道2HD">
@@ -17246,55 +17306,55 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616100000 +0800" stop="20260616123000 +0800" channel="愛爾達體育4台">
-<title lang="zh">LIVE 玉山盃青棒 G24勝 VS G22勝 6/16</title>
+<title lang="zh">LIVE 玉山盃青棒 高雄市 VS 雲林縣 6/16</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616123000 +0800" stop="20260616150000 +0800" channel="愛爾達體育4台">
-<title lang="zh">LIVE 玉山盃青棒 G19勝 VS G17勝 6/16</title>
+<title lang="zh">LIVE 玉山盃青棒 臺南市 VS 臺東縣 6/16</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616150000 +0800" stop="20260616153000 +0800" channel="愛爾達體育4台">
-<title lang="zh">FIFA世界盃™：48強列國誌 南韓/沙烏地/日本/伊朗</title>
+<title lang="zh">電動方程式 賽道零距離S3 #1 美國夢</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616153000 +0800" stop="20260616160000 +0800" channel="愛爾達體育4台">
-<title lang="zh">FIFA世界盃™：48強列國誌 摩洛哥/象牙海岸/埃及/塞內加爾</title>
+<title lang="zh">FIFA世界盃™：48強列國誌 美國/卡達/加拿大/墨西哥</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616160000 +0800" stop="20260616183000 +0800" channel="愛爾達體育4台">
-<title lang="zh">玉山盃青棒 G24勝 VS G22勝 6/16</title>
+<programme start="20260616160000 +0800" stop="20260616161500 +0800" channel="愛爾達體育4台">
+<title lang="zh">2026 BWF世界羽球週報#18</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616183000 +0800" stop="20260616210000 +0800" channel="愛爾達體育4台">
-<title lang="zh">玉山盃青棒 G19勝 VS G17勝 6/16</title>
+<programme start="20260616161500 +0800" stop="20260616190000 +0800" channel="愛爾達體育4台">
+<title lang="zh">IFSC世界運動攀登系列賽 抱石賽 柯橋站 女子組準決賽(原音)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616210000 +0800" stop="20260616213000 +0800" channel="愛爾達體育4台">
-<title lang="zh">電動方程式 賽道零距離S2 #2 重整旗鼓</title>
+<programme start="20260616190000 +0800" stop="20260616213000 +0800" channel="愛爾達體育4台">
+<title lang="zh">玉山盃青棒 高雄市 VS 雲林縣 6/16</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616213000 +0800" stop="20260617000000 +0800" channel="愛爾達體育4台">
-<title lang="zh">IFSC世界運動攀登系列賽 速度賽 吳江站 決賽(原音)</title>
+<title lang="zh">玉山盃青棒 臺南市 VS 臺東縣 6/16</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617000000 +0800" stop="20260617033000 +0800" channel="愛爾達體育4台">
+<programme start="20260617000000 +0800" stop="20260617020000 +0800" channel="愛爾達體育4台">
+<title lang="zh">IFSC世界運動攀登系列賽 抱石賽 柯橋站 女子組決賽(原音)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617020000 +0800" stop="20260617044500 +0800" channel="愛爾達體育4台">
 <title lang="zh">WBC棒球經典賽 中華 VS 南韓 3/8 C組預賽</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617033000 +0800" stop="20260617040000 +0800" channel="愛爾達體育4台">
-<title lang="zh">FIFA世界盃™：48強列國誌 摩洛哥/象牙海岸/埃及/塞內加爾</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617040000 +0800" stop="20260617063500 +0800" channel="愛爾達體育4台">
+<programme start="20260617044500 +0800" stop="20260617073000 +0800" channel="愛爾達體育4台">
 <title lang="zh">TPVL 桃園雲豹飛將 VS 台鋼天鷹 5/30 總冠軍賽G2</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617063500 +0800" stop="20260617093000 +0800" channel="愛爾達體育4台">
-<title lang="zh">LIVE MLB 馬林魚 VS 費城人 例行賽 6/17(原音)</title>
+<programme start="20260617073000 +0800" stop="20260617074500 +0800" channel="愛爾達體育4台">
+<title lang="zh">2026 BWF世界羽球週報#18</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617093000 +0800" stop="20260617100000 +0800" channel="愛爾達體育4台">
-<title lang="zh">FIFA世界盃™：48強列國誌 挪威/民主剛果/海地/伊拉克</title>
+<programme start="20260617074500 +0800" stop="20260617100000 +0800" channel="愛爾達體育4台">
+<title lang="zh">TPVL 台鋼天鷹 VS 桃園雲豹飛將 5/31 總冠軍賽G3</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617100000 +0800" stop="20260617123000 +0800" channel="愛爾達體育4台">
@@ -17306,27 +17366,27 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617150000 +0800" stop="20260617153000 +0800" channel="愛爾達體育4台">
-<title lang="zh">FIFA世界盃™：48強列國誌 克羅埃西亞/波赫/奧地利/比利時</title>
+<title lang="zh">排排戰#28</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617153000 +0800" stop="20260617160000 +0800" channel="愛爾達體育4台">
-<title lang="zh">FIFA世界盃™：48強列國誌 克羅埃西亞/波赫/奧地利/比利時</title>
+<title lang="zh">FIFA世界盃™：48強列國誌 哥倫比亞/巴拉圭/厄瓜多/烏拉圭</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617160000 +0800" stop="20260617183000 +0800" channel="愛爾達體育4台">
+<programme start="20260617160000 +0800" stop="20260617163000 +0800" channel="愛爾達體育4台">
+<title lang="zh">FIFA世界盃™：48強列國誌 巴西/英格蘭/德國/荷蘭</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617163000 +0800" stop="20260617193000 +0800" channel="愛爾達體育4台">
+<title lang="zh">IFSC世界運動攀登系列賽 抱石賽 柯橋站 男子組準決賽(原音)</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617193000 +0800" stop="20260617223000 +0800" channel="愛爾達體育4台">
 <title lang="zh">玉山盃青棒 G25勝 VS G27敗 6/17</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617183000 +0800" stop="20260617210000 +0800" channel="愛爾達體育4台">
+<programme start="20260617223000 +0800" stop="20260618003000 +0800" channel="愛爾達體育4台">
 <title lang="zh">玉山盃青棒 G26勝 VS G28敗 6/17</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617210000 +0800" stop="20260617213000 +0800" channel="愛爾達體育4台">
-<title lang="zh">電動方程式 賽道零距離S2 #3 同門對決</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617213000 +0800" stop="20260618000000 +0800" channel="愛爾達體育4台">
-<title lang="zh">IFSC世界運動攀登系列賽 先鋒賽 吳江站 決賽(原音)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616000000 +0800" stop="20260616050000 +0800" channel="博斯高球一台">
@@ -38582,7 +38642,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617020000 +0800" stop="20260617023000 +0800" channel="台視財經HD">
-<title lang="zh">發現科學(0168)</title>
+<title lang="zh">發現科學(0049)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617023000 +0800" stop="20260617050000 +0800" channel="台視財經HD">
@@ -43426,7 +43486,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617024300 +0800" stop="20260617025500 +0800" channel="NHK新聞資訊台HD">
-<title lang="zh">NHK World Selection</title>
+<title lang="zh">All About the Beans</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617025500 +0800" stop="20260617030000 +0800" channel="NHK新聞資訊台HD">
@@ -43522,7 +43582,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617123000 +0800" stop="20260617130000 +0800" channel="NHK新聞資訊台HD">
-<title lang="zh">NHK World Selection</title>
+<title lang="zh">Face to Face</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617130000 +0800" stop="20260617133000 +0800" channel="NHK新聞資訊台HD">
@@ -43558,7 +43618,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617163000 +0800" stop="20260617170000 +0800" channel="NHK新聞資訊台HD">
-<title lang="zh">NHK World Selection</title>
+<title lang="zh">Face to Face</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617170000 +0800" stop="20260617173000 +0800" channel="NHK新聞資訊台HD">
@@ -43594,7 +43654,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617194300 +0800" stop="20260617195500 +0800" channel="NHK新聞資訊台HD">
-<title lang="zh">NHK World Selection</title>
+<title lang="zh">A Different Kind of Fish</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617195500 +0800" stop="20260617200000 +0800" channel="NHK新聞資訊台HD">
@@ -112346,19 +112406,19 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616010000 +0800" stop="20260616020000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616020000 +0800" stop="20260616030000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家瘋狂總部</title>
+<title lang="zh">食尚玩家瘋狂總部台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616030000 +0800" stop="20260616040000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店 享食尚滴雞精</title>
+<title lang="zh">11點熱吵店</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616040000 +0800" stop="20260616050000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家瘋狂總部</title>
+<title lang="zh">食尚玩家瘋狂總部台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616050000 +0800" stop="20260616060000 +0800" channel="TVBS歡樂台">
@@ -112366,7 +112426,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616060000 +0800" stop="20260616070000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616070000 +0800" stop="20260616080000 +0800" channel="TVBS歡樂台">
@@ -112386,11 +112446,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616110000 +0800" stop="20260616120000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616120000 +0800" stop="20260616130000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家瘋狂總部</title>
+<title lang="zh">食尚玩家瘋狂總部台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616130000 +0800" stop="20260616140000 +0800" channel="TVBS歡樂台">
@@ -112402,7 +112462,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616150000 +0800" stop="20260616160000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店 享食尚滴雞精</title>
+<title lang="zh">11點熱吵店</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616160000 +0800" stop="20260616170000 +0800" channel="TVBS歡樂台">
@@ -112410,11 +112470,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616170000 +0800" stop="20260616180000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616180000 +0800" stop="20260616190000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家瘋狂總部</title>
+<title lang="zh">食尚玩家瘋狂總部台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616190000 +0800" stop="20260616200000 +0800" channel="TVBS歡樂台">
@@ -112426,11 +112486,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616210000 +0800" stop="20260616220000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616220000 +0800" stop="20260616230000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616230000 +0800" stop="20260616235959 +0800" channel="TVBS歡樂台">
@@ -112442,11 +112502,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617010000 +0800" stop="20260617020000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617020000 +0800" stop="20260617030000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617030000 +0800" stop="20260617040000 +0800" channel="TVBS歡樂台">
@@ -112454,7 +112514,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617040000 +0800" stop="20260617050000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617050000 +0800" stop="20260617060000 +0800" channel="TVBS歡樂台">
@@ -112462,7 +112522,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617060000 +0800" stop="20260617070000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617070000 +0800" stop="20260617080000 +0800" channel="TVBS歡樂台">
@@ -112482,11 +112542,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617110000 +0800" stop="20260617120000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617120000 +0800" stop="20260617130000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617130000 +0800" stop="20260617140000 +0800" channel="TVBS歡樂台">
@@ -112506,11 +112566,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617170000 +0800" stop="20260617180000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617180000 +0800" stop="20260617190000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617190000 +0800" stop="20260617200000 +0800" channel="TVBS歡樂台">
@@ -112518,7 +112578,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617200000 +0800" stop="20260617210000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店</title>
+<title lang="zh">薔薇風暴</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617210000 +0800" stop="20260617220000 +0800" channel="TVBS歡樂台">
@@ -112526,11 +112586,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617220000 +0800" stop="20260617230000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617230000 +0800" stop="20260617235959 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店 享食尚滴雞精</title>
+<title lang="zh">11點熱吵店</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616000000 +0800" stop="20260616010000 +0800" channel="TVBS精采台">
@@ -123202,7 +123262,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616165300 +0800" stop="20260616165800 +0800" channel="華視主頻">
-<title lang="zh">華視生活廣場</title>
+<title lang="zh">台灣引路人</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616165800 +0800" stop="20260616185800 +0800" channel="華視主頻">
@@ -123326,7 +123386,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617235500 +0800" stop="20260617235959 +0800" channel="華視主頻">
-<title lang="zh">華視生活廣場</title>
+<title lang="zh">台灣引路人</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616000000 +0800" stop="20260616010000 +0800" channel="華視新聞資訊台">
@@ -134188,7 +134248,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616165300 +0800" stop="20260616165800 +0800" channel="華視">
-<title lang="zh">華視生活廣場</title>
+<title lang="zh">台灣引路人</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616165800 +0800" stop="20260616185800 +0800" channel="華視">
@@ -134312,7 +134372,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617235500 +0800" stop="20260618000000 +0800" channel="華視">
-<title lang="zh">華視生活廣場</title>
+<title lang="zh">台灣引路人</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618000000 +0800" stop="20260618010000 +0800" channel="華視">
@@ -134384,7 +134444,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618165300 +0800" stop="20260618165800 +0800" channel="華視">
-<title lang="zh">華視生活廣場</title>
+<title lang="zh">台灣引路人</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618165800 +0800" stop="20260618185800 +0800" channel="華視">
@@ -152592,19 +152652,19 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616010000 +0800" stop="20260616020000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616020000 +0800" stop="20260616030000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家瘋狂總部</title>
+<title lang="zh">食尚玩家瘋狂總部台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616030000 +0800" stop="20260616040000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店 享食尚滴雞精</title>
+<title lang="zh">11點熱吵店</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616040000 +0800" stop="20260616050000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家瘋狂總部</title>
+<title lang="zh">食尚玩家瘋狂總部台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616050000 +0800" stop="20260616060000 +0800" channel="TVBS歡樂台">
@@ -152612,7 +152672,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616060000 +0800" stop="20260616070000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616070000 +0800" stop="20260616080000 +0800" channel="TVBS歡樂台">
@@ -152632,11 +152692,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616110000 +0800" stop="20260616120000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616120000 +0800" stop="20260616130000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家瘋狂總部</title>
+<title lang="zh">食尚玩家瘋狂總部台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616130000 +0800" stop="20260616140000 +0800" channel="TVBS歡樂台">
@@ -152648,7 +152708,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616150000 +0800" stop="20260616160000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店 享食尚滴雞精</title>
+<title lang="zh">11點熱吵店</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616160000 +0800" stop="20260616170000 +0800" channel="TVBS歡樂台">
@@ -152656,11 +152716,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616170000 +0800" stop="20260616180000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616180000 +0800" stop="20260616190000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家瘋狂總部</title>
+<title lang="zh">食尚玩家瘋狂總部台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616190000 +0800" stop="20260616200000 +0800" channel="TVBS歡樂台">
@@ -152672,11 +152732,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616210000 +0800" stop="20260616220000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616220000 +0800" stop="20260616230000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616230000 +0800" stop="20260617000000 +0800" channel="TVBS歡樂台">
@@ -152688,11 +152748,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617010000 +0800" stop="20260617020000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617020000 +0800" stop="20260617030000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617030000 +0800" stop="20260617040000 +0800" channel="TVBS歡樂台">
@@ -152700,7 +152760,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617040000 +0800" stop="20260617050000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617050000 +0800" stop="20260617060000 +0800" channel="TVBS歡樂台">
@@ -152708,7 +152768,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617060000 +0800" stop="20260617070000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617070000 +0800" stop="20260617080000 +0800" channel="TVBS歡樂台">
@@ -152728,11 +152788,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617110000 +0800" stop="20260617120000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617120000 +0800" stop="20260617130000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617130000 +0800" stop="20260617140000 +0800" channel="TVBS歡樂台">
@@ -152752,11 +152812,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617170000 +0800" stop="20260617180000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大 享食尚</title>
+<title lang="zh">女人我最大</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617180000 +0800" stop="20260617190000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617190000 +0800" stop="20260617200000 +0800" channel="TVBS歡樂台">
@@ -152764,7 +152824,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617200000 +0800" stop="20260617210000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店</title>
+<title lang="zh">薔薇風暴</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617210000 +0800" stop="20260617220000 +0800" channel="TVBS歡樂台">
@@ -152772,15 +152832,15 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617220000 +0800" stop="20260617230000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617230000 +0800" stop="20260618000000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店 享食尚滴雞精</title>
+<title lang="zh">11點熱吵店</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618000000 +0800" stop="20260618010000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">薔薇風暴</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618010000 +0800" stop="20260618020000 +0800" channel="TVBS歡樂台">
@@ -152788,15 +152848,15 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618020000 +0800" stop="20260618030000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618030000 +0800" stop="20260618040000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店 享食尚滴雞精</title>
+<title lang="zh">11點熱吵店</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618040000 +0800" stop="20260618050000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618050000 +0800" stop="20260618060000 +0800" channel="TVBS歡樂台">
@@ -152828,7 +152888,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618120000 +0800" stop="20260618130000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618130000 +0800" stop="20260618140000 +0800" channel="TVBS歡樂台">
@@ -152836,11 +152896,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618140000 +0800" stop="20260618150000 +0800" channel="TVBS歡樂台">
-<title lang="zh">女人我最大</title>
+<title lang="zh">薔薇風暴</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618150000 +0800" stop="20260618160000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店 享食尚滴雞精</title>
+<title lang="zh">11點熱吵店</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618160000 +0800" stop="20260618170000 +0800" channel="TVBS歡樂台">
@@ -152852,7 +152912,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618180000 +0800" stop="20260618190000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家</title>
+<title lang="zh">食尚玩家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618190000 +0800" stop="20260618200000 +0800" channel="TVBS歡樂台">
@@ -152860,7 +152920,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618200000 +0800" stop="20260618210000 +0800" channel="TVBS歡樂台">
-<title lang="zh">11點熱吵店</title>
+<title lang="zh">薔薇風暴</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618210000 +0800" stop="20260618220000 +0800" channel="TVBS歡樂台">
@@ -152868,7 +152928,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618220000 +0800" stop="20260618230000 +0800" channel="TVBS歡樂台">
-<title lang="zh">食尚玩家我們這一家</title>
+<title lang="zh">食尚玩家我們這一家台塑石油APP</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618230000 +0800" stop="20260619000000 +0800" channel="TVBS歡樂台">
@@ -161633,7 +161693,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618070000 +0800" stop="20260618090000 +0800" channel="博斯魅力台">
-<title lang="zh">2026倫敦女網賽16強(普)</title>
+<title lang="zh">2026倫敦女網賽16強CIR vsRAD(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618090000 +0800" stop="20260618120000 +0800" channel="博斯魅力台">
@@ -168787,331 +168847,6 @@
 </programme>
 <programme start="20260618234800 +0800" stop="20260619011000 +0800" channel="TV5MONDE STYLE HD 生活時尚">
 <title lang="zh">MÉTÉO À LA CARTE(普)</title>
-<desc lang="zh"> </desc>
-</programme>
-<channel id="MagellanTV頻道 (麥哲倫頻道) "><display-name lang="zh">MagellanTV頻道 (麥哲倫頻道) </display-name></channel>
-<programme start="20260616000000 +0800" stop="20260616010000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：改變歷史【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616010000 +0800" stop="20260616020000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：恆河【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616020000 +0800" stop="20260616030000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：澳洲南海岸【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616030000 +0800" stop="20260616033000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球 ：美國大洋城到麥克亨利堡【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616033000 +0800" stop="20260616040000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球 ：美國比特魯特山脈到波爾森市【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616040000 +0800" stop="20260616050000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：虎鯨【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616050000 +0800" stop="20260616060000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：海洋之家【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616060000 +0800" stop="20260616070000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：志願參軍【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616070000 +0800" stop="20260616080000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：犯罪與貧窮【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616080000 +0800" stop="20260616090000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：改變歷史【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616090000 +0800" stop="20260616100000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：恆河【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616100000 +0800" stop="20260616110000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：澳洲南海岸【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616110000 +0800" stop="20260616113000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球 ：美國大洋城到麥克亨利堡【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616113000 +0800" stop="20260616120000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球 ：美國比特魯特山脈到波爾森市【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616120000 +0800" stop="20260616130000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：虎鯨【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616130000 +0800" stop="20260616140000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：海洋之家【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616140000 +0800" stop="20260616150000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：志願參軍【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616150000 +0800" stop="20260616160000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：犯罪與貧窮【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616160000 +0800" stop="20260616170000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：失落世界【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616170000 +0800" stop="20260616180000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：喜馬拉雅山脈【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616180000 +0800" stop="20260616190000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：韓國首爾【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616190000 +0800" stop="20260616193000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國樸茨茅斯到華盛頓山【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616193000 +0800" stop="20260616200000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國奧格拉拉國家草原到斯科茨布拉夫【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616200000 +0800" stop="20260616210000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：扁頭哈那鯊【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616210000 +0800" stop="20260616220000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：昆士蘭雨林【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616220000 +0800" stop="20260616230000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：索姆河戰役【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260616230000 +0800" stop="20260617000000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：犯罪組織【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617000000 +0800" stop="20260617010000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：失落世界【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617010000 +0800" stop="20260617020000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：喜馬拉雅山脈【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617020000 +0800" stop="20260617030000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：韓國首爾【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617030000 +0800" stop="20260617033000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國樸茨茅斯到華盛頓山【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617033000 +0800" stop="20260617040000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國奧格拉拉國家草原到斯科茨布拉夫【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617040000 +0800" stop="20260617050000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：扁頭哈那鯊【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617050000 +0800" stop="20260617060000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：昆士蘭雨林【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617060000 +0800" stop="20260617070000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：索姆河戰役【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617070000 +0800" stop="20260617080000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：犯罪組織【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617080000 +0800" stop="20260617090000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：失落世界【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617090000 +0800" stop="20260617100000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：喜馬拉雅山脈【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617100000 +0800" stop="20260617110000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：韓國首爾【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617110000 +0800" stop="20260617113000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國樸茨茅斯到華盛頓山【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617113000 +0800" stop="20260617120000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國奧格拉拉國家草原到斯科茨布拉夫【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617120000 +0800" stop="20260617130000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：扁頭哈那鯊【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617130000 +0800" stop="20260617140000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：昆士蘭雨林【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617140000 +0800" stop="20260617150000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：索姆河戰役【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617150000 +0800" stop="20260617160000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：犯罪組織【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617160000 +0800" stop="20260617170000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：羅馬殘酷統治【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617170000 +0800" stop="20260617180000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：西高止山脈【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617180000 +0800" stop="20260617190000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：韓國本島到濟州島【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617190000 +0800" stop="20260617193000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國蘇打孤峰河谷到大角峽谷【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617193000 +0800" stop="20260617200000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國米蘇拉到餓馬水壩【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617200000 +0800" stop="20260617210000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：大白鯊【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617210000 +0800" stop="20260617220000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：珊瑚島【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617220000 +0800" stop="20260617230000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：拯救傷患【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260617230000 +0800" stop="20260618000000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：司法不公【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618000000 +0800" stop="20260618010000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：羅馬殘酷統治【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618010000 +0800" stop="20260618020000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：西高止山脈【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618020000 +0800" stop="20260618030000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：韓國本島到濟州島【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618030000 +0800" stop="20260618033000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國蘇打孤峰河谷到大角峽谷【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618033000 +0800" stop="20260618040000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國米蘇拉到餓馬水壩【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618040000 +0800" stop="20260618050000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：大白鯊【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618050000 +0800" stop="20260618060000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：珊瑚島【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618060000 +0800" stop="20260618070000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：拯救傷患【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618070000 +0800" stop="20260618080000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：司法不公【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618080000 +0800" stop="20260618090000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：羅馬殘酷統治【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618090000 +0800" stop="20260618100000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：西高止山脈【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618100000 +0800" stop="20260618110000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：韓國本島到濟州島【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618110000 +0800" stop="20260618113000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國蘇打孤峰河谷到大角峽谷【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618113000 +0800" stop="20260618120000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國米蘇拉到餓馬水壩【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618120000 +0800" stop="20260618130000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：大白鯊【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618130000 +0800" stop="20260618140000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：珊瑚島【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618140000 +0800" stop="20260618150000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：拯救傷患【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618150000 +0800" stop="20260618160000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：司法不公【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618160000 +0800" stop="20260618170000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">英國考古大發現：史前不列顛【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618170000 +0800" stop="20260618180000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">野生印度：失落的世界【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618180000 +0800" stop="20260618190000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">全球瘋旅遊：日本北海道的冬天【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618190000 +0800" stop="20260618193000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球 ：美國奧古斯塔到凱迪拉克山【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618193000 +0800" stop="20260618200000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">絕美地球：美國冰河國家公園到中國牆【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618200000 +0800" stop="20260618210000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">紐西蘭海洋殺手：紐西蘭海獅【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618210000 +0800" stop="20260618220000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">潛入大堡礁：珊瑚海【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618220000 +0800" stop="20260618230000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">一戰的百年回顧：帕森達勒戰役【普】</title>
-<desc lang="zh"> </desc>
-</programme>
-<programme start="20260618230000 +0800" stop="20260619000000 +0800" channel="MagellanTV頻道 (麥哲倫頻道) ">
-<title lang="zh">犯罪檔案：屍體處置【普】</title>
 <desc lang="zh"> </desc>
 </programme>
 <channel id="ROCK Xstream搖滾極限頻道"><display-name lang="zh">ROCK Xstream搖滾極限頻道</display-name></channel>
@@ -179484,7 +179219,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616011500 +0800" stop="20260616013000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">The Dip(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616013000 +0800" stop="20260616020000 +0800" channel="DW德國之聲">
@@ -179508,11 +179243,11 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616031500 +0800" stop="20260616033000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">The Dip(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616033000 +0800" stop="20260616040000 +0800" channel="DW德國之聲">
-<title lang="zh">Best of DW Podcasts(普)</title>
+<title lang="zh">Under the Baobab(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616040000 +0800" stop="20260616043000 +0800" channel="DW德國之聲">
@@ -179556,7 +179291,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616071500 +0800" stop="20260616073000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">The Dip(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616073000 +0800" stop="20260616080000 +0800" channel="DW德國之聲">
@@ -179604,7 +179339,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616111500 +0800" stop="20260616113000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">The Dip(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616113000 +0800" stop="20260616120000 +0800" channel="DW德國之聲">
@@ -179640,7 +179375,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616141500 +0800" stop="20260616143000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">The Dip(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616143000 +0800" stop="20260616150000 +0800" channel="DW德國之聲">
@@ -179732,7 +179467,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616211500 +0800" stop="20260616213000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Transforming Business(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260616213000 +0800" stop="20260616220000 +0800" channel="DW德國之聲">
@@ -179776,7 +179511,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617011500 +0800" stop="20260617013000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Transforming Business(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617013000 +0800" stop="20260617020000 +0800" channel="DW德國之聲">
@@ -179800,7 +179535,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617031500 +0800" stop="20260617033000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Transforming Business(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617033000 +0800" stop="20260617040000 +0800" channel="DW德國之聲">
@@ -179852,7 +179587,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617071500 +0800" stop="20260617073000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Transforming Business(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617073000 +0800" stop="20260617080000 +0800" channel="DW德國之聲">
@@ -179904,7 +179639,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617111500 +0800" stop="20260617113000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Transforming Business(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617113000 +0800" stop="20260617120000 +0800" channel="DW德國之聲">
@@ -179944,7 +179679,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617141500 +0800" stop="20260617143000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Transforming Business(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617143000 +0800" stop="20260617150000 +0800" channel="DW德國之聲">
@@ -180036,7 +179771,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617211500 +0800" stop="20260617213000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Mapped Out(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617213000 +0800" stop="20260617220000 +0800" channel="DW德國之聲">
@@ -180072,7 +179807,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618011500 +0800" stop="20260618013000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Mapped Out(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618013000 +0800" stop="20260618020000 +0800" channel="DW德國之聲">
@@ -180096,7 +179831,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618031500 +0800" stop="20260618033000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Mapped Out(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618033000 +0800" stop="20260618040000 +0800" channel="DW德國之聲">
@@ -180140,7 +179875,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618071500 +0800" stop="20260618073000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Mapped Out(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618073000 +0800" stop="20260618080000 +0800" channel="DW德國之聲">
@@ -180192,7 +179927,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618111500 +0800" stop="20260618113000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Mapped Out(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618113000 +0800" stop="20260618120000 +0800" channel="DW德國之聲">
@@ -180232,7 +179967,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618141500 +0800" stop="20260618143000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">Mapped Out(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618143000 +0800" stop="20260618150000 +0800" channel="DW德國之聲">
@@ -180316,7 +180051,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618211500 +0800" stop="20260618213000 +0800" channel="DW德國之聲">
-<title lang="zh">最強DW線上內容(普)</title>
+<title lang="zh">藝術揭幕(普)</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260618213000 +0800" stop="20260618220000 +0800" channel="DW德國之聲">
@@ -182209,38 +181944,6 @@
 <desc lang="zh"> </desc>
 </programme>
 <channel id="中視"><display-name lang="zh">中視</display-name></channel>
-<programme start="20260616035800 +0000" stop="20260616050000 +0000" channel="中視">
-<title lang="zh">中視午間新聞</title>
-<desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="中視">
-<title lang="zh">MIT台灣誌</title>
-<desc lang="zh">《MIT台灣誌》以發現台灣、寫真台灣、紀錄台灣為主旨，走遍台灣的每寸土地，介紹台灣的人文環境、大自然地理等…</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616063000 +0000" channel="中視">
-<title lang="zh">外資超錢線</title>
-<desc lang="zh">財經資訊節目。</desc>
-</programme>
-<programme start="20260616063000 +0000" stop="20260616073000 +0000" channel="中視">
-<title lang="zh">中視新聞</title>
-<desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-</programme>
-<programme start="20260616073000 +0000" stop="20260616080000 +0000" channel="中視">
-<title lang="zh">價值型投資</title>
-<desc lang="zh">當行情出現震盪、盤勢不明時，相信投資人一定會開始轉向價值型投資，節目中將推薦適合的標的，提供投資人參考。</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="中視">
-<title lang="zh">七個朋友</title>
-<desc lang="zh">兩岸合拍偶像劇。因高中時的一個小謊言，讓心彤（任容萱）、阿澤（付辛博）與亞柏（陳奕）不但做不成朋友，阿澤和亞柏更因此結仇。幾年後三人偶然重逢，心懷愧疚的心彤決心讓阿澤和亞柏化敵為友，而與亞柏秘密簽下契約，卻因此被阿澤誤會…</desc>
-</programme>
-<programme start="20260616090000 +0000" stop="20260616092800 +0000" channel="中視">
-<title lang="zh">中視新聞</title>
-<desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-</programme>
-<programme start="20260616092800 +0000" stop="20260616095800 +0000" channel="中視">
-<title lang="zh">中視新聞</title>
-<desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
-</programme>
 <programme start="20260616095800 +0000" stop="20260616105800 +0000" channel="中視">
 <title lang="zh">中視新聞</title>
 <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
@@ -182726,26 +182429,6 @@
 <desc lang="zh">由最專業的中視新聞主播，為您播報最新、最即時的新聞。</desc>
 </programme>
 <channel id="華視"><display-name lang="zh">華視</display-name></channel>
-<programme start="20260616035800 +0000" stop="20260616050000 +0000" channel="華視">
-<title lang="zh">華視午間新聞</title>
-<desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="華視">
-<title lang="zh">接住流星的人</title>
-<desc lang="zh">劇情描述慈濟師姑江柑（陸小芬）在三重區開設新芽課輔班，教育青少年兒童學習教育的故事。三重訪視志工江柑深知能改變這些照顧戶命運的，唯有教育，於是志工們走進照顧戶家中陪孩子寫作業、課輔，讓教育成為這些孩子人生中第一道光…</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616080000 +0000" channel="華視">
-<title lang="zh">警世劇場</title>
-<desc lang="zh">社會寫實單元劇，劇情效法《X檔案》，以現代辦案的角度來切入鬼神之說，用以警惕世人。篤信科學辦案精神的刑警尚智（謝祖武）有心理學博士學位，他與先天具有陰陽眼的搭檔王玉芳（趙英華），共同調查各種無法用科學解釋的案件，為死者伸冤…</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616085300 +0000" channel="華視">
-<title lang="zh">華視在地新聞</title>
-<desc lang="zh">以台語發音，提供觀眾朋友不一樣的國內外新聞。</desc>
-</programme>
-<programme start="20260616085300 +0000" stop="20260616085800 +0000" channel="華視">
-<title lang="zh">台灣引路人</title>
-<desc lang="zh">華視新聞部製播特輯。</desc>
-</programme>
 <programme start="20260616085800 +0000" stop="20260616105800 +0000" channel="華視">
 <title lang="zh">華視新聞晚報</title>
 <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
@@ -183207,46 +182890,6 @@
 <desc lang="zh">本節目由徐乃麟、曾國城主持，帶領最青春洋溢、最具笑果的主持群，與來賓一起挑戰精心設計的遊戲內容，包括上樑不正下樑歪、ABC大對決、BINGO大連線、誰是老鼠屎等單元，考驗現場來賓的機智反應。</desc>
 </programme>
 <channel id="好消息2台"><display-name lang="zh">好消息2台</display-name></channel>
-<programme start="20260616040500 +0000" stop="20260616050000 +0000" channel="好消息2台">
-<title lang="zh">真情部落格</title>
-<desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616055000 +0000" channel="好消息2台">
-<title lang="zh">家庭８點檔轉轉發現愛</title>
-<desc lang="zh">專注於婚姻、親子、家庭及生活議題。節目內容涵蓋教養實戰、戀愛交友、理財觀念與職場甘苦，透過專家多面向剖析、人生故事分享與小遊戲，強調「換個思維就能找回愛」。</desc>
-</programme>
-<programme start="20260616055000 +0000" stop="20260616060000 +0000" channel="好消息2台">
-<title lang="zh">機智青年生活</title>
-<desc lang="zh">這不是韓劇，而是正上演的一齣充滿血淚與美好友誼的熱血植堂連續劇 ！旌旗好生活邀請到三對青年牧師CP，來聊聊由上帝導演，引領青年教會及一群青年團隊，經歷瘋狂又精彩的植堂人生！</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="好消息2台">
-<title lang="zh">特會</title>
-<desc lang="zh">以造就、培靈與更新為宗旨，邀請來自世界各國的知名佈道牧師，為信徒傳遞神國信息，挑望靈火，奮興眾人！為信徒提供一個提升性靈的園地。(資料來源：GOOD TV)</desc>
-</programme>
-<programme start="20260616070000 +0000" stop="20260616073000 +0000" channel="好消息2台">
-<title lang="zh">生命導航</title>
-<desc lang="zh">GOOD TV中英雙語講道節目，由美國生命教會創辦人暨主任牧師克雷葛羅雪主講。集集精彩，分秒扎心！</desc>
-</programme>
-<programme start="20260616073000 +0000" stop="20260616080000 +0000" channel="好消息2台">
-<title lang="zh">福氣人生</title>
-<desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616083000 +0000" channel="好消息2台">
-<title lang="zh">天國英雄榜</title>
-<desc lang="zh">精選舊約聖經中十二則勵志故事，以動畫呈現英雄人物之真實事蹟，包括亞伯拉罕、約瑟、撒母耳、以利亞、但以理、以斯帖、摩西、以利沙、路得、大衛，與所羅門王等聖經人物千古流芳之事蹟，劇力萬鈞、感人至深，提供兒童跟青少年絕佳榜樣，為經典之勵志動畫。</desc>
-</programme>
-<programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="好消息2台">
-<title lang="zh">空中聖經學院</title>
-<desc lang="zh">由GOOD TV和中華福音神學院共同製作推出。這是歷史性的一刻，神的話語要透過衛星傳送至全世界，實現平信徒神學教育之夢。</desc>
-</programme>
-<programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="好消息2台">
-<title lang="zh">大衛鮑森講座</title>
-<desc lang="zh">聖經權威大衛鮑森牧師，帶你以宏觀的神學角度，觀看神偉大的神性與恩典，並從其中明白救恩計畫的重要。</desc>
-</programme>
-<programme start="20260616100000 +0000" stop="20260616103000 +0000" channel="好消息2台">
-<title lang="zh">共享觀點</title>
-<desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-</programme>
 <programme start="20260616103000 +0000" stop="20260616110000 +0000" channel="好消息2台">
 <title lang="zh">寇住幸福</title>
 <desc lang="zh">因現代人娛樂方式改變，媒體宣教更成為重要的傳福音管道。GOOD TV發現如今有更多人駐足在網路上，因此投入製作合乎網路媒體特性的節目，《寇住幸福》應運而生！由寇紹恩牧師主持，節目結合精彩的家庭生活短劇、動人的詩歌音樂與信息分享。</desc>
@@ -184172,62 +183815,6 @@
 <desc lang="zh">節目核心在於強調聖靈的能力與禱告，分享真理信息，內容涵蓋活出信仰、彼此相愛、教會建造及如何在現代生活中面對挑戰。</desc>
 </programme>
 <channel id="好消息"><display-name lang="zh">好消息</display-name></channel>
-<programme start="20260616043000 +0000" stop="20260616044500 +0000" channel="好消息">
-<title lang="zh">共享觀點</title>
-<desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-</programme>
-<programme start="20260616044500 +0000" stop="20260616050000 +0000" channel="好消息">
-<title lang="zh">共享觀點</title>
-<desc lang="zh">連結社群、分享、行動的特色，藉著媒體平台將聖經教導、基要真理落實在生活中。兩位主持人將在節目中以輕鬆對談的方式，討論年輕人關注的話題。</desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616050500 +0000" channel="好消息">
-<title lang="zh">維他命施</title>
-<desc lang="zh">出版超過二十多本暢銷書的作家施以諾，擅長傳遞激勵人心的小故事。《維他命施》針對年輕人，職場青年所設計的節目，短短三分鐘，帶給您滿滿的正能量。</desc>
-</programme>
-<programme start="20260616050500 +0000" stop="20260616060000 +0000" channel="好消息">
-<title lang="zh">真情部落格</title>
-<desc lang="zh">廣受海內外觀眾歡迎的真情部落格，由知名主播夏嘉璐主持，莊信德牧師回應，透過每位來賓的生命見證幫助許多人走出低谷。相信神繼續透過真情部落格祝福這世代的華人。</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616065000 +0000" channel="好消息">
-<title lang="zh">家庭８點檔轉轉發現愛</title>
-<desc lang="zh">專注於婚姻、親子、家庭及生活議題。節目內容涵蓋教養實戰、戀愛交友、理財觀念與職場甘苦，透過專家多面向剖析、人生故事分享與小遊戲，強調「換個思維就能找回愛」。</desc>
-</programme>
-<programme start="20260616065000 +0000" stop="20260616070000 +0000" channel="好消息">
-<title lang="zh">愛我們的家</title>
-<desc lang="zh">內容依家庭週期劃分六大類別，涵蓋婚姻經營、親子關係、銀髮族財務規劃及心理健康等議題，邀請專家陪同守護家庭。</desc>
-</programme>
-<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="好消息">
-<title lang="zh">道在人間(國)</title>
-<desc lang="zh">節目中邀請趙鏞基、葉光明、傑克海福德、喬依絲邁爾等，國內外知名牧長，以豐富的服事經歷與紮實的神學裝備，教導、傳講聖經真道，堅固信徒並警醒人心。</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616083000 +0000" channel="好消息">
-<title lang="zh">健康新煮流</title>
-<desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全台走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上台灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
-</programme>
-<programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="好消息">
-<title lang="zh">愛＋好醫生</title>
-<desc lang="zh">結合醫療專業及全人關懷的新型態節目，主持人黃瑽寧醫師親訪家庭，跨領域醫療顧問團全方位檢視，提供最完整、實用和正確的資訊來守護孩子的健康。</desc>
-</programme>
-<programme start="20260616090000 +0000" stop="20260616093000 +0000" channel="好消息">
-<title lang="zh">大家說英語</title>
-<desc lang="zh">將最受歡迎的美語生活會話雜誌《大家說英語》內容製作成電視教學節目，教學輕鬆活潑，以生活實用會話為單元主題，是新聞局推薦的優質節目。不僅能幫助您輕鬆開口說英語，更提供許多實用的英語語彙與技巧，讓您用簡單的單字，就能說一口漂亮英語。</desc>
-</programme>
-<programme start="20260616093000 +0000" stop="20260616093700 +0000" channel="好消息">
-<title lang="zh">莉莉的異想世界</title>
-<desc lang="zh">好消息電視台推出的教育節目。</desc>
-</programme>
-<programme start="20260616093700 +0000" stop="20260616094500 +0000" channel="好消息">
-<title lang="zh">莉莉的異想世界</title>
-<desc lang="zh">好消息電視台推出的教育節目。</desc>
-</programme>
-<programme start="20260616094500 +0000" stop="20260616100000 +0000" channel="好消息">
-<title lang="zh">鼠小妹蒂兒</title>
-<desc lang="zh">改編自德國同名暢銷童書繪本「Tilda Apfelkern」，畫風精緻細膩，動物角色可愛討喜，故事內容深具教育意涵，深受全球觀眾喜愛，適合闔家親子觀賞，是寓教於樂的優質卡通！</desc>
-</programme>
-<programme start="20260616100000 +0000" stop="20260616103000 +0000" channel="好消息">
-<title lang="zh">福氣人生</title>
-<desc lang="zh">如何才能擁有福氣人生?看牧師們以台語分享聖經的真理，讓你領受天國滿滿的福氣與祝福。</desc>
-</programme>
 <programme start="20260616103000 +0000" stop="20260616110000 +0000" channel="好消息">
 <title lang="zh">健康新煮流</title>
 <desc lang="zh">開創夫妻同廚同煮潮流的KC夫婦，繼《健康醫食代》後，走出攝影棚，帶大家全台走透透，發掘上帝賞賜的美味食材，內容融合新加坡南洋風和客家純樸味，加上台灣獨特的閩南風情，互相激盪交織出的火花，打造出獨一無二的美食節目。</desc>
@@ -185115,26 +184702,6 @@
 <channel id="ELTV生活英语台"><display-name lang="zh">ELTV生活英语台</display-name></channel>
 <channel id="龍華卡通台"><display-name lang="zh">龍華卡通台</display-name></channel>
 <channel id="亞洲旅遊台"><display-name lang="zh">亞洲旅遊台</display-name></channel>
-<programme start="20260616040000 +0000" stop="20260616050000 +0000" channel="亞洲旅遊台">
-<title lang="zh">唐綺陽逍遙遊</title>
-<desc lang="zh">華人最具影響力的占星師，唐綺陽專屬的旅遊節目。跟著獨特的唐氏風格，觀眾可以用不同的角度看世界，同時見證東西方占星大師的對話。</desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="亞洲旅遊台">
-<title lang="zh">33廚房</title>
-<desc lang="zh">電影圈的大明星林美秀首度跨足綜藝接主持棒，即將大展廚藝與觀眾們一起美味上菜！</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="亞洲旅遊台">
-<title lang="zh">城市的100個發現</title>
-<desc lang="zh">《城市的100個發現》由主持人胡文華、謝哲青搭配不同類型的藝術家，挖掘鮮為人知的歷史印記，並以生活美學的角度展開一趟色彩探險之旅。</desc>
-</programme>
-<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="亞洲旅遊台">
-<title lang="zh">融融歷險記</title>
-<desc lang="zh">《融融歷險記 Ben’s Adventure》的創辦人Ben，立志前往那些沒有人要去的地方。走過五大洲75餘國，喜歡拍影片更愛與當地人交流，因為這才是旅行真正的意義。「旅行的意義是什麼？」旅行的意義，看不同的風景，認識不同的人，領略不同的美好，讓你覺得世界那麼大。</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616100000 +0000" channel="亞洲旅遊台">
-<title lang="zh">效廉出發吧</title>
-<desc lang="zh">東森超視全新外景旅遊實境綜藝節目，由跨世代人夫許效舜、威廉攜手主持。兩位私交甚篤的知己好友，將在節目中分享彼此人生故事，帶觀眾深入瞭解每個城鎮獨有的歷史人文，探索每個地方的特色美食生活。一段見證男人友誼的旅行，就此展開！</desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616110000 +0000" channel="亞洲旅遊台">
 <title lang="zh">唐綺陽逍遙遊</title>
 <desc lang="zh">華人最具影響力的占星師，唐綺陽專屬的旅遊節目。跟著獨特的唐氏風格，觀眾可以用不同的角度看世界，同時見證東西方占星大師的對話。</desc>
@@ -185535,42 +185102,6 @@
 <channel id="龍華戲劇台"><display-name lang="zh">龍華戲劇台</display-name></channel>
 <channel id="台湾戲劇台"><display-name lang="zh">台湾戲劇台</display-name></channel>
 <channel id="東森购物1台"><display-name lang="zh">東森购物1台</display-name></channel>
-<programme start="20260616040000 +0000" stop="20260616044000 +0000" channel="東森购物1台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616044000 +0000" stop="20260616052000 +0000" channel="東森购物1台">
-<title lang="zh">鎖定CH43、CH49、CH120選購</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616052000 +0000" stop="20260616060000 +0000" channel="東森购物1台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616064000 +0000" channel="東森购物1台">
-<title lang="zh">鎖定CH43、CH49、CH120選購</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616064000 +0000" stop="20260616072000 +0000" channel="東森购物1台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616072000 +0000" stop="20260616080000 +0000" channel="東森购物1台">
-<title lang="zh">鎖定CH43、CH49、CH120選購</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616084000 +0000" channel="東森购物1台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616084000 +0000" stop="20260616092000 +0000" channel="東森购物1台">
-<title lang="zh">鎖定CH43、CH49、CH120選購</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616092000 +0000" stop="20260616100000 +0000" channel="東森购物1台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616104000 +0000" channel="東森购物1台">
 <title lang="zh">鎖定CH43、CH49、CH120選購</title>
 <desc lang="zh"></desc>
@@ -186282,42 +185813,6 @@
 <channel id="龍華偶像台"><display-name lang="zh">龍華偶像台</display-name></channel>
 <channel id="龍華日韩台"><display-name lang="zh">龍華日韩台</display-name></channel>
 <channel id="東森购物2台"><display-name lang="zh">東森购物2台</display-name></channel>
-<programme start="20260616040000 +0000" stop="20260616044000 +0000" channel="東森购物2台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616044000 +0000" stop="20260616052000 +0000" channel="東森购物2台">
-<title lang="zh">鎖定CH43、CH49、CH120選購</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616052000 +0000" stop="20260616060000 +0000" channel="東森购物2台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616064000 +0000" channel="東森购物2台">
-<title lang="zh">鎖定CH43、CH49、CH120選購</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616064000 +0000" stop="20260616072000 +0000" channel="東森购物2台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616072000 +0000" stop="20260616080000 +0000" channel="東森购物2台">
-<title lang="zh">鎖定CH43、CH49、CH120選購</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616084000 +0000" channel="東森购物2台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616084000 +0000" stop="20260616092000 +0000" channel="東森购物2台">
-<title lang="zh">鎖定CH43、CH49、CH120選購</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616092000 +0000" stop="20260616100000 +0000" channel="東森购物2台">
-<title lang="zh">6月下單抽100%現金券回饋！</title>
-<desc lang="zh"></desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616104000 +0000" channel="東森购物2台">
 <title lang="zh">鎖定CH43、CH49、CH120選購</title>
 <desc lang="zh"></desc>
@@ -187027,26 +186522,6 @@
 <desc lang="zh"></desc>
 </programme>
 <channel id="華视新闻"><display-name lang="zh">華视新闻</display-name></channel>
-<programme start="20260616035800 +0000" stop="20260616050000 +0000" channel="華视新闻">
-<title lang="zh">華視午間新聞</title>
-<desc lang="zh">華視午間新聞由最專業的華視主播，帶給觀眾朋友更多元化的新聞。</desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="華视新闻">
-<title lang="zh">華視1300午間新聞</title>
-<desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="華视新闻">
-<title lang="zh">華視1400整點新聞</title>
-<desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導國內外重要新聞。</desc>
-</programme>
-<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="華视新闻">
-<title lang="zh">華視1500整點新聞</title>
-<desc lang="zh">以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞。</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616085300 +0000" channel="華视新闻">
-<title lang="zh">華視在地新聞</title>
-<desc lang="zh">以台語發音，提供觀眾朋友不一樣的國內外新聞。</desc>
-</programme>
 <programme start="20260616085300 +0000" stop="20260616120000 +0000" channel="華视新闻">
 <title lang="zh">華視新聞晚報</title>
 <desc lang="zh">華視新聞部每天整理當天重大國內外新聞事件，為觀眾做最快、最即時的播報。</desc>
@@ -187492,10 +186967,6 @@
 <desc lang="zh">華視新聞部製播新聞專題節目。由國際政經專家汪浩、日本產經新聞台北支局長矢板明夫搭檔主持，深度講評最新國際政經重大事件，跳脫傳統政論談話節目的框架屬性。</desc>
 </programme>
 <channel id="倪珍播新聞"><display-name lang="zh">倪珍播新聞</display-name></channel>
-<programme start="20260616040000 +0000" stop="20260616100000 +0000" channel="倪珍播新聞">
-<title lang="zh">午安新聞</title>
-<desc lang="zh"></desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616160000 +0000" channel="倪珍播新聞">
 <title lang="zh">晚安新聞</title>
 <desc lang="zh"></desc>
@@ -187573,30 +187044,6 @@
 <desc lang="zh"></desc>
 </programme>
 <channel id="三立新闻iNEWS"><display-name lang="zh">三立新闻iNEWS</display-name></channel>
-<programme start="20260616035500 +0000" stop="20260616060000 +0000" channel="三立新闻iNEWS">
-<title lang="zh">iNEWS財經午報</title>
-<desc lang="zh">三立iNEWS製播的財經新聞節目，每天午間由最專業的主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616063000 +0000" channel="三立新闻iNEWS">
-<title lang="zh">台股大贏家</title>
-<desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播與股市專家帶來股匯市趨勢分析、提供觀眾投資時的參考。</desc>
-</programme>
-<programme start="20260616063000 +0000" stop="20260616070000 +0000" channel="三立新闻iNEWS">
-<title lang="zh">iNEWS1430整點新聞</title>
-<desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-</programme>
-<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="三立新闻iNEWS">
-<title lang="zh">全球新食力</title>
-<desc lang="zh">三立iNEWS製播的美食資訊節目，帶你全省走透透，吃遍台灣！</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="三立新闻iNEWS">
-<title lang="zh">iNEWS1600整點新聞</title>
-<desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-</programme>
-<programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="三立新闻iNEWS">
-<title lang="zh">iNEWS1700整點新聞</title>
-<desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞、時事評論…等內容。</desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616115500 +0000" channel="三立新闻iNEWS">
 <title lang="zh">1819錢進大頭條</title>
 <desc lang="zh">三立iNEWS製播的財經新聞節目，由最專業的財經主播帶來國際時事、財經股匯市報導、深度新聞及時事評論…等內容。</desc>
@@ -188054,30 +187501,6 @@
 <desc lang="zh">主持人鄭弘儀，為您《話時代人物》，帶來最精彩的人物專訪。</desc>
 </programme>
 <channel id="寰宇財經台"><display-name lang="zh">寰宇財經台</display-name></channel>
-<programme start="20260616040000 +0000" stop="20260616050000 +0000" channel="寰宇財經台">
-<title lang="zh">台股線上</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="寰宇財經台">
-<title lang="zh">台股線上</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="寰宇財經台">
-<title lang="zh">巷弄美食家</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="寰宇財經台">
-<title lang="zh">小食光台味誌</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="寰宇財經台">
-<title lang="zh">超自然實驗室</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="寰宇財經台">
-<title lang="zh">台灣職人誌</title>
-<desc lang="zh"></desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616110000 +0000" channel="寰宇財經台">
 <title lang="zh">銅板美食呷透透</title>
 <desc lang="zh">東森新聞製播的美食特輯，記者深入台灣各地，尋找令人回味無窮的美食記憶，介紹各種好吃又便宜的店家。</desc>
@@ -188551,30 +187974,6 @@
 <desc lang="zh"></desc>
 </programme>
 <channel id="中視新聞"><display-name lang="zh">中視新聞</display-name></channel>
-<programme start="20260616035800 +0000" stop="20260616050000 +0000" channel="中視新聞">
-<title lang="zh">中視午間新聞</title>
-<desc lang="zh">「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="中視新聞">
-<title lang="zh">中視新聞即時現場</title>
-<desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616070000 +0000" channel="中視新聞">
-<title lang="zh">中視新聞即時現場</title>
-<desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-</programme>
-<programme start="20260616070000 +0000" stop="20260616080000 +0000" channel="中視新聞">
-<title lang="zh">中視新聞即時現場</title>
-<desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="中視新聞">
-<title lang="zh">新庶民大頭家</title>
-<desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-</programme>
-<programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="中視新聞">
-<title lang="zh">新庶民大頭家</title>
-<desc lang="zh">中視新聞全新政論節目，每日帶給你超勁爆話題討論，歡迎庶民們一起來follow。</desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616105800 +0000" channel="中視新聞">
 <title lang="zh">中視新聞全球報導6點搶先報</title>
 <desc lang="zh">每晚由最專業的中視新聞主播，為全國觀眾提供最專業、最準確的即時新聞報導。</desc>
@@ -189048,26 +188447,6 @@
 <desc lang="zh">由主播蕭惠文播報，以SNG車讓觀眾看到最即時的新聞報導，並以最客觀的角度，為觀眾完整報導上午發生之重要新聞。</desc>
 </programme>
 <channel id="中天新聞台"><display-name lang="zh">中天新聞台</display-name></channel>
-<programme start="20260616040000 +0000" stop="20260616050000 +0000" channel="中天新聞台">
-<title lang="zh">中天新聞 1200午間新聞</title>
-<desc lang="zh">中天正午新聞帶給您最新的國內外大事，掌握天下，以及最新疫情新聞消息、疫情指揮中心直播、今日確診人數統計等重大新聞轉播報導。</desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="中天新聞台">
-<title lang="zh">中天新聞 1300午間新聞</title>
-<desc lang="zh">中天午間新聞帶給您最新的國內外大事，掌握天下。</desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616080000 +0000" channel="中天新聞台">
-<title lang="zh">大新聞大爆卦</title>
-<desc lang="zh">每周一到周五《大新聞大爆卦》中天主播馬千惠陪你一起來解卦！！！</desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616090000 +0000" channel="中天新聞台">
-<title lang="zh">中天新聞 1600整點新聞</title>
-<desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
-</programme>
-<programme start="20260616090000 +0000" stop="20260616100000 +0000" channel="中天新聞台">
-<title lang="zh">中天新聞 1700整點新聞</title>
-<desc lang="zh">收看中天新聞帶給你最即時、最完整、最專業的新聞報導。</desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616110000 +0000" channel="中天新聞台">
 <title lang="zh">中天辣晚報</title>
 <desc lang="zh">提供國內、兩岸、國際頭條焦點，掌握時事脈動，觀察新聞背後的真正意義，帶領觀眾知曉天下事。有最深度的內容、最專業的追蹤、最需要的資訊，收視率領先各台，具有高度影響力！</desc>
@@ -189481,30 +188860,6 @@
 <desc lang="zh">中天主播為您帶來最新、最即時的重點新聞、內幕爆卦，鎖定《周末大爆掛》！</desc>
 </programme>
 <channel id="寰宇新聞台"><display-name lang="zh">寰宇新聞台</display-name></channel>
-<programme start="20260616035500 +0000" stop="20260616045500 +0000" channel="寰宇新聞台">
-<title lang="zh">寰宇午間新聞</title>
-<desc lang="zh">寰宇午間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-</programme>
-<programme start="20260616045500 +0000" stop="20260616055500 +0000" channel="寰宇新聞台">
-<title lang="zh">寰宇午間新聞</title>
-<desc lang="zh">寰宇午間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-</programme>
-<programme start="20260616055500 +0000" stop="20260616065500 +0000" channel="寰宇新聞台">
-<title lang="zh">寰宇整點新聞</title>
-<desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-</programme>
-<programme start="20260616065500 +0000" stop="20260616075500 +0000" channel="寰宇新聞台">
-<title lang="zh">寰宇整點新聞</title>
-<desc lang="zh">來自路透的國際新聞、最在地的台灣新聞以及最深入的兩岸焦點，帶您掌握社會脈動。</desc>
-</programme>
-<programme start="20260616075500 +0000" stop="20260616085500 +0000" channel="寰宇新聞台">
-<title lang="zh">寰宇晚間新聞</title>
-<desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-</programme>
-<programme start="20260616085500 +0000" stop="20260616095500 +0000" channel="寰宇新聞台">
-<title lang="zh">寰宇晚間新聞</title>
-<desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
-</programme>
 <programme start="20260616095500 +0000" stop="20260616105500 +0000" channel="寰宇新聞台">
 <title lang="zh">寰宇晚間新聞</title>
 <desc lang="zh">寰宇晚間新聞給你最在地的台灣新聞、最深入的兩岸焦點，掌握國際情勢帶您了解社會脈動。</desc>
@@ -189979,50 +189334,6 @@
 </programme>
 <channel id="寰宇新聞台"><display-name lang="zh">寰宇新聞台</display-name></channel>
 <channel id="第1商業台"><display-name lang="zh">第1商業台</display-name></channel>
-<programme start="20260616040000 +0000" stop="20260616050000 +0000" channel="第1商業台">
-<title lang="zh">財經資訊</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616050000 +0000" stop="20260616060000 +0000" channel="第1商業台">
-<title lang="zh">財經資訊</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616060000 +0000" stop="20260616063000 +0000" channel="第1商業台">
-<title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616063000 +0000" stop="20260616070000 +0000" channel="第1商業台">
-<title lang="zh">啟發投顧精選</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616070000 +0000" stop="20260616073000 +0000" channel="第1商業台">
-<title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616073000 +0000" stop="20260616080000 +0000" channel="第1商業台">
-<title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616080000 +0000" stop="20260616083000 +0000" channel="第1商業台">
-<title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616083000 +0000" stop="20260616090000 +0000" channel="第1商業台">
-<title lang="zh">汪海華_操盤的智慧</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616090000 +0000" stop="20260616093000 +0000" channel="第1商業台">
-<title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616093000 +0000" stop="20260616100000 +0000" channel="第1商業台">
-<title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title>
-<desc lang="zh"></desc>
-</programme>
-<programme start="20260616100000 +0000" stop="20260616103000 +0000" channel="第1商業台">
-<title lang="zh">阪田戰法-寶得富-顧奎國分析師</title>
-<desc lang="zh"></desc>
-</programme>
 <programme start="20260616103000 +0000" stop="20260616110000 +0000" channel="第1商業台">
 <title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title>
 <desc lang="zh"></desc>
@@ -190884,10 +190195,6 @@
 <desc lang="zh"></desc>
 </programme>
 <channel id="國會頻道1台"><display-name lang="zh">國會頻道1台</display-name></channel>
-<programme start="20260616010000 +0000" stop="20260616100000 +0000" channel="國會頻道1台">
-<title lang="zh">立法院會議直播</title>
-<desc lang="zh"></desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616160000 +0000" channel="國會頻道1台">
 <title lang="zh">當日立法院會議轉播</title>
 <desc lang="zh"></desc>
@@ -190989,10 +190296,6 @@
 <desc lang="zh"></desc>
 </programme>
 <channel id="國會頻道2台"><display-name lang="zh">國會頻道2台</display-name></channel>
-<programme start="20260616010000 +0000" stop="20260616100000 +0000" channel="國會頻道2台">
-<title lang="zh">立法院會議直播</title>
-<desc lang="zh"></desc>
-</programme>
 <programme start="20260616100000 +0000" stop="20260616160000 +0000" channel="國會頻道2台">
 <title lang="zh">當日立法院會議轉播</title>
 <desc lang="zh"></desc>
@@ -191118,38 +190421,38 @@
 <desc lang="zh">/</desc>
 </programme>
 <programme start="20260616100000 +0800" stop="20260617140000 +0800" channel="咪咕体育">
-<title lang="zh">徐文婧冲正赛！鲍骊婧/曹梓涵领衔出战徐文婧冲正赛！鲍骊婧/曹梓涵领衔出战</title>
+<title lang="zh">鲍曹组合晋级 徐文婧无缘正赛鲍曹组合晋级 徐文婧无缘正赛</title>
 <desc lang="zh">/</desc>
 </programme>
-<programme start="20260616125500 +0800" stop="20260616170000 +0800" channel="咪咕体育">
-<title lang="zh">浙江稠州银行 vs 北京首钢浙江稠州银行 vs 北京首钢</title>
+<programme start="20260616125500 +0800" stop="20260616144600 +0800" channel="咪咕体育">
+<title lang="zh">浙江稠州银行67-99北京首钢浙江稠州银行67-99北京首钢</title>
 <desc lang="zh">/</desc>
 </programme>
-<programme start="20260616125500 +0800" stop="20260616170000 +0800" channel="咪咕体育">
-<title lang="zh">四川锦城 vs 深圳新世纪四川锦城 vs 深圳新世纪</title>
+<programme start="20260616125500 +0800" stop="20260616145300 +0800" channel="咪咕体育">
+<title lang="zh">四川锦城69-61深圳新世纪四川锦城69-61深圳新世纪</title>
 <desc lang="zh">/</desc>
 </programme>
-<programme start="20260616145500 +0800" stop="20260616190000 +0800" channel="咪咕体育">
-<title lang="zh">南京同曦 vs 上海久事南京同曦 vs 上海久事</title>
+<programme start="20260616145500 +0800" stop="20260616173134 +0800" channel="咪咕体育">
+<title lang="zh">南京同曦87-94上海久事南京同曦87-94上海久事</title>
 <desc lang="zh">/</desc>
 </programme>
-<programme start="20260616145500 +0800" stop="20260616190000 +0800" channel="咪咕体育">
-<title lang="zh">北控青年 vs 江苏肯帝亚北控青年 vs 江苏肯帝亚</title>
+<programme start="20260616145500 +0800" stop="20260616164630 +0800" channel="咪咕体育">
+<title lang="zh">北控青年105-84江苏肯帝亚北控青年105-84江苏肯帝亚</title>
 <desc lang="zh">/</desc>
 </programme>
 <programme start="20260616160000 +0800" stop="20260618200000 +0800" channel="咪咕体育">
-<title lang="zh">方博打响复出第二站 袁励岑、薛飞冲正赛方博打响复出第二站 袁励岑、薛飞冲正赛</title>
+<title lang="zh">方博迎开门红 袁励岑、薛飞冲正赛方博迎开门红 袁励岑、薛飞冲正赛</title>
 <desc lang="zh">/</desc>
 </programme>
 <programme start="20260616170000 +0800" stop="20260617210000 +0800" channel="咪咕体育">
-<title lang="zh">斯维托丽娜、小威廉姆斯出战斯维托丽娜、小威廉姆斯出战</title>
+<title lang="zh">斯维托丽娜登场 小威女双出战斯维托丽娜登场 小威女双出战</title>
 <desc lang="zh">/</desc>
 </programme>
 <programme start="20260616170000 +0800" stop="20260617210000 +0800" channel="咪咕体育">
 <title lang="zh">傅家俊、姚朋成出战傅家俊、姚朋成出战</title>
 <desc lang="zh">/</desc>
 </programme>
-<programme start="20260616170000 +0800" stop="20260617210000 +0800" channel="咪咕体育">
+<programme start="20260616170000 +0800" stop="20260616182410 +0800" channel="咪咕体育">
 <title lang="zh">WTA500柏林站女单第一轮：凯斯 vs 王欣瑜凯斯 vs 王欣瑜</title>
 <desc lang="zh">/</desc>
 </programme>
@@ -191161,16 +190464,16 @@
 <title lang="zh">苏科雄狮 vs 浙江广厦苏科雄狮 vs 浙江广厦</title>
 <desc lang="zh">/</desc>
 </programme>
-<programme start="20260616183000 +0800" stop="20260617223000 +0800" channel="咪咕体育">
-<title lang="zh">WTA500柏林站女单第一轮：张帅 vs 穆霍娃张帅 vs 穆霍娃</title>
-<desc lang="zh">/</desc>
-</programme>
 <programme start="20260616190000 +0800" stop="20260616230000 +0800" channel="咪咕体育">
 <title lang="zh">CUVA男子高水平组总决赛：北京体育大学vs南昌大学CUVA男子高水平组总决赛：北京体育大学vs南昌大学</title>
 <desc lang="zh">/</desc>
 </programme>
 <programme start="20260616190000 +0800" stop="20260616230000 +0800" channel="咪咕体育">
 <title lang="zh">《绿茵狂想》第5期《绿茵狂想》第5期</title>
+<desc lang="zh">/</desc>
+</programme>
+<programme start="20260616191000 +0800" stop="20260617231000 +0800" channel="咪咕体育">
+<title lang="zh">WTA500柏林站女单第一轮：张帅 vs 穆霍娃张帅 vs 穆霍娃</title>
 <desc lang="zh">/</desc>
 </programme>
 <programme start="20260616195500 +0800" stop="20260617000000 +0800" channel="咪咕体育">
@@ -193504,19 +192807,19 @@
 <title lang="zh">SBS 8 뉴스</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617210000 +0900" stop="20260617225000 +0900" channel="SBS">
+<programme start="20260617210000 +0900" stop="20260617230000 +0900" channel="SBS">
 <title lang="zh">골 때리는 그녀들 - 골 때리는 체육대회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617225000 +0900" stop="20260618001000 +0900" channel="SBS">
+<programme start="20260617230000 +0900" stop="20260618002000 +0900" channel="SBS">
 <title lang="zh">법륜로드 : 스님과 손님</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260618001000 +0900" stop="20260618004000 +0900" channel="SBS">
+<programme start="20260618002000 +0900" stop="20260618005000 +0900" channel="SBS">
 <title lang="zh">나이트라인</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260618004000 +0900" stop="20260618011000 +0900" channel="SBS">
+<programme start="20260618005000 +0900" stop="20260618012000 +0900" channel="SBS">
 <title lang="zh">세상에서 가장 아름다운 여행 스페셜</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -193581,15 +192884,15 @@
 <title lang="zh">법륜로드 : 스님과 손님 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617040000 +0900" stop="20260617060000 +0900" channel="SBS plus">
+<programme start="20260617040000 +0900" stop="20260617055000 +0900" channel="SBS plus">
 <title lang="zh">나는 SOLO (자막해설수화)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617060000 +0900" stop="20260617080000 +0900" channel="SBS plus">
+<programme start="20260617055000 +0900" stop="20260617075000 +0900" channel="SBS plus">
 <title lang="zh">런닝맨 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617080000 +0900" stop="20260617090000 +0900" channel="SBS plus">
+<programme start="20260617075000 +0900" stop="20260617090000 +0900" channel="SBS plus">
 <title lang="zh">이호선의 사이다 </title>
 <desc lang="zh"> </desc>
 </programme>
@@ -193597,31 +192900,31 @@
 <title lang="zh">미운 우리 새끼 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617111000 +0900" stop="20260617130000 +0900" channel="SBS plus">
+<programme start="20260617111000 +0900" stop="20260617125000 +0900" channel="SBS plus">
 <title lang="zh">동상이몽 2 너는 내 운명 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617130000 +0900" stop="20260617142000 +0900" channel="SBS plus">
+<programme start="20260617125000 +0900" stop="20260617141000 +0900" channel="SBS plus">
 <title lang="zh">멋진 신세계 (자막해설)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617142000 +0900" stop="20260617155000 +0900" channel="SBS plus">
+<programme start="20260617141000 +0900" stop="20260617154000 +0900" channel="SBS plus">
 <title lang="zh">멋진 신세계 (자막해설)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617155000 +0900" stop="20260617172000 +0900" channel="SBS plus">
+<programme start="20260617154000 +0900" stop="20260617171000 +0900" channel="SBS plus">
 <title lang="zh">아니 근데 진짜 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617172000 +0900" stop="20260617191000 +0900" channel="SBS plus">
+<programme start="20260617171000 +0900" stop="20260617190000 +0900" channel="SBS plus">
 <title lang="zh">동상이몽 2 너는 내 운명 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617191000 +0900" stop="20260617203000 +0900" channel="SBS plus">
+<programme start="20260617190000 +0900" stop="20260617202000 +0900" channel="SBS plus">
 <title lang="zh">나는 SOLO, 그 후 사랑은 계속된다 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617203000 +0900" stop="20260617223000 +0900" channel="SBS plus">
+<programme start="20260617202000 +0900" stop="20260617223000 +0900" channel="SBS plus">
 <title lang="zh">나는 SOLO (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -193690,59 +192993,59 @@
 <title lang="zh">미운 우리 새끼 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617040000 +0900" stop="20260617055000 +0900" channel="SBS funE">
+<programme start="20260617040000 +0900" stop="20260617060000 +0900" channel="SBS funE">
 <title lang="zh">나는 SOLO (자막/해설/수화)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617055000 +0900" stop="20260617065000 +0900" channel="SBS funE">
+<programme start="20260617060000 +0900" stop="20260617070000 +0900" channel="SBS funE">
 <title lang="zh">이호선의 사이다 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617065000 +0900" stop="20260617081000 +0900" channel="SBS funE">
+<programme start="20260617070000 +0900" stop="20260617082000 +0900" channel="SBS funE">
 <title lang="zh">TV 동물농장 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617081000 +0900" stop="20260617093000 +0900" channel="SBS funE">
-<title lang="zh">꼬리에 꼬리를 무는 그날 이야기 (자막)</title>
+<programme start="20260617082000 +0900" stop="20260617094000 +0900" channel="SBS funE">
+<title lang="zh">접속! 무비월드 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617093000 +0900" stop="20260617111000 +0900" channel="SBS funE">
+<programme start="20260617094000 +0900" stop="20260617112000 +0900" channel="SBS funE">
 <title lang="zh">법륜로드 : 스님과 손님 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617111000 +0900" stop="20260617124000 +0900" channel="SBS funE">
+<programme start="20260617112000 +0900" stop="20260617125000 +0900" channel="SBS funE">
 <title lang="zh">아니 근데 진짜 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617124000 +0900" stop="20260617142000 +0900" channel="SBS funE">
+<programme start="20260617125000 +0900" stop="20260617143000 +0900" channel="SBS funE">
 <title lang="zh">동상이몽2 너는 내 운명 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617142000 +0900" stop="20260617155000 +0900" channel="SBS funE">
+<programme start="20260617143000 +0900" stop="20260617160000 +0900" channel="SBS funE">
 <title lang="zh">아니 근데 진짜 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617155000 +0900" stop="20260617175000 +0900" channel="SBS funE">
+<programme start="20260617160000 +0900" stop="20260617181000 +0900" channel="SBS funE">
 <title lang="zh">미운 우리 새끼 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617175000 +0900" stop="20260617193000 +0900" channel="SBS funE">
-<title lang="zh">동상이몽2 너는 내 운명 (자막)</title>
+<programme start="20260617181000 +0900" stop="20260617200000 +0900" channel="SBS funE">
+<title lang="zh">런닝맨 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617193000 +0900" stop="20260617211000 +0900" channel="SBS funE">
+<programme start="20260617200000 +0900" stop="20260617213000 +0900" channel="SBS funE">
 <title lang="zh">아니 근데 진짜 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617211000 +0900" stop="20260617232000 +0900" channel="SBS funE">
+<programme start="20260617213000 +0900" stop="20260617234000 +0900" channel="SBS funE">
 <title lang="zh">미운 우리 새끼 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617232000 +0900" stop="20260618005000 +0900" channel="SBS funE">
+<programme start="20260617234000 +0900" stop="20260618012000 +0900" channel="SBS funE">
 <title lang="zh">동상이몽2 너는 내 운명 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260618005000 +0900" stop="20260618023000 +0900" channel="SBS funE">
+<programme start="20260618012000 +0900" stop="20260618031000 +0900" channel="SBS funE">
 <title lang="zh">런닝맨 (자막)</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -193815,51 +193118,51 @@
 <title lang="zh">스타맛세권 먹어보쇼 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617073000 +0900" stop="20260617090000 +0900" channel="SBS life">
+<programme start="20260617073000 +0900" stop="20260617084000 +0900" channel="SBS life">
 <title lang="zh">더 트롯 쇼 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617090000 +0900" stop="20260617102000 +0900" channel="SBS life">
+<programme start="20260617084000 +0900" stop="20260617101000 +0900" channel="SBS life">
 <title lang="zh">TV 동물농장 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617102000 +0900" stop="20260617114000 +0900" channel="SBS life">
+<programme start="20260617101000 +0900" stop="20260617114000 +0900" channel="SBS life">
 <title lang="zh">꼬리에 꼬리를 무는 그날 이야기 3 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617114000 +0900" stop="20260617130000 +0900" channel="SBS life">
+<programme start="20260617114000 +0900" stop="20260617131000 +0900" channel="SBS life">
 <title lang="zh">생활의 달인 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617130000 +0900" stop="20260617150000 +0900" channel="SBS life">
+<programme start="20260617131000 +0900" stop="20260617151000 +0900" channel="SBS life">
 <title lang="zh">미운 우리 새끼 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617150000 +0900" stop="20260617162000 +0900" channel="SBS life">
+<programme start="20260617151000 +0900" stop="20260617163000 +0900" channel="SBS life">
 <title lang="zh">TV 동물농장 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617162000 +0900" stop="20260617180000 +0900" channel="SBS life">
+<programme start="20260617163000 +0900" stop="20260617182000 +0900" channel="SBS life">
 <title lang="zh">동상이몽2 너는 내 운명 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617180000 +0900" stop="20260617200000 +0900" channel="SBS life">
+<programme start="20260617182000 +0900" stop="20260617202000 +0900" channel="SBS life">
 <title lang="zh">미운 우리 새끼 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617200000 +0900" stop="20260617212000 +0900" channel="SBS life">
+<programme start="20260617202000 +0900" stop="20260617215000 +0900" channel="SBS life">
 <title lang="zh">생활의 달인 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617212000 +0900" stop="20260617231000 +0900" channel="SBS life">
+<programme start="20260617215000 +0900" stop="20260617233000 +0900" channel="SBS life">
 <title lang="zh">동상이몽2 너는 내 운명 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617231000 +0900" stop="20260618003000 +0900" channel="SBS life">
+<programme start="20260617233000 +0900" stop="20260618005000 +0900" channel="SBS life">
 <title lang="zh">TV 동물농장 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260618003000 +0900" stop="20260618021000 +0900" channel="SBS life">
+<programme start="20260618005000 +0900" stop="20260618022000 +0900" channel="SBS life">
 <title lang="zh">대한민국 치킨대전 </title>
 <desc lang="zh"> </desc>
 </programme>
@@ -194070,7 +193373,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617110000 +0900" stop="20260617133000 +0900" channel="SBS Golf">
-<title lang="zh">2026 KLPGA sH수협은행 MBN여자오픈 FR</title>
+<title lang="zh">2026 KLPGA Sh수협은행 MBN여자오픈 FR</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617133000 +0900" stop="20260617143000 +0900" channel="SBS Golf">
@@ -194090,7 +193393,7 @@
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617180000 +0900" stop="20260617203000 +0900" channel="SBS Golf">
-<title lang="zh">KLPGA 2026 휘닉스CC 드림투어 9차전</title>
+<title lang="zh">KLPGA 2026 군산CC 드림투어 8차전</title>
 <desc lang="zh"> </desc>
 </programme>
 <programme start="20260617203000 +0900" stop="20260617213000 +0900" channel="SBS Golf">
@@ -194673,68 +193976,72 @@
 <title lang="zh">오은영 리포트 결혼지옥 172회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616030900 +0900" stop="20260616050000 +0900" channel="MBC every1">
+<programme start="20260616030900 +0900" stop="20260616050400 +0900" channel="MBC every1">
 <title lang="zh">어서와~ 한국은 처음이지? 325회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617050000 +0900" stop="20260617055000 +0900" channel="MBC every1">
+<programme start="20260617050400 +0900" stop="20260617053800 +0900" channel="MBC every1">
 <title lang="zh">쇼킹 받는 차트 스페셜 24회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617055000 +0900" stop="20260617073000 +0900" channel="MBC every1">
+<programme start="20260617053800 +0900" stop="20260617070700 +0900" channel="MBC every1">
 <title lang="zh">태어난 김에 세계일주 2 1회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617073000 +0900" stop="20260617092000 +0900" channel="MBC every1">
+<programme start="20260617070700 +0900" stop="20260617084900 +0900" channel="MBC every1">
 <title lang="zh">위대한 가이드 3 2회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617092000 +0900" stop="20260617105000 +0900" channel="MBC every1">
+<programme start="20260617084900 +0900" stop="20260617101600 +0900" channel="MBC every1">
 <title lang="zh">오은영 리포트 결혼지옥 172회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617105000 +0900" stop="20260617123000 +0900" channel="MBC every1">
+<programme start="20260617101600 +0900" stop="20260617121000 +0900" channel="MBC every1">
 <title lang="zh">전지적 참견 시점 402회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617123000 +0900" stop="20260617142000 +0900" channel="MBC every1">
+<programme start="20260617121000 +0900" stop="20260617140400 +0900" channel="MBC every1">
 <title lang="zh">히든 아이 89회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617142000 +0900" stop="20260617155000 +0900" channel="MBC every1">
+<programme start="20260617140400 +0900" stop="20260617153000 +0900" channel="MBC every1">
 <title lang="zh">오은영 리포트 결혼지옥 172회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617155000 +0900" stop="20260617173000 +0900" channel="MBC every1">
+<programme start="20260617153000 +0900" stop="20260617172400 +0900" channel="MBC every1">
 <title lang="zh">전지적 참견 시점 402회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617173000 +0900" stop="20260617191000 +0900" channel="MBC every1">
+<programme start="20260617172400 +0900" stop="20260617191100 +0900" channel="MBC every1">
 <title lang="zh">나 혼자 산다 651회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617191000 +0900" stop="20260617210000 +0900" channel="MBC every1">
+<programme start="20260617191100 +0900" stop="20260617205700 +0900" channel="MBC every1">
 <title lang="zh">어서와~ 한국은 처음이지? 432회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617210000 +0900" stop="20260617225000 +0900" channel="MBC every1">
+<programme start="20260617205700 +0900" stop="20260617223700 +0900" channel="MBC every1">
 <title lang="zh">나 혼자 산다 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617225000 +0900" stop="20260618000000 +0900" channel="MBC every1">
+<programme start="20260617223700 +0900" stop="20260617234900 +0900" channel="MBC every1">
 <title lang="zh">전지적 참견 시점 402회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617000000 +0900" stop="20260617015000 +0900" channel="MBC every1">
+<programme start="20260617234900 +0900" stop="20260618013300 +0900" channel="MBC every1">
 <title lang="zh">위대한 가이드 3 2회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617015000 +0900" stop="20260617034000 +0900" channel="MBC every1">
+<programme start="20260617013300 +0900" stop="20260617032800 +0900" channel="MBC every1">
 <title lang="zh">소라와 진경 8회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617034000 +0900" stop="20260617050000 +0900" channel="MBC every1">
+<programme start="20260617032800 +0900" stop="20260617043900 +0900" channel="MBC every1">
 <title lang="zh">오십프로 1회</title>
+<desc lang="zh"> </desc>
+</programme>
+<programme start="20260617043900 +0900" stop="20260617050000 +0900" channel="MBC every1">
+<title lang="zh">히든 아이 라이브 이슈 5회</title>
 <desc lang="zh"> </desc>
 </programme>
 <channel id="MBC drama"><display-name lang="zh">MBC drama</display-name></channel>
@@ -194818,87 +194125,87 @@
 <title lang="zh">영화,왓수다 1회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616043000 +0900" stop="20260616050000 +0900" channel="MBC drama">
+<programme start="20260616043000 +0900" stop="20260616050500 +0900" channel="MBC drama">
 <title lang="zh">인생은 항구다 9회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617050000 +0900" stop="20260617060000 +0900" channel="MBC drama">
+<programme start="20260617050500 +0900" stop="20260617060000 +0900" channel="MBC drama">
 <title lang="zh">트롯 챔피언 80회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617060000 +0900" stop="20260617064000 +0900" channel="MBC drama">
+<programme start="20260617060000 +0900" stop="20260617063200 +0900" channel="MBC drama">
 <title lang="zh">첫 번째 남자 125회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617064000 +0900" stop="20260617072000 +0900" channel="MBC drama">
+<programme start="20260617063200 +0900" stop="20260617070900 +0900" channel="MBC drama">
 <title lang="zh">첫 번째 남자 126회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617072000 +0900" stop="20260617080000 +0900" channel="MBC drama">
+<programme start="20260617070900 +0900" stop="20260617074700 +0900" channel="MBC drama">
 <title lang="zh">첫 번째 남자 127회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617080000 +0900" stop="20260617101000 +0900" channel="MBC drama">
-<title lang="zh">소라와 진경 8회</title>
+<programme start="20260617074700 +0900" stop="20260617095800 +0900" channel="MBC drama">
+<title lang="zh">소라와 진경 </title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617101000 +0900" stop="20260617115000 +0900" channel="MBC drama">
+<programme start="20260617095800 +0900" stop="20260617112100 +0900" channel="MBC drama">
 <title lang="zh">놀면 뭐하니? 333회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617115000 +0900" stop="20260617130000 +0900" channel="MBC drama">
+<programme start="20260617112100 +0900" stop="20260617123200 +0900" channel="MBC drama">
 <title lang="zh">전지적 참견 시점 402회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617130000 +0900" stop="20260617145000 +0900" channel="MBC drama">
+<programme start="20260617123200 +0900" stop="20260617141300 +0900" channel="MBC drama">
 <title lang="zh">나 혼자 산다 651회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617145000 +0900" stop="20260617160000 +0900" channel="MBC drama">
+<programme start="20260617141300 +0900" stop="20260617153600 +0900" channel="MBC drama">
 <title lang="zh">오십프로 7회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617160000 +0900" stop="20260617172000 +0900" channel="MBC drama">
+<programme start="20260617153600 +0900" stop="20260617165300 +0900" channel="MBC drama">
 <title lang="zh">오십프로 8회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617172000 +0900" stop="20260617185000 +0900" channel="MBC drama">
+<programme start="20260617165300 +0900" stop="20260617181700 +0900" channel="MBC drama">
 <title lang="zh">오은영 리포트 결혼지옥 172회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617185000 +0900" stop="20260617202000 +0900" channel="MBC drama">
+<programme start="20260617181700 +0900" stop="20260617193900 +0900" channel="MBC drama">
 <title lang="zh">놀면 뭐하니? 333회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617202000 +0900" stop="20260617213000 +0900" channel="MBC drama">
+<programme start="20260617193900 +0900" stop="20260617212400 +0900" channel="MBC drama">
 <title lang="zh">전지적 참견 시점 402회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617213000 +0900" stop="20260617224000 +0900" channel="MBC drama">
+<programme start="20260617212400 +0900" stop="20260617224100 +0900" channel="MBC drama">
 <title lang="zh">오십프로 7회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617224000 +0900" stop="20260618000000 +0900" channel="MBC drama">
+<programme start="20260617224100 +0900" stop="20260618000000 +0900" channel="MBC drama">
 <title lang="zh">오십프로 8회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617000000 +0900" stop="20260617010000 +0900" channel="MBC drama">
+<programme start="20260617000000 +0900" stop="20260617010300 +0900" channel="MBC drama">
 <title lang="zh">휴먼다큐 소원 3회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617010000 +0900" stop="20260617025000 +0900" channel="MBC drama">
+<programme start="20260617010300 +0900" stop="20260617024800 +0900" channel="MBC drama">
 <title lang="zh">히든 아이 89회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617025000 +0900" stop="20260617040000 +0900" channel="MBC drama">
+<programme start="20260617024800 +0900" stop="20260617035300 +0900" channel="MBC drama">
 <title lang="zh">출발! 비디오 여행 1639회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617040000 +0900" stop="20260617043000 +0900" channel="MBC drama">
-<title lang="zh">영화,왓수다 2회</title>
+<programme start="20260617035300 +0900" stop="20260617042900 +0900" channel="MBC drama">
+<title lang="zh">영화,왓수다 8회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617043000 +0900" stop="20260617050000 +0900" channel="MBC drama">
+<programme start="20260617042900 +0900" stop="20260617050000 +0900" channel="MBC drama">
 <title lang="zh">인생은 항구다 10회</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -194975,59 +194282,59 @@
 <title lang="zh">나 혼자 산다 651회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616035400 +0900" stop="20260616050000 +0900" channel="MBC music">
+<programme start="20260616035400 +0900" stop="20260616050300 +0900" channel="MBC music">
 <title lang="zh">전지적 참견 시점 402회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617050000 +0900" stop="20260617063000 +0900" channel="MBC music">
+<programme start="20260617050300 +0900" stop="20260617061600 +0900" channel="MBC music">
 <title lang="zh">쇼 챔피언 517회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617063000 +0900" stop="20260617081000 +0900" channel="MBC music">
+<programme start="20260617061600 +0900" stop="20260617081900 +0900" channel="MBC music">
 <title lang="zh">나 혼자 산다 651회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617081000 +0900" stop="20260617100000 +0900" channel="MBC music">
+<programme start="20260617081900 +0900" stop="20260617093600 +0900" channel="MBC music">
 <title lang="zh">오은영 리포트 결혼지옥 172회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617100000 +0900" stop="20260617104000 +0900" channel="MBC music">
+<programme start="20260617093600 +0900" stop="20260617101300 +0900" channel="MBC music">
 <title lang="zh">친절한 선주씨 11회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617104000 +0900" stop="20260617112000 +0900" channel="MBC music">
+<programme start="20260617101300 +0900" stop="20260617105000 +0900" channel="MBC music">
 <title lang="zh">친절한 선주씨 12회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617112000 +0900" stop="20260617120000 +0900" channel="MBC music">
+<programme start="20260617105000 +0900" stop="20260617112700 +0900" channel="MBC music">
 <title lang="zh">친절한 선주씨 13회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617120000 +0900" stop="20260617124000 +0900" channel="MBC music">
+<programme start="20260617112700 +0900" stop="20260617120300 +0900" channel="MBC music">
 <title lang="zh">친절한 선주씨 14회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617124000 +0900" stop="20260617132000 +0900" channel="MBC music">
+<programme start="20260617120300 +0900" stop="20260617124200 +0900" channel="MBC music">
 <title lang="zh">친절한 선주씨 15회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617132000 +0900" stop="20260617143000 +0900" channel="MBC music">
+<programme start="20260617124200 +0900" stop="20260617135600 +0900" channel="MBC music">
 <title lang="zh">옥중화 47회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617143000 +0900" stop="20260617155000 +0900" channel="MBC music">
+<programme start="20260617135600 +0900" stop="20260617151100 +0900" channel="MBC music">
 <title lang="zh">옥중화 48회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617155000 +0900" stop="20260617170000 +0900" channel="MBC music">
+<programme start="20260617151100 +0900" stop="20260617165200 +0900" channel="MBC music">
 <title lang="zh">전지적 참견 시점 402회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617170000 +0900" stop="20260617183000 +0900" channel="MBC music">
+<programme start="20260617165200 +0900" stop="20260617182500 +0900" channel="MBC music">
 <title lang="zh">라디오스타 967회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617183000 +0900" stop="20260617190000 +0900" channel="MBC music">
+<programme start="20260617182500 +0900" stop="20260617190000 +0900" channel="MBC music">
 <title lang="zh">오프에어 16회</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -195039,23 +194346,23 @@
 <title lang="zh">히든아이 89회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617221000 +0900" stop="20260618000000 +0900" channel="MBC music">
+<programme start="20260617221000 +0900" stop="20260617234300 +0900" channel="MBC music">
 <title lang="zh">위대한 가이드 3 2회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617000000 +0900" stop="20260617005000 +0900" channel="MBC music">
+<programme start="20260617234300 +0900" stop="20260618004000 +0900" channel="MBC music">
 <title lang="zh">나 혼자 산다 651회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617005000 +0900" stop="20260617020000 +0900" channel="MBC music">
+<programme start="20260617004000 +0900" stop="20260617015700 +0900" channel="MBC music">
 <title lang="zh">심야괴담회 5 1회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617020000 +0900" stop="20260617032000 +0900" channel="MBC music">
+<programme start="20260617015700 +0900" stop="20260617031800 +0900" channel="MBC music">
 <title lang="zh">심야괴담회 5 2회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617032000 +0900" stop="20260617050000 +0900" channel="MBC music">
+<programme start="20260617031800 +0900" stop="20260617050000 +0900" channel="MBC music">
 <title lang="zh">푹 쉬면 다행이야 72회</title>
 <desc lang="zh"> </desc>
 </programme>
@@ -195184,131 +194491,131 @@
 <title lang="zh">히든 아이 라이브이슈 10회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260616042100 +0900" stop="20260616050000 +0900" channel="MBC on">
+<programme start="20260616042100 +0900" stop="20260616050400 +0900" channel="MBC on">
 <title lang="zh">히든 아이 라이브이슈 12회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617050000 +0900" stop="20260617051500 +0900" channel="MBC on">
+<programme start="20260617050400 +0900" stop="20260617052000 +0900" channel="MBC on">
 <title lang="zh">히스토리 후 3회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617051500 +0900" stop="20260617053000 +0900" channel="MBC on">
+<programme start="20260617052000 +0900" stop="20260617054300 +0900" channel="MBC on">
 <title lang="zh">히스토리 후 7회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617053000 +0900" stop="20260617064000 +0900" channel="MBC on">
+<programme start="20260617054300 +0900" stop="20260617065600 +0900" channel="MBC on">
 <title lang="zh">마의 33회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617064000 +0900" stop="20260617075000 +0900" channel="MBC on">
+<programme start="20260617065600 +0900" stop="20260617080400 +0900" channel="MBC on">
 <title lang="zh">마의 34회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617075000 +0900" stop="20260617082000 +0900" channel="MBC on">
+<programme start="20260617080400 +0900" stop="20260617082900 +0900" channel="MBC on">
 <title lang="zh">임현식의 장터사람들 40회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617082000 +0900" stop="20260617085000 +0900" channel="MBC on">
+<programme start="20260617082900 +0900" stop="20260617090400 +0900" channel="MBC on">
 <title lang="zh">임현식의 장터사람들 41회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617085000 +0900" stop="20260617092500 +0900" channel="MBC on">
+<programme start="20260617090400 +0900" stop="20260617093600 +0900" channel="MBC on">
 <title lang="zh">그래도 좋아 98회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617092500 +0900" stop="20260617100000 +0900" channel="MBC on">
+<programme start="20260617093600 +0900" stop="20260617102000 +0900" channel="MBC on">
 <title lang="zh">그래도 좋아 99회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617100000 +0900" stop="20260617104000 +0900" channel="MBC on">
+<programme start="20260617102000 +0900" stop="20260617105000 +0900" channel="MBC on">
 <title lang="zh">워킹맘 육아대디 79회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617104000 +0900" stop="20260617112000 +0900" channel="MBC on">
+<programme start="20260617105000 +0900" stop="20260617112500 +0900" channel="MBC on">
 <title lang="zh">워킹맘 육아대디 80회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617112000 +0900" stop="20260617120000 +0900" channel="MBC on">
+<programme start="20260617112500 +0900" stop="20260617120800 +0900" channel="MBC on">
 <title lang="zh">워킹맘 육아대디 81회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617120000 +0900" stop="20260617124000 +0900" channel="MBC on">
+<programme start="20260617120800 +0900" stop="20260617124200 +0900" channel="MBC on">
 <title lang="zh">밥 줘 49회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617124000 +0900" stop="20260617132000 +0900" channel="MBC on">
+<programme start="20260617124200 +0900" stop="20260617132400 +0900" channel="MBC on">
 <title lang="zh">밥 줘 50회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617132000 +0900" stop="20260617140000 +0900" channel="MBC on">
+<programme start="20260617132400 +0900" stop="20260617141100 +0900" channel="MBC on">
 <title lang="zh">밥 줘 51회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617140000 +0900" stop="20260617152000 +0900" channel="MBC on">
+<programme start="20260617141100 +0900" stop="20260617152700 +0900" channel="MBC on">
 <title lang="zh">마의 33회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617152000 +0900" stop="20260617163000 +0900" channel="MBC on">
+<programme start="20260617152700 +0900" stop="20260617163900 +0900" channel="MBC on">
 <title lang="zh">마의 34회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617163000 +0900" stop="20260617175000 +0900" channel="MBC on">
+<programme start="20260617163900 +0900" stop="20260617174900 +0900" channel="MBC on">
 <title lang="zh">기황후 25회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617175000 +0900" stop="20260617190000 +0900" channel="MBC on">
+<programme start="20260617174900 +0900" stop="20260617185900 +0900" channel="MBC on">
 <title lang="zh">기황후 26회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617190000 +0900" stop="20260617193000 +0900" channel="MBC on">
+<programme start="20260617185900 +0900" stop="20260617192300 +0900" channel="MBC on">
 <title lang="zh">임현식의 장터사람들 73회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617193000 +0900" stop="20260617200000 +0900" channel="MBC on">
+<programme start="20260617192300 +0900" stop="20260617200000 +0900" channel="MBC on">
 <title lang="zh">임현식의 장터사람들 74회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617200000 +0900" stop="20260617210000 +0900" channel="MBC on">
+<programme start="20260617200000 +0900" stop="20260617205900 +0900" channel="MBC on">
 <title lang="zh">전원일기 1006회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617210000 +0900" stop="20260617220000 +0900" channel="MBC on">
+<programme start="20260617205900 +0900" stop="20260617215700 +0900" channel="MBC on">
 <title lang="zh">전원일기 1007회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617220000 +0900" stop="20260617230000 +0900" channel="MBC on">
+<programme start="20260617215700 +0900" stop="20260617230000 +0900" channel="MBC on">
 <title lang="zh">전원일기 1008회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617230000 +0900" stop="20260618000000 +0900" channel="MBC on">
+<programme start="20260617230000 +0900" stop="20260617235200 +0900" channel="MBC on">
 <title lang="zh">봄날의 기적 (2026) 9회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617000000 +0900" stop="20260617004000 +0900" channel="MBC on">
+<programme start="20260617235200 +0900" stop="20260618002900 +0900" channel="MBC on">
 <title lang="zh">스타 서바이벌 동거동락 68회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617004000 +0900" stop="20260617012000 +0900" channel="MBC on">
+<programme start="20260617002900 +0900" stop="20260617011700 +0900" channel="MBC on">
 <title lang="zh">스타 서바이벌 동거동락 69회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617012000 +0900" stop="20260617030000 +0900" channel="MBC on">
+<programme start="20260617011700 +0900" stop="20260617024400 +0900" channel="MBC on">
 <title lang="zh">위대한 가이드3 2회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617030000 +0900" stop="20260617033000 +0900" channel="MBC on">
+<programme start="20260617024400 +0900" stop="20260617031200 +0900" channel="MBC on">
 <title lang="zh">첫 번째 남자 121회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617033000 +0900" stop="20260617040000 +0900" channel="MBC on">
+<programme start="20260617031200 +0900" stop="20260617035100 +0900" channel="MBC on">
 <title lang="zh">첫 번째 남자 122회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617040000 +0900" stop="20260617043000 +0900" channel="MBC on">
+<programme start="20260617035100 +0900" stop="20260617042400 +0900" channel="MBC on">
 <title lang="zh">히든 아이 라이브이슈 25회</title>
 <desc lang="zh"> </desc>
 </programme>
-<programme start="20260617043000 +0900" stop="20260617050000 +0900" channel="MBC on">
+<programme start="20260617042400 +0900" stop="20260617050000 +0900" channel="MBC on">
 <title lang="zh">히든 아이 라이브이슈 26회</title>
 <desc lang="zh"> </desc>
 </programme>
