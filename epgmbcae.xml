@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260618113000 +0800" stop="20260618133000 +0800" channel="mbc max">
-    <title lang="en">Spotlight</title>
-    <desc lang="en">The real story of how the Spotlight team of the Boston Globeuncovered a massive scandal about the systemic coverup the Catholic Church conducted to bury the truth about Catholic priests sexually abusing children in the Boston area.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260618133000 +0800" stop="20260618153000 +0800" channel="mbc max">
     <title lang="en">Blackhat</title>
     <desc lang="en">After a case of high-level computer hacking arises, a man isreleased from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The cat-and-mouse chase leads them from the U.S.A to Hong Kong.</desc>
@@ -210,11 +204,11 @@
     <category lang="en">Movie
                (2020)</category>
   </programme>
-  <programme start="20260618130000 +0800" stop="20260618143500 +0800" channel="mbc 2">
-    <title lang="en">The Boss Baby</title>
-    <desc lang="en">While his family welcomes his newborn brother, the7-year-old Tim is disgruntled that his new brother is stealing all the attention away from him. But when Tim learns of the nefarious scheme of the CEO of Puppy Co, he teams up with his baby brother to put a stop to it.</desc>
-    <category lang="en">Movie - Cartoon
-               (2017)</category>
+  <programme start="20260621000000 +0800" stop="20260621020000 +0800" channel="mbc max">
+    <title lang="en">Edge of Tomorrow</title>
+    <desc lang="en">Major William Cage finds himself  thrown into a timeloop-forcing him to fight aliens in the same brutal battle over and over, and together with Special Forces warrior Rita Vrataski they must find a way to defeat them.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
   <programme start="20260618143500 +0800" stop="20260618150000 +0800" channel="mbc 2">
     <title lang="en">Action Zone</title>
@@ -413,5 +407,11 @@
     <desc lang="en">In this sequel, John Wick has killed a member of the HighTable, a shadowy international assassin's guild, deeming him an excommunicado (excluded member) and raising a US$ 14 million price tag for his head. A whole world of ruthless hit men and women are pursuing him around every corner.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260620233000 +0800" stop="20260621010500 +0800" channel="mbc 2">
+    <title lang="en">Peppermint</title>
+    <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
