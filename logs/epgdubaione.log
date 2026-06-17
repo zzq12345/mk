@@ -1,75 +1,13 @@
-页面 1 日期: Jun 16, 2026, 节目数量: 16
-页面 2 日期: Jun 17, 2026, 节目数量: 16
-页面 3 日期: Jun 18, 2026, 节目数量: 15
-页面 4 日期: Jun 19, 2026, 节目数量: 16
+页面 1 日期: Jun 17, 2026, 节目数量: 16
+页面 2 日期: Jun 18, 2026, 节目数量: 15
+页面 3 日期: Jun 19, 2026, 节目数量: 16
+页面 4 日期: Jun 20, 2026, 节目数量: 16
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
-  <programme start="20260616003000 +0400" stop="20260616030000 +0400" channel="Dubai One">
-    <title lang="en">Alexander</title>
-    <desc lang="en">Alexander, the King of Macedonia and one of the greatest military leaders in the history of warfare, conquers much of the known world.</desc>
-  </programme>
-  <programme start="20260616030000 +0400" stop="20260616033000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260616033000 +0400" stop="20260616040000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260616040000 +0400" stop="20260616060000 +0400" channel="Dubai One">
-    <title lang="en">The Father</title>
-    <desc lang="en">Nothing is as it seems</desc>
-  </programme>
-  <programme start="20260616060000 +0400" stop="20260616080000 +0400" channel="Dubai One">
-    <title lang="en">See How They Run</title>
-    <desc lang="en">The greatest murder ever staged.</desc>
-  </programme>
-  <programme start="20260616080000 +0400" stop="20260616083000 +0400" channel="Dubai One">
-    <title lang="en">بتوقيت دبي</title>
-  </programme>
-  <programme start="20260616083000 +0400" stop="20260616090000 +0400" channel="Dubai One">
-    <title lang="en">City of Summits</title>
-  </programme>
-  <programme start="20260616090000 +0400" stop="20260616110000 +0400" channel="Dubai One">
-    <title lang="en">The Father</title>
-    <desc lang="en">Nothing is as it seems</desc>
-  </programme>
-  <programme start="20260616110000 +0400" stop="20260616150000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260616150000 +0400" stop="20260616160000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260616160000 +0400" stop="20260616170000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260616170000 +0400" stop="20260616190000 +0400" channel="Dubai One">
-    <title lang="en">Alexander</title>
-    <desc lang="en">Alexander, the King of Macedonia and one of the greatest military leaders in the history of warfare, conquers much of the known world.</desc>
-  </programme>
-  <programme start="20260616190000 +0400" stop="20260616200000 +0400" channel="Dubai One">
-    <title lang="en">Homegrown DXB</title>
-    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
-  </programme>
-  <programme start="20260616200000 +0400" stop="20260616213000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260616213000 +0400" stop="20260616223000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260616223000 +0400" stop="20260617003000 +0400" channel="Dubai One">
-    <title lang="en">I, Tonya</title>
-    <desc lang="en">There's no need to have class when you have talent.</desc>
-  </programme>
   <programme start="20260617003000 +0400" stop="20260617023000 +0400" channel="Dubai One">
     <title lang="en">Survive</title>
     <desc lang="en">Two plane crash survivors embark on a harrowing journey out of the wilderness.</desc>
@@ -250,8 +188,70 @@
     <title lang="en">Sweet Diva</title>
     <desc lang="en">She may lose everything. Except the courage to move on.</desc>
   </programme>
-  <programme start="20260619223000 +0400" stop="20260620000000 +0400" channel="Dubai One">
+  <programme start="20260619223000 +0400" stop="20260620003000 +0400" channel="Dubai One">
     <title lang="en">The Place Beyond the Pines</title>
     <desc lang="en">One moment can change your life.</desc>
+  </programme>
+  <programme start="20260620003000 +0400" stop="20260620023000 +0400" channel="Dubai One">
+    <title lang="en">Prometheus</title>
+    <desc lang="en">Following clues to the origin of mankind, a team find a structure on a distant moon, but they soon find they are not alone.</desc>
+  </programme>
+  <programme start="20260620023000 +0400" stop="20260620030000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260620030000 +0400" stop="20260620040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260620040000 +0400" stop="20260620060000 +0400" channel="Dubai One">
+    <title lang="en">The Place Beyond the Pines</title>
+    <desc lang="en">One moment can change your life.</desc>
+  </programme>
+  <programme start="20260620060000 +0400" stop="20260620080000 +0400" channel="Dubai One">
+    <title lang="en">Monsters and Men</title>
+    <desc lang="en">One moment can change everything</desc>
+  </programme>
+  <programme start="20260620080000 +0400" stop="20260620083000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+  </programme>
+  <programme start="20260620083000 +0400" stop="20260620123000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260620123000 +0400" stop="20260620143000 +0400" channel="Dubai One">
+    <title lang="en">The Place Beyond the Pines</title>
+    <desc lang="en">One moment can change your life.</desc>
+  </programme>
+  <programme start="20260620143000 +0400" stop="20260620150000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood on Set</title>
+    <desc lang="en">The making of blockbuster movies</desc>
+  </programme>
+  <programme start="20260620150000 +0400" stop="20260620160000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260620160000 +0400" stop="20260620180000 +0400" channel="Dubai One">
+    <title lang="en">Prometheus</title>
+    <desc lang="en">Following clues to the origin of mankind, a team find a structure on a distant moon, but they soon find they are not alone.</desc>
+  </programme>
+  <programme start="20260620180000 +0400" stop="20260620200000 +0400" channel="Dubai One">
+    <title lang="en">My Little Pony</title>
+  </programme>
+  <programme start="20260620200000 +0400" stop="20260620203000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260620203000 +0400" stop="20260620213000 +0400" channel="Dubai One">
+    <title lang="en">Freeze</title>
+    <desc lang="en">The challenge to remain calm...</desc>
+  </programme>
+  <programme start="20260620213000 +0400" stop="20260620223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260620223000 +0400" stop="20260621000000 +0400" channel="Dubai One">
+    <title lang="en">Knives Out</title>
+    <desc lang="en">Everyone has a motive. No one has a clue.</desc>
   </programme>
 </tv>
