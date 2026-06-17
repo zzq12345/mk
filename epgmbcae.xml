@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260617160000 +0800" stop="20260617180000 +0800" channel="mbc max">
-    <title lang="en">The Hitman's Bodyguard</title>
-    <desc lang="en">When the best bodyguard in the world is appointed to protecta notorious hitman to bring him to court, they both have to put their ego aside to reach court on time.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260617180000 +0800" stop="20260617200000 +0800" channel="mbc max">
     <title lang="en">Hitman's Wife's Bodyguard</title>
     <desc lang="en">Bodyguard Michael Bryce finds himself embroiled in a newdangerous mission, as he teams up with hitman Darius Kincaid and his wife Sonia  in order to thwart a cyberattack in Europe.</desc>
@@ -210,11 +204,11 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260617170000 +0800" stop="20260617190000 +0800" channel="mbc 2">
-    <title lang="en">Fool's Gold</title>
-    <desc lang="en">Finn and his ex-wife Tess embark on a treasure hunt thatrekindles the flames of their love.</desc>
-    <category lang="en">Movie
-               (2008)</category>
+  <programme start="20260620050000 +0800" stop="20260620053000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
   <programme start="20260617190000 +0800" stop="20260617210000 +0800" channel="mbc 2">
     <title lang="en">How Do You Know</title>
@@ -413,5 +407,11 @@
     <desc lang="en">Orphaned by the brutal Civil war in Sudan that began in1983, these young victims traveled as many as a thousand miles on foot in search of safety.  Fifteen years later, a humanitarian effort would bring 3600 lost boys and girls to America.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260620050000 +0800" stop="20260620063500 +0800" channel="mbc 2">
+    <title lang="en">Peppermint</title>
+    <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
