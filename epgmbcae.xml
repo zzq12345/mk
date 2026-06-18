@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260619160000 +0800" stop="20260619180000 +0800" channel="mbc max">
-    <title lang="en">Mad Max: Fury Road</title>
-    <desc lang="en">Set in a dystopian landscape, the world has descended intofighting over dwindling resources, a brave woman called Furiosa tries to help the enslaved wives of a tyrant as she searches for her home, reluctantly aided by a drifter called Max.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260619180000 +0800" stop="20260619200000 +0800" channel="mbc max">
     <title lang="en">Skylines</title>
     <desc lang="en">With Earth becoming home to alien hybrids, the once-friendlyaliens start turning on the humans due to a viral infection, leaving Captain Rose Corley and her team to take a perilous trip to the heart of an extraterrestrial planet in an attempt to save mankind.</desc>
@@ -198,23 +192,11 @@
     <category lang="en">Movie
                (2004)</category>
   </programme>
-  <programme start="20260619150000 +0800" stop="20260619170000 +0800" channel="mbc 2">
-    <title lang="en">The Last Witch Hunter</title>
-    <desc lang="en">Today, Kaulder is the last witch hunter remaining, and hasspent centuries hunting down rogue witches, all the while yearning for his long-lost loved ones. However, unbeknownst to Kaulder, the Queen Witch is resurrected and seeks revenge on her killer causing an epic battle that will determine the survival of the human race.</desc>
+  <programme start="20260622030000 +0800" stop="20260622053000 +0800" channel="mbc max">
+    <title lang="en">Back to the Future</title>
+    <desc lang="en">When Marty McFly accidentally travels back in time in Dr.Emmett Brown's time machine, his presence in the past causes unforeseen consequences. He must find a way to bring the teenage version of his parents together if he doesn't want to be erased from existence.</desc>
     <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20260619170000 +0800" stop="20260619190000 +0800" channel="mbc 2">
-    <title lang="en">John Wick: Chapter 3 - Parabellum</title>
-    <desc lang="en">In this sequel, John Wick has killed a member of the HighTable, a shadowy international assassin's guild, deeming him an excommunicado (excluded member) and raising a US$ 14 million price tag for his head. A whole world of ruthless hit men and women are pursuing him around every corner.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260619190000 +0800" stop="20260619193000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
+               (1985)</category>
   </programme>
   <programme start="20260619193000 +0800" stop="20260619210000 +0800" channel="mbc 2">
     <title lang="en">The Commando</title>
@@ -389,5 +371,17 @@
     <desc lang="en">In a dystopian future, an unlikely partnership is formedbetween an ex-con and an undercover cop in the walled-off Detroit. With a local kingpin threatening to destroy the whole city, the two men must find a common ground in order to bring him down.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260622030000 +0800" stop="20260622050000 +0800" channel="mbc 2">
+    <title lang="en">My Best Friend's Wedding</title>
+    <desc lang="en">Julianne and Michael made a promise in college to marry eachother if they are still single by the age of 28. Three weeks before her 28th birthday, Michael asks to meet Julianne who expects a proposal. When she discovers that he is actually getting married, she vows to sabotage the wedding.</desc>
+    <category lang="en">Movie
+               (1997)</category>
+  </programme>
+  <programme start="20260622050000 +0800" stop="20260622063000 +0800" channel="mbc 2">
+    <title lang="en">The Hustle</title>
+    <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
