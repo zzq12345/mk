@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260618013000 +0800" stop="20260618030000 +0800" channel="mbc max">
-    <title lang="en">Mr. Deeds</title>
-    <desc lang="en">A sudden inheritance leaves a simple man swimming inmillions, which turns his life upside down as greedy associates and tabloids all vie to get something out of him, whether it's money or a juicy story.</desc>
-    <category lang="en">Movie
-               (2002)</category>
-  </programme>
-  <programme start="20260618030000 +0800" stop="20260618050000 +0800" channel="mbc max">
-    <title lang="en">Blackhat</title>
-    <desc lang="en">After a case of high-level computer hacking arises, a man isreleased from prison to help American and Chinese authorities pursue a mysterious cyber criminal. The cat-and-mouse chase leads them from the U.S.A to Hong Kong.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20260618050000 +0800" stop="20260618053000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260618053000 +0800" stop="20260618073000 +0800" channel="mbc max">
     <title lang="en">Spotlight</title>
     <desc lang="en">The real story of how the Spotlight team of the Boston Globeuncovered a massive scandal about the systemic coverup the Catholic Church conducted to bury the truth about Catholic priests sexually abusing children in the Boston area.</desc>
@@ -198,17 +180,17 @@
     <category lang="en">Movie
                (1985)</category>
   </programme>
-  <programme start="20260618010500 +0800" stop="20260618030000 +0800" channel="mbc 2">
-    <title lang="en">Life as We Know It</title>
-    <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
+  <programme start="20260620120000 +0800" stop="20260620140000 +0800" channel="mbc max">
+    <title lang="en">Back to the Future Part II</title>
+    <desc lang="en">Marty accompanies Dr. Emmett Brown to the future in amission to save his future son from prison. But when his actions in the future drastically change the present, they must set things right.</desc>
+    <category lang="en">Movie
+               (1989)</category>
+  </programme>
+  <programme start="20260620140000 +0800" stop="20260620160000 +0800" channel="mbc max">
+    <title lang="en">Scott Pilgrim vs. the World</title>
+    <desc lang="en">Scott Pilgrim (Michael Cera) is the bass guitarist for theband "Sex Bob-omb". After he begins dating Knives Chau (Ellen Wong), he later meets Ramona Flowers (Mary Elizabeth Winstead) and falls in love with her, losing interest in Knives. As if juggling 2 girls was not difficult enough, Scott learns from Ramona that in order to date her, he must defeat all seven of her evil exes.</desc>
     <category lang="en">Movie
                (2010)</category>
-  </programme>
-  <programme start="20260618030000 +0800" stop="20260618050000 +0800" channel="mbc 2">
-    <title lang="en">Blended</title>
-    <desc lang="en">After their blind date goes horribly bad, Jim and Laurendecide they should never see each other again, until they get stuck with their respective kids at a family resort.</desc>
-    <category lang="en">Movie
-               (2014)</category>
   </programme>
   <programme start="20260618050000 +0800" stop="20260618063000 +0800" channel="mbc 2">
     <title lang="en">The Boss Baby</title>
@@ -395,5 +377,17 @@
     <desc lang="en">Stephanie Plum (Katherine Heigl) loses her job, and workswith her cousin Finney as a bounty hunter . Her first case is to find officer Joe Morelli (Jason O'Mara), who's accused of murder but she faces obstacles because of his skills . During her search, she believes that he's innocent and tries to prove it.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260620130000 +0800" stop="20260620150000 +0800" channel="mbc 2">
+    <title lang="en">The Hustle</title>
+    <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
+  <programme start="20260620150000 +0800" stop="20260620170000 +0800" channel="mbc 2">
+    <title lang="en">Where'd You Go, Bernadette</title>
+    <desc lang="en">When Bee a 15 year-old's mother disappears,she sets out tofind where she is, while discovering her troubled past in the process.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
