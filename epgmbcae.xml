@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260618160000 +0800" stop="20260618180000 +0800" channel="mbc max">
-    <title lang="en">Wasp Network</title>
-    <desc lang="en">Five Cuban spies face life sentences by the Americangovernment on the charges of murder and espionage in the late 1990s.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260618180000 +0800" stop="20260618183000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260618183000 +0800" stop="20260618210000 +0800" channel="mbc max">
     <title lang="en">BlacKkKlansman</title>
     <desc lang="en">A Colorado African-American police officer, Ron Stallworth,manages to join one of the KKK’s groups, and works his way up to leading it, in his attempt to arrest its members.</desc>
@@ -210,11 +198,11 @@
     <category lang="en">Movie
                (2021)</category>
   </programme>
-  <programme start="20260618170000 +0800" stop="20260618190000 +0800" channel="mbc 2">
-    <title lang="en">Long Shot</title>
-    <desc lang="en">When Fred Flarsky reunites with his high school crush,Charlotte Field, now one of the most influential women in the world, a new spark is born between them. She hires him to write her speeches, as she prepares to run for US presidency.</desc>
+  <programme start="20260621033000 +0800" stop="20260621060000 +0800" channel="mbc max">
+    <title lang="en">Just Go with It</title>
+    <desc lang="en">Plastic surgeon Danny Maccabee fakes being married in orderto enjoy future dates. He fabricates a web of lies with his assistant as she poses as his soon-to-be-ex-wife, but that apparently gets him into more trouble and pushes away his crush.</desc>
     <category lang="en">Movie
-               (2019)</category>
+               (2011)</category>
   </programme>
   <programme start="20260618190000 +0800" stop="20260618204000 +0800" channel="mbc 2">
     <title lang="en">Teen Spirit</title>
@@ -407,5 +395,11 @@
     <desc lang="en">The story of the vampire hunter Blade, who is going throughinternal and external conflicts between his bloodthirsty nature and his desire to face evil.</desc>
     <category lang="en">Movie
                (2025)</category>
+  </programme>
+  <programme start="20260621033000 +0800" stop="20260621053000 +0800" channel="mbc 2">
+    <title lang="en">Limitless</title>
+    <desc lang="en">Down on his luck, Eddie is introduced to an experimentaldrug that ends up turning his life around as it allows him to unlock his mind's full potential. However, his newfound abilities soon garner unwanted attention, which puts his life on the line just as he starts suffering from side effects.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
