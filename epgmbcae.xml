@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260619120000 +0800" stop="20260619140000 +0800" channel="mbc max">
-    <title lang="en">Edge of Tomorrow</title>
-    <desc lang="en">Major William Cage finds himself  thrown into a timeloop-forcing him to fight aliens in the same brutal battle over and over, and together with Special Forces warrior Rita Vrataski they must find a way to defeat them.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
-  <programme start="20260619140000 +0800" stop="20260619160000 +0800" channel="mbc max">
-    <title lang="en">Ghost in the Shell</title>
-    <desc lang="en">Major Mira Killian is the first person of her kind in thenear future: a human salvaged from a horrific accident who has been cyber-enhanced to become an ideal soldier committed to apprehending the most dangerous criminals on the planet.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260619160000 +0800" stop="20260619180000 +0800" channel="mbc max">
     <title lang="en">Mad Max: Fury Road</title>
     <desc lang="en">Set in a dystopian landscape, the world has descended intofighting over dwindling resources, a brave woman called Furiosa tries to help the enslaved wives of a tyrant as she searches for her home, reluctantly aided by a drifter called Max.</desc>
@@ -198,11 +186,17 @@
     <category lang="en">Movie
                (2014)</category>
   </programme>
-  <programme start="20260619130000 +0800" stop="20260619150000 +0800" channel="mbc 2">
-    <title lang="en">Peppermint</title>
-    <desc lang="en">In the wake of a terrible tragedy, a failure of justice setsRiley North on a course to take the law into her own hands. She has spent five years getting ready to take her revenge. Woe betide anyone who has wronged her.</desc>
+  <programme start="20260621233000 +0800" stop="20260622013000 +0800" channel="mbc max">
+    <title lang="en">Second Act</title>
+    <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260622013000 +0800" stop="20260622030000 +0800" channel="mbc max">
+    <title lang="en">50 First Dates</title>
+    <desc lang="en">When Henry meets Lucy and thinks he has found the girl ofhis dreams, he discovers she has short-term memory loss and forgets him everyday.</desc>
+    <category lang="en">Movie
+               (2004)</category>
   </programme>
   <programme start="20260619150000 +0800" stop="20260619170000 +0800" channel="mbc 2">
     <title lang="en">The Last Witch Hunter</title>
@@ -389,5 +383,11 @@
     <desc lang="en">Dominic Toretto and his crew find themselves facing theultimate threat, after Cipher decides to use Jakob, Dom's younger brother to help her take Dom down.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260622013000 +0800" stop="20260622030000 +0800" channel="mbc 2">
+    <title lang="en">Brick Mansions</title>
+    <desc lang="en">In a dystopian future, an unlikely partnership is formedbetween an ex-con and an undercover cop in the walled-off Detroit. With a local kingpin threatening to destroy the whole city, the two men must find a common ground in order to bring him down.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
