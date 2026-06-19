@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260619180000 +0800" stop="20260619200000 +0800" channel="mbc max">
-    <title lang="en">Skylines</title>
-    <desc lang="en">With Earth becoming home to alien hybrids, the once-friendlyaliens start turning on the humans due to a viral infection, leaving Captain Rose Corley and her team to take a perilous trip to the heart of an extraterrestrial planet in an attempt to save mankind.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
   <programme start="20260619203000 +0800" stop="20260619223000 +0800" channel="mbc max">
     <title lang="en">Spotlight</title>
     <desc lang="en">The real story of how the Spotlight team of the Boston Globeuncovered a massive scandal about the systemic coverup the Catholic Church conducted to bury the truth about Catholic priests sexually abusing children in the Boston area.</desc>
@@ -198,11 +192,11 @@
     <category lang="en">Movie
                (1985)</category>
   </programme>
-  <programme start="20260619193000 +0800" stop="20260619210000 +0800" channel="mbc 2">
-    <title lang="en">The Commando</title>
-    <desc lang="en">After coming home from a failed mission with PTSD, a DEAagent has to defend his family, who are under attack from a convicted criminal and his thugs.</desc>
+  <programme start="20260622053000 +0800" stop="20260622073000 +0800" channel="mbc max">
+    <title lang="en">A Million Ways to Die in the West</title>
+    <desc lang="en">Albert is a sheep farmer who lacks courage, he loses hisbeloved girlfriend when he withdraws from a duel. He soon meets another lady, and his bravery and confidence must be put to the test when the lady's spouse, an infamous criminal, demands payback.</desc>
     <category lang="en">Movie
-               (2021)</category>
+               (2014)</category>
   </programme>
   <programme start="20260619210000 +0800" stop="20260619230000 +0800" channel="mbc 2">
     <title lang="en">Blended</title>
@@ -383,5 +377,11 @@
     <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260622063000 +0800" stop="20260622083000 +0800" channel="mbc 2">
+    <title lang="en">The Good Lie</title>
+    <desc lang="en">Orphaned by the brutal Civil war in Sudan that began in1983, these young victims traveled as many as a thousand miles on foot in search of safety.  Fifteen years later, a humanitarian effort would bring 3600 lost boys and girls to America.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
