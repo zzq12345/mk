@@ -3,15 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20260619150000 +0800" stop="20260619160000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
-    <category lang="en">Program</category>
-    <date>2021</date>
-  </programme>
-  <programme start="20260619160000 +0800" stop="20260619170000 +0800" channel="mbc action">
-    <title lang="en">برنامج extreme H </title>
-  </programme>
   <programme start="20260619170000 +0800" stop="20260619180000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
     <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
@@ -362,5 +353,14 @@
       <actor>Mari Hino</actor>
     </credits>
     <date>2019</date>
+  </programme>
+  <programme start="20260622020000 +0800" stop="20260622030000 +0800" channel="mbc action">
+    <title lang="en">برنامج get  out a life with bear gryls</title>
+  </programme>
+  <programme start="20260622030000 +0800" stop="20260622043000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+    <category lang="en">Program</category>
+    <date>2021</date>
   </programme>
 </tv>
