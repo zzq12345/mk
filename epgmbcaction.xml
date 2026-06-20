@@ -3,24 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20260620233000 +0800" stop="20260621010000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
-    <category lang="en">Program</category>
-    <date>2021</date>
-  </programme>
-  <programme start="20260620010000 +0800" stop="20260620020000 +0800" channel="mbc action">
-    <title lang="en">برنامج Sports Quest</title>
-  </programme>
-  <programme start="20260620020000 +0800" stop="20260620030000 +0800" channel="mbc action">
-    <title lang="en">برنامج bricks&amp;brain</title>
-  </programme>
-  <programme start="20260620030000 +0800" stop="20260620043000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
-    <category lang="en">Program</category>
-    <date>2021</date>
-  </programme>
   <programme start="20260620043000 +0800" stop="20260620053000 +0800" channel="mbc action">
     <title lang="en">برنامج ارض المليون</title>
   </programme>
@@ -356,5 +338,29 @@
     <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
     <category lang="en">Program</category>
     <date>2021</date>
+  </programme>
+  <programme start="20260622103000 +0800" stop="20260622113000 +0800" channel="mbc action">
+    <title lang="en">برنامج The Ride Life With Sung Kang</title>
+  </programme>
+  <programme start="20260622113000 +0800" stop="20260622123000 +0800" channel="mbc action">
+    <title lang="en">برنامج cars &amp; stars</title>
+  </programme>
+  <programme start="20260622123000 +0800" stop="20260622130000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+    <desc lang="en">Three talented children in a secluded orphanage discover the evil purpose behind their upbringing, so they plan to escape and lead the other children in this dangerous scheme. | Type: Series (2019)</desc>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Sumire Morohoshi</actor>
+      <actor>Mariya Ise</actor>
+      <actor>Yoshino Aoyama</actor>
+      <actor>Mari Hino</actor>
+    </credits>
+    <date>2019</date>
+  </programme>
+  <programme start="20260622130000 +0800" stop="20260622140000 +0800" channel="mbc action">
+    <title lang="en">برنامج Celebrity Car Wars</title>
+  </programme>
+  <programme start="20260622140000 +0800" stop="20260622150000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
   </programme>
 </tv>
