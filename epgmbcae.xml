@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260622120000 +0800" stop="20260622140000 +0800" channel="mbc max">
-    <title lang="en">The Commuter</title>
-    <desc lang="en">A former cop's commute takes a dark turn when his wife'slife is held as leverage against him identifying a mysterious passenger on the train he is on. With time running out, the stakes have never been so high as he is drawn into a complex conspiracy with a deadly outcome.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260622140000 +0800" stop="20260622160000 +0800" channel="mbc max">
     <title lang="en">Copshop</title>
     <desc lang="en">When the professional hitman, Bob Viddick goes after hisnext target, the con artist Teddy Murretto, things spiral out of control when Murretto hides in a small-town police station, only to find that Viddick is on his tail, along with a competing assassin, while a rookie police officer gets caught up in the mayhem.</desc>
@@ -197,6 +191,18 @@
     <desc lang="en">The essentially different lives of a wealthy man withquadriplegia and an unemployed man are intertwined when the latter works for the former, and their encounter proves that human lives cannot be lived in isolation, as both men change one another in ways beyond their imagination.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260624223000 +0800" stop="20260624230000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260624230000 +0800" stop="20260625010000 +0800" channel="mbc max">
+    <title lang="en">War Dogs</title>
+    <desc lang="en">Based on the story of two young men in their twenties, DavidPackouz and Efraim Diveroli, who won a large deal worth $300 million contract from the Pentagon to arm America's allies in Afghanistan.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
   <programme start="20260622123000 +0800" stop="20260622150000 +0800" channel="mbc 2">
     <title lang="en">The Accountant</title>
@@ -421,5 +427,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">In this sequel to the 2015 film Sicario, the drug war on theUS-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260625000000 +0800" stop="20260625020000 +0800" channel="mbc 2">
+    <title lang="en">The Many Saints of Newark</title>
+    <desc lang="en">The story chronicles the teenage years of mob boss TonySoprano growing up in Newark, New Jersey in the late 1960s, as his family gets caught up in a violent gang war.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
