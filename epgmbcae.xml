@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260622160000 +0800" stop="20260622180000 +0800" channel="mbc max">
-    <title lang="en">Wrath of Man</title>
-    <desc lang="en">With a high-stakes job that sees him moving millions ofdollars weekly across LA, H has to be tough and calculated to keep his job at the cash truck company and overcome the various obstacles that creep up in his way.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260622180000 +0800" stop="20260622203000 +0800" channel="mbc max">
     <title lang="en">Den of Thieves</title>
     <desc lang="en">While planning a bank robbery, a thief is surrounded by twogroups of dangerous criminals.</desc>
@@ -204,11 +198,11 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260622150000 +0800" stop="20260622170000 +0800" channel="mbc 2">
-    <title lang="en">Sicario</title>
-    <desc lang="en">In the border stretching between Mexico and the U.S.A., anarea that has been always out of the reach of the law, an idealistic FBI agent is assigned to aid in the escalating war against the cartel.</desc>
+  <programme start="20260625030000 +0800" stop="20260625053000 +0800" channel="mbc max">
+    <title lang="en">The Hunger Games: Catching Fire</title>
+    <desc lang="en">The repressed Panem is on the verge of rebellion as 74thHunger Game victors Katniss and Peeta visit the districts on their victory tour. The two have become symbols of defiance against the Capitol, and for that they will be targeted by the despotic President Snow and his regime.</desc>
     <category lang="en">Movie
-               (2015)</category>
+               (2013)</category>
   </programme>
   <programme start="20260622170000 +0800" stop="20260622190000 +0800" channel="mbc 2">
     <title lang="en">Sicario: Day of the Soldado</title>
@@ -433,5 +427,13 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">An assassin’s life changes upon meeting a young boy whoignites her motherhood instincts.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260625033000 +0800" stop="20260625050000 +0800" channel="mbc 2">
+    <title lang="en">The Darkest Hour</title>
+    <desc lang="en">Aliens are finally here !!!
+
+In Moscow, 5 teenagers findthemselves forced to work together in order to survive after an alien race has invaded Earth for power and minerals. The Aliens' secret is then revealed and teenagers are now capable of destroying them.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
