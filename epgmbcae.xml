@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260622180000 +0800" stop="20260622203000 +0800" channel="mbc max">
-    <title lang="en">Den of Thieves</title>
-    <desc lang="en">While planning a bank robbery, a thief is surrounded by twogroups of dangerous criminals.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260622203000 +0800" stop="20260622223000 +0800" channel="mbc max">
     <title lang="en">Get Smart</title>
     <desc lang="en">Maxwell Smart is an analyst at an American intelligenceagency who years for something more: he wants to become a field agent. Smart is promoted and partnered up with Agent 99. However, a number of comical situations occur due to Smart's lack of proper training.</desc>
@@ -204,17 +198,11 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260622170000 +0800" stop="20260622190000 +0800" channel="mbc 2">
-    <title lang="en">Sicario: Day of the Soldado</title>
-    <desc lang="en">In this sequel to the 2015 film Sicario, the drug war on theUS-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border.</desc>
+  <programme start="20260625053000 +0800" stop="20260625073000 +0800" channel="mbc max">
+    <title lang="en">Ride Along 2</title>
+    <desc lang="en">James and Ben team up again for a second Ride Alongfilm.James and Ben team up again for a second Ride Along, and try to bust some drug dealing operations in Miami, before Ben’s wedding to James’ sister.</desc>
     <category lang="en">Movie
-               (2018)</category>
-  </programme>
-  <programme start="20260622190000 +0800" stop="20260622203500 +0800" channel="mbc 2">
-    <title lang="en">Candyman</title>
-    <desc lang="en">In a sequel to the classic Candyman, the story takes placein the present day, as Anthony crosses paths with an old acquaintance and gets inspiration for his paintings, only for the encounter to unleash terror and violence.</desc>
-    <category lang="en">Movie
-               (2021)</category>
+               (2016)</category>
   </programme>
   <programme start="20260622203500 +0800" stop="20260622222500 +0800" channel="mbc 2">
     <title lang="en">Where'd You Go, Bernadette</title>
@@ -435,5 +423,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
 In Moscow, 5 teenagers findthemselves forced to work together in order to survive after an alien race has invaded Earth for power and minerals. The Aliens' secret is then revealed and teenagers are now capable of destroying them.</desc>
     <category lang="en">Movie
                (2011)</category>
+  </programme>
+  <programme start="20260625050000 +0800" stop="20260625063500 +0800" channel="mbc 2">
+    <title lang="en">The Dark Tower</title>
+    <desc lang="en">In a parallel universe, Roland Deschain fights witheverything he has to prevent his enemy, the Man in Black, from bringing down a structure that preserves reality. With the Man in Black trying to use psychic children to unleash darkness, Roland takes one of them in to save both him and the world.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
