@@ -1,88 +1,13 @@
-页面 1 日期: Jun 22, 2026, 节目数量: 19
-页面 2 日期: Jun 23, 2026, 节目数量: 17
-页面 3 日期: Jun 24, 2026, 节目数量: 17
-页面 4 日期: Jun 25, 2026, 节目数量: 16
+页面 1 日期: Jun 23, 2026, 节目数量: 17
+页面 2 日期: Jun 24, 2026, 节目数量: 17
+页面 3 日期: Jun 25, 2026, 节目数量: 16
+页面 4 日期: Jun 26, 2026, 节目数量: 17
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
-  <programme start="20260622000000 +0400" stop="20260622003000 +0400" channel="Dubai One">
-    <title lang="en">Desperate Mrs. Seonju</title>
-    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
-  </programme>
-  <programme start="20260622003000 +0400" stop="20260622023000 +0400" channel="Dubai One">
-    <title lang="en">My Friend Dahmer</title>
-    <desc lang="en">Based on the Acclaimed Graphic Novel</desc>
-  </programme>
-  <programme start="20260622023000 +0400" stop="20260622030000 +0400" channel="Dubai One">
-    <title lang="en">Hollywood News Feed</title>
-    <desc lang="en">Hottest entertainment news of the week!</desc>
-  </programme>
-  <programme start="20260622030000 +0400" stop="20260622033000 +0400" channel="Dubai One">
-    <title lang="en">Hollywood on Set</title>
-    <desc lang="en">The making of blockbuster movies</desc>
-  </programme>
-  <programme start="20260622033000 +0400" stop="20260622040000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260622040000 +0400" stop="20260622060000 +0400" channel="Dubai One">
-    <title lang="en">The Black Prince</title>
-    <desc lang="en">A story of Queen Victoria and the Last King of Punjab, Maharajah Duleep Singh.</desc>
-  </programme>
-  <programme start="20260622060000 +0400" stop="20260622080000 +0400" channel="Dubai One">
-    <title lang="en">Parasite</title>
-    <desc lang="en">Misplaced familyhood</desc>
-  </programme>
-  <programme start="20260622080000 +0400" stop="20260622090000 +0400" channel="Dubai One">
-    <title lang="en">Homegrown DXB</title>
-    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
-  </programme>
-  <programme start="20260622090000 +0400" stop="20260622110000 +0400" channel="Dubai One">
-    <title lang="en">The Black Prince</title>
-    <desc lang="en">A story of Queen Victoria and the Last King of Punjab, Maharajah Duleep Singh.</desc>
-  </programme>
-  <programme start="20260622110000 +0400" stop="20260622150000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260622150000 +0400" stop="20260622160000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260622160000 +0400" stop="20260622170000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260622170000 +0400" stop="20260622190000 +0400" channel="Dubai One">
-    <title lang="en">My Friend Dahmer</title>
-    <desc lang="en">Based on the Acclaimed Graphic Novel</desc>
-  </programme>
-  <programme start="20260622190000 +0400" stop="20260622193000 +0400" channel="Dubai One">
-    <title lang="en">Freeze</title>
-    <desc lang="en">The challenge to remain calm...</desc>
-  </programme>
-  <programme start="20260622193000 +0400" stop="20260622200000 +0400" channel="Dubai One">
-    <title lang="en">City of Summits</title>
-  </programme>
-  <programme start="20260622200000 +0400" stop="20260622203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260622203000 +0400" stop="20260622213000 +0400" channel="Dubai One">
-    <title lang="en">DXB Today</title>
-    <desc lang="en">Your guide to what's happening in Dubai!</desc>
-  </programme>
-  <programme start="20260622213000 +0400" stop="20260622223000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260622223000 +0400" stop="20260623003000 +0400" channel="Dubai One">
-    <title lang="en">The Words</title>
-    <desc lang="en">There's more than one way to take a life.</desc>
-  </programme>
   <programme start="20260623003000 +0400" stop="20260623023000 +0400" channel="Dubai One">
     <title lang="en">The Mistress of Spices</title>
     <desc lang="en">One spice for passion.</desc>
@@ -271,8 +196,71 @@
     <title lang="en">Sweet Diva</title>
     <desc lang="en">She may lose everything. Except the courage to move on.</desc>
   </programme>
-  <programme start="20260625223000 +0400" stop="20260626000000 +0400" channel="Dubai One">
+  <programme start="20260625223000 +0400" stop="20260626003000 +0400" channel="Dubai One">
     <title lang="en">Copshop</title>
     <desc lang="en">Someone's Gotta Take The Hit</desc>
+  </programme>
+  <programme start="20260626003000 +0400" stop="20260626023000 +0400" channel="Dubai One">
+    <title lang="en">Boudica: Queen of War</title>
+  </programme>
+  <programme start="20260626023000 +0400" stop="20260626030000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260626030000 +0400" stop="20260626040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260626040000 +0400" stop="20260626060000 +0400" channel="Dubai One">
+    <title lang="en">Copshop</title>
+    <desc lang="en">Someone's Gotta Take The Hit</desc>
+  </programme>
+  <programme start="20260626060000 +0400" stop="20260626080000 +0400" channel="Dubai One">
+    <title lang="en">The Lost King</title>
+  </programme>
+  <programme start="20260626080000 +0400" stop="20260626090000 +0400" channel="Dubai One">
+    <title lang="en">Sisi</title>
+    <desc lang="en">The life of Empress Elisabeth of Austria</desc>
+  </programme>
+  <programme start="20260626090000 +0400" stop="20260626110000 +0400" channel="Dubai One">
+    <title lang="en">Copshop</title>
+    <desc lang="en">Someone's Gotta Take The Hit</desc>
+  </programme>
+  <programme start="20260626110000 +0400" stop="20260626150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260626150000 +0400" stop="20260626160000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260626160000 +0400" stop="20260626170000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260626170000 +0400" stop="20260626190000 +0400" channel="Dubai One">
+    <title lang="en">Boudica: Queen of War</title>
+  </programme>
+  <programme start="20260626190000 +0400" stop="20260626193000 +0400" channel="Dubai One">
+    <title lang="en">The Quest For Knowledge</title>
+  </programme>
+  <programme start="20260626193000 +0400" stop="20260626200000 +0400" channel="Dubai One">
+    <title lang="en">بتوقيت دبي</title>
+  </programme>
+  <programme start="20260626200000 +0400" stop="20260626203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260626203000 +0400" stop="20260626213000 +0400" channel="Dubai One">
+    <title lang="en">DXB Today</title>
+    <desc lang="en">Your guide to what's happening in Dubai!</desc>
+  </programme>
+  <programme start="20260626213000 +0400" stop="20260626223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260626223000 +0400" stop="20260627000000 +0400" channel="Dubai One">
+    <title lang="en">Dead in a Week</title>
+    <desc lang="en">Even assassins have to hit their targets.</desc>
   </programme>
 </tv>
