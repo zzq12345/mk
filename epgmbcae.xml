@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260624155500 +0800" stop="20260624180000 +0800" channel="mbc max">
-    <title lang="en">The Hunger Games: Mockingjay - Part 2</title>
-    <desc lang="en">After Katniss Everdeen (Jennifer Lawrence) became the symbolof the revolution against the tyrannical Capitol system, and with the return of Peeta Mellark (Josh Hutcherson) to his comrades, Katniss with her revolutionary comrades enter a final battle against the Capitol and President Snow.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260624183000 +0800" stop="20260624200000 +0800" channel="mbc max">
     <title lang="en">Hotel Artemis</title>
     <desc lang="en">During a riot In Los Angeles, 2028, over a decision toprivatise the city’s water supply, two brothers fail to rob a bank and get badly wounded by the police. They escape to Hotel Artemis  with an underground hospital treating criminals and run by “The Nurse”. The hotel is now full of criminals and a gravely wounded cop who got admitted by The Nurse, in violation of the hotel’s most sacred rule.</desc>
@@ -204,11 +198,11 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260624170000 +0800" stop="20260624183500 +0800" channel="mbc 2">
-    <title lang="en">The Dark Tower</title>
-    <desc lang="en">In a parallel universe, Roland Deschain fights witheverything he has to prevent his enemy, the Man in Black, from bringing down a structure that preserves reality. With the Man in Black trying to use psychic children to unleash darkness, Roland takes one of them in to save both him and the world.</desc>
-    <category lang="en">Movie
-               (2017)</category>
+  <programme start="20260627050000 +0800" stop="20260627053000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
   <programme start="20260624190000 +0800" stop="20260624203000 +0800" channel="mbc 2">
     <title lang="en">Underworld: Blood Wars</title>
@@ -421,5 +415,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">Gareth Jones is a Welsh journalist who just happens to be inthe Soviet Union during the time of the man-made Holodomor famine that ended the life of millions of people, as he grows determined to uncover the truth behind the famine, even if he loses his life for it.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260627043000 +0800" stop="20260627060000 +0800" channel="mbc 2">
+    <title lang="en">All I See Is You</title>
+    <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
