@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260623045500 +0800" stop="20260623052500 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
-  <programme start="20260623052500 +0800" stop="20260623070000 +0800" channel="mbc max">
-    <title lang="en">Ride Along</title>
-    <desc lang="en">As a way to prove himself worthy of marrying Angela, James'sister, security guard Ben joins her cop brother on a day long patrol of Atlanta.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260623073000 +0800" stop="20260623093000 +0800" channel="mbc max">
     <title lang="en">The Upside</title>
     <desc lang="en">The essentially different lives of a wealthy man withquadriplegia and an unemployed man are intertwined when the latter works for the former, and their encounter proves that human lives cannot be lived in isolation, as both men change one another in ways beyond their imagination.</desc>
@@ -198,23 +186,17 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260623043500 +0800" stop="20260623050500 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
-  <programme start="20260623050500 +0800" stop="20260623063000 +0800" channel="mbc 2">
-    <title lang="en">Infinitely Polar Bear</title>
-    <desc lang="en">Cameron (Mark Ruffalo) is a depressed father who is addictedto alcohol, trying in various ways to regain his wife Maggie (Zoe Saldana) by taking full responsibility of his young daughters. In his attempt to deal with them, participate in their daily life, and do some chores, the girls do not make this task easy for the father.</desc>
+  <programme start="20260625160000 +0800" stop="20260625180000 +0800" channel="mbc max">
+    <title lang="en">The Outfit</title>
+    <desc lang="en">Leonard, an English cutter, is forced to relocate toChicago, where he runs a small shop in a poor part of the city, and before long, he begins to make many distinctive clothes for a family of gangsters.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2022)</category>
   </programme>
-  <programme start="20260623063000 +0800" stop="20260623080000 +0800" channel="mbc 2">
-    <title lang="en">Proud Mary</title>
-    <desc lang="en">An assassin’s life changes upon meeting a young boy whoignites her motherhood instincts.</desc>
+  <programme start="20260625180000 +0800" stop="20260625200000 +0800" channel="mbc max">
+    <title lang="en">The Infiltrator</title>
+    <desc lang="en">The true story of Customs Service agent Robert Mazur whoexposes a money laundering scheme by legendary drug lord Pablo Escobar</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2016)</category>
   </programme>
   <programme start="20260623083000 +0800" stop="20260623103000 +0800" channel="mbc 2">
     <title lang="en">Anna Karenina</title>
@@ -423,5 +405,23 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
     <category lang="en">Movie
                (2016)</category>
+  </programme>
+  <programme start="20260625150000 +0800" stop="20260625163000 +0800" channel="mbc 2">
+    <title lang="en">The Words</title>
+    <desc lang="en">An ambitious writer achieves fame when he pens the nextgreat American novel. His secret? The story isn't his. He soon realizes the cost of his success is much higher than expected when he has to live up to his plagiarism.</desc>
+    <category lang="en">Movie
+               (2012)</category>
+  </programme>
+  <programme start="20260625163000 +0800" stop="20260625170000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260625170000 +0800" stop="20260625183000 +0800" channel="mbc 2">
+    <title lang="en">Watcher</title>
+    <desc lang="en">After relocating to Bucharest with her husband, a youngAmerican lady discovers a stranger watching her from an apartment complex across the street.</desc>
+    <category lang="en">Movie
+               (2022)</category>
   </programme>
 </tv>
