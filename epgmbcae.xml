@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260625140000 +0800" stop="20260625160000 +0800" channel="mbc max">
-    <title lang="en">Grudge Match</title>
-    <desc lang="en">Three decades after they last came head to head (or glove toglove), two aging boxing rivals are convinced to enter the ring one last time to settle a long-festering feud.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260625160000 +0800" stop="20260625182500 +0800" channel="mbc max">
     <title lang="en">King Richard</title>
     <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
@@ -198,17 +192,11 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260625130500 +0800" stop="20260625150000 +0800" channel="mbc 2">
-    <title lang="en">The Boss Baby: Family Business</title>
-    <desc lang="en">After having grown up and drifted apart, Theodore and TimTempleton team up with a new boss baby, as they work together to thwart the plot of an evil scientist.</desc>
-    <category lang="en">Movie - Cartoon
-               (2021)</category>
-  </programme>
-  <programme start="20260625150000 +0800" stop="20260625163000 +0800" channel="mbc 2">
-    <title lang="en">The Addams Family</title>
-    <desc lang="en">The Addams family finds their home in danger when a realityTV star labels their eerie mansion as a threat to the picture-perfect community she is trying to build. As she employs every mean to get rid of them, the Addams family must fight to save their home.</desc>
+  <programme start="20260628010000 +0800" stop="20260628030000 +0800" channel="mbc max">
+    <title lang="en">Training Day</title>
+    <desc lang="en">(Jake) gets a chance to work for the Los AngelesPolice,while detective (Alonzo) is charged with training him and explaining the details of the day's work. (Jake) is shocked by what he sees on his first day of work.</desc>
     <category lang="en">Movie
-               (2019)</category>
+               (2001)</category>
   </programme>
   <programme start="20260625163000 +0800" stop="20260625170000 +0800" channel="mbc 2">
     <title lang="en">Action Zone</title>
@@ -413,5 +401,11 @@
     <desc lang="en">After relocating to Bucharest with her husband, a youngAmerican lady discovers a stranger watching her from an apartment complex across the street.</desc>
     <category lang="en">Movie
                (2022)</category>
+  </programme>
+  <programme start="20260628003000 +0800" stop="20260628030000 +0800" channel="mbc 2">
+    <title lang="en">Mystic River</title>
+    <desc lang="en">Three childhood friends are reunited after the death of thedaughter of one of them. As the father is consumed by the idea of revenge, their friend the police officer investigates the case which leads him to suspect that the third friend might be involved in the murder.</desc>
+    <category lang="en">Movie
+               (2003)</category>
   </programme>
 </tv>
