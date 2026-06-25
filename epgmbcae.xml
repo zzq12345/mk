@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260625030000 +0800" stop="20260625050000 +0800" channel="mbc max">
-    <title lang="en">The Hunger Games: Mockingjay - Part 1</title>
-    <desc lang="en">Katniss finds herself in District 13 after she literallyshatters the game forever, faced with a decision that could sway the fate of her nation. Under the leadership of President Coin and the advice of her trusted friends, Katniss reluctantly becomes the symbol of mass revolution against the autocratic Capitol.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
-  <programme start="20260625050000 +0800" stop="20260625053000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
-  <programme start="20260625053000 +0800" stop="20260625070000 +0800" channel="mbc max">
-    <title lang="en">Boogie</title>
-    <desc lang="en">As the high school student Alfred "Boogie" Chin dreams ofplaying in the NBA, he follows his parents' guidance who want to get him a scholarship from a prestigious university, while he has to cope with many obstacles.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260625070000 +0800" stop="20260625093000 +0800" channel="mbc max">
     <title lang="en">King Richard</title>
     <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
@@ -198,17 +180,11 @@
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260625043000 +0800" stop="20260625050000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
-  <programme start="20260625050000 +0800" stop="20260625065500 +0800" channel="mbc 2">
-    <title lang="en">The Boss Baby: Family Business</title>
-    <desc lang="en">After having grown up and drifted apart, Theodore and TimTempleton team up with a new boss baby, as they work together to thwart the plot of an evil scientist.</desc>
-    <category lang="en">Movie - Cartoon
-               (2021)</category>
+  <programme start="20260627160000 +0800" stop="20260627180000 +0800" channel="mbc max">
+    <title lang="en">Wrath of the Titans</title>
+    <desc lang="en">A decade after defeating the monstrous Kraken, Perseus triesto live a quiet life until he is called to rescue his father Zeus from the grip of Ares and Hades and defeat the Titans.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
   <programme start="20260625065500 +0800" stop="20260625083000 +0800" channel="mbc 2">
     <title lang="en">My Spy</title>
@@ -389,5 +365,17 @@
     <desc lang="en">Four childhood friends are reunited when the group's swornbachelor decides to get married. As they head to Las Vegas to relieve their glory days, they realize how much the Sin City has transformed.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260627150000 +0800" stop="20260627170000 +0800" channel="mbc 2">
+    <title lang="en">The Hangover</title>
+    <desc lang="en">The soon-to-be-married Doug goes with his three best menAlan, Phil, and Stu to Las Vegas for his bachelor party. After a night of hard partying, the three men wake up to find Doug missing. Hungover and unable to remember the events of the previous night, they set out on a mission to find the groom before the big day.</desc>
+    <category lang="en">Movie
+               (2009)</category>
+  </programme>
+  <programme start="20260627170000 +0800" stop="20260627190000 +0800" channel="mbc 2">
+    <title lang="en">The Hangover Part II</title>
+    <desc lang="en">Phil, Stu, Alan and Doug travel to Thailand for Stu'swedding. After the unforgettable bachelor party in Las Vegas, Stu is taking no chances and has opted for a safe, subdued pre-wedding brunch. However, things do not always go as planned.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
