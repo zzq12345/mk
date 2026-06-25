@@ -1770,10 +1770,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260625070000 +0800" stop="20260625093000 +0800" channel="mbc max">
-    <title lang="en">King Richard</title>
-    <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
-  </programme>
   <programme start="20260625100000 +0800" stop="20260625120000 +0800" channel="mbc max">
     <title lang="en">Training Day</title>
     <desc lang="en">(Jake) gets a chance to work for the Los AngelesPolice,while detective (Alonzo) is charged with training him and explaining the details of the day's work. (Jake) is shocked by what he sees on his first day of work.</desc>
@@ -1890,13 +1886,9 @@
     <title lang="en">Wrath of the Titans</title>
     <desc lang="en">A decade after defeating the monstrous Kraken, Perseus triesto live a quiet life until he is called to rescue his father Zeus from the grip of Ares and Hades and defeat the Titans.</desc>
   </programme>
-  <programme start="20260625065500 +0800" stop="20260625083000 +0800" channel="mbc 2">
-    <title lang="en">My Spy</title>
-    <desc lang="en">The tough CIA agent JJ finds himself at the mercy of thewitty 9-year-old girl Sophie, after he is secretly sent to monitor her family.</desc>
-  </programme>
-  <programme start="20260625083000 +0800" stop="20260625103000 +0800" channel="mbc 2">
-    <title lang="en">Fighting with My Family</title>
-    <desc lang="en">A biopic that tells the story of WWE professional wrestlerPaige, covering how she made it from wrestling in small venues to becoming one of the prominent stars of the WWE despite the prejudice she faced in an industry marked by violence, friction, and hostile audiences.</desc>
+  <programme start="20260627180000 +0800" stop="20260627203000 +0800" channel="mbc max">
+    <title lang="en">Immortals</title>
+    <desc lang="en">Theseus is chosen by the god, Zeus, to lead the battleagainst the cruel King Hyperion and his dangerous army that announces it's war against humanity. Disasters and damage ensue in the heart of Greece in the search for an incredible weapon that has the ability to wipe out humanity.</desc>
   </programme>
   <programme start="20260625103000 +0800" stop="20260625130000 +0800" channel="mbc 2">
     <title lang="en">Mystic River</title>
@@ -2018,17 +2010,9 @@
     <title lang="en">The Hangover Part II</title>
     <desc lang="en">Phil, Stu, Alan and Doug travel to Thailand for Stu'swedding. After the unforgettable bachelor party in Las Vegas, Stu is taking no chances and has opted for a safe, subdued pre-wedding brunch. However, things do not always go as planned.</desc>
   </programme>
-  <programme start="20260625063000 +0800" stop="20260625080000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
-  </programme>
-  <programme start="20260625080000 +0800" stop="20260625090000 +0800" channel="mbc action">
-    <title lang="en">برنامج american ninja warrior</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260625090000 +0800" stop="20260625100000 +0800" channel="mbc action">
-    <title lang="en">The Promised Neverland</title>
-    <desc lang="en">Three talented children in a secluded orphanage discover the evil purpose behind their upbringing, so they plan to escape and lead the other children in this dangerous scheme. | Type: Series (2019)</desc>
+  <programme start="20260627190000 +0800" stop="20260627210000 +0800" channel="mbc 2">
+    <title lang="en">The Hangover Part III</title>
+    <desc lang="en">After the death of Allen's father (Zach Galifianakis), thegroup decides to make a hellish plan to get him out of his ordeal and find a solution to his psychological problems. But when Doug (Justin Bartha) is kidnapped,they must come together to save him.</desc>
   </programme>
   <programme start="20260625100000 +0800" stop="20260625110000 +0800" channel="mbc action">
     <title lang="en">برنامج Accelerate</title>
@@ -2239,6 +2223,14 @@
     <desc lang=""/>
   </programme>
   <programme start="20260627170000 +0800" stop="20260627183000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
+  <programme start="20260628183000 +0800" stop="20260628200000 +0800" channel="mbc action">
+    <title lang="en">The Promised Neverland</title>
+    <desc lang="en">Three talented children in a secluded orphanage discover the evil purpose behind their upbringing, so they plan to escape and lead the other children in this dangerous scheme. | Type: Series (2019)</desc>
+  </programme>
+  <programme start="20260628200000 +0800" stop="20260628210000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
     <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
   </programme>
@@ -18606,7 +18598,15 @@
     <title lang="zh">2026 U.S. Open Championship</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260626010000 +0800" stop="20260626014500 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 World Surf League Replay</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260626010000 +0800" stop="20260626030000 +0800" channel="SPOTV  ">
+    <title lang="zh">World Athletics Continental Tour Gold 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260626014500 +0800" stop="20260626030000 +0800" channel="SPOTV  ">
     <title lang="zh">World Athletics Continental Tour Gold 2026</title>
     <desc lang="zh"/>
   </programme>
@@ -18618,12 +18618,24 @@
     <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260626040000 +0800" stop="20260626070000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260626063000 +0800" stop="20260626070000 +0800" channel="SPOTV  ">
     <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260626070000 +0800" stop="20260626140500 +0800" channel="SPOTV  ">
+    <title lang="zh">Wimbledon Qualifying Competition 2026</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260626070000 +0800" stop="20260626150000 +0800" channel="SPOTV  ">
     <title lang="zh">Wimbledon Qualifying Competition 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260626140500 +0800" stop="20260626150000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260626150000 +0800" stop="20260626193000 +0800" channel="SPOTV  ">
@@ -18642,11 +18654,27 @@
     <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260627020000 +0800" stop="20260627051000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 WTCS, Quiberon</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260627020000 +0800" stop="20260627063000 +0800" channel="SPOTV  ">
     <title lang="zh">2026 WTCS, Quiberon</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260627051000 +0800" stop="20260627061000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 WorldSBK: Rd 7 Pirelli Emilia-Romagna Round</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260627061000 +0800" stop="20260627064000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260627063000 +0800" stop="20260627073000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Women's Open Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260627064000 +0800" stop="20260627073000 +0800" channel="SPOTV  ">
     <title lang="zh">2026 U.S. Women's Open Championship</title>
     <desc lang="zh"/>
   </programme>
@@ -18670,8 +18698,20 @@
     <title lang="zh">World Athletics Continental Tour Gold 2026</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260628020000 +0800" stop="20260628023000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Preview Show</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260628020000 +0800" stop="20260628063000 +0800" channel="SPOTV  ">
     <title lang="zh">2026 R&amp;A Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260628023000 +0800" stop="20260628043000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Pan American Championships, Tlaxcala (MEX)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260628043000 +0800" stop="20260628063000 +0800" channel="SPOTV  ">
+    <title lang="zh">World Athletics Continental Tour Gold 2026</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260628063000 +0800" stop="20260628110000 +0800" channel="SPOTV  ">
@@ -18690,8 +18730,128 @@
     <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260628153000 +0800" stop="20260628233000 +0800" channel="SPOTV  ">
+    <title lang="zh">Wimbledon Qualifying Competition 2026</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260628160000 +0800" stop="20260629000000 +0800" channel="SPOTV  ">
     <title lang="zh">Wimbledon Qualifying Competition 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260628233000 +0800" stop="20260629000000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Preview Show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629000000 +0800" stop="20260629020000 +0800" channel="SPOTV  ">
+    <title lang="zh">Wanda Diamond League 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629020000 +0800" stop="20260629023000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Preview Show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629023000 +0800" stop="20260629043000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Pan American Championships, Tlaxcala (MEX)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629043000 +0800" stop="20260629063000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Pan American Championships, Tlaxcala (MEX)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629063000 +0800" stop="20260629103000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 R&amp;A Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629103000 +0800" stop="20260629110000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Preview Show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629110000 +0800" stop="20260629143000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 R&amp;A Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629143000 +0800" stop="20260629153000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 WSL Inside Pro Surfing</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629153000 +0800" stop="20260629173000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Pan American Championships, Tlaxcala (MEX)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629173000 +0800" stop="20260629193000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Pan American Championships, Tlaxcala (MEX)</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629193000 +0800" stop="20260629200000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629200000 +0800" stop="20260629202500 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Preview Show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629202500 +0800" stop="20260630040000 +0800" channel="SPOTV  ">
+    <title lang="zh">The Championships, Wimbledon 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630040000 +0800" stop="20260630050000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 WSL Inside Pro Surfing</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630050000 +0800" stop="20260630090000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 R&amp;A Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630090000 +0800" stop="20260630100000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Supercars: betr Darwin Triple Crown</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630100000 +0800" stop="20260630110000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Highlights</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630110000 +0800" stop="20260630113000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Sokin T100 San Francisco</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630113000 +0800" stop="20260630193000 +0800" channel="SPOTV  ">
+    <title lang="zh">The Championships, Wimbledon 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630193000 +0800" stop="20260630202500 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Highlights</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630202500 +0800" stop="20260701040000 +0800" channel="SPOTV  ">
+    <title lang="zh">The Championships, Wimbledon 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701040000 +0800" stop="20260701050000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Highlights</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701050000 +0800" stop="20260701090000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 R&amp;A Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701090000 +0800" stop="20260701100000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Supercars: betr Darwin Triple Crown</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701100000 +0800" stop="20260701110000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Highlights</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701110000 +0800" stop="20260701113000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 11 Sanya E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701113000 +0800" stop="20260701193000 +0800" channel="SPOTV  ">
+    <title lang="zh">The Championships, Wimbledon 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701193000 +0800" stop="20260701202500 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Wimbledon Highlights</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260625010000 +0800" stop="20260625020000 +0800" channel="SPOTV   2">
@@ -18742,8 +18902,16 @@
     <title lang="zh">MotoGP Inside Ducati Lenovo Team</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260626020000 +0800" stop="20260626063000 +0800" channel="SPOTV   2">
+    <title lang="zh">Horse Racing: Royal Ascot 2026</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260626020000 +0800" stop="20260626071000 +0800" channel="SPOTV   2">
     <title lang="zh">Horse Racing: Royal Ascot 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260626063000 +0800" stop="20260626071000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Road to Le Mans</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260626071000 +0800" stop="20260626100000 +0800" channel="SPOTV   2">
@@ -18752,6 +18920,10 @@
   </programme>
   <programme start="20260626100000 +0800" stop="20260626103000 +0800" channel="SPOTV   2">
     <title lang="zh">MotoGP Inside Ducati Lenovo Team</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260626100000 +0800" stop="20260626145500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 9 Grand Prix of Czechia</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260626103000 +0800" stop="20260626145500 +0800" channel="SPOTV   2">
@@ -18778,8 +18950,20 @@
     <title lang="zh">2026 MotoGP Rd 9 Grand Prix of Czechia</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260627020000 +0800" stop="20260627060000 +0800" channel="SPOTV   2">
+    <title lang="zh">Horse Racing: Royal Ascot 2026</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260627020000 +0800" stop="20260627071000 +0800" channel="SPOTV   2">
     <title lang="zh">Horse Racing: Royal Ascot 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260627060000 +0800" stop="20260627063000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Longines Global Champions Tour, Paris</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260627063000 +0800" stop="20260627071000 +0800" channel="SPOTV   2">
+    <title lang="zh">MotoGP Inside Ducati Lenovo Team</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260627071000 +0800" stop="20260627100000 +0800" channel="SPOTV   2">
@@ -18794,7 +18978,15 @@
     <title lang="zh">SailGP S6: Canada Sail Grand Prix</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260627143500 +0800" stop="20260627164500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260627143500 +0800" stop="20260627180000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260627164500 +0800" stop="20260627180000 +0800" channel="SPOTV   2">
     <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
     <desc lang="zh"/>
   </programme>
@@ -18802,7 +18994,15 @@
     <title lang="zh">2026 Harley-Davidson Bagger World Cup Rd 3 Assen</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260627184000 +0800" stop="20260627203000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260627184000 +0800" stop="20260627220000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260627203000 +0800" stop="20260627220000 +0800" channel="SPOTV   2">
     <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
     <desc lang="zh"/>
   </programme>
@@ -18814,11 +19014,23 @@
     <title lang="zh">2026 Red Bull MotoGP Rookies Cup Rd 4 Assen</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260628000000 +0800" stop="20260628011000 +0800" channel="SPOTV   2">
+    <title lang="zh">MotoGP Classic</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260628000000 +0800" stop="20260628023000 +0800" channel="SPOTV   2">
     <title lang="zh">26/6 2026 MLB Regular Season</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260628011000 +0800" stop="20260628040000 +0800" channel="SPOTV   2">
+    <title lang="zh">28/6 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260628023000 +0800" stop="20260628073000 +0800" channel="SPOTV   2">
+    <title lang="zh">Horse Racing: Royal Ascot 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260628040000 +0800" stop="20260628073000 +0800" channel="SPOTV   2">
     <title lang="zh">Horse Racing: Royal Ascot 2026</title>
     <desc lang="zh"/>
   </programme>
@@ -18838,6 +19050,10 @@
     <title lang="zh">WTT Star Contender Ljubljana 2026</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260628113000 +0800" stop="20260628143000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Star Contender Ljubljana 2026</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260628140000 +0800" stop="20260628143000 +0800" channel="SPOTV   2">
     <title lang="zh">2026 Longines Global Champions Tour, Paris</title>
     <desc lang="zh"/>
@@ -18850,16 +19066,136 @@
     <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260628164500 +0800" stop="20260628180000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260628164500 +0800" stop="20260628212000 +0800" channel="SPOTV   2">
     <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260628180000 +0800" stop="20260628191500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260628191500 +0800" stop="20260628212000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260628212000 +0800" stop="20260628221500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Harley-Davidson Bagger World Cup Rd 3 Assen</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260628212000 +0800" stop="20260628223000 +0800" channel="SPOTV   2">
     <title lang="zh">2026 Harley-Davidson Bagger World Cup Rd 3 Assen</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260628221500 +0800" stop="20260629010500 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Star Contender Ljubljana 2026</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260628223000 +0800" stop="20260629010000 +0800" channel="SPOTV   2">
     <title lang="zh">WTT Star Contender Ljubljana 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629010500 +0800" stop="20260629020000 +0800" channel="SPOTV   2">
+    <title lang="zh">SailGP S6: Canada Sail Grand Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629020000 +0800" stop="20260629023000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Road to Le Mans</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629023000 +0800" stop="20260629030000 +0800" channel="SPOTV   2">
+    <title lang="zh">52 SUPER SERIES GP Sailing show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629030000 +0800" stop="20260629070000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT United States Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629070000 +0800" stop="20260629090000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Longines Global Champions Tour, Paris</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629090000 +0800" stop="20260629130000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT United States Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629130000 +0800" stop="20260629133000 +0800" channel="SPOTV   2">
+    <title lang="zh">SailGP: Racing on the Edge S6</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629133000 +0800" stop="20260629140000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rewind</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629140000 +0800" stop="20260629150000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629150000 +0800" stop="20260629192500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629192500 +0800" stop="20260629195500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Global Champions League, Paris</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629195500 +0800" stop="20260630040000 +0800" channel="SPOTV   2">
+    <title lang="zh">The Championships, Wimbledon 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630040000 +0800" stop="20260630070000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT United States Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630070000 +0800" stop="20260630080000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Harley-Davidson Bagger World Cup Rd 3 Assen</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630080000 +0800" stop="20260630090000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Harley-Davidson Bagger World Cup Rd 3 Assen</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630090000 +0800" stop="20260630130000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT United States Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630130000 +0800" stop="20260630133000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Longines Global Champions Tour, Paris</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630133000 +0800" stop="20260630195500 +0800" channel="SPOTV   2">
+    <title lang="zh">The Championships, Wimbledon 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260630195500 +0800" stop="20260701040000 +0800" channel="SPOTV   2">
+    <title lang="zh">The Championships, Wimbledon 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701040000 +0800" stop="20260701070000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT United States Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701070000 +0800" stop="20260701080000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Harley-Davidson Bagger World Cup Rd 3 Assen</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701080000 +0800" stop="20260701090000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 10 Grand Prix of Netherlands</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701090000 +0800" stop="20260701130000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT United States Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701130000 +0800" stop="20260701133000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Global Champions League, Paris</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260701133000 +0800" stop="20260701195500 +0800" channel="SPOTV   2">
+    <title lang="zh">The Championships, Wimbledon 2026</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260625000000 +0800" stop="20260625020000 +0800" channel="球王台">
@@ -45130,22 +45466,6 @@
     <title lang="zh">财经慧客厅</title>
     <desc lang="zh"/>
   </programme>
-  <programme start="20260625105800 +0000" stop="20260625120000 +0000" channel="中视">
-    <title lang="zh">中视新闻全球报导</title>
-    <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="中视">
-    <title lang="zh">七个朋友</title>
-    <desc lang="zh">两岸合拍偶像剧。因高中时的一个小谎言，让心彤（任容萱）、阿泽（付辛博）与亚柏（陈奕）不但做不成朋友，阿泽和亚柏更因此结仇。几年后三人偶然重逢，心怀愧疚的心彤决心让阿泽和亚柏化敌为友，而与亚柏秘密签下契约，却因此被阿泽误会…</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625140000 +0000" channel="中视">
-    <title lang="zh">七个朋友</title>
-    <desc lang="zh">两岸合拍偶像剧。因高中时的一个小谎言，让心彤（任容萱）、阿泽（付辛博）与亚柏（陈奕）不但做不成朋友，阿泽和亚柏更因此结仇。几年后三人偶然重逢，心怀愧疚的心彤决心让阿泽和亚柏化敌为友，而与亚柏秘密签下契约，却因此被阿泽误会…</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="中视">
-    <title lang="zh">唱歌给你听</title>
-    <desc lang="zh">新生代脱颖而出的全新主持阵容─全能歌手许志豪、疗愈男声李子森、甜美歌姬杜忻恬携手搭档， 广邀台语歌坛中实力唱将，共同打造动人的音乐飨宴。</desc>
-  </programme>
   <programme start="20260625150000 +0000" stop="20260625160000 +0000" channel="中视">
     <title lang="zh">大陆寻奇</title>
     <desc lang="zh">您不必跋山涉水就可以将奇峰峻岭壮阔山河尽收眼底，「大陆寻奇」不惜巨资的大制作足迹踏遍各现代城市，穷乡僻壤，深入各民族村落，记录了外人难得一见的生活情况，以准确的地理、历史定位、用现代化思维，把中华文化忠实的呈现。</desc>
@@ -45449,22 +45769,6 @@
   <programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="中视">
     <title lang="zh">中视新闻</title>
     <desc lang="zh">由最专业的中视新闻主播，为您播报最新、最即时的新闻。</desc>
-  </programme>
-  <programme start="20260625105800 +0000" stop="20260625120000 +0000" channel="华视">
-    <title lang="zh">华视晚间新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="华视">
-    <title lang="zh">接住流星的人</title>
-    <desc lang="zh">剧情描述慈济师姑江柑（陆小芬）在三重区开设新芽课辅班，教育青少年儿童学习教育的故事。三重访视志工江柑深知能改变这些照顾户命运的，唯有教育，于是志工们走进照顾户家中陪孩子写作业、课辅，让教育成为这些孩子人生中第一道光…</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625140000 +0000" channel="华视">
-    <title lang="zh">接住流星的人</title>
-    <desc lang="zh">剧情描述慈济师姑江柑（陆小芬）在三重区开设新芽课辅班，教育青少年儿童学习教育的故事。三重访视志工江柑深知能改变这些照顾户命运的，唯有教育，于是志工们走进照顾户家中陪孩子写作业、课辅，让教育成为这些孩子人生中第一道光…</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="华视">
-    <title lang="zh">倚天屠龙记</title>
-    <desc lang="zh">张翠山与殷素素夫妻因拒透露义兄谢逊下落，为全气节而自杀，留下身中寒毒的儿子张无忌。无忌（苏有朋）后来屡获奇遇，学得绝世医术、九阳神功、乾坤大挪移等，解六大派围攻光明顶之危，被推举为明教教主，又与周芷若、赵敏等卷入儿女情仇与国仇家恨…</desc>
   </programme>
   <programme start="20260625150000 +0000" stop="20260625155500 +0000" channel="华视">
     <title lang="zh">华视夜间新闻</title>
@@ -45889,34 +46193,6 @@
   <programme start="20260630060000 +0000" stop="20260630080000 +0000" channel="华视">
     <title lang="zh">警世剧场</title>
     <desc lang="zh">社会写实单元剧，剧情效法《X档案》，以现代办案的角度来切入鬼神之说，用以警惕世人。笃信科学办案精神的刑警尚智（谢祖武）有心理学博士学位，他与先天具有阴阳眼的搭档王玉芳（赵英华），共同调查各种无法用科学解释的案件，为死者伸冤…</desc>
-  </programme>
-  <programme start="20260625110000 +0000" stop="20260625115000 +0000" channel="好消息2台">
-    <title lang="zh">家庭８点档转转发现爱</title>
-    <desc lang="zh">专注于婚姻、亲子、家庭及生活议题。节目内容涵盖教养实战、恋爱交友、理财观念与职场甘苦，透过专家多面向剖析、人生故事分享与小游戏，强调「换个思维就能找回爱」。</desc>
-  </programme>
-  <programme start="20260625115000 +0000" stop="20260625120000 +0000" channel="好消息2台">
-    <title lang="zh">爱我们的家</title>
-    <desc lang="zh">内容依家庭周期划分六大类别，涵盖婚姻经营、亲子关系、银发族财务规划及心理健康等议题，邀请专家陪同守护家庭。</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625120500 +0000" channel="好消息2台">
-    <title lang="zh">遇见祝福</title>
-    <desc lang="zh">由寇绍恩、宋达民、洪百榕等讲员分享基督信仰的信息与经历，旨在鼓励人心、带来生命转换的温暖力量。</desc>
-  </programme>
-  <programme start="20260625120500 +0000" stop="20260625130000 +0000" channel="好消息2台">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625140000 +0000" channel="好消息2台">
-    <title lang="zh">道在人间(国)</title>
-    <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625143000 +0000" channel="好消息2台">
-    <title lang="zh">展翅上腾</title>
-    <desc lang="zh">史帝文‧弗提克为美国北卡罗来纳州夏洛特市 Elevation Church 的主任牧师，他融合了新世代的文化与正统基督教的信息，且擅长运用讲台空间与道具，讲道方式活泼有力，广受青年人喜爱，盼望能激励青年人，跳出宗教的框架，抱著对主的热情再次思考福音。</desc>
-  </programme>
-  <programme start="20260625143000 +0000" stop="20260625150000 +0000" channel="好消息2台">
-    <title lang="zh">救恩之光</title>
-    <desc lang="zh">纽约救赎主长老教会的主任牧师「提姆凯勒」，迄今已于35个城市协助创办170间教会，其敏锐的证道、犀利的护教学与事工，让许多神的儿女得著帮助。</desc>
   </programme>
   <programme start="20260625150000 +0000" stop="20260625152000 +0000" channel="好消息2台">
     <title lang="zh">经典音乐河</title>
@@ -46802,34 +47078,6 @@
     <title lang="zh">福气人生</title>
     <desc lang="zh">如何才能拥有福气人生?看牧师们以台语分享圣经的真理，让你领受天国满满的福气与祝福。</desc>
   </programme>
-  <programme start="20260625111500 +0000" stop="20260625113000 +0000" channel="好消息">
-    <title lang="zh">共享观点</title>
-    <desc lang="zh">连结社群、分享、行动的特色，藉著媒体平台将圣经教导、基要真理落实在生活中。两位主持人将在节目中以轻松对谈的方式，讨论年轻人关注的话题。</desc>
-  </programme>
-  <programme start="20260625113000 +0000" stop="20260625120000 +0000" channel="好消息">
-    <title lang="zh">爱＋好医生</title>
-    <desc lang="zh">结合医疗专业及全人关怀的新型态节目，主持人黄𪻐宁医师亲访家庭，跨领域医疗顾问团全方位检视，提供最完整、实用和正确的资讯来守护孩子的健康。</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625125000 +0000" channel="好消息">
-    <title lang="zh">家庭８点档转转发现爱</title>
-    <desc lang="zh">专注于婚姻、亲子、家庭及生活议题。节目内容涵盖教养实战、恋爱交友、理财观念与职场甘苦，透过专家多面向剖析、人生故事分享与小游戏，强调「换个思维就能找回爱」。</desc>
-  </programme>
-  <programme start="20260625125000 +0000" stop="20260625130000 +0000" channel="好消息">
-    <title lang="zh">机智青年生活</title>
-    <desc lang="zh">这不是韩剧，而是正上演的一出充满血泪与美好友谊的热血植堂连续剧 ！旌旗好生活邀请到三对青年牧师CP，来聊聊由上帝导演，引领青年教会及一群青年团队，经历疯狂又精彩的植堂人生！</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625130500 +0000" channel="好消息">
-    <title lang="zh">遇见祝福</title>
-    <desc lang="zh">由寇绍恩、宋达民、洪百榕等讲员分享基督信仰的信息与经历，旨在鼓励人心、带来生命转换的温暖力量。</desc>
-  </programme>
-  <programme start="20260625130500 +0000" stop="20260625140000 +0000" channel="好消息">
-    <title lang="zh">真情部落格</title>
-    <desc lang="zh">广受海内外观众欢迎的真情部落格，由知名主播夏嘉璐主持，庄信德牧师回应，透过每位来宾的生命见证帮助许多人走出低谷。相信神继续透过真情部落格祝福这世代的华人。</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="好消息">
-    <title lang="zh">精选系列生命更新专题</title>
-    <desc lang="zh">好消息电视台制作的一系列特别节目，内容围绕生命更新、信仰成长、圣经真理，旨在帮助观众认识耶稣、建立门徒生活，涵盖见证分享、专题讲座、职场／家庭／亲子等多元主题，是华人基督徒信仰造就的重要资源。</desc>
-  </programme>
   <programme start="20260625150000 +0000" stop="20260625160000 +0000" channel="好消息">
     <title lang="zh">神选之人</title>
     <desc lang="zh">改编自耶稣生平。以圣经故事为根基，背景设定于西元一世纪的以色列，在犹太人受到罗马政府压迫的环境下，让观众看见一个有别于过往以耶稣为主轴的信仰影集，透过那些「遇见耶稣之人的双眼」来描绘耶稣的生活和行事。</desc>
@@ -47674,18 +47922,6 @@
     <title lang="zh">道在人间(国)</title>
     <desc lang="zh">节目中邀请赵镛基、叶光明、杰克海福德、乔依丝迈尔等，国内外知名牧长，以丰富的服事经历与扎实的神学装备，教导、传讲圣经真道，坚固信徒并警醒人心。</desc>
   </programme>
-  <programme start="20260625110000 +0000" stop="20260625120000 +0000" channel="亚洲旅游台">
-    <title lang="zh">33厨房</title>
-    <desc lang="zh">电影圈的大明星林美秀首度跨足综艺接主持棒，即将大展厨艺与观众们一起美味上菜！</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="亚洲旅游台">
-    <title lang="zh">世界跟我这Young玩</title>
-    <desc lang="zh">《世界跟我这YOUNG玩》，由刘沛颖担任主持人，不同于以往行脚节目内容，采用时下年轻人最爱的随拍纪录、热门景点打卡，即时记录独自出游的状况与趣事，并以女性的角度出发，鼓励女生可以带著勇敢与热情踏上环游世界的梦想之旅，也可独立解决所有困难，强调一个女生的旅行也可以很精采。</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625140000 +0000" channel="亚洲旅游台">
-    <title lang="zh">融融历险记</title>
-    <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
-  </programme>
   <programme start="20260625140000 +0000" stop="20260625160000 +0000" channel="亚洲旅游台">
     <title lang="zh">效廉出发吧</title>
     <desc lang="zh">东森超视全新外景旅游实境综艺节目，由跨世代人夫许效舜、威廉携手主持。两位私交甚笃的知己好友，将在节目中分享彼此人生故事，带观众深入了解每个城镇独有的历史人文，探索每个地方的特色美食生活。一段见证男人友谊的旅行，就此展开！</desc>
@@ -48065,26 +48301,6 @@
   <programme start="20260630070000 +0000" stop="20260630080000 +0000" channel="亚洲旅游台">
     <title lang="zh">融融历险记</title>
     <desc lang="zh">《融融历险记 Ben’s Adventure》的创办人Ben，立志前往那些没有人要去的地方。走过五大洲75余国，喜欢拍影片更爱与当地人交流，因为这才是旅行真正的意义。「旅行的意义是什么？」旅行的意义，看不同的风景，认识不同的人，领略不同的美好，让你觉得世界那么大。</desc>
-  </programme>
-  <programme start="20260625112000 +0000" stop="20260625120000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625124000 +0000" channel="东森购物1台">
-    <title lang="zh">6月下单抽100%现金券回馈！</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625124000 +0000" stop="20260625132000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625132000 +0000" stop="20260625140000 +0000" channel="东森购物1台">
-    <title lang="zh">6月下单抽100%现金券回馈！</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625144000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260625144000 +0000" stop="20260625152000 +0000" channel="东森购物1台">
     <title lang="zh">6月下单抽100%现金券回馈！</title>
@@ -48763,26 +48979,6 @@
     <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260630072000 +0000" stop="20260630080000 +0000" channel="东森购物1台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625112000 +0000" stop="20260625120000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625124000 +0000" channel="东森购物2台">
-    <title lang="zh">6月下单抽100%现金券回馈！</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625124000 +0000" stop="20260625132000 +0000" channel="东森购物2台">
-    <title lang="zh">锁定CH43、CH49、CH120选购</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625132000 +0000" stop="20260625140000 +0000" channel="东森购物2台">
-    <title lang="zh">6月下单抽100%现金券回馈！</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625144000 +0000" channel="东森购物2台">
     <title lang="zh">锁定CH43、CH49、CH120选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
@@ -49466,22 +49662,6 @@
     <title lang="zh">锁定CH43、CH49、CH120选购</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260625085300 +0000" stop="20260625120000 +0000" channel="华视新闻">
-    <title lang="zh">华视新闻晚报</title>
-    <desc lang="zh">华视新闻部每天整理当天重大国内外新闻事件，为观众做最快、最即时的播报。</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="华视新闻">
-    <title lang="zh">华视2000整点新闻</title>
-    <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导国内外重要新闻。</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625140000 +0000" channel="华视新闻">
-    <title lang="zh">World News 9</title>
-    <desc lang="zh">华视新闻制作，带给观众最公正客观的新闻视野，由优质主播与新闻团队联手打造，每日提供最新最即时的各种国际新闻。</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="华视新闻">
-    <title lang="zh">52政经点</title>
-    <desc lang="zh">由庄惠琪主播，每周一至五晚间十点，不论政治、财经或国际时事，带你干净聆听世界，看进新闻最深处，读懂世界变化。幕后由华视新闻团队的资深记者群以数据、学者解析与多元观点，理性客观分析政治经济时事，给您一个小时满满含金量！</desc>
-  </programme>
   <programme start="20260625150000 +0000" stop="20260625155500 +0000" channel="华视新闻">
     <title lang="zh">华视夜间新闻</title>
     <desc lang="zh">提供观众朋友重要的国内外大事。</desc>
@@ -49917,26 +50097,6 @@
   <programme start="20260630070000 +0000" stop="20260630080000 +0000" channel="华视新闻">
     <title lang="zh">华视1500整点新闻</title>
     <desc lang="zh">以最客观的角度，最专业的主播，为观众完整报导上午发生之重大国内外重要新闻。</desc>
-  </programme>
-  <programme start="20260625100000 +0000" stop="20260625115500 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">1819钱进大头条</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，由最专业的财经主播带来国际时事、财经股汇市报导、深度新闻及时事评论…等内容。</desc>
-  </programme>
-  <programme start="20260625115500 +0000" stop="20260625123000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">iNEWS大世界</title>
-    <desc lang="zh">三立iNEWS制播的财经新闻节目，观察财经趋势，理性讨论公共政策，探讨全球化中的台湾动向！</desc>
-  </programme>
-  <programme start="20260625123000 +0000" stop="20260625130000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">全民i彩券</title>
-    <desc lang="zh">买彩券，好事发生；看开奖，实现梦想！三立iNEWS制播的台湾公益彩券开奖节目，由最专业的主播团队带来最即时的开奖资讯！</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625140000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">关我什么事2100</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="三立新闻iNEWS">
-    <title lang="zh">关我什么事2200</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260625150000 +0000" stop="20260625160000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">2300iNEWS财经夜世界</title>
@@ -50385,22 +50545,6 @@
   <programme start="20260630070000 +0000" stop="20260630080000 +0000" channel="三立新闻iNEWS">
     <title lang="zh">全球新食力</title>
     <desc lang="zh">三立iNEWS制播的美食资讯节目，带你全省走透透，吃遍台湾！</desc>
-  </programme>
-  <programme start="20260625110000 +0000" stop="20260625120000 +0000" channel="寰宇财经台">
-    <title lang="zh">股动钱潮</title>
-    <desc lang="zh">拥有财经专业播报资历主持人们共同为观众掌握产业变化及趋势、判断新方向。提供最即时的国际重点新闻、资本市场、两岸经贸、产业讯息，报导最新最热门的产业趋势，并加入各种专题报导。</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="寰宇财经台">
-    <title lang="zh">理财达人秀</title>
-    <desc lang="zh">全台湾最精采好懂的理财影片！保险、股市、房地产、基金、投资观念，最实用的知识一看就通！投资新手到专家的讨论园地。</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625140000 +0000" channel="寰宇财经台">
-    <title lang="zh">股动钱潮</title>
-    <desc lang="zh">拥有财经专业播报资历主持人们共同为观众掌握产业变化及趋势、判断新方向。提供最即时的国际重点新闻、资本市场、两岸经贸、产业讯息，报导最新最热门的产业趋势，并加入各种专题报导。</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="寰宇财经台">
-    <title lang="zh">宝杰点兵</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260625150000 +0000" stop="20260625160000 +0000" channel="寰宇财经台">
     <title lang="zh">理财达人秀</title>
@@ -50854,22 +50998,6 @@
     <title lang="zh">小食光台味志</title>
     <desc lang="zh">暂无描述</desc>
   </programme>
-  <programme start="20260625105800 +0000" stop="20260625120000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻全球报导</title>
-    <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625140000 +0000" channel="中视新闻">
-    <title lang="zh">新庶民大头家</title>
-    <desc lang="zh">中视新闻全新政论节目，每日带给你超劲爆话题讨论，欢迎庶民们一起来follow。</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="中视新闻">
-    <title lang="zh">中视新闻即时现场</title>
-    <desc lang="zh">由主播萧惠文播报，以SNG车让观众看到最即时的新闻报导，并以最客观的角度，为观众完整报导上午发生之重要新闻。</desc>
-  </programme>
   <programme start="20260625150000 +0000" stop="20260625160000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
@@ -51189,18 +51317,6 @@
   <programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="中视新闻">
     <title lang="zh">中视新闻全球报导</title>
     <desc lang="zh">每晚七点由中视主播为全国观众带来最专业、准确的新闻报导。</desc>
-  </programme>
-  <programme start="20260625110000 +0000" stop="20260625120000 +0000" channel="中天新闻台">
-    <title lang="zh">中天辣晚报</title>
-    <desc lang="zh">提供国内、两岸、国际头条焦点，掌握时事脉动，观察新闻背后的真正意义，带领观众知晓天下事。有最深度的内容、最专业的追踪、最需要的资讯，收视率领先各台，具有高度影响力！</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="中天新闻台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">中天新闻为服务广大观众，提供多元论述平台，发挥媒体第四权的社会责任，于周一至周五晚间八点，推出《头条开讲》谈话节目，由主播周玉琴及政治中心主任林嘉源共同主持，敬请支持中天的观众朋友准时锁定！</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625150000 +0000" channel="中天新闻台">
-    <title lang="zh">中天SUPER夜线</title>
-    <desc lang="zh">由中天新闻专业主播带来最新的晚间新闻特报。</desc>
   </programme>
   <programme start="20260625150000 +0000" stop="20260625160000 +0000" channel="中天新闻台">
     <title lang="zh">全球大视野</title>
@@ -51597,22 +51713,6 @@
   <programme start="20260630060000 +0000" stop="20260630080000 +0000" channel="中天新闻台">
     <title lang="zh">大新闻大爆卦</title>
     <desc lang="zh">每周一到周五《大新闻大爆卦》中天主播马千惠陪你一起来解卦！！！</desc>
-  </programme>
-  <programme start="20260625105500 +0000" stop="20260625115500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇晚间新闻</title>
-    <desc lang="zh">寰宇晚间新闻给你最在地的台湾新闻、最深入的两岸焦点，掌握国际情势带您了解社会脉动。</desc>
-  </programme>
-  <programme start="20260625115500 +0000" stop="20260625125500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦点新闻</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625125500 +0000" stop="20260625135500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦点新闻</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625135500 +0000" stop="20260625145500 +0000" channel="寰宇新闻台湾台">
-    <title lang="zh">寰宇焦点新闻</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260625145500 +0000" stop="20260625155500 +0000" channel="寰宇新闻台湾台">
     <title lang="zh">寰宇焦点新闻</title>
@@ -52066,22 +52166,6 @@
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
   </programme>
-  <programme start="20260625105500 +0000" stop="20260625115500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇全球新闻</title>
-    <desc lang="zh">抢先揭露全球各地政经、社会、娱乐的第一手新闻讯息，让观众不漏接关键的世界大事。</desc>
-  </programme>
-  <programme start="20260625115500 +0000" stop="20260625125500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇世界通</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625125500 +0000" stop="20260625135500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇世界通</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625135500 +0000" stop="20260625145500 +0000" channel="寰宇新闻台">
-    <title lang="zh">寰宇世界通</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
   <programme start="20260625145500 +0000" stop="20260625155500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇世界通</title>
     <desc lang="zh">暂无描述</desc>
@@ -52533,38 +52617,6 @@
   <programme start="20260630065500 +0000" stop="20260630075500 +0000" channel="寰宇新闻台">
     <title lang="zh">寰宇整点新闻</title>
     <desc lang="zh">来自路透的国际新闻、最在地的台湾新闻以及最深入的两岸焦点，带您掌握社会脉动。</desc>
-  </programme>
-  <programme start="20260625110000 +0000" stop="20260625113000 +0000" channel="第1商业台">
-    <title lang="zh">旗开得胜-顾德投顾-张家豪分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625113000 +0000" stop="20260625120000 +0000" channel="第1商业台">
-    <title lang="zh">期股冲冲冲-宝得富-翁士峻分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625120000 +0000" stop="20260625123000 +0000" channel="第1商业台">
-    <title lang="zh">国家宝藏-启发投顾-林国宝分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625123000 +0000" stop="20260625130000 +0000" channel="第1商业台">
-    <title lang="zh">股市强强滚-亚洲投顾-郑伟群分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625130000 +0000" stop="20260625133000 +0000" channel="第1商业台">
-    <title lang="zh">台股Lunchtime-亚洲投顾-王兆立分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625133000 +0000" stop="20260625140000 +0000" channel="第1商业台">
-    <title lang="zh">股市吴限钻-宝得富-吴晓松分析师</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625140000 +0000" stop="20260625143000 +0000" channel="第1商业台">
-    <title lang="zh">启发投顾精选</title>
-    <desc lang="zh">暂无描述</desc>
-  </programme>
-  <programme start="20260625143000 +0000" stop="20260625150000 +0000" channel="第1商业台">
-    <title lang="zh">王博赚钱策略室-顾德投顾-王建文分析师</title>
-    <desc lang="zh">暂无描述</desc>
   </programme>
   <programme start="20260625150000 +0000" stop="20260625153000 +0000" channel="第1商业台">
     <title lang="zh">阪田战法-宝得富-顾奎国分析师</title>
@@ -56359,931 +56411,547 @@
     <title lang="zh"/>
     <desc lang="zh">故事围绕著一位名叫野比大雄的小学生。大雄在运动方面毫无天份，考试总是零分，又懒惰爱睡午觉。有一天，一只来自 22 世纪的猫型机器人「哆啦Ａ梦」突然出现在他面前。原来，大雄的玄孙「世修」为了改变大雄的未来，以及改善自己在 22 世纪的生活，特地将哆啦Ａ梦送回现代帮助大雄。</desc>
   </programme>
-  <programme start="20260621180000 +0000" stop="20260621190000 +0000" channel="东森娱乐台">
+  <programme start="20260621180000 +0000" stop="20260621185000 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">「我不能呼吸了」双城掀暴动明尼苏达陷紧急状态，美国警察死亡之膝！开战！川普取消香港特殊待遇，红色资本渗透全世界破功？</desc>
   </programme>
-  <programme start="20260621190000 +0000" stop="20260621195500 +0000" channel="东森娱乐台">
+  <programme start="20260621185000 +0000" stop="20260621194000 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">各国老外觉得哪个节日最惊吓？杜力说美国人最爱庆祝感恩节，但当天却是火鸡爆炸火灾最多的一天？！舞阳说巴西人在圣约翰节也爱放天灯，但却因此造成火灾频传？！马丁爸爸跨年玩鞭炮，竟把家里给炸了、连邻居都吓呆？！到底为什么美好节日会变成各种灾难？各国又有什么莫名其妙的奇特节日呢？</desc>
   </programme>
-  <programme start="20260621195500 +0000" stop="20260621205000 +0000" channel="东森娱乐台">
+  <programme start="20260621194000 +0000" stop="20260621203000 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">何嘉文曾因极端减肥偏方狂吃单一食物，结果竟导致幻觉与幻听！？亦帆长痘又不得不化妆，皮肤反复感染，最后竟演变成蜂窝性组织炎！？Albee穿搭总是超朴素？其实是因为腿伤后遗症，只要穿高跟鞋就会狂抽筋！？难道维持健康就一定要这么克制、这么痛苦吗？</desc>
   </programme>
-  <programme start="20260621205000 +0000" stop="20260621214500 +0000" channel="东森娱乐台">
+  <programme start="20260621203000 +0000" stop="20260621212000 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">每天都是喷火龙妈妈？！到底是妈妈们太爱生气，还是老公小孩太白目？黄馨仪在家遭老公小孩排挤，只因为无法融入话题？杨皓如帮老公过生日，精选餐厅竟被小孩嫌弃，还被老公抱怨不懂节俭？阿诺女儿只爱保母不爱她，竟连抱抱都不愿意？想知道如何增进家庭氛围吗？跟著专家做保证不再被老公小孩嫌啰唆！</desc>
   </programme>
-  <programme start="20260621214500 +0000" stop="20260621224500 +0000" channel="东森娱乐台">
+  <programme start="20260621212000 +0000" stop="20260621221000 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">中国地摊火！「傅傅」成都摆摊，一战成名还买了奥迪车！幼稚园园长.律师.牙医..全来摆摊！原来这些百亿富豪也曾摆地摊，「马云.柳传志」成范本！李克强一声令下！城管不再暴力驱赶，还帮挑担子.卖板栗。六亿人口月收入仅一千元！揭开中国经济的真相！不相信政府数字？！「李克强指数」打醒中国人？！</desc>
   </programme>
-  <programme start="20260621224500 +0000" stop="20260621234000 +0000" channel="东森娱乐台">
+  <programme start="20260621221000 +0000" stop="20260621230000 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">老外和艺人都有不堪回首的巨胖黑历史？！杜力在美国每天喝6公升汽水，最高纪录胖到145kg？！恺杰回国被妈妈当猪养，三个月胖了13kg、男模身材全走样？！凯琳抗拒不了巧克力和澳洲美食，52kg直接飙升到62kg？！姜勋高中一人吃三人份，瘦下来后马上交到女朋友？！</desc>
   </programme>
-  <programme start="20260621234000 +0000" stop="20260622003500 +0000" channel="东森娱乐台">
+  <programme start="20260621230000 +0000" stop="20260621235000 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">黄馨仪独自照顾确诊流感的小儿子，担心被传染，幸好做对一件事，最终竟然安然无恙！？关韶文直播带货时狂咳不止，观众竟误以为产品不好吃？直播场面超尴尬！贝童彤录影前突发急性腹痛，脸色惨白，紧急送医后竟是某种感冒导致！？现代感冒、呼吸道疾病种类多，症状还如此多变？</desc>
   </programme>
-  <programme start="20260622003500 +0000" stop="20260622013000 +0000" channel="东森娱乐台">
+  <programme start="20260621235000 +0000" stop="20260622004000 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">戴口罩有好处，APP发明半套懒人妆，只要化好上半脸就可以出门了！不想卸妆再化妆，黄馨仪竟然化一个妆就撑了两天？！懒得洗手！舞阳竟然将筷子套在手上，不但不怕手弄脏，还可以同时处理其他工作，果真是一举两得！</desc>
   </programme>
-  <programme start="20260622013000 +0000" stop="20260622023000 +0000" channel="东森娱乐台">
+  <programme start="20260622004000 +0000" stop="20260622013500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">大甲妈「棱轿脚」 这支58度高梁行情看涨？！一年翻4倍？！妈祖纪念酒愈陈愈值钱？！威士忌投报率胜股票？麦卡伦紫钻涨幅惊人！报酬愈陈愈香！威士忌成另类投资工具！贵州茅苔股价屡创新高！市值超贵州省GDP！中国国务院专用酒也造假？真假茅苔怎分辨？！</desc>
   </programme>
-  <programme start="20260622023000 +0000" stop="20260622032500 +0000" channel="东森娱乐台">
+  <programme start="20260622013500 +0000" stop="20260622022500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">跟著各国代表搭火车，就能游遍全球梦幻铁道之旅！日本九州七星列车，斥资30亿日币打造极尽奢华，可是有钱还不见得搭得到？！马丁激推瑞典骨董级蒸汽火车，宛如置身在电影场景一样？！芳瑜推荐英国霍格华兹魔法列车，重返哈利波特电影好想搭？！国外还有哪些必须朝圣的铁道之旅？</desc>
   </programme>
-  <programme start="20260622032500 +0000" stop="20260622042000 +0000" channel="东森娱乐台">
+  <programme start="20260622022500 +0000" stop="20260622031500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">这些健康迷思，你也曾相信过吗？禹安尝试某种「护胃抗辣」偏方，本人表示有效？医师专业解析，结果超出想像！？屈中恒压力大就狂发偏头痛，童年时竟曾靠「吃绿油精」来缓解！？李佳豫练舞时听见腰部异响不以为意，没想到竟酿成严重后果！？我们对健康的认知真的正确吗？</desc>
   </programme>
-  <programme start="20260622042000 +0000" stop="20260622051500 +0000" channel="东森娱乐台">
+  <programme start="20260622031500 +0000" stop="20260622040500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">居家必备哪些耐放蔬果？陈之颖师傅教你挑选撇步！！宅在家没有蔬菜可以吃？营养师高敏敏分享超实用豆芽机！！宅在家小孩好无聊？萁萁分享亲子手作故事投影机，亲子同乐培养创造力！！宅在家囤太多粮食？！洪𬀩杰医师分享病患吃到变质囤粮竟然肝指数爆表！</desc>
   </programme>
-  <programme start="20260622051500 +0000" stop="20260622061500 +0000" channel="东森娱乐台">
+  <programme start="20260622040500 +0000" stop="20260622045500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">北京再爆感染潮！新冠病毒突变强10倍！全球恐爆第二波疫情？！北京隐匿疫情？市民惊爆！军医院爆满.染疫尸体天天烧！天子脚下再爆疫情！习近平爱将「蔡奇」北京书记位子不保？！魔咒还是「死亡」位置？重庆公安局长邓恢林被查，王立军翻版？！习近平扫上海帮？前秘书.管家先后落马，孟建柱处境危险？！</desc>
   </programme>
-  <programme start="20260622061500 +0000" stop="20260622071000 +0000" channel="东森娱乐台">
+  <programme start="20260622045500 +0000" stop="20260622054500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">万万没想到，帮忙也有各国禁区？！杜力说在美国绝不能帮忙收包裹，他好心帮同事却差点被抓去关？！芬兰人绝不会帮忙扶跌倒的人，柏礼说这是他们维护对方面子的体贴好心？！日本人太注重居家隐私，朋友帮忙做家事竟然让梦多大崩溃？！到底国外还有哪些事情不能帮忙？大家最讨厌帮哪种忙？</desc>
   </programme>
-  <programme start="20260622071000 +0000" stop="20260622080500 +0000" channel="东森娱乐台">
+  <programme start="20260622054500 +0000" stop="20260622063500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">这些惊人案例，你听过吗？马西屏自爆从未公开的惊悚经历，震惊全场！众人直呼不可思议！？吕文婉揭露一起离奇的高中生怀孕案，全家人不但毫无察觉，连本人都不知道！？台湾特殊五宝妈，怀上四胞胎后挑战重重，故事让现场惊呼连连！？妇科奇案层出不穷，这些真实发生的故事到底有多离奇？</desc>
   </programme>
-  <programme start="20260622080500 +0000" stop="20260622090000 +0000" channel="东森娱乐台">
+  <programme start="20260622063500 +0000" stop="20260622072500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">梁赫群为了报税项目跟公司理论？结果是自己搞不清楚状况？！律师刘韦廷呼吁报税千万要看清楚！太太看税单意外发现先生在外有小孩？！兄弟姊妹为了报扶养抢翻天？！理财专家郭俊宏告诉大家小诀窍！哪种缴税方法最划算？让专家一一分析优缺点！</desc>
   </programme>
-  <programme start="20260622090000 +0000" stop="20260622100000 +0000" channel="东森娱乐台">
+  <programme start="20260622072500 +0000" stop="20260622081500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">80年来首发红色预警！重庆千年古都变水城，贵州山洪爆发撤万人。三峡大坝最终将炸掉？中国水利专家黄万里12预言已应验11项。连毛泽东都反的三峡大坝，命系6亿人的鬼门关，习近平为何不敢拆？！普洱茶越陈越值钱！先搞懂黄印、红印、绿印有何不同？有人月赔百万也有人赚千万！普洱茶该怎么辨别真假？</desc>
   </programme>
-  <programme start="20260622100000 +0000" stop="20260622105500 +0000" channel="东森娱乐台">
+  <programme start="20260622081500 +0000" stop="20260622090500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">混血儿一定超可爱？如果有机会，谁会是台湾女生心目中最好的人选？！阿龙歌手工作让人没安全感，加拿大国籍却是人人爱？！贺少侠阳光帅气颜质大加分，女性来宾都抢著想嫁他？！杜力开公司经济条件优渥，会让女生对未来无后顾之忧吗？！</desc>
   </programme>
-  <programme start="20260622105500 +0000" stop="20260622115000 +0000" channel="东森娱乐台">
+  <programme start="20260622090500 +0000" stop="20260622095500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">超级护理师曾遇过惊险案例——儿子眼见母亲昏迷，情急之下竟在医生面前亲自上演CPR！？女艺人感冒久治不愈，千辛万苦挂上名医，结果开的药反而让身体承受额外负担！？男艺人皮肤出问题就医无门，妈妈信了民间偏方，竟意外酿成永久伤害！？台湾人独特的健康习惯，有的救命，有的伤身！看看你中了几个？</desc>
   </programme>
-  <programme start="20260622115000 +0000" stop="20260622124500 +0000" channel="东森娱乐台">
+  <programme start="20260622095500 +0000" stop="20260622104500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">冷冻肉品解冻太耗时？大厨柯俊年分享超实用十分钟解冻法！！小孩太多每天要穿什么超混乱？！五宝妈分享极速解决方法！！家事达人陈安祺自制快速衣架，只要一秒就能完美收齐一堆袜子！在家也能简单做甜点？余皓然分享简单食材就能做美味肉桂卷！！</desc>
   </programme>
-  <programme start="20260622124500 +0000" stop="20260622134500 +0000" channel="东森娱乐台">
+  <programme start="20260622104500 +0000" stop="20260622113500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">中国官方认了！长江一号洪水来袭4楼以下准备逃！ 黄万里女儿揭露！三峡大坝恐带来灭顶之灾？！「国安法」直捣反习势力大本营，洗清江派香港势力！港国安法秒过！习这次赌大了！香港金融太子党揭底！出卖华为又挺港国安法！汇丰两面不是人155年招牌砸了？！</desc>
   </programme>
-  <programme start="20260622134500 +0000" stop="20260622144000 +0000" channel="东森娱乐台">
+  <programme start="20260622113500 +0000" stop="20260622122500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">奇怪了？！平常相处各种甜蜜美好，怎么一讲到「吃」就要吵？！梦多女友对吃很有想法，但他各种提案都不要？！尼可老婆看韩剧一定要配炸鸡，害他全台北骑车到处跑？！白弥儿搞定大食怪男友全靠放电手表，现场电得杜力哇哇叫？！恺杰女友每顿饭都要吃餐厅上千起跳，分手原因竟是怕被吃垮？！</desc>
   </programme>
-  <programme start="20260622144000 +0000" stop="20260622153500 +0000" channel="东森娱乐台">
+  <programme start="20260622122500 +0000" stop="20260622131500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">眭澔平游历世界上百国，带团出游时，机上竟有人欣赏美景时突发心肌梗塞，幸好当机立断CPR抢救，成功救回一命！？吕文婉揭露一起离奇案例——男子竟因「看电视」引发疾病，至今仍需终身服药！？小炳难忘哥哥的离世，创伤症候群发作，眼眶泛泪回忆当时的照护历程，令人动容！？</desc>
   </programme>
-  <programme start="20260622153500 +0000" stop="20260622163000 +0000" channel="东森娱乐台">
+  <programme start="20260622131500 +0000" stop="20260622140500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">观察指甲可以趁早发现癌症？医师告诉你定期卸甲才不会延误治疗时机！现代人过胖是癌症重要原因！不正确的饮食习惯就会让你离癌症越来越近！无意间发现脖子有肿块，最怕上网搜寻症状后自行对号入座？何嘉文腰酸去按摩被拒绝？被警告再晚一步就要终身洗肾！！</desc>
   </programme>
-  <programme start="20260622163000 +0000" stop="20260622173000 +0000" channel="东森娱乐台">
+  <programme start="20260622140500 +0000" stop="20260622145500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">美股崩跌凶兆？浑水警告：美经济如火药桶将爆发！「浑水」猎杀辉山乳业，半小时市值蒸发42亿美元！疫情未过又来洪灾.蝗灾！中国面临断粮危机？！「中储粮」屡爆弊案！中国粮食都被「硕鼠「盗光了？！李克强贵州考察数据中心，「随手抽硬碟」释放什么讯号？</desc>
   </programme>
-  <programme start="20260622173000 +0000" stop="20260622182500 +0000" channel="东森娱乐台">
+  <programme start="20260622145500 +0000" stop="20260622154500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">台湾人什么都要抢第一，各国代表都说看不懂？！马丁说台湾爸妈希望小孩样样都要抢第一，婴儿爬行比赛第三名也不行？！小百合遇过台湾朋友帐单抢第一，日本朋友全都傻眼当看戏？！杨皓如最懂抢第一的痛苦，跑新闻要抢独家快讯，作业时间太短搞得出错频频？！</desc>
   </programme>
-  <programme start="20260622182500 +0000" stop="20260622192000 +0000" channel="东森娱乐台">
+  <programme start="20260622154500 +0000" stop="20260622163500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">李佳豫演讲前吃感冒药，昏昏沉沉被误以为对工作不上心，形象差点翻船！？徐哲纬出门前惊见鱼缸变「大型鱼汤锅」，手忙脚乱险些录影迟到，现场笑声不断！？熊熊边走路边滑手机，竟能跌进造景池里，朋友狠狠责怪直呼真的扯翻了！？身体不适引发的误会，比你想像的更严重！</desc>
   </programme>
-  <programme start="20260622192000 +0000" stop="20260622201500 +0000" channel="东森娱乐台">
+  <programme start="20260622163500 +0000" stop="20260622172500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">减肥遇到停滞期怎么办？营养师教妳如何打破减重停滞期！！宵夜好想来一杯！营养师夏子雯告诉你这样喝就可以！瘦身也能享受手摇饮？！把握热量关键可以放心喝！减肥需要每天吃蔬菜，营养师告诉最有效的五大消脂蔬菜！</desc>
   </programme>
-  <programme start="20260622201500 +0000" stop="20260622211500 +0000" channel="东森娱乐台">
+  <programme start="20260622172500 +0000" stop="20260622181500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">「川普式」清党！美拟禁中共党员入境影响近3亿人，红二代剉咧等！中国遭围堵，剑指南海资源！习近平用这招..中印撕破脸？！仿美打「台湾牌」？派重量级外交官美洲司司长驻台。印度反中加入「去中国化」，争夺世界工厂，向逾千家美企招手！</desc>
   </programme>
-  <programme start="20260622211500 +0000" stop="20260622221000 +0000" channel="东森娱乐台">
+  <programme start="20260622181500 +0000" stop="20260622190500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">报复性旅游就是要买伴手礼，送不到人家心坎里让双方都伤脑筋？！杜力收到蜜汁肉干好困扰，因为又甜又湿口感让美国人很难接受？！韩国人最爱台湾凤梨酥，小小一粒热量高还让金炳秀胖了好多公斤？！昂贵的乌鱼子竟会惹人嫌，料理方式超麻烦让徐小可总是放到过期？！</desc>
   </programme>
-  <programme start="20260622221000 +0000" stop="20260622230500 +0000" channel="东森娱乐台">
+  <programme start="20260622190500 +0000" stop="20260622195500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">廖慧珍烧开水，却一时分心去做其他事，回过神时厨房大冒烟，水壶已在瓦斯炉上完全烧焦，引起整栋住户骚动！？哈孝远刚接球队时忙到晕头转向，竟把比赛地点跟拍戏场地搞混，到了目的地大傻眼？！陈宥心因记忆力衰退，竟忘记晚上要喂小孩吃饭，导致小孩哭翻天让家人又惊又急！？</desc>
   </programme>
-  <programme start="20260622230500 +0000" stop="20260623000000 +0000" channel="东森娱乐台">
+  <programme start="20260622195500 +0000" stop="20260622204500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">冷气光洗滤网还不够？！得要一年一次深度清洁才能把霉菌清干净！美珍换季总是肠躁症？医生检查竟说因为把尘螨吃下肚？！翠蕊用超音波器赶走尘螨？！专家说其实只是赶到另一边而已！陈樱文分享轻松去油污好物！气炸锅、瓦斯炉一抹就净！</desc>
   </programme>
-  <programme start="20260623000000 +0000" stop="20260623010000 +0000" channel="东森娱乐台">
+  <programme start="20260622204500 +0000" stop="20260622213500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">美中互关领事馆！中国挑成都下手背后案情不单纯？「三峡大坝之父」病逝，长江3号洪水将至，中国灾难来了？休士顿华裔一家4口灭门案，竟是周永康下令暗杀证人？！美轰炸中国驻南斯拉夫大使馆，为摧毁F-117隐形战机技术？阿里巴巴报复了！印度制裁中企后，UC浏览器解雇印员工。</desc>
   </programme>
-  <programme start="20260623010000 +0000" stop="20260623015500 +0000" channel="东森娱乐台">
+  <programme start="20260622213500 +0000" stop="20260622222500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">在台湾看个医生稀松平常，这些事却让老外很崩溃？！杜力在台湾看病竟被阿嬷认出，还被嘲笑一定是痛风？！费丹尼觉得台湾医师好爱开药，每次都拿到五颜六色的药、而且一定有胃药？！看完医生可以马上开刀，迅速决定手术却吓坏乔修儿让他好犹豫？！</desc>
   </programme>
-  <programme start="20260623015500 +0000" stop="20260623025000 +0000" channel="东森娱乐台">
+  <programme start="20260622222500 +0000" stop="20260622231500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">康茵茵抽血因太害怕，不断闪躲，结果竟闹出超危险超尴尬的意外！？余祥铨人中长「疔仔」，却拖著不理，没想到越长越大，最后竟演变成蜂窝性组织炎！？小珍奶做健康检查，照X光时完全听不懂医生指示，反复做错，最后尴尬落荒而逃！？维持健康就像闯关游戏，少一关都不行！</desc>
   </programme>
-  <programme start="20260623025000 +0000" stop="20260623034500 +0000" channel="东森娱乐台">
+  <programme start="20260622231500 +0000" stop="20260623000500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">夏天总是头晕脑胀？快跟著朱海君用中西MIX精油来醒脑！！夏天总是胃口差？林舒语教你清爽可口丝瓜胡麻面！夏天饮料退冰快？这一招让热饮瞬间降温变冰饮！夏天头皮总是出状况？喷上它一秒就能让头皮清凉爽快！</desc>
   </programme>
-  <programme start="20260623034500 +0000" stop="20260623044500 +0000" channel="东森娱乐台">
+  <programme start="20260623000500 +0000" stop="20260623005500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">李登辉「意外的总统之路」！蒋经国为何提名他而不是林洋港？李登辉权谋用尽阻李焕野心？防郝柏村掌军权用了什么手段？蒋宋美龄欲夺权？一封经蒋孝勇给李焕的信，最后结局竟是？李登辉昔日喊戒急用忍，避资金赴中失血，造就今日台积电？台海局势紧张！美军机E-8C经台湾南部巴士海峡对中国侦搜。</desc>
   </programme>
-  <programme start="20260623044500 +0000" stop="20260623054000 +0000" channel="东森娱乐台">
+  <programme start="20260623005500 +0000" stop="20260623014500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">各国首都都很便利？出国满心期待却备受伤害？学姐黄瀞莹伦敦租屋大呼吃不消？马德里的治安吓坏哈平远？杜力说华盛顿D.C.政要云集治安超好之外房价也便宜？！英国伦敦公园超级多，汤姆士带女友去过一次回台念念不忘？！韩国金炳秀觉得台北都是假Wi-Fi，首尔街头高速网路免费又方便？！</desc>
   </programme>
-  <programme start="20260623054000 +0000" stop="20260623063500 +0000" channel="东森娱乐台">
+  <programme start="20260623014500 +0000" stop="20260623023500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">崔佩仪出国，膝盖酸痛难耐，不但超扫兴还浪费钱，下定决心开始认真减重！？蒋伟文努力健身减重，没想到越练越胖，连体脂肪都超标，究竟是哪里出了问题！？陈又榕尝试断食减重法，却意外导致胰岛素阻抗，竟然只是因为「吃饭顺序」错了！？身体的平衡需要精准拿捏，稍有不慎就可能适得其反！</desc>
   </programme>
-  <programme start="20260623063500 +0000" stop="20260623073000 +0000" channel="东森娱乐台">
+  <programme start="20260623023500 +0000" stop="20260623032500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">黄馨仪花大钱让小孩学骑脚踏车，到头来却发现钱白花了？！香蕉哥哥报名婴儿游泳课训练肌肉，妈妈看到成果竟当场爆哭？美珍想省下大笔的训练费用，竟鼓励女儿考桌球校队？！育儿教材怎么选？专家分享三大原则让妈妈们不再抓不到头绪！</desc>
   </programme>
-  <programme start="20260623073000 +0000" stop="20260623083000 +0000" channel="东森娱乐台">
+  <programme start="20260623032500 +0000" stop="20260623041500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">川普下手了！禁TikTok和微信，中国竟警告日本不准跟进！美卫生部长访台..中国暴怒！舟山实弹军演秀肌肉示威！李登辉霸气回呛朱镕基！不让中共影响台湾首次总统直选！李登辉一句「空包弹」气炸江泽民！台间谍「少康二号」身分曝！员工中威力彩史上最高奖金！台新金控总部大楼风水有玄机..揭秘！</desc>
   </programme>
-  <programme start="20260623083000 +0000" stop="20260623092500 +0000" channel="东森娱乐台">
+  <programme start="20260623041500 +0000" stop="20260623050500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">过海关千万要小心！大家出国行李箱里竟会带这些怪东西？！梦多说出国必带日本烧肉酱，不然饮食口味不习惯很麻烦？！吴子龙出国居然要带瓦斯炉片，到底出国还要煮什么东西？！吴映洁鬼鬼出国行李箱翻出大量B群，连主持人都觉得她累到不行？！韩国人姜勋化身蜈蚣，行李居然要带10几双袜子为哪桩？！</desc>
   </programme>
-  <programme start="20260623092500 +0000" stop="20260623102000 +0000" channel="东森娱乐台">
+  <programme start="20260623050500 +0000" stop="20260623055500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">刘伊心想控制小孩的饮食习惯，却因自己迷上烘焙，控管大失败！？游书庭拍戏长期失眠，状态低迷，哭戏吻戏全卡关，最后竟不得不加重安眠药剂量！？刘丞家人不听医嘱，健检数值飙高仍拒绝治疗，最终竟演变成癌症第三期！？健康不是一蹴可几，忽视小问题可能酿成大危机！</desc>
   </programme>
-  <programme start="20260623102000 +0000" stop="20260623111500 +0000" channel="东森娱乐台">
+  <programme start="20260623055500 +0000" stop="20260623064500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">何嘉文跟老公真会玩，竟约定好要无条件服侍对方？！叶欣眉和男友在电话中打暗号，妈妈偷听后却做出搞笑糗事？你和另一半平时温度如何？专家教你从小动作测出彼此的感情热度！</desc>
   </programme>
-  <programme start="20260623111500 +0000" stop="20260623121500 +0000" channel="东森娱乐台">
+  <programme start="20260623064500 +0000" stop="20260623073500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">普丁拯救世界？向美分享疫苗遭打脸！美：猴子试验也不会用、解放军呛军演！美前中情局副局长：台海明年初恐有军事冲突。</desc>
   </programme>
-  <programme start="20260623121500 +0000" stop="20260623131000 +0000" channel="东森娱乐台">
+  <programme start="20260623073500 +0000" stop="20260623082500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">台湾女人在老外眼中到底幸不幸福？大家觉得哪国女人最辛苦？杜力说巴西女人超可怜，还要帮忙男人还超高利息卡债？！朴盛雅羡慕台湾女生想去夜店就能去，韩国夜店公关以貌取人超夸张？梦多台湾女生朋友婚后帮忙处理婆媳和娘家关系，每天忙得团团转超辛酸？！</desc>
   </programme>
-  <programme start="20260623131000 +0000" stop="20260623140500 +0000" channel="东森娱乐台">
+  <programme start="20260623082500 +0000" stop="20260623091500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">放射师尚恩破解辐射迷思，原来不同年龄层都有专属的治疗撇步，小孩也不例外！？噜药师分享医院惊险时刻，医师一度差点开错药，幸好经过多层确认才成功化解危机！？医院里，每个环节都环环相扣，少了谁都可能酿成大祸！本集带你揭开医疗现场的隐藏英雄，了解那些容易被忽视的重要角色！</desc>
   </programme>
-  <programme start="20260623140500 +0000" stop="20260623150000 +0000" channel="东森娱乐台">
+  <programme start="20260623091500 +0000" stop="20260623100500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">在家就能当主厨？宋哥教你用章鱼烧烤盘做出凤梨虾球！韩式炸鸡不必买？曲艾玲教你用简单食材就能做出韩剧美味！照烧酱要熬很久？惟毅教你轻松做出爆浆照烧牛肉卷！还有饭店主厨教你不用烤箱就能做出起司蛋糕的妙招！</desc>
   </programme>
-  <programme start="20260623150000 +0000" stop="20260623160000 +0000" channel="东森娱乐台">
+  <programme start="20260623100500 +0000" stop="20260623105500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">中国发禁航公告，解放军今起连5日实弹射击，共机绕台画圈圈，挑衅？不爽美国却只能秀肌肉？李正皓：中国「战狼外交」变「贵宾狗外交」。</desc>
   </programme>
-  <programme start="20260623160000 +0000" stop="20260623165500 +0000" channel="东森娱乐台">
+  <programme start="20260623105500 +0000" stop="20260623114500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">台湾人爱借这些好奇怪！金炳秀觉得台湾女生爱借外套，却被现场台湾来宾亏不懂女人心？！蔡博文送给女友性感内衣，却被朋友借去当拍照道具？！台湾妈妈爱跟女儿借衣服，让俄罗斯妲夏惊呼太幼稚不符年纪？！各国人爱借的东西让大家瞠目结舌？瑞典电车月票费用超级贵，马丁说每个人都爱互借省交通费？！</desc>
   </programme>
-  <programme start="20260623165500 +0000" stop="20260623175000 +0000" channel="东森娱乐台">
+  <programme start="20260623114500 +0000" stop="20260623123500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">马西屏分享一名女子因挤痘痘引发严重感染，高烧不退、大小便失禁，最后竟被送进重症病房，竟与人体神秘三角地带有关！？狄志为分享情侣间的玩笑竟酿成大危机，一个轻拍竟导致内脏位移，后果超惊人！？奎丁亲身经历接睫毛的恐怖意外，脸部红肿剧痛，治疗长达数月，现在听到「接睫毛」三个字就心有余悸！</desc>
   </programme>
-  <programme start="20260623175000 +0000" stop="20260623184500 +0000" channel="东森娱乐台">
+  <programme start="20260623123500 +0000" stop="20260623132500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">肩膀酸痛怎么办？余皓然分享每天都能做的舒缓运动！杨晨熙眼压过高造成剧烈头痛，竟是靠它来缓解？头痛不想吃药？中医师林姸余教你从这些穴位来缓解恼人头痛！经痛好苦恼？医师张华伦分享舒缓经痛的饮食！</desc>
   </programme>
-  <programme start="20260623184500 +0000" stop="20260623194500 +0000" channel="东森娱乐台">
+  <programme start="20260623132500 +0000" stop="20260623141500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">美国今早出动多架军机南海侦察，两栖突击舰现踪台湾东部外海、美国南海侦察「变本加厉」？中国官媒抓狂呛：第二枪就是东风飞弹！</desc>
   </programme>
-  <programme start="20260623194500 +0000" stop="20260623204000 +0000" channel="东森娱乐台">
+  <programme start="20260623141500 +0000" stop="20260623150500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">和外国人恋爱超浪漫？老外说跟他们交往有好有坏，恋爱的优缺点居然是这个？！吴子龙说义大利人的恋爱优点是很会做饭，但缺点是太爱对异性甜言蜜语？！韩国金炳秀会把女友宠成小公主，可是太爱国、狂夸韩国好处让对方受不了？！</desc>
   </programme>
-  <programme start="20260623204000 +0000" stop="20260623213500 +0000" channel="东森娱乐台">
+  <programme start="20260623150500 +0000" stop="20260623155500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">夏腾宏在剧中演出「取出体内子弹」的手术场景，过程惊险万分，也让他对医护人员萌生深深敬意！？吴岳擎工作突感呼吸不顺，险在台上昏倒，幸好医师就在现场紧急施救，才惊险捡回一命！？救护员尤诗妤值勤时，遇到民众突发疾病倒地，她竟在水圳中紧急抢救，过程惊险让人捏把冷汗！？</desc>
   </programme>
-  <programme start="20260623213500 +0000" stop="20260623223000 +0000" channel="东森娱乐台">
+  <programme start="20260623155500 +0000" stop="20260623164500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">Vicky报名天后舞蹈课跳到虚脱，就怕被嫩妹比下去？！杨皓如报名蛋糕课程，一阵忙乱后发觉直接买现成的就好？！花费心力办小孩生日派对却意外引发闺蜜的攀比心而闹翻？！林采缇天天跑球场还换了3个教练，只是要高尔夫球技比别人好？！</desc>
   </programme>
-  <programme start="20260623223000 +0000" stop="20260623233000 +0000" channel="东森娱乐台">
+  <programme start="20260623164500 +0000" stop="20260623173500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">中印边境再爆冲突！两国防长首次谈判！中国嘴硬:责任全再印方、印藏联军击退共军！边界挥舞「雪山狮子旗」庆祝胜利有特殊涵意？！</desc>
   </programme>
-  <programme start="20260623233000 +0000" stop="20260624002500 +0000" channel="东森娱乐台">
+  <programme start="20260623173500 +0000" stop="20260623182500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">机场是一国门面，没想到全球这些大机场居然超级雷？！金炳秀在机场不是当流浪汉，就是被抓进小房间，爆笑经验让全场怀疑到底是人的问题还是机场的问题？！马丁说法国机场标示不清、人员态度差，离谱程度让他大开眼界？！到底世界各国还有哪些恐怖机场，让人好怕怕？</desc>
   </programme>
-  <programme start="20260624002500 +0000" stop="20260624012000 +0000" channel="东森娱乐台">
+  <programme start="20260623182500 +0000" stop="20260623191500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">陈珮骐拍戏时不幸被传染感冒，又巧遇生理期大量血崩，结果在摄影途中竟发生了意想不到的意外惊吓众人！？蔡颐榛出国旅游时感染呼吸道疾病，睡眠不足、免疫力下降，最后竟引发先天就有的疾病大爆发！？蔡允洁上节目拼命三郎，一个意外小摔倒竟导致骨裂，最后花了一整年才完全康复！？</desc>
   </programme>
-  <programme start="20260624012000 +0000" stop="20260624021500 +0000" channel="东森娱乐台">
+  <programme start="20260623191500 +0000" stop="20260623200500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">阿翔全手工自制夜市游戏！让全场惊呼连连！黄雨欣让小孩手作美食，竟意外让孩子吃了原本不喜欢的食物？！阿诺为培养小孩艺术天份，竟跟女儿在家互涂颜料！小孩在家好无聊？赛先生分享生活小物做出惊喜小玩具！</desc>
   </programme>
-  <programme start="20260624021500 +0000" stop="20260624031500 +0000" channel="东森娱乐台">
+  <programme start="20260623200500 +0000" stop="20260623205500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">「台海兵凶战危」？共军扰台联开记者会「不寻常」？蔡总统说话了…、东沙被锁定？布满共军雷达光点？「衡山指挥所很忙」…国防部否认。</desc>
   </programme>
-  <programme start="20260624031500 +0000" stop="20260624041000 +0000" channel="东森娱乐台">
+  <programme start="20260623205500 +0000" stop="20260623214500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">台湾人平常爱收集这些东西，竟被老外吐槽到不行？！梦多说台湾女生爱收集纸胶带，他完全不能理解为什么要收集这个不黏的小东西？！詹子晴收集各种纸袋，也被全场老外砲轰？！到底各国人喜欢收集什么东西？权贞妍说韩国最新收集热潮，竟是口罩专用时尚配件？！还有什么稀奇古怪的收藏，让大家惊叹傻眼？</desc>
   </programme>
-  <programme start="20260624041000 +0000" stop="20260624050500 +0000" channel="东森娱乐台">
+  <programme start="20260623214500 +0000" stop="20260623223500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">狄志为介绍一起超离奇案例，竟因亲密关系引发花生过敏，最后不幸猝死，震惊众人！？吕文婉分享发生在加拿大的惊人事件，一名女子因被小虫叮咬，长期痛苦不堪，最终竟选择安乐死！？林韦君穿鞋时意外被不知名小虫叮咬，当天头晕目眩，脚肿得连鞋都穿不进去，状况严重超乎想像！？</desc>
   </programme>
-  <programme start="20260624050500 +0000" stop="20260624060000 +0000" channel="东森娱乐台">
+  <programme start="20260623223500 +0000" stop="20260623232500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">确诊后怎么办？该直接霸气搬到防疫旅馆放假去吗？！陈樱文确诊身体不适，还得强忍病痛指挥老公做事？！黄馨仪夫妇接连染疫，小孩竟意外变得超自动又贴心？！孩子到底要不要打疫苗？黄𪻐宁医师分享爸妈该如何做！！</desc>
   </programme>
-  <programme start="20260624060000 +0000" stop="20260624070000 +0000" channel="东森娱乐台">
+  <programme start="20260623232500 +0000" stop="20260624001500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">没iPhone 12！苹果新品发表会，台积电放大绝「A14」晶片成亮点！苹果新品Apple Watch Series 6强打健康照护「救命」功能爆红！</desc>
   </programme>
-  <programme start="20260624070000 +0000" stop="20260624075500 +0000" channel="东森娱乐台">
+  <programme start="20260624001500 +0000" stop="20260624010500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">玉兔阿姨警告她梦见自己在飞就表示灵魂出窍，但美国人却说这是翻转人生？！茵芙梦到厕所以为恋情会有阻碍，但日本朋友却说这是转机？！梦见高空坠落大家超有感！姜勋梦到从喜马拉雅山跌下来，最后一秒看到小梁哥的脸才醒过来？！究竟梦境和现实有什么神奇的关连？各国老外又做过什么奇特的梦呢？</desc>
   </programme>
-  <programme start="20260624075500 +0000" stop="20260624085000 +0000" channel="东森娱乐台">
+  <programme start="20260624010500 +0000" stop="20260624015500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">年轻医师抱怨资深医师不仅对新人严苛，甚至对病患和家属也毫不留情！？资深医师反击，批评年轻医师动不动就劝病患开刀，却忽略了患者需要时间准备！？林婷遇到一位海归医师，明明旧仪器就能解决问题，却硬要炫技使用新技术，没想到最后竟需要他人救场！？</desc>
   </programme>
-  <programme start="20260624085000 +0000" stop="20260624094500 +0000" channel="东森娱乐台">
+  <programme start="20260624015500 +0000" stop="20260624024500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">朱海君自行去化工行调配Ａ醇来保养，却意外擦到脸上不停脱屑？！壮壮为减肥吃中药，却被医生判定吃药吃到身体已经老化？！美珍为解决鼻塞问题做鼻梁骨整复，竟是用卫生筷戳鼻子？赖薇如为减肥无极限，穿著雨衣跑跑步机结果造成红肿过敏？！</desc>
   </programme>
-  <programme start="20260624094500 +0000" stop="20260624104500 +0000" channel="东森娱乐台">
+  <programme start="20260624024500 +0000" stop="20260624033500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">要打了？！前雄三飞弹工程师：美中战，台湾成替死鬼？开战率50%、要打了？！退役空军副司令：随时要准备好，防范共军突袭。</desc>
   </programme>
-  <programme start="20260624104500 +0000" stop="20260624114000 +0000" channel="东森娱乐台">
+  <programme start="20260624033500 +0000" stop="20260624042500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">为什么到了国外，老外也想装成当地人或别国人？究竟是历史仇恨太深，还是有太多好处？要把握哪些原则，才能装得像不被拆穿呢？杜力教大家一招瞬间变身加拿大人还能拿尽好处？义大利人吴子龙从哪里看穿对方是冒牌货？法国尼可到俄罗斯装俄国人，一家三口竟能省下不少钱？！</desc>
   </programme>
-  <programme start="20260624114000 +0000" stop="20260624123500 +0000" channel="东森娱乐台">
+  <programme start="20260624042500 +0000" stop="20260624051500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">曲艾玲长期出外景，竟导致「空姐症候群」，精神不济、工作效率大幅下滑！5分钟放松法真的有效吗！？马力欧的老婆东西总是乱放，家里一团混乱，但一抱怨她就难过，这种情况该如何巧妙解决！？慈妹长期消化不良、胃病缠身，严重胃食道逆流让她狂咳不止，吃饭时间该怎么调整才能改善！？</desc>
   </programme>
-  <programme start="20260624123500 +0000" stop="20260624133000 +0000" channel="东森娱乐台">
+  <programme start="20260624051500 +0000" stop="20260624060500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">清冠一号可以当保健品？毒理专家却说这个做法不但NG还可能导致腹泻！！晚餐不吃瘦更快？营养师许琼月分析瘦身的最大关键在于总热量？！牙齿意外脱落怎么办？专家教你如何让掉落的牙齿还能保有组织的再生力？！小孩发高烧怎么办？萁妈竟将孩子直接放入冰水中降温？！</desc>
   </programme>
-  <programme start="20260624133000 +0000" stop="20260624143000 +0000" channel="东森娱乐台">
+  <programme start="20260624060500 +0000" stop="20260624065500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">庞培奥10月访日韩、蒙古国，全球反华联盟成形？中国呛：痴人说梦、反击中国！上万美军集结关岛海域「勇敢之盾」军演战力惊人！</desc>
   </programme>
-  <programme start="20260624143000 +0000" stop="20260624152500 +0000" channel="东森娱乐台">
+  <programme start="20260624065500 +0000" stop="20260624074500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">各国网路流言，瞎到不可思议？！马丁说欧洲网路谣传疫情和5G有关系，导致许多国家民众居然开始攻击基地台？！日本地震多，梦多说预测地震也有神奇撇步？！韩国人居然有条网路流言，坚信涂了这东西痔疮就药到病除？！网路上流言真真假假，各国老外来破解！现场实验破解结果究竟如何？</desc>
   </programme>
-  <programme start="20260624152500 +0000" stop="20260624162000 +0000" channel="东森娱乐台">
+  <programme start="20260624074500 +0000" stop="20260624083500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">李祖宁长期受皮肤问题困扰，感冒却意外让症状缓解，没想到停药后竟引发更严重状况！？惟毅因为骑车姿势不当，竟导致痔疮疼痛发作，工作状态大崩坏，吓坏身边所有人！？蔡逸帆发现左胸变大，原本窃喜是「二次发育」，检查后竟验出是一颗肿瘤！？身体的微小变化，背后可能藏著大危机！</desc>
   </programme>
-  <programme start="20260624162000 +0000" stop="20260624171500 +0000" channel="东森娱乐台">
+  <programme start="20260624083500 +0000" stop="20260624092500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">乌龙绯闻传多年？和长官出差同房的谣言竟在多年后才传进当事人张宇的耳朵里？男性也会被霸凌？资深媒体人洪素卿分享男护理师被护理长霸凌最后告上法院！！为阻止同事升官竟教唆男友割破对手的轮胎？最后惨被开除还吃上官司！你在职场里的存活指数有多少？星座专家－安格斯精采分析谁能生存到最后！</desc>
   </programme>
-  <programme start="20260624171500 +0000" stop="20260624181500 +0000" channel="东森娱乐台">
+  <programme start="20260624092500 +0000" stop="20260624101500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">川普神康复「王者归来」全面杠上习皇帝的「永恒王朝」？！美售台新战机！台湾为何不买F-35？专家曝F-16V「隐藏性能」？！</desc>
   </programme>
-  <programme start="20260624181500 +0000" stop="20260624191000 +0000" channel="东森娱乐台">
+  <programme start="20260624101500 +0000" stop="20260624110500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">门当户对的爱情，真的可以过上幸福日子吗？！夏美跟音乐系男孩稳定交往，男孩的控制欲望却越来越强烈？！金炳秀跟政治世家女孩交往，竟被政治圈的叔伯们瞧不起？！蔡博文日本前女友家中竟经营庞大饭店事业，竟威胁两人不准在一起？！费丹尼前女友年纪大很多，被朋友嘲笑是跟妈妈交往？！</desc>
   </programme>
-  <programme start="20260624191000 +0000" stop="20260624200500 +0000" channel="东森娱乐台">
+  <programme start="20260624110500 +0000" stop="20260624115500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">侯昌明下腹闷痛、上厕所也无改善，紧急就医检查，才发现竟是这个问题作祟！？巫苡萱冬天手脚冰冷，夜晚甚至下肢发麻，医师追问细节后，竟发现问题出在穿衣习惯！？陈天仁开著老爷车上下班，没想到短短三天便咳嗽高烧不退，检查竟验出是霉菌感染惹祸！？身体一旦「堵住」，健康就亮红灯！</desc>
   </programme>
-  <programme start="20260624200500 +0000" stop="20260624210000 +0000" channel="东森娱乐台">
+  <programme start="20260624115500 +0000" stop="20260624124500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">熟龄毛孔问题怎么解？快来听保养达人分享紧致毛孔秘诀！熬夜肤况难照顾？别错过金老佛爷分享韩国最新水乳保养法！脸部暗沉好困扰？一定要跟上杨皓如分享韩星都爱的气泡水洗脸法！脸上斑点可以靠吃解决？那就要喝温翠苹分享美白蔬果汁！</desc>
   </programme>
-  <programme start="20260624210000 +0000" stop="20260624213000 +0000" channel="东森娱乐台">
+  <programme start="20260624124500 +0000" stop="20260624131000 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">房市买气热！房贷、建筑贷款余额续创高、年底房贷余额冲8兆！打房说发酵？还是避风头再起？台北推案量急缩，新竹吓坏减七成。</desc>
   </programme>
-  <programme start="20260624213000 +0000" stop="20260624222500 +0000" channel="东森娱乐台">
+  <programme start="20260624131000 +0000" stop="20260624140000 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">台湾走完一圈都是庙！在地庙宇文化好特别？杜力看到神明脸黑黑，误以为台湾人都崇拜黑人？！舞阳带女友去庙宇约会看夜景，女友大怒觉得是要和她分手？！在台湾废墟模样的庙拜拜，朋友担心吴子龙会被不好的能量附上？！阿拉耶稣佛祖都在一间庙，贺少侠看了觉得超傻眼？！</desc>
   </programme>
-  <programme start="20260624222500 +0000" stop="20260624232000 +0000" channel="东森娱乐台">
+  <programme start="20260624140000 +0000" stop="20260624145000 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">苏心宁爸爸竟在街头淋雨游荡，连回家的路都不记得，家中也因他失智症状变得一团混乱！？田舞阳爸爸突发中风倒地不起，康复过程艰辛，却靠著独门锻炼方法一路挺过来，恢复惊人！？Peggy产后记忆力明显衰退，甚至连超重要会议都忘记，大迟到差点连工作都丢了！？脑部健康是人生关键密码。</desc>
   </programme>
-  <programme start="20260624232000 +0000" stop="20260625001500 +0000" channel="东森娱乐台">
+  <programme start="20260624145000 +0000" stop="20260624154000 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">女艺人会打扫家里吗？平常自认是好媳妇的她们会知道洗马桶也有顺序吗？会知道如何使用漂白水才不会中毒？衣服又应该多久洗一次？紫外线灯可以消毒杀菌，但是要怎么使用才安全？每天拖地还是一堆灰尘，怎么打扫才能让地板不沾灰尘？面对节目出的考题，到底她们还会有哪些令人匪夷所思的答案出现？</desc>
   </programme>
-  <programme start="20260625001500 +0000" stop="20260625004000 +0000" channel="东森娱乐台">
+  <programme start="20260624154000 +0000" stop="20260624160500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">转卖房市红单2周赚上百万？消保官卧底揭内幕！购买预售屋小心红单藏陷阱？揭密红单背后真相..！政院打炒房这次来真的？！现在是进场买房好时机？！买房还要排队抽签？！破解秒杀个案操作手法！</desc>
   </programme>
-  <programme start="20260625004000 +0000" stop="20260625013500 +0000" channel="东森娱乐台">
+  <programme start="20260624160500 +0000" stop="20260624165500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">金炳秀出车祸脑震荡，长辈哥哥帮他清理大小便让人感激不已？！恩人长辈家中经济状况不好竟还好心帮助他人，白弥儿感动现场落泪？！长辈热心让人难以拒绝，老外哭笑不得大伤脑筋？！杜力一直被开玩笑有痛风，想不到社区叔叔阿姨们都把痛风药送给他？！长辈总说这样是为你好，但这些好意是善意还是压力？</desc>
   </programme>
-  <programme start="20260625013500 +0000" stop="20260625023000 +0000" channel="东森娱乐台">
+  <programme start="20260624165500 +0000" stop="20260624174500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">张凤书拍戏劈腿时意外伤到右髋关节，随著年纪增长旧伤频频复发，只能靠长期重训稳定控制！？梁一贞因姿势不良导致骨盆歪斜，没想到靠某种复古运动就明显改善！？龙龙常常懒得吃饭，三餐只靠能量饮，某次久违吃饭竟引发急性肠胃炎！？现代人忙碌又操劳，其实「老派方法」反而更能养出真健康！</desc>
   </programme>
-  <programme start="20260625023000 +0000" stop="20260625032500 +0000" channel="东森娱乐台">
+  <programme start="20260624174500 +0000" stop="20260624183500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">张可昀被网路去角质神器烧到，入手后却用到破皮红肿？芳瑜屁股蛋两片黑？角质受损通通都是自己造成的？陈依依有便秘困扰，出国玩时小腹大到被餐厅服务生误认为孕妇？！想要摆脱宿便怎么做？保养达人与中医师一起教你居家撇步！</desc>
   </programme>
-  <programme start="20260625032500 +0000" stop="20260625035000 +0000" channel="东森娱乐台">
+  <programme start="20260624183500 +0000" stop="20260624190000 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">央行施「4限令」铁腕打炒房、断金流，房价会大跌吗？「实登2.0」预售屋纳管、门牌地号全露 资讯全曝光？！刚签预售屋就打炒房！该解约吗？专家教您解套方法？！央行4重拳后..小资族等到买房时机？一张表告诉你答案！</desc>
   </programme>
-  <programme start="20260625035000 +0000" stop="20260625044500 +0000" channel="东森娱乐台">
+  <programme start="20260624190000 +0000" stop="20260624195000 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">台湾人就爱拍拍拍，拍到老外都冻未条？各国网红流行怎么拍，竟让全场玩超嗨？美国网红流行的25年挑战，杜力模仿小时候的自己拍照好可爱？！英国网红流行把自己的脸P到明星脸上，辣妹MV加上汤姆士的脸超级违和？！日本最夯「洋芋片拍照法」，看来荒谬但现场实测竟大获好评？！</desc>
   </programme>
-  <programme start="20260625044500 +0000" stop="20260625054000 +0000" channel="东森娱乐台">
+  <programme start="20260624195000 +0000" stop="20260624204000 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">杨晨熙因贫血体质容易头晕，有次在座位上突喊「地震来了！」结果竟是自己晕眩误会，当场超尴尬！？爱雅拍戏遇到恶劣环境，不敢使用超可怕茅坑长期憋尿，导致血尿、下腹剧痛差点送医！？焦曼婷起床擤鼻涕竟擤出一条绿色「毛毛虫」，下午开始高烧不退、四肢无力，竟是细菌感染引爆！？</desc>
   </programme>
-  <programme start="20260625054000 +0000" stop="20260625063500 +0000" channel="东森娱乐台">
+  <programme start="20260624204000 +0000" stop="20260624213000 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">天啊好尴尬！陈樱文去发廊洗头闻到超重头皮味竟然是自己发出来的？！录影中被导播喊卡，竟然是因为油光满面影响画面？夏天头脸容易油腻腻？元凶竟然是冰凉手摇饮？减肥怕皮松？想消灭身体肥油？怎么吃更好瘦让营养师慢慢道来！</desc>
   </programme>
-  <programme start="20260625063500 +0000" stop="20260625070000 +0000" channel="东森娱乐台">
+  <programme start="20260624213000 +0000" stop="20260624215500 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">全台待售屋周增近万件！政府「打炒房」变「打房」？谁倒大楣？！「囤房税」真能打击高房价？！税金转嫁变租金，年轻人连房都租不起？！ </desc>
   </programme>
-  <programme start="20260625070000 +0000" stop="20260625075500 +0000" channel="东森娱乐台">
+  <programme start="20260624215500 +0000" stop="20260624224500 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">凑热闹竟会遇到这些好事？！梦多凑热闹竟遇到摔角偶像初代虎面，收到珍贵面具超惊喜？！贾斯汀在日本也去凑热闹，居然交到日本女友让大家直呼不可思议？！佩德罗说西班牙人天生爱凑热闹，他还因此被邀请当随行口译、爽玩欧洲6天全免费？！妲夏帮朋友践行，跟著排队竟排到A5和牛大放送？！</desc>
   </programme>
-  <programme start="20260625075500 +0000" stop="20260625085000 +0000" channel="东森娱乐台">
+  <programme start="20260624224500 +0000" stop="20260624233500 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">宋哥因孩子严重挑食导致营养不良，带去检查竟被医师怀疑是虐待儿童！？Terry家的三宝轮流中感冒，原以为只是撒娇耍赖，没想到病情恶化差点引发败血症！？Summer发现7岁小孩竟已长出后排牙齿，检查后被医师提醒要注意双排牙可能，恐影响牙齿健康发展！？孩子的身体变化，可能暗藏健康危机！</desc>
   </programme>
-  <programme start="20260625085000 +0000" stop="20260625094500 +0000" channel="东森娱乐台">
+  <programme start="20260624233500 +0000" stop="20260625002500 +0000" channel="东森娱乐台">
     <title lang="zh">妈妈好神之俗女家务事</title>
     <desc lang="zh">太太私密处痒痒竟怪哈孝远卫生习惯不好？洗肾竟然也会造成皮肤发痒？让皮肤科医师告诉你真正的原因在哪里！梅雨季节天气整天湿答答的让衣服永远干不了？家事达人教你善用除湿机来风干衣服，又快又有效率！！</desc>
   </programme>
-  <programme start="20260625094500 +0000" stop="20260625101000 +0000" channel="东森娱乐台">
+  <programme start="20260625002500 +0000" stop="20260625005000 +0000" channel="东森娱乐台">
     <title lang="zh">梦想街57号 全能事务所</title>
     <desc lang="zh">还能当航海王？航运股会涨到哪？上船前你得知道的事！航运三雄超前部署，全球航运业将重新洗牌？股东会旺季防疫不可少！忧群聚感染风险，电子投票成趋势！股东会电子投票该怎么投？三管道落实防疫、护股东权益。</desc>
   </programme>
-  <programme start="20260625101000 +0000" stop="20260625110500 +0000" channel="东森娱乐台">
+  <programme start="20260625005000 +0000" stop="20260625014000 +0000" channel="东森娱乐台">
     <title lang="zh">2分之一强</title>
     <desc lang="zh">东方人超羡慕西方老外的身材长相，但高挑身型深邃五官，竟有不为人知的困扰？！白弥儿手脚好修长，可是不管去餐厅还是搭飞机都卡到不行？！杜力眼睛又圆又大，竟会睫毛倒插长针眼？！恺杰头型让人称羡，但是安全帽老是戴不好？！贺少侠每次都朋友家作客，室内拖鞋总是痛得像踩健康步道？！</desc>
   </programme>
-  <programme start="20260625110500 +0000" stop="20260625120000 +0000" channel="东森娱乐台">
+  <programme start="20260625014000 +0000" stop="20260625023000 +0000" channel="东森娱乐台">
     <title lang="zh">医师好辣</title>
     <desc lang="zh">陈樱文与私密处HPV病毒共存5年，分泌物困扰日常，回诊时病毒竟神奇消失！到底发生何事！？佩佩耳鸣一周不间断，跑遍耳鼻喉科与小儿科无解，最后竟是眼睛问题惹祸！？珮薰饱受反复胃痛所苦一年之久，靠著一个简单习惯竟然就彻底改善！？</desc>
   </programme>
-  <programme start="20260625120000 +0000" stop="20260625125500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">Apple爱宠物无极限？竟开IG帐号还大出周边商品？！身价百万的人气卡通主角－龙猫生来就备受宠爱，吃东西的可爱状融化众人的心？！刺猬变成宠物之后竟不再全身刺竟然还会卖萌超惹人爱？！天竺鼠超级傻呆憨！但像河马又像猪的无毛天竺鼠你看过吗？</desc>
-  </programme>
-  <programme start="20260625125500 +0000" stop="20260625135500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">「我不能呼吸了」双城掀暴动明尼苏达陷紧急状态，美国警察死亡之膝！开战！川普取消香港特殊待遇，红色资本渗透全世界破功？</desc>
-  </programme>
-  <programme start="20260625135500 +0000" stop="20260625145000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">各国老外觉得哪个节日最惊吓？杜力说美国人最爱庆祝感恩节，但当天却是火鸡爆炸火灾最多的一天？！舞阳说巴西人在圣约翰节也爱放天灯，但却因此造成火灾频传？！马丁爸爸跨年玩鞭炮，竟把家里给炸了、连邻居都吓呆？！到底为什么美好节日会变成各种灾难？各国又有什么莫名其妙的奇特节日呢？</desc>
-  </programme>
-  <programme start="20260625145000 +0000" stop="20260625154500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">何嘉文曾因极端减肥偏方狂吃单一食物，结果竟导致幻觉与幻听！？亦帆长痘又不得不化妆，皮肤反复感染，最后竟演变成蜂窝性组织炎！？Albee穿搭总是超朴素？其实是因为腿伤后遗症，只要穿高跟鞋就会狂抽筋！？难道维持健康就一定要这么克制、这么痛苦吗？</desc>
-  </programme>
-  <programme start="20260625154500 +0000" stop="20260625164000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">每天都是喷火龙妈妈？！到底是妈妈们太爱生气，还是老公小孩太白目？黄馨仪在家遭老公小孩排挤，只因为无法融入话题？杨皓如帮老公过生日，精选餐厅竟被小孩嫌弃，还被老公抱怨不懂节俭？阿诺女儿只爱保母不爱她，竟连抱抱都不愿意？想知道如何增进家庭氛围吗？跟著专家做保证不再被老公小孩嫌啰唆！</desc>
-  </programme>
-  <programme start="20260625164000 +0000" stop="20260625174000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">中国地摊火！「傅傅」成都摆摊，一战成名还买了奥迪车！幼稚园园长.律师.牙医..全来摆摊！原来这些百亿富豪也曾摆地摊，「马云.柳传志」成范本！李克强一声令下！城管不再暴力驱赶，还帮挑担子.卖板栗。六亿人口月收入仅一千元！揭开中国经济的真相！不相信政府数字？！「李克强指数」打醒中国人？！</desc>
-  </programme>
-  <programme start="20260625174000 +0000" stop="20260625183500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">老外和艺人都有不堪回首的巨胖黑历史？！杜力在美国每天喝6公升汽水，最高纪录胖到145kg？！恺杰回国被妈妈当猪养，三个月胖了13kg、男模身材全走样？！凯琳抗拒不了巧克力和澳洲美食，52kg直接飙升到62kg？！姜勋高中一人吃三人份，瘦下来后马上交到女朋友？！</desc>
-  </programme>
-  <programme start="20260625183500 +0000" stop="20260625193000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">黄馨仪独自照顾确诊流感的小儿子，担心被传染，幸好做对一件事，最终竟然安然无恙！？关韶文直播带货时狂咳不止，观众竟误以为产品不好吃？直播场面超尴尬！贝童彤录影前突发急性腹痛，脸色惨白，紧急送医后竟是某种感冒导致！？现代感冒、呼吸道疾病种类多，症状还如此多变？</desc>
-  </programme>
-  <programme start="20260625193000 +0000" stop="20260625202500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">戴口罩有好处，APP发明半套懒人妆，只要化好上半脸就可以出门了！不想卸妆再化妆，黄馨仪竟然化一个妆就撑了两天？！懒得洗手！舞阳竟然将筷子套在手上，不但不怕手弄脏，还可以同时处理其他工作，果真是一举两得！</desc>
-  </programme>
-  <programme start="20260625202500 +0000" stop="20260625212500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">大甲妈「棱轿脚」 这支58度高梁行情看涨？！一年翻4倍？！妈祖纪念酒愈陈愈值钱？！威士忌投报率胜股票？麦卡伦紫钻涨幅惊人！报酬愈陈愈香！威士忌成另类投资工具！贵州茅苔股价屡创新高！市值超贵州省GDP！中国国务院专用酒也造假？真假茅苔怎分辨？！</desc>
-  </programme>
-  <programme start="20260625212500 +0000" stop="20260625222000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">跟著各国代表搭火车，就能游遍全球梦幻铁道之旅！日本九州七星列车，斥资30亿日币打造极尽奢华，可是有钱还不见得搭得到？！马丁激推瑞典骨董级蒸汽火车，宛如置身在电影场景一样？！芳瑜推荐英国霍格华兹魔法列车，重返哈利波特电影好想搭？！国外还有哪些必须朝圣的铁道之旅？</desc>
-  </programme>
-  <programme start="20260625222000 +0000" stop="20260625231500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">这些健康迷思，你也曾相信过吗？禹安尝试某种「护胃抗辣」偏方，本人表示有效？医师专业解析，结果超出想像！？屈中恒压力大就狂发偏头痛，童年时竟曾靠「吃绿油精」来缓解！？李佳豫练舞时听见腰部异响不以为意，没想到竟酿成严重后果！？我们对健康的认知真的正确吗？</desc>
-  </programme>
-  <programme start="20260625231500 +0000" stop="20260626001000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">居家必备哪些耐放蔬果？陈之颖师傅教你挑选撇步！！宅在家没有蔬菜可以吃？营养师高敏敏分享超实用豆芽机！！宅在家小孩好无聊？萁萁分享亲子手作故事投影机，亲子同乐培养创造力！！宅在家囤太多粮食？！洪𬀩杰医师分享病患吃到变质囤粮竟然肝指数爆表！</desc>
-  </programme>
-  <programme start="20260626001000 +0000" stop="20260626011000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">北京再爆感染潮！新冠病毒突变强10倍！全球恐爆第二波疫情？！北京隐匿疫情？市民惊爆！军医院爆满.染疫尸体天天烧！天子脚下再爆疫情！习近平爱将「蔡奇」北京书记位子不保？！魔咒还是「死亡」位置？重庆公安局长邓恢林被查，王立军翻版？！习近平扫上海帮？前秘书.管家先后落马，孟建柱处境危险？！</desc>
-  </programme>
-  <programme start="20260626011000 +0000" stop="20260626020500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">万万没想到，帮忙也有各国禁区？！杜力说在美国绝不能帮忙收包裹，他好心帮同事却差点被抓去关？！芬兰人绝不会帮忙扶跌倒的人，柏礼说这是他们维护对方面子的体贴好心？！日本人太注重居家隐私，朋友帮忙做家事竟然让梦多大崩溃？！到底国外还有哪些事情不能帮忙？大家最讨厌帮哪种忙？</desc>
-  </programme>
-  <programme start="20260626020500 +0000" stop="20260626030000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">这些惊人案例，你听过吗？马西屏自爆从未公开的惊悚经历，震惊全场！众人直呼不可思议！？吕文婉揭露一起离奇的高中生怀孕案，全家人不但毫无察觉，连本人都不知道！？台湾特殊五宝妈，怀上四胞胎后挑战重重，故事让现场惊呼连连！？妇科奇案层出不穷，这些真实发生的故事到底有多离奇？</desc>
-  </programme>
-  <programme start="20260626030000 +0000" stop="20260626035500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">梁赫群为了报税项目跟公司理论？结果是自己搞不清楚状况？！律师刘韦廷呼吁报税千万要看清楚！太太看税单意外发现先生在外有小孩？！兄弟姊妹为了报扶养抢翻天？！理财专家郭俊宏告诉大家小诀窍！哪种缴税方法最划算？让专家一一分析优缺点！</desc>
-  </programme>
-  <programme start="20260626035500 +0000" stop="20260626045500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">80年来首发红色预警！重庆千年古都变水城，贵州山洪爆发撤万人。三峡大坝最终将炸掉？中国水利专家黄万里12预言已应验11项。连毛泽东都反的三峡大坝，命系6亿人的鬼门关，习近平为何不敢拆？！普洱茶越陈越值钱！先搞懂黄印、红印、绿印有何不同？有人月赔百万也有人赚千万！普洱茶该怎么辨别真假？</desc>
-  </programme>
-  <programme start="20260626045500 +0000" stop="20260626055000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">混血儿一定超可爱？如果有机会，谁会是台湾女生心目中最好的人选？！阿龙歌手工作让人没安全感，加拿大国籍却是人人爱？！贺少侠阳光帅气颜质大加分，女性来宾都抢著想嫁他？！杜力开公司经济条件优渥，会让女生对未来无后顾之忧吗？！</desc>
-  </programme>
-  <programme start="20260626055000 +0000" stop="20260626064500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">超级护理师曾遇过惊险案例——儿子眼见母亲昏迷，情急之下竟在医生面前亲自上演CPR！？女艺人感冒久治不愈，千辛万苦挂上名医，结果开的药反而让身体承受额外负担！？男艺人皮肤出问题就医无门，妈妈信了民间偏方，竟意外酿成永久伤害！？台湾人独特的健康习惯，有的救命，有的伤身！看看你中了几个？</desc>
-  </programme>
-  <programme start="20260626064500 +0000" stop="20260626074000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">冷冻肉品解冻太耗时？大厨柯俊年分享超实用十分钟解冻法！！小孩太多每天要穿什么超混乱？！五宝妈分享极速解决方法！！家事达人陈安祺自制快速衣架，只要一秒就能完美收齐一堆袜子！在家也能简单做甜点？余皓然分享简单食材就能做美味肉桂卷！！</desc>
-  </programme>
-  <programme start="20260626074000 +0000" stop="20260626084000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">中国官方认了！长江一号洪水来袭4楼以下准备逃！ 黄万里女儿揭露！三峡大坝恐带来灭顶之灾？！「国安法」直捣反习势力大本营，洗清江派香港势力！港国安法秒过！习这次赌大了！香港金融太子党揭底！出卖华为又挺港国安法！汇丰两面不是人155年招牌砸了？！</desc>
-  </programme>
-  <programme start="20260626084000 +0000" stop="20260626093500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">奇怪了？！平常相处各种甜蜜美好，怎么一讲到「吃」就要吵？！梦多女友对吃很有想法，但他各种提案都不要？！尼可老婆看韩剧一定要配炸鸡，害他全台北骑车到处跑？！白弥儿搞定大食怪男友全靠放电手表，现场电得杜力哇哇叫？！恺杰女友每顿饭都要吃餐厅上千起跳，分手原因竟是怕被吃垮？！</desc>
-  </programme>
-  <programme start="20260626093500 +0000" stop="20260626103000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">眭澔平游历世界上百国，带团出游时，机上竟有人欣赏美景时突发心肌梗塞，幸好当机立断CPR抢救，成功救回一命！？吕文婉揭露一起离奇案例——男子竟因「看电视」引发疾病，至今仍需终身服药！？小炳难忘哥哥的离世，创伤症候群发作，眼眶泛泪回忆当时的照护历程，令人动容！？</desc>
-  </programme>
-  <programme start="20260626103000 +0000" stop="20260626112500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">观察指甲可以趁早发现癌症？医师告诉你定期卸甲才不会延误治疗时机！现代人过胖是癌症重要原因！不正确的饮食习惯就会让你离癌症越来越近！无意间发现脖子有肿块，最怕上网搜寻症状后自行对号入座？何嘉文腰酸去按摩被拒绝？被警告再晚一步就要终身洗肾！！</desc>
-  </programme>
-  <programme start="20260626112500 +0000" stop="20260626122500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">美股崩跌凶兆？浑水警告：美经济如火药桶将爆发！「浑水」猎杀辉山乳业，半小时市值蒸发42亿美元！疫情未过又来洪灾.蝗灾！中国面临断粮危机？！「中储粮」屡爆弊案！中国粮食都被「硕鼠「盗光了？！李克强贵州考察数据中心，「随手抽硬碟」释放什么讯号？</desc>
-  </programme>
-  <programme start="20260626122500 +0000" stop="20260626132000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">台湾人什么都要抢第一，各国代表都说看不懂？！马丁说台湾爸妈希望小孩样样都要抢第一，婴儿爬行比赛第三名也不行？！小百合遇过台湾朋友帐单抢第一，日本朋友全都傻眼当看戏？！杨皓如最懂抢第一的痛苦，跑新闻要抢独家快讯，作业时间太短搞得出错频频？！</desc>
-  </programme>
-  <programme start="20260626132000 +0000" stop="20260626141500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">李佳豫演讲前吃感冒药，昏昏沉沉被误以为对工作不上心，形象差点翻船！？徐哲纬出门前惊见鱼缸变「大型鱼汤锅」，手忙脚乱险些录影迟到，现场笑声不断！？熊熊边走路边滑手机，竟能跌进造景池里，朋友狠狠责怪直呼真的扯翻了！？身体不适引发的误会，比你想像的更严重！</desc>
-  </programme>
-  <programme start="20260626141500 +0000" stop="20260626151000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">减肥遇到停滞期怎么办？营养师教妳如何打破减重停滞期！！宵夜好想来一杯！营养师夏子雯告诉你这样喝就可以！瘦身也能享受手摇饮？！把握热量关键可以放心喝！减肥需要每天吃蔬菜，营养师告诉最有效的五大消脂蔬菜！</desc>
-  </programme>
-  <programme start="20260626151000 +0000" stop="20260626161000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">「川普式」清党！美拟禁中共党员入境影响近3亿人，红二代剉咧等！中国遭围堵，剑指南海资源！习近平用这招..中印撕破脸？！仿美打「台湾牌」？派重量级外交官美洲司司长驻台。印度反中加入「去中国化」，争夺世界工厂，向逾千家美企招手！</desc>
-  </programme>
-  <programme start="20260626161000 +0000" stop="20260626170500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">报复性旅游就是要买伴手礼，送不到人家心坎里让双方都伤脑筋？！杜力收到蜜汁肉干好困扰，因为又甜又湿口感让美国人很难接受？！韩国人最爱台湾凤梨酥，小小一粒热量高还让金炳秀胖了好多公斤？！昂贵的乌鱼子竟会惹人嫌，料理方式超麻烦让徐小可总是放到过期？！</desc>
-  </programme>
-  <programme start="20260626170500 +0000" stop="20260626180000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">廖慧珍烧开水，却一时分心去做其他事，回过神时厨房大冒烟，水壶已在瓦斯炉上完全烧焦，引起整栋住户骚动！？哈孝远刚接球队时忙到晕头转向，竟把比赛地点跟拍戏场地搞混，到了目的地大傻眼？！陈宥心因记忆力衰退，竟忘记晚上要喂小孩吃饭，导致小孩哭翻天让家人又惊又急！？</desc>
-  </programme>
-  <programme start="20260626180000 +0000" stop="20260626185500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">冷气光洗滤网还不够？！得要一年一次深度清洁才能把霉菌清干净！美珍换季总是肠躁症？医生检查竟说因为把尘螨吃下肚？！翠蕊用超音波器赶走尘螨？！专家说其实只是赶到另一边而已！陈樱文分享轻松去油污好物！气炸锅、瓦斯炉一抹就净！</desc>
-  </programme>
-  <programme start="20260626185500 +0000" stop="20260626195500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">美中互关领事馆！中国挑成都下手背后案情不单纯？「三峡大坝之父」病逝，长江3号洪水将至，中国灾难来了？休士顿华裔一家4口灭门案，竟是周永康下令暗杀证人？！美轰炸中国驻南斯拉夫大使馆，为摧毁F-117隐形战机技术？阿里巴巴报复了！印度制裁中企后，UC浏览器解雇印员工。</desc>
-  </programme>
-  <programme start="20260626195500 +0000" stop="20260626205000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">在台湾看个医生稀松平常，这些事却让老外很崩溃？！杜力在台湾看病竟被阿嬷认出，还被嘲笑一定是痛风？！费丹尼觉得台湾医师好爱开药，每次都拿到五颜六色的药、而且一定有胃药？！看完医生可以马上开刀，迅速决定手术却吓坏乔修儿让他好犹豫？！</desc>
-  </programme>
-  <programme start="20260626205000 +0000" stop="20260626214500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">康茵茵抽血因太害怕，不断闪躲，结果竟闹出超危险超尴尬的意外！？余祥铨人中长「疔仔」，却拖著不理，没想到越长越大，最后竟演变成蜂窝性组织炎！？小珍奶做健康检查，照X光时完全听不懂医生指示，反复做错，最后尴尬落荒而逃！？维持健康就像闯关游戏，少一关都不行！</desc>
-  </programme>
-  <programme start="20260626214500 +0000" stop="20260626224000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">夏天总是头晕脑胀？快跟著朱海君用中西MIX精油来醒脑！！夏天总是胃口差？林舒语教你清爽可口丝瓜胡麻面！夏天饮料退冰快？这一招让热饮瞬间降温变冰饮！夏天头皮总是出状况？喷上它一秒就能让头皮清凉爽快！</desc>
-  </programme>
-  <programme start="20260626224000 +0000" stop="20260626234000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">李登辉「意外的总统之路」！蒋经国为何提名他而不是林洋港？李登辉权谋用尽阻李焕野心？防郝柏村掌军权用了什么手段？蒋宋美龄欲夺权？一封经蒋孝勇给李焕的信，最后结局竟是？李登辉昔日喊戒急用忍，避资金赴中失血，造就今日台积电？台海局势紧张！美军机E-8C经台湾南部巴士海峡对中国侦搜。</desc>
-  </programme>
-  <programme start="20260626234000 +0000" stop="20260627003500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">各国首都都很便利？出国满心期待却备受伤害？学姐黄瀞莹伦敦租屋大呼吃不消？马德里的治安吓坏哈平远？杜力说华盛顿D.C.政要云集治安超好之外房价也便宜？！英国伦敦公园超级多，汤姆士带女友去过一次回台念念不忘？！韩国金炳秀觉得台北都是假Wi-Fi，首尔街头高速网路免费又方便？！</desc>
-  </programme>
-  <programme start="20260627003500 +0000" stop="20260627013000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">崔佩仪出国，膝盖酸痛难耐，不但超扫兴还浪费钱，下定决心开始认真减重！？蒋伟文努力健身减重，没想到越练越胖，连体脂肪都超标，究竟是哪里出了问题！？陈又榕尝试断食减重法，却意外导致胰岛素阻抗，竟然只是因为「吃饭顺序」错了！？身体的平衡需要精准拿捏，稍有不慎就可能适得其反！</desc>
-  </programme>
-  <programme start="20260627013000 +0000" stop="20260627022500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">黄馨仪花大钱让小孩学骑脚踏车，到头来却发现钱白花了？！香蕉哥哥报名婴儿游泳课训练肌肉，妈妈看到成果竟当场爆哭？美珍想省下大笔的训练费用，竟鼓励女儿考桌球校队？！育儿教材怎么选？专家分享三大原则让妈妈们不再抓不到头绪！</desc>
-  </programme>
-  <programme start="20260627022500 +0000" stop="20260627032500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">川普下手了！禁TikTok和微信，中国竟警告日本不准跟进！美卫生部长访台..中国暴怒！舟山实弹军演秀肌肉示威！李登辉霸气回呛朱镕基！不让中共影响台湾首次总统直选！李登辉一句「空包弹」气炸江泽民！台间谍「少康二号」身分曝！员工中威力彩史上最高奖金！台新金控总部大楼风水有玄机..揭秘！</desc>
-  </programme>
-  <programme start="20260627032500 +0000" stop="20260627042000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">过海关千万要小心！大家出国行李箱里竟会带这些怪东西？！梦多说出国必带日本烧肉酱，不然饮食口味不习惯很麻烦？！吴子龙出国居然要带瓦斯炉片，到底出国还要煮什么东西？！吴映洁鬼鬼出国行李箱翻出大量B群，连主持人都觉得她累到不行？！韩国人姜勋化身蜈蚣，行李居然要带10几双袜子为哪桩？！</desc>
-  </programme>
-  <programme start="20260627042000 +0000" stop="20260627051500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">刘伊心想控制小孩的饮食习惯，却因自己迷上烘焙，控管大失败！？游书庭拍戏长期失眠，状态低迷，哭戏吻戏全卡关，最后竟不得不加重安眠药剂量！？刘丞家人不听医嘱，健检数值飙高仍拒绝治疗，最终竟演变成癌症第三期！？健康不是一蹴可几，忽视小问题可能酿成大危机！</desc>
-  </programme>
-  <programme start="20260627051500 +0000" stop="20260627061000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">何嘉文跟老公真会玩，竟约定好要无条件服侍对方？！叶欣眉和男友在电话中打暗号，妈妈偷听后却做出搞笑糗事？你和另一半平时温度如何？专家教你从小动作测出彼此的感情热度！</desc>
-  </programme>
-  <programme start="20260627061000 +0000" stop="20260627071000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">普丁拯救世界？向美分享疫苗遭打脸！美：猴子试验也不会用、解放军呛军演！美前中情局副局长：台海明年初恐有军事冲突。</desc>
-  </programme>
-  <programme start="20260627071000 +0000" stop="20260627080500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">台湾女人在老外眼中到底幸不幸福？大家觉得哪国女人最辛苦？杜力说巴西女人超可怜，还要帮忙男人还超高利息卡债？！朴盛雅羡慕台湾女生想去夜店就能去，韩国夜店公关以貌取人超夸张？梦多台湾女生朋友婚后帮忙处理婆媳和娘家关系，每天忙得团团转超辛酸？！</desc>
-  </programme>
-  <programme start="20260627080500 +0000" stop="20260627090000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">放射师尚恩破解辐射迷思，原来不同年龄层都有专属的治疗撇步，小孩也不例外！？噜药师分享医院惊险时刻，医师一度差点开错药，幸好经过多层确认才成功化解危机！？医院里，每个环节都环环相扣，少了谁都可能酿成大祸！本集带你揭开医疗现场的隐藏英雄，了解那些容易被忽视的重要角色！</desc>
-  </programme>
-  <programme start="20260627090000 +0000" stop="20260627095500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">在家就能当主厨？宋哥教你用章鱼烧烤盘做出凤梨虾球！韩式炸鸡不必买？曲艾玲教你用简单食材就能做出韩剧美味！照烧酱要熬很久？惟毅教你轻松做出爆浆照烧牛肉卷！还有饭店主厨教你不用烤箱就能做出起司蛋糕的妙招！</desc>
-  </programme>
-  <programme start="20260627095500 +0000" stop="20260627105500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">中国发禁航公告，解放军今起连5日实弹射击，共机绕台画圈圈，挑衅？不爽美国却只能秀肌肉？李正皓：中国「战狼外交」变「贵宾狗外交」。</desc>
-  </programme>
-  <programme start="20260627105500 +0000" stop="20260627115000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">台湾人爱借这些好奇怪！金炳秀觉得台湾女生爱借外套，却被现场台湾来宾亏不懂女人心？！蔡博文送给女友性感内衣，却被朋友借去当拍照道具？！台湾妈妈爱跟女儿借衣服，让俄罗斯妲夏惊呼太幼稚不符年纪？！各国人爱借的东西让大家瞠目结舌？瑞典电车月票费用超级贵，马丁说每个人都爱互借省交通费？！</desc>
-  </programme>
-  <programme start="20260627115000 +0000" stop="20260627124500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">马西屏分享一名女子因挤痘痘引发严重感染，高烧不退、大小便失禁，最后竟被送进重症病房，竟与人体神秘三角地带有关！？狄志为分享情侣间的玩笑竟酿成大危机，一个轻拍竟导致内脏位移，后果超惊人！？奎丁亲身经历接睫毛的恐怖意外，脸部红肿剧痛，治疗长达数月，现在听到「接睫毛」三个字就心有余悸！</desc>
-  </programme>
-  <programme start="20260627124500 +0000" stop="20260627134000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">肩膀酸痛怎么办？余皓然分享每天都能做的舒缓运动！杨晨熙眼压过高造成剧烈头痛，竟是靠它来缓解？头痛不想吃药？中医师林姸余教你从这些穴位来缓解恼人头痛！经痛好苦恼？医师张华伦分享舒缓经痛的饮食！</desc>
-  </programme>
-  <programme start="20260627134000 +0000" stop="20260627144000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">美国今早出动多架军机南海侦察，两栖突击舰现踪台湾东部外海、美国南海侦察「变本加厉」？中国官媒抓狂呛：第二枪就是东风飞弹！</desc>
-  </programme>
-  <programme start="20260627144000 +0000" stop="20260627153500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">和外国人恋爱超浪漫？老外说跟他们交往有好有坏，恋爱的优缺点居然是这个？！吴子龙说义大利人的恋爱优点是很会做饭，但缺点是太爱对异性甜言蜜语？！韩国金炳秀会把女友宠成小公主，可是太爱国、狂夸韩国好处让对方受不了？！</desc>
-  </programme>
-  <programme start="20260627153500 +0000" stop="20260627163000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">夏腾宏在剧中演出「取出体内子弹」的手术场景，过程惊险万分，也让他对医护人员萌生深深敬意！？吴岳擎工作突感呼吸不顺，险在台上昏倒，幸好医师就在现场紧急施救，才惊险捡回一命！？救护员尤诗妤值勤时，遇到民众突发疾病倒地，她竟在水圳中紧急抢救，过程惊险让人捏把冷汗！？</desc>
-  </programme>
-  <programme start="20260627163000 +0000" stop="20260627172500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">Vicky报名天后舞蹈课跳到虚脱，就怕被嫩妹比下去？！杨皓如报名蛋糕课程，一阵忙乱后发觉直接买现成的就好？！花费心力办小孩生日派对却意外引发闺蜜的攀比心而闹翻？！林采缇天天跑球场还换了3个教练，只是要高尔夫球技比别人好？！</desc>
-  </programme>
-  <programme start="20260627172500 +0000" stop="20260627182500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">中印边境再爆冲突！两国防长首次谈判！中国嘴硬:责任全再印方、印藏联军击退共军！边界挥舞「雪山狮子旗」庆祝胜利有特殊涵意？！</desc>
-  </programme>
-  <programme start="20260627182500 +0000" stop="20260627192000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">机场是一国门面，没想到全球这些大机场居然超级雷？！金炳秀在机场不是当流浪汉，就是被抓进小房间，爆笑经验让全场怀疑到底是人的问题还是机场的问题？！马丁说法国机场标示不清、人员态度差，离谱程度让他大开眼界？！到底世界各国还有哪些恐怖机场，让人好怕怕？</desc>
-  </programme>
-  <programme start="20260627192000 +0000" stop="20260627201500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">陈珮骐拍戏时不幸被传染感冒，又巧遇生理期大量血崩，结果在摄影途中竟发生了意想不到的意外惊吓众人！？蔡颐榛出国旅游时感染呼吸道疾病，睡眠不足、免疫力下降，最后竟引发先天就有的疾病大爆发！？蔡允洁上节目拼命三郎，一个意外小摔倒竟导致骨裂，最后花了一整年才完全康复！？</desc>
-  </programme>
-  <programme start="20260627201500 +0000" stop="20260627211000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">阿翔全手工自制夜市游戏！让全场惊呼连连！黄雨欣让小孩手作美食，竟意外让孩子吃了原本不喜欢的食物？！阿诺为培养小孩艺术天份，竟跟女儿在家互涂颜料！小孩在家好无聊？赛先生分享生活小物做出惊喜小玩具！</desc>
-  </programme>
-  <programme start="20260627211000 +0000" stop="20260627221000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">「台海兵凶战危」？共军扰台联开记者会「不寻常」？蔡总统说话了…、东沙被锁定？布满共军雷达光点？「衡山指挥所很忙」…国防部否认。</desc>
-  </programme>
-  <programme start="20260627221000 +0000" stop="20260627230500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">台湾人平常爱收集这些东西，竟被老外吐槽到不行？！梦多说台湾女生爱收集纸胶带，他完全不能理解为什么要收集这个不黏的小东西？！詹子晴收集各种纸袋，也被全场老外砲轰？！到底各国人喜欢收集什么东西？权贞妍说韩国最新收集热潮，竟是口罩专用时尚配件？！还有什么稀奇古怪的收藏，让大家惊叹傻眼？</desc>
-  </programme>
-  <programme start="20260627230500 +0000" stop="20260628000000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">狄志为介绍一起超离奇案例，竟因亲密关系引发花生过敏，最后不幸猝死，震惊众人！？吕文婉分享发生在加拿大的惊人事件，一名女子因被小虫叮咬，长期痛苦不堪，最终竟选择安乐死！？林韦君穿鞋时意外被不知名小虫叮咬，当天头晕目眩，脚肿得连鞋都穿不进去，状况严重超乎想像！？</desc>
-  </programme>
-  <programme start="20260628000000 +0000" stop="20260628005500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">确诊后怎么办？该直接霸气搬到防疫旅馆放假去吗？！陈樱文确诊身体不适，还得强忍病痛指挥老公做事？！黄馨仪夫妇接连染疫，小孩竟意外变得超自动又贴心？！孩子到底要不要打疫苗？黄𪻐宁医师分享爸妈该如何做！！</desc>
-  </programme>
-  <programme start="20260628005500 +0000" stop="20260628015500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">没iPhone 12！苹果新品发表会，台积电放大绝「A14」晶片成亮点！苹果新品Apple Watch Series 6强打健康照护「救命」功能爆红！</desc>
-  </programme>
-  <programme start="20260628015500 +0000" stop="20260628025000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">玉兔阿姨警告她梦见自己在飞就表示灵魂出窍，但美国人却说这是翻转人生？！茵芙梦到厕所以为恋情会有阻碍，但日本朋友却说这是转机？！梦见高空坠落大家超有感！姜勋梦到从喜马拉雅山跌下来，最后一秒看到小梁哥的脸才醒过来？！究竟梦境和现实有什么神奇的关连？各国老外又做过什么奇特的梦呢？</desc>
-  </programme>
-  <programme start="20260628025000 +0000" stop="20260628034500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">年轻医师抱怨资深医师不仅对新人严苛，甚至对病患和家属也毫不留情！？资深医师反击，批评年轻医师动不动就劝病患开刀，却忽略了患者需要时间准备！？林婷遇到一位海归医师，明明旧仪器就能解决问题，却硬要炫技使用新技术，没想到最后竟需要他人救场！？</desc>
-  </programme>
-  <programme start="20260628034500 +0000" stop="20260628044000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">朱海君自行去化工行调配Ａ醇来保养，却意外擦到脸上不停脱屑？！壮壮为减肥吃中药，却被医生判定吃药吃到身体已经老化？！美珍为解决鼻塞问题做鼻梁骨整复，竟是用卫生筷戳鼻子？赖薇如为减肥无极限，穿著雨衣跑跑步机结果造成红肿过敏？！</desc>
-  </programme>
-  <programme start="20260628044000 +0000" stop="20260628054000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">要打了？！前雄三飞弹工程师：美中战，台湾成替死鬼？开战率50%、要打了？！退役空军副司令：随时要准备好，防范共军突袭。</desc>
-  </programme>
-  <programme start="20260628054000 +0000" stop="20260628063500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">为什么到了国外，老外也想装成当地人或别国人？究竟是历史仇恨太深，还是有太多好处？要把握哪些原则，才能装得像不被拆穿呢？杜力教大家一招瞬间变身加拿大人还能拿尽好处？义大利人吴子龙从哪里看穿对方是冒牌货？法国尼可到俄罗斯装俄国人，一家三口竟能省下不少钱？！</desc>
-  </programme>
-  <programme start="20260628063500 +0000" stop="20260628073000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">曲艾玲长期出外景，竟导致「空姐症候群」，精神不济、工作效率大幅下滑！5分钟放松法真的有效吗！？马力欧的老婆东西总是乱放，家里一团混乱，但一抱怨她就难过，这种情况该如何巧妙解决！？慈妹长期消化不良、胃病缠身，严重胃食道逆流让她狂咳不止，吃饭时间该怎么调整才能改善！？</desc>
-  </programme>
-  <programme start="20260628073000 +0000" stop="20260628082500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">清冠一号可以当保健品？毒理专家却说这个做法不但NG还可能导致腹泻！！晚餐不吃瘦更快？营养师许琼月分析瘦身的最大关键在于总热量？！牙齿意外脱落怎么办？专家教你如何让掉落的牙齿还能保有组织的再生力？！小孩发高烧怎么办？萁妈竟将孩子直接放入冰水中降温？！</desc>
-  </programme>
-  <programme start="20260628082500 +0000" stop="20260628092500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">庞培奥10月访日韩、蒙古国，全球反华联盟成形？中国呛：痴人说梦、反击中国！上万美军集结关岛海域「勇敢之盾」军演战力惊人！</desc>
-  </programme>
-  <programme start="20260628092500 +0000" stop="20260628102000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">各国网路流言，瞎到不可思议？！马丁说欧洲网路谣传疫情和5G有关系，导致许多国家民众居然开始攻击基地台？！日本地震多，梦多说预测地震也有神奇撇步？！韩国人居然有条网路流言，坚信涂了这东西痔疮就药到病除？！网路上流言真真假假，各国老外来破解！现场实验破解结果究竟如何？</desc>
-  </programme>
-  <programme start="20260628102000 +0000" stop="20260628111500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">李祖宁长期受皮肤问题困扰，感冒却意外让症状缓解，没想到停药后竟引发更严重状况！？惟毅因为骑车姿势不当，竟导致痔疮疼痛发作，工作状态大崩坏，吓坏身边所有人！？蔡逸帆发现左胸变大，原本窃喜是「二次发育」，检查后竟验出是一颗肿瘤！？身体的微小变化，背后可能藏著大危机！</desc>
-  </programme>
-  <programme start="20260628111500 +0000" stop="20260628121000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">乌龙绯闻传多年？和长官出差同房的谣言竟在多年后才传进当事人张宇的耳朵里？男性也会被霸凌？资深媒体人洪素卿分享男护理师被护理长霸凌最后告上法院！！为阻止同事升官竟教唆男友割破对手的轮胎？最后惨被开除还吃上官司！你在职场里的存活指数有多少？星座专家－安格斯精采分析谁能生存到最后！</desc>
-  </programme>
-  <programme start="20260628121000 +0000" stop="20260628131000 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">川普神康复「王者归来」全面杠上习皇帝的「永恒王朝」？！美售台新战机！台湾为何不买F-35？专家曝F-16V「隐藏性能」？！</desc>
-  </programme>
-  <programme start="20260628131000 +0000" stop="20260628140500 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">门当户对的爱情，真的可以过上幸福日子吗？！夏美跟音乐系男孩稳定交往，男孩的控制欲望却越来越强烈？！金炳秀跟政治世家女孩交往，竟被政治圈的叔伯们瞧不起？！蔡博文日本前女友家中竟经营庞大饭店事业，竟威胁两人不准在一起？！费丹尼前女友年纪大很多，被朋友嘲笑是跟妈妈交往？！</desc>
-  </programme>
-  <programme start="20260628140500 +0000" stop="20260628150000 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">侯昌明下腹闷痛、上厕所也无改善，紧急就医检查，才发现竟是这个问题作祟！？巫苡萱冬天手脚冰冷，夜晚甚至下肢发麻，医师追问细节后，竟发现问题出在穿衣习惯！？陈天仁开著老爷车上下班，没想到短短三天便咳嗽高烧不退，检查竟验出是霉菌感染惹祸！？身体一旦「堵住」，健康就亮红灯！</desc>
-  </programme>
-  <programme start="20260628150000 +0000" stop="20260628155500 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">熟龄毛孔问题怎么解？快来听保养达人分享紧致毛孔秘诀！熬夜肤况难照顾？别错过金老佛爷分享韩国最新水乳保养法！脸部暗沉好困扰？一定要跟上杨皓如分享韩星都爱的气泡水洗脸法！脸上斑点可以靠吃解决？那就要喝温翠苹分享美白蔬果汁！</desc>
-  </programme>
-  <programme start="20260628155500 +0000" stop="20260628162500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">房市买气热！房贷、建筑贷款余额续创高、年底房贷余额冲8兆！打房说发酵？还是避风头再起？台北推案量急缩，新竹吓坏减七成。</desc>
-  </programme>
-  <programme start="20260628162500 +0000" stop="20260628172000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">台湾走完一圈都是庙！在地庙宇文化好特别？杜力看到神明脸黑黑，误以为台湾人都崇拜黑人？！舞阳带女友去庙宇约会看夜景，女友大怒觉得是要和她分手？！在台湾废墟模样的庙拜拜，朋友担心吴子龙会被不好的能量附上？！阿拉耶稣佛祖都在一间庙，贺少侠看了觉得超傻眼？！</desc>
-  </programme>
-  <programme start="20260628172000 +0000" stop="20260628181500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">苏心宁爸爸竟在街头淋雨游荡，连回家的路都不记得，家中也因他失智症状变得一团混乱！？田舞阳爸爸突发中风倒地不起，康复过程艰辛，却靠著独门锻炼方法一路挺过来，恢复惊人！？Peggy产后记忆力明显衰退，甚至连超重要会议都忘记，大迟到差点连工作都丢了！？脑部健康是人生关键密码。</desc>
-  </programme>
-  <programme start="20260628181500 +0000" stop="20260628191000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">女艺人会打扫家里吗？平常自认是好媳妇的她们会知道洗马桶也有顺序吗？会知道如何使用漂白水才不会中毒？衣服又应该多久洗一次？紫外线灯可以消毒杀菌，但是要怎么使用才安全？每天拖地还是一堆灰尘，怎么打扫才能让地板不沾灰尘？面对节目出的考题，到底她们还会有哪些令人匪夷所思的答案出现？</desc>
-  </programme>
-  <programme start="20260628191000 +0000" stop="20260628193500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">转卖房市红单2周赚上百万？消保官卧底揭内幕！购买预售屋小心红单藏陷阱？揭密红单背后真相..！政院打炒房这次来真的？！现在是进场买房好时机？！买房还要排队抽签？！破解秒杀个案操作手法！</desc>
-  </programme>
-  <programme start="20260628193500 +0000" stop="20260628203000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">金炳秀出车祸脑震荡，长辈哥哥帮他清理大小便让人感激不已？！恩人长辈家中经济状况不好竟还好心帮助他人，白弥儿感动现场落泪？！长辈热心让人难以拒绝，老外哭笑不得大伤脑筋？！杜力一直被开玩笑有痛风，想不到社区叔叔阿姨们都把痛风药送给他？！长辈总说这样是为你好，但这些好意是善意还是压力？</desc>
-  </programme>
-  <programme start="20260628203000 +0000" stop="20260628212500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">张凤书拍戏劈腿时意外伤到右髋关节，随著年纪增长旧伤频频复发，只能靠长期重训稳定控制！？梁一贞因姿势不良导致骨盆歪斜，没想到靠某种复古运动就明显改善！？龙龙常常懒得吃饭，三餐只靠能量饮，某次久违吃饭竟引发急性肠胃炎！？现代人忙碌又操劳，其实「老派方法」反而更能养出真健康！</desc>
-  </programme>
-  <programme start="20260628212500 +0000" stop="20260628222000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">张可昀被网路去角质神器烧到，入手后却用到破皮红肿？芳瑜屁股蛋两片黑？角质受损通通都是自己造成的？陈依依有便秘困扰，出国玩时小腹大到被餐厅服务生误认为孕妇？！想要摆脱宿便怎么做？保养达人与中医师一起教你居家撇步！</desc>
-  </programme>
-  <programme start="20260628222000 +0000" stop="20260628224500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">央行施「4限令」铁腕打炒房、断金流，房价会大跌吗？「实登2.0」预售屋纳管、门牌地号全露 资讯全曝光？！刚签预售屋就打炒房！该解约吗？专家教您解套方法？！央行4重拳后..小资族等到买房时机？一张表告诉你答案！</desc>
-  </programme>
-  <programme start="20260628224500 +0000" stop="20260628234000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">台湾人就爱拍拍拍，拍到老外都冻未条？各国网红流行怎么拍，竟让全场玩超嗨？美国网红流行的25年挑战，杜力模仿小时候的自己拍照好可爱？！英国网红流行把自己的脸P到明星脸上，辣妹MV加上汤姆士的脸超级违和？！日本最夯「洋芋片拍照法」，看来荒谬但现场实测竟大获好评？！</desc>
-  </programme>
-  <programme start="20260628234000 +0000" stop="20260629003500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">杨晨熙因贫血体质容易头晕，有次在座位上突喊「地震来了！」结果竟是自己晕眩误会，当场超尴尬！？爱雅拍戏遇到恶劣环境，不敢使用超可怕茅坑长期憋尿，导致血尿、下腹剧痛差点送医！？焦曼婷起床擤鼻涕竟擤出一条绿色「毛毛虫」，下午开始高烧不退、四肢无力，竟是细菌感染引爆！？</desc>
-  </programme>
-  <programme start="20260629003500 +0000" stop="20260629013000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">天啊好尴尬！陈樱文去发廊洗头闻到超重头皮味竟然是自己发出来的？！录影中被导播喊卡，竟然是因为油光满面影响画面？夏天头脸容易油腻腻？元凶竟然是冰凉手摇饮？减肥怕皮松？想消灭身体肥油？怎么吃更好瘦让营养师慢慢道来！</desc>
-  </programme>
-  <programme start="20260629013000 +0000" stop="20260629015500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">全台待售屋周增近万件！政府「打炒房」变「打房」？谁倒大楣？！「囤房税」真能打击高房价？！税金转嫁变租金，年轻人连房都租不起？！ </desc>
-  </programme>
-  <programme start="20260629015500 +0000" stop="20260629025000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">凑热闹竟会遇到这些好事？！梦多凑热闹竟遇到摔角偶像初代虎面，收到珍贵面具超惊喜？！贾斯汀在日本也去凑热闹，居然交到日本女友让大家直呼不可思议？！佩德罗说西班牙人天生爱凑热闹，他还因此被邀请当随行口译、爽玩欧洲6天全免费？！妲夏帮朋友践行，跟著排队竟排到A5和牛大放送？！</desc>
-  </programme>
-  <programme start="20260629025000 +0000" stop="20260629034500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">宋哥因孩子严重挑食导致营养不良，带去检查竟被医师怀疑是虐待儿童！？Terry家的三宝轮流中感冒，原以为只是撒娇耍赖，没想到病情恶化差点引发败血症！？Summer发现7岁小孩竟已长出后排牙齿，检查后被医师提醒要注意双排牙可能，恐影响牙齿健康发展！？孩子的身体变化，可能暗藏健康危机！</desc>
-  </programme>
-  <programme start="20260629034500 +0000" stop="20260629044000 +0000" channel="东森娱乐台">
-    <title lang="zh">妈妈好神之俗女家务事</title>
-    <desc lang="zh">太太私密处痒痒竟怪哈孝远卫生习惯不好？洗肾竟然也会造成皮肤发痒？让皮肤科医师告诉你真正的原因在哪里！梅雨季节天气整天湿答答的让衣服永远干不了？家事达人教你善用除湿机来风干衣服，又快又有效率！！</desc>
-  </programme>
-  <programme start="20260629044000 +0000" stop="20260629050500 +0000" channel="东森娱乐台">
-    <title lang="zh">梦想街57号 全能事务所</title>
-    <desc lang="zh">还能当航海王？航运股会涨到哪？上船前你得知道的事！航运三雄超前部署，全球航运业将重新洗牌？股东会旺季防疫不可少！忧群聚感染风险，电子投票成趋势！股东会电子投票该怎么投？三管道落实防疫、护股东权益。</desc>
-  </programme>
-  <programme start="20260629050500 +0000" stop="20260629060000 +0000" channel="东森娱乐台">
-    <title lang="zh">2分之一强</title>
-    <desc lang="zh">东方人超羡慕西方老外的身材长相，但高挑身型深邃五官，竟有不为人知的困扰？！白弥儿手脚好修长，可是不管去餐厅还是搭飞机都卡到不行？！杜力眼睛又圆又大，竟会睫毛倒插长针眼？！恺杰头型让人称羡，但是安全帽老是戴不好？！贺少侠每次都朋友家作客，室内拖鞋总是痛得像踩健康步道？！</desc>
-  </programme>
-  <programme start="20260629060000 +0000" stop="20260629065500 +0000" channel="东森娱乐台">
-    <title lang="zh">医师好辣</title>
-    <desc lang="zh">陈樱文与私密处HPV病毒共存5年，分泌物困扰日常，回诊时病毒竟神奇消失！到底发生何事！？佩佩耳鸣一周不间断，跑遍耳鼻喉科与小儿科无解，最后竟是眼睛问题惹祸！？珮薰饱受反复胃痛所苦一年之久，靠著一个简单习惯竟然就彻底改善！？</desc>
-  </programme>
-  <programme start="20260624195500 +0000" stop="20260624215500 +0000" channel="中天亚洲精采台">
+  <programme start="20260624195500 +0000" stop="20260624214000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260624215500 +0000" stop="20260624220500 +0000" channel="中天亚洲精采台">
+  <programme start="20260624214000 +0000" stop="20260624215000 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260624220500 +0000" stop="20260624230500 +0000" channel="中天亚洲精采台">
+  <programme start="20260624215000 +0000" stop="20260624224000 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260624230500 +0000" stop="20260624231500 +0000" channel="中天亚洲精采台">
+  <programme start="20260624224000 +0000" stop="20260624225000 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260624231500 +0000" stop="20260625011000 +0000" channel="中天亚洲精采台">
+  <programme start="20260624225000 +0000" stop="20260625003500 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260625011000 +0000" stop="20260625011500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625003500 +0000" stop="20260625004000 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260625011500 +0000" stop="20260625021500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625004000 +0000" stop="20260625013000 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260625021500 +0000" stop="20260625022500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625013000 +0000" stop="20260625014000 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260625022500 +0000" stop="20260625042000 +0000" channel="中天亚洲精采台">
+  <programme start="20260625014000 +0000" stop="20260625033000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260625042000 +0000" stop="20260625042500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625033000 +0000" stop="20260625033500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260625042500 +0000" stop="20260625052500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625033500 +0000" stop="20260625042500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260625052500 +0000" stop="20260625053500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625042500 +0000" stop="20260625043500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260625053500 +0000" stop="20260625073500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625043500 +0000" stop="20260625062500 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260625073500 +0000" stop="20260625074500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625062500 +0000" stop="20260625063500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260625074500 +0000" stop="20260625084500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625063500 +0000" stop="20260625072500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260625084500 +0000" stop="20260625085500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625072500 +0000" stop="20260625073500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260625085500 +0000" stop="20260625105500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625073500 +0000" stop="20260625092000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260625105500 +0000" stop="20260625110500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625092000 +0000" stop="20260625093000 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260625110500 +0000" stop="20260625120500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625093000 +0000" stop="20260625102000 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260625120500 +0000" stop="20260625121500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625102000 +0000" stop="20260625103000 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260625121500 +0000" stop="20260625141000 +0000" channel="中天亚洲精采台">
+  <programme start="20260625103000 +0000" stop="20260625122000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260625141000 +0000" stop="20260625141500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625122000 +0000" stop="20260625122500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260625141500 +0000" stop="20260625151500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625122500 +0000" stop="20260625131500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260625151500 +0000" stop="20260625152500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625131500 +0000" stop="20260625132500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260625152500 +0000" stop="20260625172500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625132500 +0000" stop="20260625151000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260625172500 +0000" stop="20260625173000 +0000" channel="中天亚洲精采台">
+  <programme start="20260625151000 +0000" stop="20260625151500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260625173000 +0000" stop="20260625183000 +0000" channel="中天亚洲精采台">
+  <programme start="20260625151500 +0000" stop="20260625160500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260625183000 +0000" stop="20260625184000 +0000" channel="中天亚洲精采台">
+  <programme start="20260625160500 +0000" stop="20260625161500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260625184000 +0000" stop="20260625203500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625161500 +0000" stop="20260625180000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260625203500 +0000" stop="20260625204500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625180000 +0000" stop="20260625181000 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260625204500 +0000" stop="20260625214500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625181000 +0000" stop="20260625190000 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260625214500 +0000" stop="20260625215500 +0000" channel="中天亚洲精采台">
+  <programme start="20260625190000 +0000" stop="20260625191000 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260625215500 +0000" stop="20260625235000 +0000" channel="中天亚洲精采台">
+  <programme start="20260625191000 +0000" stop="20260625205500 +0000" channel="中天亚洲精采台">
+    <title lang="zh">头条开讲</title>
+    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
+  </programme>
+  <programme start="20260625205500 +0000" stop="20260625210500 +0000" channel="中天亚洲精采台">
+    <title lang="zh">今天吃什么</title>
+    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
+  </programme>
+  <programme start="20260625210500 +0000" stop="20260625215500 +0000" channel="中天亚洲精采台">
+    <title lang="zh">小明星大跟班</title>
+    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
+  </programme>
+  <programme start="20260625215500 +0000" stop="20260625220500 +0000" channel="中天亚洲精采台">
+    <title lang="zh">我想去看看</title>
+    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
+  </programme>
+  <programme start="20260625220500 +0000" stop="20260625235000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
@@ -57291,135 +56959,151 @@
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260626000000 +0000" stop="20260626010000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626000000 +0000" stop="20260626005000 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260626010000 +0000" stop="20260626011000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626005000 +0000" stop="20260626010000 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260626011000 +0000" stop="20260626030500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626010000 +0000" stop="20260626024500 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260626030500 +0000" stop="20260626031500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626024500 +0000" stop="20260626025000 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260626031500 +0000" stop="20260626041500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626025000 +0000" stop="20260626034000 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260626041500 +0000" stop="20260626042500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626034000 +0000" stop="20260626035000 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260626042500 +0000" stop="20260626062000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626035000 +0000" stop="20260626053500 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260626062000 +0000" stop="20260626062500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626053500 +0000" stop="20260626054500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260626062500 +0000" stop="20260626072500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626054500 +0000" stop="20260626063500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260626072500 +0000" stop="20260626073500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626063500 +0000" stop="20260626064500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260626073500 +0000" stop="20260626093000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626064500 +0000" stop="20260626083000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260626093000 +0000" stop="20260626094000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626083000 +0000" stop="20260626083500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260626094000 +0000" stop="20260626104000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626083500 +0000" stop="20260626092500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260626104000 +0000" stop="20260626105000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626092500 +0000" stop="20260626093500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260626105000 +0000" stop="20260626124500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626093500 +0000" stop="20260626112000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260626124500 +0000" stop="20260626125000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626112000 +0000" stop="20260626112500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260626125000 +0000" stop="20260626135000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626112500 +0000" stop="20260626121500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260626135000 +0000" stop="20260626140000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626121500 +0000" stop="20260626122500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260626140000 +0000" stop="20260626155500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626122500 +0000" stop="20260626141000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260626155500 +0000" stop="20260626160000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626141000 +0000" stop="20260626141500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260626160000 +0000" stop="20260626170000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626141500 +0000" stop="20260626150500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260626170000 +0000" stop="20260626171000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626150500 +0000" stop="20260626151500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260626171000 +0000" stop="20260626190500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626151500 +0000" stop="20260626170000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260626190500 +0000" stop="20260626191000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626170000 +0000" stop="20260626170500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260626191000 +0000" stop="20260626201000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626170500 +0000" stop="20260626175500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260626201000 +0000" stop="20260626202000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626175500 +0000" stop="20260626181000 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260626202000 +0000" stop="20260626221500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626181000 +0000" stop="20260626200000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260626221500 +0000" stop="20260626222000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626200000 +0000" stop="20260626200500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260626222000 +0000" stop="20260626232000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626200500 +0000" stop="20260626205500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260626232000 +0000" stop="20260626233500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626205500 +0000" stop="20260626210500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260626233500 +0000" stop="20260627013000 +0000" channel="中天亚洲精采台">
+  <programme start="20260626210500 +0000" stop="20260626225000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260627013000 +0000" stop="20260627013500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626225000 +0000" stop="20260626230000 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260627013500 +0000" stop="20260627023500 +0000" channel="中天亚洲精采台">
+  <programme start="20260626230000 +0000" stop="20260626235000 +0000" channel="中天亚洲精采台">
+    <title lang="zh">小明星大跟班</title>
+    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
+  </programme>
+  <programme start="20260626235000 +0000" stop="20260627000500 +0000" channel="中天亚洲精采台">
+    <title lang="zh">我想去看看</title>
+    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
+  </programme>
+  <programme start="20260627000500 +0000" stop="20260627015000 +0000" channel="中天亚洲精采台">
+    <title lang="zh">头条开讲</title>
+    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
+  </programme>
+  <programme start="20260627015000 +0000" stop="20260627015500 +0000" channel="中天亚洲精采台">
+    <title lang="zh">今天吃什么</title>
+    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
+  </programme>
+  <programme start="20260627015500 +0000" stop="20260627023500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
@@ -57427,527 +57111,95 @@
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260627024500 +0000" stop="20260627044500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627024500 +0000" stop="20260627043000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260627044500 +0000" stop="20260627045500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627043000 +0000" stop="20260627044500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260627045500 +0000" stop="20260627055500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627044500 +0000" stop="20260627053500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260627055500 +0000" stop="20260627061000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627053500 +0000" stop="20260627054500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260627061000 +0000" stop="20260627080500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627054500 +0000" stop="20260627073000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260627080500 +0000" stop="20260627081000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627073000 +0000" stop="20260627074500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260627081000 +0000" stop="20260627085500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627074500 +0000" stop="20260627083500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260627085500 +0000" stop="20260627090500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627083500 +0000" stop="20260627084500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260627090500 +0000" stop="20260627110000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627084500 +0000" stop="20260627103000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260627110000 +0000" stop="20260627111500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627103000 +0000" stop="20260627104000 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260627111500 +0000" stop="20260627121500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627104000 +0000" stop="20260627113000 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260627121500 +0000" stop="20260627122500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627113000 +0000" stop="20260627114500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260627122500 +0000" stop="20260627142000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627114500 +0000" stop="20260627133500 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260627142000 +0000" stop="20260627143500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627133500 +0000" stop="20260627134500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260627143500 +0000" stop="20260627153500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627134500 +0000" stop="20260627143500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260627153500 +0000" stop="20260627154500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627143500 +0000" stop="20260627145000 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260627154500 +0000" stop="20260627174000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627145000 +0000" stop="20260627163500 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260627174000 +0000" stop="20260627175000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627163500 +0000" stop="20260627164500 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260627175000 +0000" stop="20260627185000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627164500 +0000" stop="20260627173500 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
-  <programme start="20260627185000 +0000" stop="20260627190500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627173500 +0000" stop="20260627174500 +0000" channel="中天亚洲精采台">
     <title lang="zh">我想去看看</title>
     <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
   </programme>
-  <programme start="20260627190500 +0000" stop="20260627210000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627174500 +0000" stop="20260627193000 +0000" channel="中天亚洲精采台">
     <title lang="zh">头条开讲</title>
     <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
   </programme>
-  <programme start="20260627210000 +0000" stop="20260627211000 +0000" channel="中天亚洲精采台">
+  <programme start="20260627193000 +0000" stop="20260627194000 +0000" channel="中天亚洲精采台">
     <title lang="zh">今天吃什么</title>
     <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
   </programme>
-  <programme start="20260627211000 +0000" stop="20260627221000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260627221000 +0000" stop="20260627222500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260627222500 +0000" stop="20260628002500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260628002500 +0000" stop="20260628003500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260628003500 +0000" stop="20260628013500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260628013500 +0000" stop="20260628014500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260628014500 +0000" stop="20260628034000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260628034000 +0000" stop="20260628035000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260628035000 +0000" stop="20260628045000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260628045000 +0000" stop="20260628050000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260628050000 +0000" stop="20260628070000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260628070000 +0000" stop="20260628071000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260628071000 +0000" stop="20260628081000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260628081000 +0000" stop="20260628082000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260628082000 +0000" stop="20260628101500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260628101500 +0000" stop="20260628102000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260628102000 +0000" stop="20260628112000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260628112000 +0000" stop="20260628113000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260628113000 +0000" stop="20260628132500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260628132500 +0000" stop="20260628133000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260628133000 +0000" stop="20260628143000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260628143000 +0000" stop="20260628144000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260628144000 +0000" stop="20260628164000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260628164000 +0000" stop="20260628165000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260628165000 +0000" stop="20260628175000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260628175000 +0000" stop="20260628180000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260628180000 +0000" stop="20260628200000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260628200000 +0000" stop="20260628201000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260628201000 +0000" stop="20260628211000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260628211000 +0000" stop="20260628212000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260628212000 +0000" stop="20260628231500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260628231500 +0000" stop="20260628232000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260628232000 +0000" stop="20260629002000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260629002000 +0000" stop="20260629003000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260629003000 +0000" stop="20260629023000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260629023000 +0000" stop="20260629023500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260629023500 +0000" stop="20260629033500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260629033500 +0000" stop="20260629034500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260629034500 +0000" stop="20260629054000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260629054000 +0000" stop="20260629055000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260629055000 +0000" stop="20260629065000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260629065000 +0000" stop="20260629070000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260629070000 +0000" stop="20260629085500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260629085500 +0000" stop="20260629090500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260629090500 +0000" stop="20260629100500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260629100500 +0000" stop="20260629101500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260629101500 +0000" stop="20260629121000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260629121000 +0000" stop="20260629122000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260629122000 +0000" stop="20260629132000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260629132000 +0000" stop="20260629133000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260629133000 +0000" stop="20260629152500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260629152500 +0000" stop="20260629153000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260629153000 +0000" stop="20260629163000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260629163000 +0000" stop="20260629164000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260629164000 +0000" stop="20260629183500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260629183500 +0000" stop="20260629184500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260629184500 +0000" stop="20260629194500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260629194500 +0000" stop="20260629195500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260629195500 +0000" stop="20260629215000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260629215000 +0000" stop="20260629215500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260629215500 +0000" stop="20260629225500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260629225500 +0000" stop="20260629230500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260629230500 +0000" stop="20260630010000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260630010000 +0000" stop="20260630010500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260630010500 +0000" stop="20260630020500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260630020500 +0000" stop="20260630021500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260630021500 +0000" stop="20260630041000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260630041000 +0000" stop="20260630041500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260630041500 +0000" stop="20260630051500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260630051500 +0000" stop="20260630052500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260630052500 +0000" stop="20260630072000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260630072000 +0000" stop="20260630072500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260630072500 +0000" stop="20260630082500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260630082500 +0000" stop="20260630084000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260630084000 +0000" stop="20260630103500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260630103500 +0000" stop="20260630104000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260630104000 +0000" stop="20260630114000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260630114000 +0000" stop="20260630115000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260630115000 +0000" stop="20260630135000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260630135000 +0000" stop="20260630140000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260630140000 +0000" stop="20260630150000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260630150000 +0000" stop="20260630151500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260630151500 +0000" stop="20260630171000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260630171000 +0000" stop="20260630171500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260630171500 +0000" stop="20260630180000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260630180000 +0000" stop="20260630181000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260630181000 +0000" stop="20260630200500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260630200500 +0000" stop="20260630202000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260630202000 +0000" stop="20260630212000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260630212000 +0000" stop="20260630213000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260630213000 +0000" stop="20260630232500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260630232500 +0000" stop="20260630234000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260630234000 +0000" stop="20260701004000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260701004000 +0000" stop="20260701005000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260701005000 +0000" stop="20260701024500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260701024500 +0000" stop="20260701025500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260701025500 +0000" stop="20260701035500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260701035500 +0000" stop="20260701041000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260701041000 +0000" stop="20260701060500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260701060500 +0000" stop="20260701061500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260701061500 +0000" stop="20260701071500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260701071500 +0000" stop="20260701073000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260701073000 +0000" stop="20260701093000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260701093000 +0000" stop="20260701094000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260701094000 +0000" stop="20260701104000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">小明星大跟班</title>
-    <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
-  </programme>
-  <programme start="20260701104000 +0000" stop="20260701105000 +0000" channel="中天亚洲精采台">
-    <title lang="zh">我想去看看</title>
-    <desc lang="zh">探访最夯景点，挖掘隐藏版小众景区，让在地专家告诉你，别人不知道的故事；分享道地美食、美酒文化，仿佛身历其境的精采旅程！</desc>
-  </programme>
-  <programme start="20260701105000 +0000" stop="20260701124500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">头条开讲</title>
-    <desc lang="zh">明了前事，分析未来走向，周玉琴告诉您没想到的大小事背后真相。你不理政治，政治却未必不会影响你！世界政治势力结构快速改变，新时代降临，旧思想如何进化，台湾新思路能否顶得住大国冲击，最接近民意的声音，都在《头条开讲》。</desc>
-  </programme>
-  <programme start="20260701124500 +0000" stop="20260701125500 +0000" channel="中天亚洲精采台">
-    <title lang="zh">今天吃什么</title>
-    <desc lang="zh">好吃又好玩，走遍美食地图~还有哪里是你没去过的、没吃过的吗?跟我们一起发现—今天吃什么!!</desc>
-  </programme>
-  <programme start="20260701125500 +0000" stop="20260701135500 +0000" channel="中天亚洲精采台">
+  <programme start="20260627194000 +0000" stop="20260627203000 +0000" channel="中天亚洲精采台">
     <title lang="zh">小明星大跟班</title>
     <desc lang="zh">本土天王吴宗宪与女儿吴姗儒（Sandy）搭档主持，每集邀请来宾畅谈演艺圈大小事，父女档联手笑果十足，老梗搭上新世代，最新组合强势登场！</desc>
   </programme>
@@ -58860,156 +58112,155 @@
     <desc lang="zh">少女叶之秋，化身周家五姨太进入周府，只为查明姐姐身亡真相，在周府与具有身世秘密的周家大少爷周以墨相识，共同解开了周府不为人知的一面，两人相互支撑、共患危难的悬疑爱情故事。</desc>
   </programme>
   <programme start="20260624211500 +0000" stop="20260624212000 +0000" channel="Yes娱乐">
+    <title lang="zh">Lulu公布生娃进度「音讯全无」晚上谁先主动？私密大公开</title>
+    <desc lang="zh">Lulu公布生娃进度「音讯全无」晚上谁先主动？私密大公开</desc>
+  </programme>
+  <programme start="20260624212000 +0000" stop="20260624212500 +0000" channel="Yes娱乐">
     <title lang="zh">Lulu也遇狂粉冲上台熊抱？！ 还原惊吓画面强颜欢笑：理智追星</title>
     <desc lang="zh">Lulu也遇狂粉冲上台熊抱？！
 还原惊吓画面强颜欢笑：理智追星</desc>
   </programme>
-  <programme start="20260624212000 +0000" stop="20260624212500 +0000" channel="Yes娱乐">
+  <programme start="20260624212500 +0000" stop="20260624213000 +0000" channel="Yes娱乐">
     <title lang="zh">张秀卿猛呛杜忻恬「你滚开」 李子森大告白：年少不知姐姐好</title>
     <desc lang="zh">张秀卿猛呛杜忻恬「你滚开」
 李子森大告白：年少不知姐姐好</desc>
   </programme>
-  <programme start="20260624212500 +0000" stop="20260624213000 +0000" channel="Yes娱乐">
+  <programme start="20260624213000 +0000" stop="20260624213500 +0000" channel="Yes娱乐">
     <title lang="zh">回忆杀拉满！张柏芝晒《喜剧之王》旧照，为64岁周星驰暖心庆生</title>
     <desc lang="zh">回忆杀拉满！张柏芝晒《喜剧之王》旧照，为64岁周星驰暖心庆生</desc>
   </programme>
-  <programme start="20260624213000 +0000" stop="20260624213500 +0000" channel="Yes娱乐">
+  <programme start="20260624213500 +0000" stop="20260624214000 +0000" channel="Yes娱乐">
     <title lang="zh">黄一鸣通透表态：不阻拦孩子生父探视 纵使未付抚养费仍认亲子羁绊</title>
     <desc lang="zh">黄一鸣通透表态：不阻拦孩子生父探视 纵使未付抚养费仍认亲子羁绊</desc>
   </programme>
-  <programme start="20260624213500 +0000" stop="20260624214000 +0000" channel="Yes娱乐">
+  <programme start="20260624214000 +0000" stop="20260624214500 +0000" channel="Yes娱乐">
     <title lang="zh">69岁向太半年瘦身20斤 坦言身材管理是自爱态度</title>
     <desc lang="zh">69岁向太半年瘦身20斤 坦言身材管理是自爱态度</desc>
   </programme>
-  <programme start="20260624214000 +0000" stop="20260624214500 +0000" channel="Yes娱乐">
+  <programme start="20260624214500 +0000" stop="20260624215000 +0000" channel="Yes娱乐">
     <title lang="zh">纠缠十余年终败诉！李金铭综艺结缘农户造谣闹剧落幕</title>
     <desc lang="zh">纠缠十余年终败诉！李金铭综艺结缘农户造谣闹剧落幕</desc>
   </programme>
-  <programme start="20260624214500 +0000" stop="20260624215000 +0000" channel="Yes娱乐">
+  <programme start="20260624215000 +0000" stop="20260624215500 +0000" channel="Yes娱乐">
     <title lang="zh">王家卫电影御用摄影师何宝荣离世 定格经典港风光影</title>
     <desc lang="zh">王家卫电影御用摄影师何宝荣离世 定格经典港风光影</desc>
   </programme>
-  <programme start="20260624215000 +0000" stop="20260624215500 +0000" channel="Yes娱乐">
+  <programme start="20260624215500 +0000" stop="20260624220000 +0000" channel="Yes娱乐">
     <title lang="zh">陈小春开唱遭粉丝怒谯退票！台上落泪道歉：不满意就改</title>
     <desc lang="zh">陈小春开唱遭粉丝怒谯退票！台上落泪道歉：不满意就改</desc>
   </programme>
-  <programme start="20260624215500 +0000" stop="20260624220000 +0000" channel="Yes娱乐">
+  <programme start="20260624220000 +0000" stop="20260624220500 +0000" channel="Yes娱乐">
     <title lang="zh">马杰森热恋中竟飙失恋神曲！？「想别恋要趁早」钓出林襄严厉斥责XD</title>
     <desc lang="zh">马杰森热恋中竟飙失恋神曲！？「想别恋要趁早」钓出林襄严厉斥责XD</desc>
-  </programme>
-  <programme start="20260624220000 +0000" stop="20260624220500 +0000" channel="Yes娱乐">
-    <title lang="zh">孙艺珍晒度假全家福氛围感拉满 玄彬抱娃尽显温柔 夫妻体态差异引热议</title>
-    <desc lang="zh">孙艺珍晒度假全家福氛围感拉满 玄彬抱娃尽显温柔 夫妻体态差异引热议</desc>
   </programme>
   <programme start="20260624220500 +0000" stop="20260624221000 +0000" channel="Yes娱乐">
     <title lang="zh">孙艺珍晒度假全家福氛围感拉满 玄彬抱娃尽显温柔 夫妻体态差异引热议</title>
     <desc lang="zh">孙艺珍晒度假全家福氛围感拉满 玄彬抱娃尽显温柔 夫妻体态差异引热议</desc>
   </programme>
   <programme start="20260624221000 +0000" stop="20260624221500 +0000" channel="Yes娱乐">
+    <title lang="zh">孙艺珍晒度假全家福氛围感拉满 玄彬抱娃尽显温柔 夫妻体态差异引热议</title>
+    <desc lang="zh">孙艺珍晒度假全家福氛围感拉满 玄彬抱娃尽显温柔 夫妻体态差异引热议</desc>
+  </programme>
+  <programme start="20260624221500 +0000" stop="20260624222000 +0000" channel="Yes娱乐">
     <title lang="zh">阿北前科全被翻！夏语心遭跟回家 2年前汶汶亲回爱心道谢...</title>
     <desc lang="zh">阿北前科全被翻！夏语心遭跟回家
 2年前汶汶亲回爱心道谢...</desc>
   </programme>
-  <programme start="20260624221500 +0000" stop="20260624222000 +0000" channel="Yes娱乐">
+  <programme start="20260624222000 +0000" stop="20260624222500 +0000" channel="Yes娱乐">
     <title lang="zh">芒果上瘾！李洪基台上一口塞 在真讲话没人理：太过分了吧XD</title>
     <desc lang="zh">芒果上瘾！李洪基台上一口塞
 在真讲话没人理：太过分了吧XD</desc>
   </programme>
-  <programme start="20260624222000 +0000" stop="20260624222500 +0000" channel="Yes娱乐">
+  <programme start="20260624222500 +0000" stop="20260624223000 +0000" channel="Yes娱乐">
     <title lang="zh">砍脖汶汶！阿北移送：他们逼我的「拒上警车」失控狂言气炸现场</title>
     <desc lang="zh">砍脖汶汶！阿北移送：他们逼我的「拒上警车」失控狂言气炸现场</desc>
   </programme>
-  <programme start="20260624222500 +0000" stop="20260624223000 +0000" channel="Yes娱乐">
+  <programme start="20260624223000 +0000" stop="20260624223500 +0000" channel="Yes娱乐">
     <title lang="zh">白家绮 吴东谚结婚8年世纪婚礼！ 儿子女儿「最Q花童」画面超有爱</title>
     <desc lang="zh">白家绮 吴东谚结婚8年世纪婚礼！
 儿子女儿「最Q花童」画面超有爱</desc>
   </programme>
-  <programme start="20260624223000 +0000" stop="20260624223500 +0000" channel="Yes娱乐">
+  <programme start="20260624223500 +0000" stop="20260624224000 +0000" channel="Yes娱乐">
     <title lang="zh">傅子纯留「最后祝福」公开！ 白家绮 吴东谚大婚不舍落泪</title>
     <desc lang="zh">傅子纯留「最后祝福」公开！
 白家绮 吴东谚大婚不舍落泪</desc>
   </programme>
-  <programme start="20260624223500 +0000" stop="20260624224000 +0000" channel="Yes娱乐">
+  <programme start="20260624224000 +0000" stop="20260624224500 +0000" channel="Yes娱乐">
     <title lang="zh">「竹联帮元老」吴功告别式 警力惊人！电影界大佬全现身</title>
     <desc lang="zh">「竹联帮元老」吴功告别式
 警力惊人！电影界大佬全现身</desc>
   </programme>
-  <programme start="20260624224000 +0000" stop="20260624224500 +0000" channel="Yes娱乐">
+  <programme start="20260624224500 +0000" stop="20260624225000 +0000" channel="Yes娱乐">
     <title lang="zh">FTISLAND信义区新歌抢先唱？ 李洪基突击训粉：拍子错了XD</title>
     <desc lang="zh">FTISLAND信义区新歌抢先唱？
 李洪基突击训粉：拍子错了XD</desc>
   </programme>
-  <programme start="20260624224500 +0000" stop="20260624225000 +0000" channel="Yes娱乐">
+  <programme start="20260624225000 +0000" stop="20260624225500 +0000" channel="Yes娱乐">
     <title lang="zh">话剧《文城》演出引争议 周冬雨陈明昊念台本遭观众质疑</title>
     <desc lang="zh">话剧《文城》演出引争议 周冬雨陈明昊念台本遭观众质疑</desc>
   </programme>
-  <programme start="20260624225000 +0000" stop="20260624225500 +0000" channel="Yes娱乐">
+  <programme start="20260624225500 +0000" stop="20260624230000 +0000" channel="Yes娱乐">
     <title lang="zh">温柔双向奔赴！刘亦菲两度精准认出20年老粉 主动握手致谢获赞</title>
     <desc lang="zh">温柔双向奔赴！刘亦菲两度精准认出20年老粉 主动握手致谢获赞</desc>
   </programme>
-  <programme start="20260624225500 +0000" stop="20260624230000 +0000" channel="Yes娱乐">
+  <programme start="20260624230000 +0000" stop="20260624230500 +0000" channel="Yes娱乐">
     <title lang="zh">小贝家族矛盾再升级 布鲁克林拒见妹妹哈珀并指责其探访作秀</title>
     <desc lang="zh">小贝家族矛盾再升级 布鲁克林拒见妹妹哈珀并指责其探访作秀</desc>
   </programme>
-  <programme start="20260624230000 +0000" stop="20260624230500 +0000" channel="Yes娱乐">
+  <programme start="20260624230500 +0000" stop="20260624231000 +0000" channel="Yes娱乐">
     <title lang="zh">罗志祥「自撞重锤」原地登出 又遭男粉袭胸：拉到我X头！</title>
     <desc lang="zh">罗志祥「自撞重锤」原地登出
 又遭男粉袭胸：拉到我X头！</desc>
   </programme>
-  <programme start="20260624230500 +0000" stop="20260624231000 +0000" channel="Yes娱乐">
+  <programme start="20260624231000 +0000" stop="20260624231500 +0000" channel="Yes娱乐">
     <title lang="zh">王净突喊张孝全「大哥」尴尬了！ 李沐演女儿她演老婆：...怪怪的XD</title>
     <desc lang="zh">王净突喊张孝全「大哥」尴尬了！
 李沐演女儿她演老婆：...怪怪的XD</desc>
   </programme>
-  <programme start="20260624231000 +0000" stop="20260624231500 +0000" channel="Yes娱乐">
+  <programme start="20260624231500 +0000" stop="20260624232000 +0000" channel="Yes娱乐">
     <title lang="zh">世足南韩门将致命失误！ 珉豪 昌珉大傻眼 斗俊瞬间静音</title>
     <desc lang="zh">世足南韩门将致命失误！
 珉豪 昌珉大傻眼 斗俊瞬间静音</desc>
   </programme>
-  <programme start="20260624231500 +0000" stop="20260624232000 +0000" channel="Yes娱乐">
+  <programme start="20260624232000 +0000" stop="20260624232500 +0000" channel="Yes娱乐">
     <title lang="zh">FTISLAND突袭信义街头！ 惊见超巨芒果 李洪基现场开嗑</title>
     <desc lang="zh">FTISLAND突袭信义街头！
 惊见超巨芒果 李洪基现场开嗑</desc>
   </programme>
-  <programme start="20260624232000 +0000" stop="20260624232500 +0000" channel="Yes娱乐">
+  <programme start="20260624232500 +0000" stop="20260624233000 +0000" channel="Yes娱乐">
     <title lang="zh">李连杰回应“不帮谢苗”多年传闻：功夫演员沉淀到位，终会自带光芒</title>
     <desc lang="zh">李连杰回应“不帮谢苗”多年传闻：功夫演员沉淀到位，终会自带光芒</desc>
   </programme>
-  <programme start="20260624232500 +0000" stop="20260624233000 +0000" channel="Yes娱乐">
+  <programme start="20260624233000 +0000" stop="20260624233500 +0000" channel="Yes娱乐">
     <title lang="zh">刘芮麟回应健身房偷拍风波：妻子因隐私被拍缺乏安全感致反应过激</title>
     <desc lang="zh">刘芮麟回应健身房偷拍风波：妻子因隐私被拍缺乏安全感致反应过激</desc>
   </programme>
-  <programme start="20260624233000 +0000" stop="20260624233500 +0000" channel="Yes娱乐">
+  <programme start="20260624233500 +0000" stop="20260624234000 +0000" channel="Yes娱乐">
     <title lang="zh">SHE久违合体为Ella庆生 二十载姐妹情掀起全网回忆杀</title>
     <desc lang="zh">SHE久违合体为Ella庆生 二十载姐妹情掀起全网回忆杀</desc>
   </programme>
-  <programme start="20260624233500 +0000" stop="20260624234000 +0000" channel="Yes娱乐">
+  <programme start="20260624234000 +0000" stop="20260624234500 +0000" channel="Yes娱乐">
     <title lang="zh">阮经天遭怪男连按4天门铃！ 亲还原「没那么单纯」：想聊一聊</title>
     <desc lang="zh">阮经天遭怪男连按4天门铃！
 亲还原「没那么单纯」：想聊一聊</desc>
   </programme>
-  <programme start="20260624234000 +0000" stop="20260624234500 +0000" channel="Yes娱乐">
+  <programme start="20260624234500 +0000" stop="20260624235000 +0000" channel="Yes娱乐">
     <title lang="zh">蔡依林耳机不见怎么办？ 行走「可控式立体音响」超大牌</title>
     <desc lang="zh">蔡依林耳机不见怎么办？
 行走「可控式立体音响」超大牌</desc>
   </programme>
-  <programme start="20260624234500 +0000" stop="20260624235000 +0000" channel="Yes娱乐">
+  <programme start="20260624235000 +0000" stop="20260624235500 +0000" channel="Yes娱乐">
     <title lang="zh">林襄隔空放闪赞马杰森「一级棒」 胡瓜凑对篮篮张立东：他不错啦！</title>
     <desc lang="zh">林襄隔空放闪赞马杰森「一级棒」 胡瓜凑对篮篮张立东：他不错啦！</desc>
   </programme>
-  <programme start="20260624235000 +0000" stop="20260624235500 +0000" channel="Yes娱乐">
+  <programme start="20260624235500 +0000" stop="20260625000000 +0000" channel="Yes娱乐">
     <title lang="zh">九妞妞合体！纱瑜比心超Q~ 记者粉丝身份曝光？Sana笑歪</title>
     <desc lang="zh">九妞妞合体！纱瑜比心超Q~
 记者粉丝身份曝光？Sana笑歪</desc>
   </programme>
-  <programme start="20260624235500 +0000" stop="20260625000000 +0000" channel="Yes娱乐">
+  <programme start="20260625000000 +0000" stop="20260625000500 +0000" channel="Yes娱乐">
     <title lang="zh">SJ东海连「睡满9小」都被夸 狂被称赞秒变宝宝害羞了！</title>
     <desc lang="zh">SJ东海连「睡满9小」都被夸 狂被称赞秒变宝宝害羞了！</desc>
-  </programme>
-  <programme start="20260625000000 +0000" stop="20260625000500 +0000" channel="Yes娱乐">
-    <title lang="zh">《铁拳教育》金武烈是隐藏舞王？ cover〈 Hey Mama〉根本爱豆！</title>
-    <desc lang="zh">《铁拳教育》金武烈是隐藏舞王？
-cover〈 Hey Mama〉根本爱豆！</desc>
   </programme>
   <programme start="20260625000000 +0000" stop="20260625010000 +0000" channel="Focus风采戏剧台">
     <title lang="zh">天下长河</title>
@@ -60287,6 +59538,26 @@ cover〈 Hey Mama〉根本爱豆！</desc>
     <title lang="zh">2026大车拚</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260629190000 +0000" stop="20260629200000 +0000" channel="掏掏新闻">
+    <title lang="zh">政治琳龙SAY</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629200000 +0000" stop="20260629210000 +0000" channel="掏掏新闻">
+    <title lang="zh">大大平评理</title>
+    <desc lang="zh">由资深媒体人平秀琳所主持的时事讨论节目，针对大众关心的议题，邀请关键人物或意见领袖上节目，从各种角度深入剖析，并借由多人的观点交流，让新闻事件的真相掏深一点，帮助观众了解当下最热门的新闻议题，期使本节目成为台湾理性讨论时事的典范。</desc>
+  </programme>
+  <programme start="20260629210000 +0000" stop="20260629220000 +0000" channel="掏掏新闻">
+    <title lang="zh">大云时堂</title>
+    <desc lang="zh">大云时堂是融合知性与感性的资讯型节目，广邀政坛、商界等各领域优秀人士齐聚食堂，与主持人李四端畅谈话题、聊生活趋势，把您想知道、不知道、感兴趣的事如一道道好菜端上您面前。本节目及主持人多次入围电视金钟奖，并曾获得最佳节目及最佳主持人奖。</desc>
+  </programme>
+  <programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="掏掏新闻">
+    <title lang="zh">2026大车拚</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="掏掏新闻">
+    <title lang="zh">人生从此不一样</title>
+    <desc lang="zh">在这个节目里，你会听到一个个真实的人生故事，为什么这些人当初会做出好像跟一般人不太一样的选择，让他的人生很特别，走出一条与众不同的路？每一个故事都很真实、很精采，相信你听过以后，一定有所感触，也会给你一些不一样的启发。</desc>
+  </programme>
   <programme start="20260624164000 +0000" stop="20260624164500 +0000" channel="国际大小事">
     <title lang="zh">寰宇新闻</title>
     <desc lang="zh">抛开目前有线、无线电视台新闻的包袱和制式化内容，没有绝对立场、没有口水漫骂，永远以「关心」、「贴心」、「用心」做最对的报导，是台湾独一无二最专属新闻频道。</desc>
@@ -60687,39 +59958,39 @@ cover〈 Hey Mama〉根本爱豆！</desc>
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624155000 +0000" stop="20260624160500 +0000" channel="第1财经">
+  <programme start="20260624155000 +0000" stop="20260624161000 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
-  <programme start="20260624160500 +0000" stop="20260624163500 +0000" channel="第1财经">
+  <programme start="20260624161000 +0000" stop="20260624164000 +0000" channel="第1财经">
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624163500 +0000" stop="20260624165500 +0000" channel="第1财经">
+  <programme start="20260624164000 +0000" stop="20260624170000 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
-  <programme start="20260624165500 +0000" stop="20260624173500 +0000" channel="第1财经">
+  <programme start="20260624170000 +0000" stop="20260624174000 +0000" channel="第1财经">
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624173500 +0000" stop="20260624175500 +0000" channel="第1财经">
+  <programme start="20260624174000 +0000" stop="20260624180000 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
-  <programme start="20260624175500 +0000" stop="20260624183000 +0000" channel="第1财经">
+  <programme start="20260624180000 +0000" stop="20260624183500 +0000" channel="第1财经">
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624183000 +0000" stop="20260624185000 +0000" channel="第1财经">
+  <programme start="20260624183500 +0000" stop="20260624185500 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
-  <programme start="20260624185000 +0000" stop="20260624193500 +0000" channel="第1财经">
+  <programme start="20260624185500 +0000" stop="20260624194000 +0000" channel="第1财经">
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624193500 +0000" stop="20260624195500 +0000" channel="第1财经">
+  <programme start="20260624194000 +0000" stop="20260624195500 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
@@ -60727,31 +59998,31 @@ cover〈 Hey Mama〉根本爱豆！</desc>
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624202500 +0000" stop="20260624204000 +0000" channel="第1财经">
+  <programme start="20260624202500 +0000" stop="20260624204500 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
-  <programme start="20260624204000 +0000" stop="20260624211500 +0000" channel="第1财经">
+  <programme start="20260624204500 +0000" stop="20260624212000 +0000" channel="第1财经">
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624211500 +0000" stop="20260624213500 +0000" channel="第1财经">
+  <programme start="20260624212000 +0000" stop="20260624214000 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
-  <programme start="20260624213500 +0000" stop="20260624221500 +0000" channel="第1财经">
+  <programme start="20260624214000 +0000" stop="20260624222000 +0000" channel="第1财经">
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624221500 +0000" stop="20260624223500 +0000" channel="第1财经">
+  <programme start="20260624222000 +0000" stop="20260624224000 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
-  <programme start="20260624223500 +0000" stop="20260624231500 +0000" channel="第1财经">
+  <programme start="20260624224000 +0000" stop="20260624232000 +0000" channel="第1财经">
     <title lang="zh">巨亨加密世界</title>
     <desc lang="zh">带您了解区块链加密投资的秘辛，牛市来临前的布局，以及区块链世界的新闻，最新发展趋势，有趣的事件，让您一手掌握未来世界生活的颠覆、新的商机与赚钱方式。</desc>
   </programme>
-  <programme start="20260624231500 +0000" stop="20260624233500 +0000" channel="第1财经">
+  <programme start="20260624232000 +0000" stop="20260624233500 +0000" channel="第1财经">
     <title lang="zh">财经皓角</title>
     <desc lang="zh">《财经皓角》是游庭皓的个人财经脱口秀节目，以财经视角颠覆你对世界的想像，不求伟大理论，只为在短短十分钟内，为你熬煮一锅知识浓汤。</desc>
   </programme>
@@ -147016,7 +146287,7 @@ cover〈 Hey Mama〉根本爱豆！</desc>
     <title lang="zh">Sangamam</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260625194000 +0800" stop="20260625223000 +0800" channel="KTV">
+  <programme start="20260625194000 +0800" stop="20260625224500 +0800" channel="KTV">
     <title lang="zh">Manmadha Leelai</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -158128,11 +157399,11 @@ cover〈 Hey Mama〉根本爱豆！</desc>
     <title lang="zh">Bondi Rescue</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260625171700 +0800" stop="20260625201700 +0800" channel="ABC_Australia_HD">
+  <programme start="20260625171700 +0800" stop="20260625202000 +0800" channel="ABC_Australia_HD">
     <title lang="zh">(L) AFL Premiership Season</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260625201700 +0800" stop="20260625211200 +0800" channel="ABC_Australia_HD">
+  <programme start="20260625202000 +0800" stop="20260625211200 +0800" channel="ABC_Australia_HD">
     <title lang="zh">Annabel Crabb's Civic Duty</title>
     <desc lang="zh"> </desc>
   </programme>
