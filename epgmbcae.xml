@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260626160000 +0800" stop="20260626180000 +0800" channel="mbc max">
-    <title lang="en">The Outfit</title>
-    <desc lang="en">Leonard, an English cutter, is forced to relocate toChicago, where he runs a small shop in a poor part of the city, and before long, he begins to make many distinctive clothes for a family of gangsters.</desc>
-    <category lang="en">Movie
-               (2022)</category>
-  </programme>
   <programme start="20260626180000 +0800" stop="20260626200000 +0800" channel="mbc max">
     <title lang="en">The Infiltrator</title>
     <desc lang="en">The true story of Customs Service agent Robert Mazur whoexposes a money laundering scheme by legendary drug lord Pablo Escobar</desc>
@@ -186,17 +180,11 @@
     <category lang="en">Movie
                (2003)</category>
   </programme>
-  <programme start="20260626163000 +0800" stop="20260626170000 +0800" channel="mbc 2">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
-  </programme>
-  <programme start="20260626170000 +0800" stop="20260626183000 +0800" channel="mbc 2">
-    <title lang="en">Watcher</title>
-    <desc lang="en">After relocating to Bucharest with her husband, a youngAmerican lady discovers a stranger watching her from an apartment complex across the street.</desc>
+  <programme start="20260629030000 +0800" stop="20260629053000 +0800" channel="mbc max">
+    <title lang="en">47 Ronin</title>
+    <desc lang="en">This action epic brings to life the real tale of 47 samuraiwarriors who in 18th century Japan set out on a quest to avenge the death of their master, killed by a treacherous overlord who banished them from their homeland.</desc>
     <category lang="en">Movie
-               (2022)</category>
+               (2013)</category>
   </programme>
   <programme start="20260626190000 +0800" stop="20260626210000 +0800" channel="mbc 2">
     <title lang="en">Old</title>
@@ -371,5 +359,11 @@
     <desc lang="en">A German/American plane goes out on a secret mission, butcrashes in a forest during the Laos bombing of 1965. The plane's crew are taken as hostages and tortured by Vietcong forces. US Navy Pilot successfully plans an escape method for the hostages, but they face plenty of unforeseen events.</desc>
     <category lang="en">Movie
                (2006)</category>
+  </programme>
+  <programme start="20260629030000 +0800" stop="20260629050000 +0800" channel="mbc 2">
+    <title lang="en">Loving</title>
+    <desc lang="en">A true story that took place in the US during the racialsegregation period ,when the couple Richard and Mildred Loving were sent to Virginia State Prison in 1958 for violating marriage laws that racially separate whites and blacks at the time.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
