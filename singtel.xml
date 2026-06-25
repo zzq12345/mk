@@ -898,7 +898,7 @@
 	</programme>
 	<programme channel="5002" start="20260625133000 +0000" stop="20260625140000 +0000">
 		<title>Talking Point Episode 9</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>We trust washing machines to clean our clothes, but how clean are the machines themselves? Talking Point investigates what's hiding inside and where the dirt really goes.</desc>
 	</programme>
 	<programme channel="5002" start="20260625140000 +0000" stop="20260625143600 +0000">
 		<title>FIFA World Cup 2026 - Match Day Express Episode 14</title>
@@ -1082,7 +1082,7 @@
 	</programme>
 	<programme channel="5002" start="20260626133000 +0000" stop="20260626140000 +0000">
 		<title>On The Red Dot Episode 8</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Three fathers and their children embark on bonding getaways, using rare one-on-one time to strengthen their relationships and reconnect through honest conversations.</desc>
 	</programme>
 	<programme channel="5002" start="20260626140000 +0000" stop="20260626143600 +0000">
 		<title>FIFA World Cup 2026 - Match Day Express Episode 15</title>
@@ -1102,11 +1102,11 @@
 	</programme>
 	<programme channel="5002" start="20260626175000 +0000" stop="20260626182000 +0000">
 		<title>Talking Point Episode 9</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>We trust washing machines to clean our clothes, but how clean are the machines themselves? Talking Point investigates what's hiding inside and where the dirt really goes.</desc>
 	</programme>
 	<programme channel="5002" start="20260626182000 +0000" stop="20260626184500 +0000">
 		<title>On The Red Dot Episode 8</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Three fathers and their children embark on bonding getaways, using rare one-on-one time to strengthen their relationships and reconnect through honest conversations.</desc>
 	</programme>
 	<programme channel="5002" start="20260626184500 +0000" stop="20260626191500 +0000">
 		<title>Arts 21 Episode 457</title>
@@ -4358,7 +4358,7 @@
 	</programme>
 	<programme channel="5006" start="20260627143000 +0000" stop="20260627150000 +0000">
 		<title>On The Red Dot Episode 8</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Three fathers and their children embark on bonding getaways, using rare one-on-one time to strengthen their relationships and reconnect through honest conversations.</desc>
 	</programme>
 	<programme channel="5006" start="20260627150000 +0000" stop="20260627150300 +0000">
 		<title>Headline News Episode 300</title>
@@ -11732,9 +11732,13 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>Formula E S12: Rd 11 Sanya E-Prix Episode 2</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 	</programme>
-	<programme channel="6114" start="20260625230000 +0000" stop="20260626070000 +0000">
+	<programme channel="6114" start="20260625230000 +0000" stop="20260626060500 +0000">
 		<title>Wimbledon Qualifying Competition 2026</title>
 		<desc>Held one week prior to The Championships, the Wimbledon Qualifying Competition is comprised of Gentlemen's and Ladies' Singles knock-out tournaments to determine the final Main Draw places.</desc>
+	</programme>
+	<programme channel="6114" start="20260626060500 +0000" stop="20260626070000 +0000">
+		<title>Formula E S12: Rd 11 Sanya E-Prix</title>
+		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 	</programme>
 	<programme channel="6114" start="20260626070000 +0000" stop="20260626113000 +0000">
 		<title>2026 R&amp;A Women's Amateur Championship (Live)</title>
@@ -11757,7 +11761,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<desc>Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
 	</programme>
 	<programme channel="6114" start="20260626211000 +0000" stop="20260626221000 +0000">
-		<title>2026 WorldSBK: Rd 7 Pirelli Emilia-Romagna Round Episode 2</title>
+		<title>2026 WorldSBK: Rd 7 Pirelli Emilia-Romagna Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 	</programme>
 	<programme channel="6114" start="20260626221000 +0000" stop="20260626224000 +0000">
@@ -11765,7 +11769,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 	</programme>
 	<programme channel="6114" start="20260626224000 +0000" stop="20260626233000 +0000">
-		<title>2026 U.S. Women's Open Championship Episode 2</title>
+		<title>2026 U.S. Women's Open Championship</title>
 		<desc>The world's top women golfers compete for major glory, showcasing elite skill, precision, and resilience in one of golf's most prestigious championships.</desc>
 	</programme>
 	<programme channel="6114" start="20260626233000 +0000" stop="20260627073000 +0000">
@@ -12056,7 +12060,11 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>SailGP S6: Canada Sail Grand Prix</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 	</programme>
-	<programme channel="6115" start="20260627063500 +0000" stop="20260627100000 +0000">
+	<programme channel="6115" start="20260627063500 +0000" stop="20260627084500 +0000">
+		<title>2026 MotoGP Rd 10 Grand Prix of Netherlands (Live)</title>
+		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+	</programme>
+	<programme channel="6115" start="20260627084500 +0000" stop="20260627100000 +0000">
 		<title>2026 MotoGP Rd 10 Grand Prix of Netherlands (Live)</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 	</programme>
@@ -12064,7 +12072,11 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>2026 Harley-Davidson Bagger World Cup Rd 3 Assen (Live)</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 	</programme>
-	<programme channel="6115" start="20260627104000 +0000" stop="20260627140000 +0000">
+	<programme channel="6115" start="20260627104000 +0000" stop="20260627123000 +0000">
+		<title>2026 MotoGP Rd 10 Grand Prix of Netherlands (Live)</title>
+		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+	</programme>
+	<programme channel="6115" start="20260627123000 +0000" stop="20260627140000 +0000">
 		<title>2026 MotoGP Rd 10 Grand Prix of Netherlands (Live)</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 	</programme>
@@ -12492,25 +12504,25 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>NRL Broncos v Roosters</title>
 		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
 	</programme>
-	<programme channel="5118" start="20260627020000 +0000" stop="20260627050000 +0000">
-		<title>LIVE AFL LIVE Collingwood v Richmond</title>
-		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
-	</programme>
-	<programme channel="5118" start="20260627050000 +0000" stop="20260627052000 +0000">
-		<title>Premier Sports Extra Premier Sports Extra</title>
-		<desc>A look back at some of the big games on Premier Sports.</desc>
-	</programme>
-	<programme channel="5118" start="20260627052000 +0000" stop="20260627055000 +0000">
-		<title>5 and 6 Nations Classics 2014 - France v Italy</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-	</programme>
-	<programme channel="5118" start="20260627055000 +0000" stop="20260627074000 +0000">
+	<programme channel="5118" start="20260627020000 +0000" stop="20260627035000 +0000">
 		<title>Super League Leeds v Hull KR</title>
 		<desc>Coverage of the 30th season of the Betfred Super League, the Northern Hemisphere's top rugby league competition.</desc>
 	</programme>
-	<programme channel="5118" start="20260627074000 +0000" stop="20260627093000 +0000">
-		<title>NRL Broncos v Roosters</title>
-		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
+	<programme channel="5118" start="20260627035000 +0000" stop="20260627054000 +0000">
+		<title>Super League Warrington v Catalans</title>
+		<desc>Coverage of the 30th season of the Betfred Super League, the Northern Hemisphere's top rugby league competition.</desc>
+	</programme>
+	<programme channel="5118" start="20260627054000 +0000" stop="20260627061000 +0000">
+		<title>5 and 6 Nations Classics 2011 - Italy v France</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+	</programme>
+	<programme channel="5118" start="20260627061000 +0000" stop="20260627090000 +0000">
+		<title>LIVE AFL LIVE Collingwood v Richmond</title>
+		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
+	</programme>
+	<programme channel="5118" start="20260627090000 +0000" stop="20260627093000 +0000">
+		<title>5 and 6 Nations Classics 2014 - France v Italy</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20260627093000 +0000" stop="20260627113000 +0000">
 		<title>LIVE NRL LIVE Sea Eagles v Storm</title>
@@ -14585,7 +14597,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<desc>Premier Padel 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260625100000 +0000" stop="20260625113000 +0000">
-		<title>Best of RG 2026: Day 7 Women's Singles Rd 3 Osaka v Jovic Episode 25</title>
+		<title>Best of RG 2026: Day 7 Women's Singles Rd 3 Anisimova v Parry Episode 59</title>
 		<desc>Best of RG 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260625113000 +0000" stop="20260625130000 +0000">
@@ -14601,11 +14613,11 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<desc>Premier Padel 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260625163000 +0000" stop="20260625180000 +0000">
-		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 4 (Live) Episode 342</title>
+		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 5 (Live) Episode 342</title>
 		<desc>Premier Padel 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260625180000 +0000" stop="20260625193000 +0000">
-		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 5 (Live) Episode 343</title>
+		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 6 (Live) Episode 343</title>
 		<desc>Premier Padel 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260625193000 +0000" stop="20260625200000 +0000">
@@ -14648,52 +14660,32 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 2 (Live) Episode 345</title>
 		<desc>Premier Padel 2026</desc>
 	</programme>
-	<programme channel="6127" start="20260626100000 +0000" stop="20260626103000 +0000">
-		<title>This Is Paris 2025/26: Episode Number 40 Episode 40</title>
-		<desc>This Is Paris 2025/26</desc>
+	<programme channel="6127" start="20260626100000 +0000" stop="20260626113000 +0000">
+		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 3 (Live) Episode 457</title>
+		<desc>Premier Padel 2026</desc>
 	</programme>
-	<programme channel="6127" start="20260626103000 +0000" stop="20260626105500 +0000">
-		<title>HSBC SVNS World Championships 2026: Fiji vs Australia - 5th Place Play-off, Hong Kong - Men Episode 66</title>
-		<desc>HSBC SVNS World Championships 2026</desc>
-	</programme>
-	<programme channel="6127" start="20260626105500 +0000" stop="20260626112000 +0000">
-		<title>HSBC SVNS World Championships 2026: Thailand vs Denmark - Women's Final - Melrose Claymores Episode 67</title>
-		<desc>HSBC SVNS World Championships 2026</desc>
-	</programme>
-	<programme channel="6127" start="20260626112000 +0000" stop="20260626114500 +0000">
-		<title>HSBC SVNS World Championships 2026: Japan vs Hong Kong - Men's Final - Melrose Claymores Episode 68</title>
-		<desc>HSBC SVNS World Championships 2026</desc>
-	</programme>
-	<programme channel="6127" start="20260626114500 +0000" stop="20260626121000 +0000">
-		<title>HSBC SVNS World Championships 2026: Canada vs France - 3rd Place Play-off, Hong Kong - Women Episode 69</title>
-		<desc>HSBC SVNS World Championships 2026</desc>
-	</programme>
-	<programme channel="6127" start="20260626121000 +0000" stop="20260626123500 +0000">
-		<title>HSBC SVNS World Championships 2026: New Zealand vs Spain - 3rd Place Play-off, Hong Kong - Men Episode 70</title>
-		<desc>HSBC SVNS World Championships 2026</desc>
-	</programme>
-	<programme channel="6127" start="20260626123500 +0000" stop="20260626130000 +0000">
-		<title>HSBC SVNS World Championships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men Episode 72</title>
-		<desc>HSBC SVNS World Championships 2026</desc>
+	<programme channel="6127" start="20260626113000 +0000" stop="20260626130000 +0000">
+		<title>Best of RG 2026: Day 7 Women's Singles Rd 3 Osaka v Jovic Episode 25</title>
+		<desc>Best of RG 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260626130000 +0000" stop="20260626141000 +0000">
 		<title>GT World Challenge Europe 2026: 24 Hours of Spa Superpole, Endurance Cup (Live) Episode 10</title>
 		<desc>GT World Challenge Europe 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260626141000 +0000" stop="20260626143500 +0000">
-		<title>HSBC SVNS World Championships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men Episode 72</title>
+		<title>HSBC SVNS World Championships 2026: New Zealand vs Australia - Cup Final, Hong Kong - Women Episode 71</title>
 		<desc>HSBC SVNS World Championships 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260626143500 +0000" stop="20260626150000 +0000">
-		<title>HSBC SVNS World Championships 2026: USA vs Fiji - Pool Stage, Valladolid - Women Episode 73</title>
+		<title>HSBC SVNS World Championships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men Episode 72</title>
 		<desc>HSBC SVNS World Championships 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260626150000 +0000" stop="20260626163000 +0000">
-		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 3 (Live) Episode 346</title>
+		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 4 (Live) Episode 346</title>
 		<desc>Premier Padel 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260626163000 +0000" stop="20260626180000 +0000">
-		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 4 (Live) Episode 347</title>
+		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 5 (Live) Episode 347</title>
 		<desc>Premier Padel 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260626180000 +0000" stop="20260626193000 +0000">
@@ -14705,7 +14697,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<desc>Cape Epic Highlights 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260626200000 +0000" stop="20260626213000 +0000">
-		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 5 (Live) Episode 348</title>
+		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 6 (Live) Episode 348</title>
 		<desc>Premier Padel 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260626213000 +0000" stop="20260626220000 +0000">
@@ -14736,21 +14728,21 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>Super Lig 2025/26: Basaksehir vs Samsunspor Episode 80</title>
 		<desc>Super Lig 2025/26</desc>
 	</programme>
-	<programme channel="6127" start="20260627020000 +0000" stop="20260627030000 +0000">
+	<programme channel="6127" start="20260627020000 +0000" stop="20260627025500 +0000">
 		<title>HSBC SVNS World Championships Highlights 2026: Bordeaux Episode 3</title>
 		<desc>HSBC SVNS World Championships Highlights 2026</desc>
 	</programme>
-	<programme channel="6127" start="20260627030000 +0000" stop="20260627043500 +0000">
+	<programme channel="6127" start="20260627025500 +0000" stop="20260627042500 +0000">
 		<title>Best of RG 2026: Day 7 Women's Singles Rd 3 Anisimova v Parry Episode 59</title>
 		<desc>Best of RG 2026</desc>
 	</programme>
-	<programme channel="6127" start="20260627043500 +0000" stop="20260627053500 +0000">
+	<programme channel="6127" start="20260627042500 +0000" stop="20260627054000 +0000">
 		<title>Ferrari Challenge Japan 2026: Trofeo Pirelli Race 1, Fuji (Live) Episode 11</title>
 		<desc>Ferrari Challenge Japan 2026</desc>
 	</programme>
-	<programme channel="6127" start="20260627053500 +0000" stop="20260627060000 +0000">
-		<title>HSBC SVNS World Championships 2026: South Africa vs Spain - 3rd Playoff, Bordeaux - Men Episode 198</title>
-		<desc>HSBC SVNS World Championships 2026</desc>
+	<programme channel="6127" start="20260627054000 +0000" stop="20260627060000 +0000">
+		<title>Australian Open Match Highlights: 2026 Men's Singles SF 1 Alcaraz v Zverev Episode 3</title>
+		<desc>Australian Open Match Highlights</desc>
 	</programme>
 	<programme channel="6127" start="20260627060000 +0000" stop="20260627070000 +0000">
 		<title>Ferrari Challenge UK 2026: Race 1, Oulton Park Episode 7</title>
@@ -15177,7 +15169,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<desc>The Outdoor Sports Show 2026</desc>
 	</programme>
 	<programme channel="6110" start="20260625160000 +0000" stop="20260625170000 +0000">
-		<title>FIA World Rally Championship 2026: Rally Greece EKO Athens SSS (Live) Episode 37</title>
+		<title>FIA World Rally Championship 2026: Rally Greece Athens 1 SSS1 (Live) Episode 37</title>
 		<desc>FIA World Rally Championship 2026</desc>
 	</programme>
 	<programme channel="6110" start="20260625170000 +0000" stop="20260625180000 +0000">
@@ -15304,17 +15296,21 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>ONE Fight Night 2026: OFN 44: Jarvis vs Rungrawee II (Live) Episode 5</title>
 		<desc>ONE Fight Night 2026</desc>
 	</programme>
-	<programme channel="6110" start="20260627050000 +0000" stop="20260627063000 +0000">
+	<programme channel="6110" start="20260627050000 +0000" stop="20260627062500 +0000">
 		<title>SailGP 2026: Halifax, Canada Day 2 Episode 14</title>
 		<desc>SailGP 2026</desc>
 	</programme>
-	<programme channel="6110" start="20260627063000 +0000" stop="20260627073000 +0000">
+	<programme channel="6110" start="20260627062500 +0000" stop="20260627073500 +0000">
 		<title>Ferrari Challenge Japan 2026: Coppa Shell Race 1, Fuji (Live) Episode 12</title>
 		<desc>Ferrari Challenge Japan 2026</desc>
 	</programme>
-	<programme channel="6110" start="20260627073000 +0000" stop="20260627080000 +0000">
-		<title>Inside Sailing 2026: June Episode 5</title>
-		<desc>Inside Sailing 2026</desc>
+	<programme channel="6110" start="20260627073500 +0000" stop="20260627074500 +0000">
+		<title>MUTV: Top 20 Goals: Top 20 Andy Cole Goals Episode 21</title>
+		<desc>MUTV: Top 20 Goals</desc>
+	</programme>
+	<programme channel="6110" start="20260627074500 +0000" stop="20260627080000 +0000">
+		<title>MUTV: Top 20 Goals: Top 20 Cristiano Ronaldo Goals Episode 22</title>
+		<desc>MUTV: Top 20 Goals</desc>
 	</programme>
 	<programme channel="6110" start="20260627080000 +0000" stop="20260627090000 +0000">
 		<title>FIA World Rally Championship 2026: Rally Greece SS10 Menalo Mt 1 (Live) Episode 38</title>
@@ -16180,53 +16176,29 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>Programme Not Available</title>
 		<desc>Programme Not Available</desc>
 	</programme>
-	<programme channel="4143" start="20260624160000 +0000" stop="20260624220000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4143" start="20260624160000 +0000" stop="20260625040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4143" start="20260624220000 +0000" stop="20260625040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4143" start="20260625040000 +0000" stop="20260625160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4143" start="20260625040000 +0000" stop="20260625100000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4143" start="20260625160000 +0000" stop="20260626040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4143" start="20260625100000 +0000" stop="20260625160000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4143" start="20260626040000 +0000" stop="20260626160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4143" start="20260625160000 +0000" stop="20260625220000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4143" start="20260626160000 +0000" stop="20260627040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4143" start="20260625220000 +0000" stop="20260626040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4143" start="20260626040000 +0000" stop="20260626100000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4143" start="20260626100000 +0000" stop="20260626160000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4143" start="20260626160000 +0000" stop="20260626220000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4143" start="20260626220000 +0000" stop="20260627040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4143" start="20260627040000 +0000" stop="20260627100000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4143" start="20260627100000 +0000" stop="20260627160000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4143" start="20260627040000 +0000" stop="20260627160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
 	<programme channel="4143" start="20260627160000 +0000" stop="20260628040000 +0000">
 		<title>No programmes streaming LIVE at this moment</title>
@@ -16264,53 +16236,29 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>Programme Not Available</title>
 		<desc>Programme Not Available</desc>
 	</programme>
-	<programme channel="4144" start="20260624160000 +0000" stop="20260624220000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4144" start="20260624160000 +0000" stop="20260625040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4144" start="20260624220000 +0000" stop="20260625040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4144" start="20260625040000 +0000" stop="20260625160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4144" start="20260625040000 +0000" stop="20260625100000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4144" start="20260625160000 +0000" stop="20260626040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4144" start="20260625100000 +0000" stop="20260625160000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4144" start="20260626040000 +0000" stop="20260626160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4144" start="20260625160000 +0000" stop="20260625220000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4144" start="20260626160000 +0000" stop="20260627040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
-	<programme channel="4144" start="20260625220000 +0000" stop="20260626040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4144" start="20260626040000 +0000" stop="20260626100000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4144" start="20260626100000 +0000" stop="20260626160000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4144" start="20260626160000 +0000" stop="20260626220000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4144" start="20260626220000 +0000" stop="20260627040000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4144" start="20260627040000 +0000" stop="20260627100000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
-	</programme>
-	<programme channel="4144" start="20260627100000 +0000" stop="20260627160000 +0000">
-		<title>Programme Not Available</title>
-		<desc>Programme Not Available</desc>
+	<programme channel="4144" start="20260627040000 +0000" stop="20260627160000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 	</programme>
 	<programme channel="4144" start="20260627160000 +0000" stop="20260628040000 +0000">
 		<title>No programmes streaming LIVE at this moment</title>
@@ -19056,9 +19004,13 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>NHK NEWSLINE&lt; NY &gt;</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
-	<programme channel="5157" start="20260624223000 +0000" stop="20260624224500 +0000">
+	<programme channel="5157" start="20260624223000 +0000" stop="20260624223700 +0000">
 		<title>Direct Talk #274</title>
 		<desc>Kanbayashi Takashi has developed a smart pig farming system that leverages the latest AI technology to improve production efficiency. He talks about how it works and his vision for the future.</desc>
+	</programme>
+	<programme channel="5157" start="20260624223700 +0000" stop="20260624224500 +0000">
+		<title>NHK NEWSLINE</title>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260624224500 +0000" stop="20260624230000 +0000">
 		<title>JAPAN'S TOP INVENTIONS</title>
@@ -19402,7 +19354,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5157" start="20260626114300 +0000" stop="20260626115500 +0000">
 		<title>IMPACTS: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>The US-Iran conflict led to what the IEA called the worst-ever energy crisis, and more power demand was predicted with the summer heat. How do the crisis and a surge in coal use affect climate change?</desc>
 	</programme>
 	<programme channel="5157" start="20260626115500 +0000" stop="20260626120000 +0000">
 		<title>Chatroom Japan</title>
@@ -19466,7 +19418,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5157" start="20260626184300 +0000" stop="20260626185500 +0000">
 		<title>IMPACTS: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>The US-Iran conflict led to what the IEA called the worst-ever energy crisis, and more power demand was predicted with the summer heat. How do the crisis and a surge in coal use affect climate change?</desc>
 	</programme>
 	<programme channel="5157" start="20260626185500 +0000" stop="20260626190000 +0000">
 		<title>Ukiyoe EDO-LIFE</title>
@@ -19574,7 +19526,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5157" start="20260627041000 +0000" stop="20260627044000 +0000">
 		<title>History Uncovered</title>
-		<desc>Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+		<desc>Japan boasts a thousand color names, unmatched worldwide. Uncover the color revolution sparked by women in the 11th century as seen through the elegant kimono known as the "juni-hitoe".</desc>
 	</programme>
 	<programme channel="5157" start="20260627044000 +0000" stop="20260627045500 +0000">
 		<title>CINEMATIC JOURNEY</title>
@@ -19626,7 +19578,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5157" start="20260627081000 +0000" stop="20260627084000 +0000">
 		<title>History Uncovered</title>
-		<desc>Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+		<desc>Japan boasts a thousand color names, unmatched worldwide. Uncover the color revolution sparked by women in the 11th century as seen through the elegant kimono known as the "juni-hitoe".</desc>
 	</programme>
 	<programme channel="5157" start="20260627084000 +0000" stop="20260627085500 +0000">
 		<title>CINEMATIC JOURNEY</title>
@@ -28358,7 +28310,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5167" start="20260625153000 +0000" stop="20260625160000 +0000">
 		<title>CNN Creators Episode 25</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators look at the new economy of social media clipping, and how it's making some young people seriously rich.</desc>
 	</programme>
 	<programme channel="5167" start="20260625160000 +0000" stop="20260625170000 +0000">
 		<title>One World Episode 387</title>
@@ -28484,9 +28436,13 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<title>What We Know with Max Foster Episode 126</title>
 		<desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20260626200000 +0000" stop="20260626210000 +0000">
-		<title>Quest Means Business Episode 126</title>
+	<programme channel="5167" start="20260626200000 +0000" stop="20260626204500 +0000">
+		<title>Quest Means Business Episode 125</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
+	</programme>
+	<programme channel="5167" start="20260626204500 +0000" stop="20260626210000 +0000">
+		<title>Marketplace Europe Episode 58</title>
+		<desc>Money 20/20 is one of the world's most influential gatherings of financial leaders, fintech disruptors and global investors.</desc>
 	</programme>
 	<programme channel="5167" start="20260626210000 +0000" stop="20260626213000 +0000">
 		<title>The Lead with Jake Tapper Episode 253</title>
@@ -28538,7 +28494,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5167" start="20260627063000 +0000" stop="20260627070000 +0000">
 		<title>African Voices Episode 230</title>
-		<desc>Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo, this show is where Africa's brightest stars share their truths -- real, raw, and revealing.</desc>
+		<desc>Former CNN anchor Isha Sesay speaks about her decision to leave the network after more than 13 years.</desc>
 	</programme>
 	<programme channel="5167" start="20260627070000 +0000" stop="20260627073000 +0000">
 		<title>CNN Newsroom Episode 363</title>
@@ -28546,7 +28502,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5167" start="20260627073000 +0000" stop="20260627080000 +0000">
 		<title>Showtime</title>
-		<desc>A look behind the scenes of must-experience events around the world. Live the full story from start to finish gaining a unique perspective on the lead up as well as the most exciting moments on stage.</desc>
+		<desc>Four world-renowned pianists come together for a night of rare musical brilliance, but the real story lies behind the notes.</desc>
 	</programme>
 	<programme channel="5167" start="20260627080000 +0000" stop="20260627083000 +0000">
 		<title>CNN Newsroom Episode 467</title>
@@ -28554,7 +28510,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5167" start="20260627083000 +0000" stop="20260627090000 +0000">
 		<title>CNN Creators Episode 25</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators look at the new economy of social media clipping, and how it's making some young people seriously rich.</desc>
 	</programme>
 	<programme channel="5167" start="20260627090000 +0000" stop="20260627100000 +0000">
 		<title>CNN Newsroom Episode 155</title>
@@ -28562,7 +28518,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5167" start="20260627100000 +0000" stop="20260627103000 +0000">
 		<title>African Voices Episode 230</title>
-		<desc>Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo, this show is where Africa's brightest stars share their truths -- real, raw, and revealing.</desc>
+		<desc>Former CNN anchor Isha Sesay speaks about her decision to leave the network after more than 13 years.</desc>
 	</programme>
 	<programme channel="5167" start="20260627103000 +0000" stop="20260627110000 +0000">
 		<title>Elite Escapes</title>
@@ -28582,7 +28538,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5167" start="20260627140000 +0000" stop="20260627143000 +0000">
 		<title>CNN Creators Episode 25</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators look at the new economy of social media clipping, and how it's making some young people seriously rich.</desc>
 	</programme>
 	<programme channel="5167" start="20260627143000 +0000" stop="20260627150000 +0000">
 		<title>Inside Africa Episode 728</title>
@@ -29233,8 +29189,8 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20260626230000 +0000" stop="20260626233000 +0000">
-		<title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
-		<desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+		<title>Bloomberg Next Africa</title>
+		<desc>A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.</desc>
 	</programme>
 	<programme channel="5171" start="20260626233000 +0000" stop="20260627000000 +0000">
 		<title>The Mishal Husain Show</title>
@@ -29242,15 +29198,15 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5171" start="20260627000000 +0000" stop="20260627003000 +0000">
 		<title>Leaders with Francine Lacqua: The Podcast</title>
-		<desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+		<desc>BHP CEO Mike Henry talks about leading the world's largest mining company, the energy transition, the artificial intelligence boom, and his role in reshaping BHP.</desc>
 	</programme>
 	<programme channel="5171" start="20260627003000 +0000" stop="20260627010000 +0000">
-		<title>The Circuit</title>
-		<desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+		<title>Leaders with Francine Lacqua: The Podcast</title>
+		<desc>International Monetary Fund Managing Director Kristalina Georgieva on the IMF's role as a "truth teller" for the global economy and the importance of trust in making difficult reforms.</desc>
 	</programme>
 	<programme channel="5171" start="20260627010000 +0000" stop="20260627013000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>American artist Jeff Koons reflects on his early days, talks about what inspires his work, and discusses why he believes art should be 'accessible'.</desc>
 	</programme>
 	<programme channel="5171" start="20260627013000 +0000" stop="20260627020000 +0000">
 		<title>Bloomberg Originals</title>
@@ -29262,23 +29218,23 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5171" start="20260627030000 +0000" stop="20260627033000 +0000">
 		<title>The Circuit</title>
-		<desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+		<desc>Anthropic Co-Founders Dario and Daniela Amodei (Part 1). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup's origin story.</desc>
 	</programme>
 	<programme channel="5171" start="20260627033000 +0000" stop="20260627040000 +0000">
-		<title>Posthuman</title>
-		<desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+		<title>Bloomberg Primer</title>
+		<desc>Humanoid robots that use AI are going mainstream, but they're far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
 	</programme>
 	<programme channel="5171" start="20260627040000 +0000" stop="20260627050000 +0000">
-		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
-		<desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+		<title>Bloomberg Investigates</title>
+		<desc>A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump's immigration policies.</desc>
 	</programme>
 	<programme channel="5171" start="20260627050000 +0000" stop="20260627053000 +0000">
-		<title>Posthuman</title>
-		<desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<desc>Sixth Street's Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
 	</programme>
 	<programme channel="5171" start="20260627053000 +0000" stop="20260627060000 +0000">
-		<title>The Circuit</title>
-		<desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
+		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<desc>Jess Pegula to talks about lobbying for change in the business of professional tennis and what she's learned from her parents.</desc>
 	</programme>
 	<programme channel="5171" start="20260627060000 +0000" stop="20260627063000 +0000">
 		<title>The Mishal Husain Show</title>
@@ -29293,16 +29249,16 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20260627080000 +0000" stop="20260627083000 +0000">
-		<title>Bloomberg Originals</title>
-		<desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
+		<title>The Cost of Brexit</title>
+		<desc>A decade after the UK voted to leave the European Union, Bloomberg Originals examines the economic fallout of Brexit and the political forces it unleashed.</desc>
 	</programme>
 	<programme channel="5171" start="20260627083000 +0000" stop="20260627090000 +0000">
-		<title>Posthuman</title>
-		<desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
+		<title>The Circuit</title>
+		<desc>Anthropic Co-Founders Dario and Daniela Amodei (Part 1). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup's origin story.</desc>
 	</programme>
 	<programme channel="5171" start="20260627090000 +0000" stop="20260627093000 +0000">
-		<title>Bloomberg New Economy: Thriving in an Age of Extremes</title>
-		<desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+		<title>The Circuit</title>
+		<desc>Anthropic Co-Founders Dario and Daniela Amodei (Part 2). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup's origin story.</desc>
 	</programme>
 	<programme channel="5171" start="20260627093000 +0000" stop="20260627100000 +0000">
 		<title>The Mishal Husain Show</title>
@@ -29326,7 +29282,7 @@ Yuan's son disappeared at the stairwell of his house block without a trace one d
 	</programme>
 	<programme channel="5171" start="20260627153000 +0000" stop="20260627160000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>American artist Jeff Koons reflects on his early days, talks about what inspires his work, and discusses why he believes art should be 'accessible'.</desc>
 	</programme>
 	<programme channel="5171" start="20260627160000 +0000" stop="20260627163000 +0000">
 		<title>Bloomberg Next Africa</title>
@@ -66746,31 +66702,31 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<title>子夜归 / Moonlit Reunion Episode 14</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
-	<programme channel="5503" start="20260625230000 +0000" stop="20260625234500 +0000">
+	<programme channel="5503" start="20260625230000 +0000" stop="20260625235000 +0000">
 		<title>整形过后 / Something Before and After Episode 3</title>
 		<desc>知名整形医师江浩宇与消失多年的学妹杨雅颂重逢，两人不同的理念与诊所利益冲突，让浩宇开始重新审视“美”背后的生命重量。韩国医师李侑恩的到来，更撼动了诊所的未来走向。随著每集个案的逐一揭开，整形不再只是修补外貌，而是触及人性裂缝与救赎的可能。Set in an elite plastic surgery clinic, renowned surgeon Yu reunites with long-lost classmate Song, sparking clashes over ethics and profit with opposing ideals. With a new Korean surgeon aboard, each case exposes the thin line between beauty, identity, and redemption.</desc>
 	</programme>
-	<programme channel="5503" start="20260625234500 +0000" stop="20260626003000 +0000">
+	<programme channel="5503" start="20260625235000 +0000" stop="20260626004000 +0000">
 		<title>整形过后 / Something Before and After Episode 4</title>
 		<desc>知名整形医师江浩宇与消失多年的学妹杨雅颂重逢，两人不同的理念与诊所利益冲突，让浩宇开始重新审视“美”背后的生命重量。韩国医师李侑恩的到来，更撼动了诊所的未来走向。随著每集个案的逐一揭开，整形不再只是修补外貌，而是触及人性裂缝与救赎的可能。Set in an elite plastic surgery clinic, renowned surgeon Yu reunites with long-lost classmate Song, sparking clashes over ethics and profit with opposing ideals. With a new Korean surgeon aboard, each case exposes the thin line between beauty, identity, and redemption.</desc>
 	</programme>
-	<programme channel="5503" start="20260626003000 +0000" stop="20260626011500 +0000">
+	<programme channel="5503" start="20260626004000 +0000" stop="20260626012000 +0000">
 		<title>春色寄情人 / Will Love In Spring Episode 7</title>
 		<desc>陈麦冬年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁则因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈了彼此的“不完美”。</desc>
 	</programme>
-	<programme channel="5503" start="20260626011500 +0000" stop="20260626020000 +0000">
+	<programme channel="5503" start="20260626012000 +0000" stop="20260626020500 +0000">
 		<title>春色寄情人 / Will Love In Spring Episode 8</title>
 		<desc>陈麦冬年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁则因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈了彼此的“不完美”。</desc>
 	</programme>
-	<programme channel="5503" start="20260626020000 +0000" stop="20260626024500 +0000">
+	<programme channel="5503" start="20260626020500 +0000" stop="20260626025000 +0000">
 		<title>一笑随歌 / Fated Hearts Episode 21</title>
 		<desc>平陵一战锦绣国败军之际，红衣女射手付一笑惊天一箭射中夙砂大皇子凤随歌，随即扭转战局。但付一笑却在平陵一战后不久，意外坠崖，记忆全失。凤随歌也被人追杀疲于奔命，阴差阳错下，二人在正念山庄重逢。看着失忆的付一笑，凤随歌只觉得此事处处透着蹊跷，于是决定将一笑带在身边，以引出操纵一切的幕后黑手。二人也由此踏上了揭露两国间阴谋的旅程。一路携手除敌党、斗权相，寻真相，从互相利用到互生爱意、成长励志。The female archer in red, Fu Yixiao, shockingly shoots an arrow at Susha's eldest prince, Feng Suige, turning the tide of the battle. But Fu Yixiao accidentally falls off a cliff shortly after the battle and loses her memory. Feng Suige uses Fu Yixiao to find out the truth as to why he is being heavil...</desc>
 	</programme>
-	<programme channel="5503" start="20260626024500 +0000" stop="20260626033000 +0000">
+	<programme channel="5503" start="20260626025000 +0000" stop="20260626033500 +0000">
 		<title>一笑随歌 / Fated Hearts Episode 22</title>
 		<desc>平陵一战锦绣国败军之际，红衣女射手付一笑惊天一箭射中夙砂大皇子凤随歌，随即扭转战局。但付一笑却在平陵一战后不久，意外坠崖，记忆全失。凤随歌也被人追杀疲于奔命，阴差阳错下，二人在正念山庄重逢。看着失忆的付一笑，凤随歌只觉得此事处处透着蹊跷，于是决定将一笑带在身边，以引出操纵一切的幕后黑手。二人也由此踏上了揭露两国间阴谋的旅程。一路携手除敌党、斗权相，寻真相，从互相利用到互生爱意、成长励志。The female archer in red, Fu Yixiao, shockingly shoots an arrow at Susha's eldest prince, Feng Suige, turning the tide of the battle. But Fu Yixiao accidentally falls off a cliff shortly after the battle and loses her memory. Feng Suige uses Fu Yixiao to find out the truth as to why he is being heavil...</desc>
 	</programme>
-	<programme channel="5503" start="20260626033000 +0000" stop="20260626041500 +0000">
+	<programme channel="5503" start="20260626033500 +0000" stop="20260626041500 +0000">
 		<title>子夜归 / Moonlit Reunion Episode 15</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
@@ -66778,99 +66734,99 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<title>子夜归 / Moonlit Reunion Episode 16</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
-	<programme channel="5503" start="20260626050000 +0000" stop="20260626054500 +0000">
+	<programme channel="5503" start="20260626050000 +0000" stop="20260626055000 +0000">
 		<title>整形过后 / Something Before and After Episode 3</title>
 		<desc>知名整形医师江浩宇与消失多年的学妹杨雅颂重逢，两人不同的理念与诊所利益冲突，让浩宇开始重新审视“美”背后的生命重量。韩国医师李侑恩的到来，更撼动了诊所的未来走向。随著每集个案的逐一揭开，整形不再只是修补外貌，而是触及人性裂缝与救赎的可能。Set in an elite plastic surgery clinic, renowned surgeon Yu reunites with long-lost classmate Song, sparking clashes over ethics and profit with opposing ideals. With a new Korean surgeon aboard, each case exposes the thin line between beauty, identity, and redemption.</desc>
 	</programme>
-	<programme channel="5503" start="20260626054500 +0000" stop="20260626063000 +0000">
+	<programme channel="5503" start="20260626055000 +0000" stop="20260626064000 +0000">
 		<title>整形过后 / Something Before and After Episode 4</title>
 		<desc>知名整形医师江浩宇与消失多年的学妹杨雅颂重逢，两人不同的理念与诊所利益冲突，让浩宇开始重新审视“美”背后的生命重量。韩国医师李侑恩的到来，更撼动了诊所的未来走向。随著每集个案的逐一揭开，整形不再只是修补外貌，而是触及人性裂缝与救赎的可能。Set in an elite plastic surgery clinic, renowned surgeon Yu reunites with long-lost classmate Song, sparking clashes over ethics and profit with opposing ideals. With a new Korean surgeon aboard, each case exposes the thin line between beauty, identity, and redemption.</desc>
 	</programme>
-	<programme channel="5503" start="20260626063000 +0000" stop="20260626071500 +0000">
+	<programme channel="5503" start="20260626064000 +0000" stop="20260626072000 +0000">
 		<title>春色寄情人 / Will Love In Spring Episode 7</title>
 		<desc>陈麦冬年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁则因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈了彼此的“不完美”。</desc>
 	</programme>
-	<programme channel="5503" start="20260626071500 +0000" stop="20260626080000 +0000">
+	<programme channel="5503" start="20260626072000 +0000" stop="20260626080500 +0000">
 		<title>春色寄情人 / Will Love In Spring Episode 8</title>
 		<desc>陈麦冬年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁则因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈了彼此的“不完美”。</desc>
 	</programme>
-	<programme channel="5503" start="20260626080000 +0000" stop="20260626084500 +0000">
+	<programme channel="5503" start="20260626080500 +0000" stop="20260626085000 +0000">
 		<title>一笑随歌 / Fated Hearts Episode 21</title>
 		<desc>平陵一战锦绣国败军之际，红衣女射手付一笑惊天一箭射中夙砂大皇子凤随歌，随即扭转战局。但付一笑却在平陵一战后不久，意外坠崖，记忆全失。凤随歌也被人追杀疲于奔命，阴差阳错下，二人在正念山庄重逢。看着失忆的付一笑，凤随歌只觉得此事处处透着蹊跷，于是决定将一笑带在身边，以引出操纵一切的幕后黑手。二人也由此踏上了揭露两国间阴谋的旅程。一路携手除敌党、斗权相，寻真相，从互相利用到互生爱意、成长励志。The female archer in red, Fu Yixiao, shockingly shoots an arrow at Susha's eldest prince, Feng Suige, turning the tide of the battle. But Fu Yixiao accidentally falls off a cliff shortly after the battle and loses her memory. Feng Suige uses Fu Yixiao to find out the truth as to why he is being heavil...</desc>
 	</programme>
-	<programme channel="5503" start="20260626084500 +0000" stop="20260626093000 +0000">
+	<programme channel="5503" start="20260626085000 +0000" stop="20260626093500 +0000">
 		<title>一笑随歌 / Fated Hearts Episode 22</title>
 		<desc>平陵一战锦绣国败军之际，红衣女射手付一笑惊天一箭射中夙砂大皇子凤随歌，随即扭转战局。但付一笑却在平陵一战后不久，意外坠崖，记忆全失。凤随歌也被人追杀疲于奔命，阴差阳错下，二人在正念山庄重逢。看着失忆的付一笑，凤随歌只觉得此事处处透着蹊跷，于是决定将一笑带在身边，以引出操纵一切的幕后黑手。二人也由此踏上了揭露两国间阴谋的旅程。一路携手除敌党、斗权相，寻真相，从互相利用到互生爱意、成长励志。The female archer in red, Fu Yixiao, shockingly shoots an arrow at Susha's eldest prince, Feng Suige, turning the tide of the battle. But Fu Yixiao accidentally falls off a cliff shortly after the battle and loses her memory. Feng Suige uses Fu Yixiao to find out the truth as to why he is being heavil...</desc>
 	</programme>
-	<programme channel="5503" start="20260626093000 +0000" stop="20260626101500 +0000">
+	<programme channel="5503" start="20260626093500 +0000" stop="20260626102000 +0000">
 		<title>子夜归 / Moonlit Reunion Episode 15</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
-	<programme channel="5503" start="20260626101500 +0000" stop="20260626110000 +0000">
+	<programme channel="5503" start="20260626102000 +0000" stop="20260626110000 +0000">
 		<title>子夜归 / Moonlit Reunion Episode 16</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
-	<programme channel="5503" start="20260626110000 +0000" stop="20260626114500 +0000">
+	<programme channel="5503" start="20260626110000 +0000" stop="20260626115000 +0000">
 		<title>整形过后 / Something Before and After Episode 3</title>
 		<desc>知名整形医师江浩宇与消失多年的学妹杨雅颂重逢，两人不同的理念与诊所利益冲突，让浩宇开始重新审视“美”背后的生命重量。韩国医师李侑恩的到来，更撼动了诊所的未来走向。随著每集个案的逐一揭开，整形不再只是修补外貌，而是触及人性裂缝与救赎的可能。Set in an elite plastic surgery clinic, renowned surgeon Yu reunites with long-lost classmate Song, sparking clashes over ethics and profit with opposing ideals. With a new Korean surgeon aboard, each case exposes the thin line between beauty, identity, and redemption.</desc>
 	</programme>
-	<programme channel="5503" start="20260626114500 +0000" stop="20260626123000 +0000">
+	<programme channel="5503" start="20260626115000 +0000" stop="20260626124000 +0000">
 		<title>整形过后 / Something Before and After Episode 4</title>
 		<desc>知名整形医师江浩宇与消失多年的学妹杨雅颂重逢，两人不同的理念与诊所利益冲突，让浩宇开始重新审视“美”背后的生命重量。韩国医师李侑恩的到来，更撼动了诊所的未来走向。随著每集个案的逐一揭开，整形不再只是修补外貌，而是触及人性裂缝与救赎的可能。Set in an elite plastic surgery clinic, renowned surgeon Yu reunites with long-lost classmate Song, sparking clashes over ethics and profit with opposing ideals. With a new Korean surgeon aboard, each case exposes the thin line between beauty, identity, and redemption.</desc>
 	</programme>
-	<programme channel="5503" start="20260626123000 +0000" stop="20260626131500 +0000">
+	<programme channel="5503" start="20260626124000 +0000" stop="20260626132000 +0000">
 		<title>春色寄情人 / Will Love In Spring Episode 7</title>
 		<desc>陈麦冬年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁则因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈了彼此的“不完美”。</desc>
 	</programme>
-	<programme channel="5503" start="20260626131500 +0000" stop="20260626140000 +0000">
+	<programme channel="5503" start="20260626132000 +0000" stop="20260626140500 +0000">
 		<title>春色寄情人 / Will Love In Spring Episode 8</title>
 		<desc>陈麦冬年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁则因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈了彼此的“不完美”。</desc>
 	</programme>
-	<programme channel="5503" start="20260626140000 +0000" stop="20260626144500 +0000">
+	<programme channel="5503" start="20260626140500 +0000" stop="20260626145000 +0000">
 		<title>一笑随歌 / Fated Hearts Episode 21</title>
 		<desc>平陵一战锦绣国败军之际，红衣女射手付一笑惊天一箭射中夙砂大皇子凤随歌，随即扭转战局。但付一笑却在平陵一战后不久，意外坠崖，记忆全失。凤随歌也被人追杀疲于奔命，阴差阳错下，二人在正念山庄重逢。看着失忆的付一笑，凤随歌只觉得此事处处透着蹊跷，于是决定将一笑带在身边，以引出操纵一切的幕后黑手。二人也由此踏上了揭露两国间阴谋的旅程。一路携手除敌党、斗权相，寻真相，从互相利用到互生爱意、成长励志。The female archer in red, Fu Yixiao, shockingly shoots an arrow at Susha's eldest prince, Feng Suige, turning the tide of the battle. But Fu Yixiao accidentally falls off a cliff shortly after the battle and loses her memory. Feng Suige uses Fu Yixiao to find out the truth as to why he is being heavil...</desc>
 	</programme>
-	<programme channel="5503" start="20260626144500 +0000" stop="20260626153000 +0000">
+	<programme channel="5503" start="20260626145000 +0000" stop="20260626153500 +0000">
 		<title>一笑随歌 / Fated Hearts Episode 22</title>
 		<desc>平陵一战锦绣国败军之际，红衣女射手付一笑惊天一箭射中夙砂大皇子凤随歌，随即扭转战局。但付一笑却在平陵一战后不久，意外坠崖，记忆全失。凤随歌也被人追杀疲于奔命，阴差阳错下，二人在正念山庄重逢。看着失忆的付一笑，凤随歌只觉得此事处处透着蹊跷，于是决定将一笑带在身边，以引出操纵一切的幕后黑手。二人也由此踏上了揭露两国间阴谋的旅程。一路携手除敌党、斗权相，寻真相，从互相利用到互生爱意、成长励志。The female archer in red, Fu Yixiao, shockingly shoots an arrow at Susha's eldest prince, Feng Suige, turning the tide of the battle. But Fu Yixiao accidentally falls off a cliff shortly after the battle and loses her memory. Feng Suige uses Fu Yixiao to find out the truth as to why he is being heavil...</desc>
 	</programme>
-	<programme channel="5503" start="20260626153000 +0000" stop="20260626161500 +0000">
+	<programme channel="5503" start="20260626153500 +0000" stop="20260626162000 +0000">
 		<title>子夜归 / Moonlit Reunion Episode 15</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
-	<programme channel="5503" start="20260626161500 +0000" stop="20260626170000 +0000">
+	<programme channel="5503" start="20260626162000 +0000" stop="20260626170000 +0000">
 		<title>子夜归 / Moonlit Reunion Episode 16</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
-	<programme channel="5503" start="20260626170000 +0000" stop="20260626174500 +0000">
+	<programme channel="5503" start="20260626170000 +0000" stop="20260626175000 +0000">
 		<title>整形过后 / Something Before and After Episode 3</title>
 		<desc>知名整形医师江浩宇与消失多年的学妹杨雅颂重逢，两人不同的理念与诊所利益冲突，让浩宇开始重新审视“美”背后的生命重量。韩国医师李侑恩的到来，更撼动了诊所的未来走向。随著每集个案的逐一揭开，整形不再只是修补外貌，而是触及人性裂缝与救赎的可能。Set in an elite plastic surgery clinic, renowned surgeon Yu reunites with long-lost classmate Song, sparking clashes over ethics and profit with opposing ideals. With a new Korean surgeon aboard, each case exposes the thin line between beauty, identity, and redemption.</desc>
 	</programme>
-	<programme channel="5503" start="20260626174500 +0000" stop="20260626183000 +0000">
+	<programme channel="5503" start="20260626175000 +0000" stop="20260626184000 +0000">
 		<title>整形过后 / Something Before and After Episode 4</title>
 		<desc>知名整形医师江浩宇与消失多年的学妹杨雅颂重逢，两人不同的理念与诊所利益冲突，让浩宇开始重新审视“美”背后的生命重量。韩国医师李侑恩的到来，更撼动了诊所的未来走向。随著每集个案的逐一揭开，整形不再只是修补外貌，而是触及人性裂缝与救赎的可能。Set in an elite plastic surgery clinic, renowned surgeon Yu reunites with long-lost classmate Song, sparking clashes over ethics and profit with opposing ideals. With a new Korean surgeon aboard, each case exposes the thin line between beauty, identity, and redemption.</desc>
 	</programme>
-	<programme channel="5503" start="20260626183000 +0000" stop="20260626191500 +0000">
+	<programme channel="5503" start="20260626184000 +0000" stop="20260626192000 +0000">
 		<title>春色寄情人 / Will Love In Spring Episode 7</title>
 		<desc>陈麦冬年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁则因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈了彼此的“不完美”。</desc>
 	</programme>
-	<programme channel="5503" start="20260626191500 +0000" stop="20260626200000 +0000">
+	<programme channel="5503" start="20260626192000 +0000" stop="20260626200500 +0000">
 		<title>春色寄情人 / Will Love In Spring Episode 8</title>
 		<desc>陈麦冬年少时性格桀骜，遭遇生活变故后选择成为一名遗体整容师。庄洁则因车祸致残，为了追逐更好的自己，孤身在外打拼成为大城市之中的职场精英。一个是性格桀骜但身心孤独的遗体整容师，一个是身体缺陷但勇敢耀眼的医疗销售，在不断拉扯中逐渐互相理解与尊重，以爱治愈了彼此的“不完美”。</desc>
 	</programme>
-	<programme channel="5503" start="20260626200000 +0000" stop="20260626204500 +0000">
+	<programme channel="5503" start="20260626200500 +0000" stop="20260626205000 +0000">
 		<title>一笑随歌 / Fated Hearts Episode 21</title>
 		<desc>平陵一战锦绣国败军之际，红衣女射手付一笑惊天一箭射中夙砂大皇子凤随歌，随即扭转战局。但付一笑却在平陵一战后不久，意外坠崖，记忆全失。凤随歌也被人追杀疲于奔命，阴差阳错下，二人在正念山庄重逢。看着失忆的付一笑，凤随歌只觉得此事处处透着蹊跷，于是决定将一笑带在身边，以引出操纵一切的幕后黑手。二人也由此踏上了揭露两国间阴谋的旅程。一路携手除敌党、斗权相，寻真相，从互相利用到互生爱意、成长励志。The female archer in red, Fu Yixiao, shockingly shoots an arrow at Susha's eldest prince, Feng Suige, turning the tide of the battle. But Fu Yixiao accidentally falls off a cliff shortly after the battle and loses her memory. Feng Suige uses Fu Yixiao to find out the truth as to why he is being heavil...</desc>
 	</programme>
-	<programme channel="5503" start="20260626204500 +0000" stop="20260626213000 +0000">
+	<programme channel="5503" start="20260626205000 +0000" stop="20260626213500 +0000">
 		<title>一笑随歌 / Fated Hearts Episode 22</title>
 		<desc>平陵一战锦绣国败军之际，红衣女射手付一笑惊天一箭射中夙砂大皇子凤随歌，随即扭转战局。但付一笑却在平陵一战后不久，意外坠崖，记忆全失。凤随歌也被人追杀疲于奔命，阴差阳错下，二人在正念山庄重逢。看着失忆的付一笑，凤随歌只觉得此事处处透着蹊跷，于是决定将一笑带在身边，以引出操纵一切的幕后黑手。二人也由此踏上了揭露两国间阴谋的旅程。一路携手除敌党、斗权相，寻真相，从互相利用到互生爱意、成长励志。The female archer in red, Fu Yixiao, shockingly shoots an arrow at Susha's eldest prince, Feng Suige, turning the tide of the battle. But Fu Yixiao accidentally falls off a cliff shortly after the battle and loses her memory. Feng Suige uses Fu Yixiao to find out the truth as to why he is being heavil...</desc>
 	</programme>
-	<programme channel="5503" start="20260626213000 +0000" stop="20260626221500 +0000">
+	<programme channel="5503" start="20260626213500 +0000" stop="20260626222000 +0000">
 		<title>子夜归 / Moonlit Reunion Episode 15</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
-	<programme channel="5503" start="20260626221500 +0000" stop="20260626230000 +0000">
+	<programme channel="5503" start="20260626222000 +0000" stop="20260626230000 +0000">
 		<title>子夜归 / Moonlit Reunion Episode 16</title>
 		<desc>《子夜归》剧情围绕着武祯展开，她是京城有名的花花公子，白天过着悠闲的生活，但到了晚上便变身为妖市中的猫公子，管理妖怪们的集市。武祯在年幼时曾经险些死亡，被一位高人所救，代价是长大后为他服务，管理妖市。梅逐雨则是玄鉴司主事，与武祯宿命牵绊，共同护佑长安的太平。“Moonlit Reunion” tells the story of Wu Zhen and Mei Zhu Yu. Wu Zhen, a notorious dandy, has a unique and extraordinary background, enjoying a life of luxury and indulgence. With a bold, uninhibited nature, Wu Zhen is infamous for dressing in men’s clothes, frequenting the brothel, and leading a band of aristocratic youths on wild escapades. Her carefree lifestyle h...</desc>
 	</programme>
@@ -68344,7 +68300,7 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 	</programme>
 	<programme channel="5511" start="20260625133000 +0000" stop="20260625143000 +0000">
 		<title>女神蒙上眼 / The Inner Eye Episode 3</title>
-		<desc>女神蒙上眼 / The Inner Eye</desc>
+		<desc>第十四集：康俊交给唐盈盈王兴朗二审案，戴佩琳加入辩护团队。众人调查发现关键证人受威胁改口，唐盈盈最终取得目击视频，证明王兴朗属正当防卫。案件出现转机后，赵栋弟弟驾车撞向戴佩琳，唐盈盈救下她，却导致戴佩琳流产。</desc>
 	</programme>
 	<programme channel="5511" start="20260625143000 +0000" stop="20260625150000 +0000">
 		<title>走过历史大地 / Pilgrimage of History Episode 9</title>
@@ -68439,15 +68395,17 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 	</programme>
 	<programme channel="5511" start="20260626023000 +0000" stop="20260626030000 +0000">
 		<title>教煮争霸 / Clash Of Chefs Episode 11</title>
-		<desc>第12集
-譚俊彥「紅酒燉雞」 VS 陳煒「海南雞壽司」
-鼎爺手起刀落示範斬雞，斬得俐落還要砌得好睇；三姐則教路燉出滴雞精。
+		<desc>第13集
+陈炜「韭菜盒子」 VS 谭俊彦「金华火腿鸡汤鸡丸手打面」
+今集以面食为主题，鼎爷示范手搓银针粉，三姐则传授令红薯粉口感QQ的技巧。
 
-俊彥以紅酒入饌炮製「紅酒燉雞」。除了西菜必備的洋蔥、西芹、甘筍，菜式還加入煎香意大利醃豬腩肉的香味。期間鼎爺突然考俊彥對烹調的認知，幸俊彥經驗搭夠過關！
+炜哥即席制作薄薄的面皮裹着五香豆腐、虾皮、粉丝、韭菜馅料，煎得金黄香脆，幻化成特色北方美食「韭菜盒子」，配上清凉的「韩式西红柿仔」同吃，开胃减腻！
 
-煒哥帶來創新「海南雞壽司」，以椰香飯配上嫩滑雞肉，煒哥即席示範浸雞技巧。她以斑蘭葉、紅尖椒等炮製兩款醬汁，一啖一口的海南雞飯帶來視覺、味覺新享受。
+俊彦以全鸡、金华火腿制作鸡浓汤配上手工面，将煎香鸡丸串悬在碗边，既能保持香脆的口感，又令菜式卖相精致独特。
 
-今集是法國菜式與南亞風味的「角力」！</desc>
+炜哥与俊彦都以手作面为亮点，尽显心思及耐性，谁的作品能令评判眼前一亮？
+
+收起</desc>
 	</programme>
 	<programme channel="5511" start="20260626030000 +0000" stop="20260626040000 +0000">
 		<title>飞常日志II / The Airport Diary II Episode 9</title>
@@ -68526,7 +68484,7 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 	</programme>
 	<programme channel="5511" start="20260626133000 +0000" stop="20260626143000 +0000">
 		<title>女神蒙上眼 / The Inner Eye Episode 4</title>
-		<desc>女神蒙上眼 / The Inner Eye</desc>
+		<desc>第十四集：康俊交给唐盈盈王兴朗二审案，戴佩琳加入辩护团队。众人调查发现关键证人受威胁改口，唐盈盈最终取得目击视频，证明王兴朗属正当防卫。案件出现转机后，赵栋弟弟驾车撞向戴佩琳，唐盈盈救下她，却导致戴佩琳流产。</desc>
 	</programme>
 	<programme channel="5511" start="20260626143000 +0000" stop="20260626150000 +0000">
 		<title>走过历史大地 / Pilgrimage of History Episode 10</title>
@@ -68635,7 +68593,7 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 	</programme>
 	<programme channel="5511" start="20260627050000 +0000" stop="20260627053000 +0000">
 		<title>呃钱 / Scam Alert!</title>
-		<desc>各類騙案數字持續上升，涉及的款項亦甚誇張。據悉香港每日平均損失達2500萬元，每13分鐘就有一宗騙案發生……網購、求職、投資、交友應用程式、電話騙案等行騙招數越來越高明，市民要及時提高防騙意識，慎防中伏！主持區永權、蕭正楠、李旻芳、梁敏巧網羅不同真實個案，深入了解事主被騙經過，節目還會以故事形式重現箇中情節。專家們現身拆解不同犯案手法，協助觀眾辨識《呃錢》陷阱，避免成為騙徒目標！</desc>
+		<desc>各类骗案数字持续上升，涉及的款项亦甚夸张。据悉香港每日平均损失达2500万元，每13分钟就有一宗骗案发生……网购、求职、投资、交友应用程序、电话骗案等行骗招数越来越高明，市民要及时提高防骗意识，慎防中伏！主持区永权、萧正楠、李旻芳、梁敏巧网罗不同真实个案，深入了解事主被骗经过，节目还会以故事形式重现个中情节。专家们现身拆解不同犯案手法，协助观众辨识《呃钱》陷阱，避免成为骗徒目标！</desc>
 	</programme>
 	<programme channel="5511" start="20260627053000 +0000" stop="20260627060000 +0000">
 		<title>周六聊Teen谷 / ChatSAT Episode 25</title>
@@ -68655,15 +68613,17 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 	</programme>
 	<programme channel="5511" start="20260627090000 +0000" stop="20260627093000 +0000">
 		<title>教煮争霸 / Clash Of Chefs Episode 11</title>
-		<desc>第12集
-譚俊彥「紅酒燉雞」 VS 陳煒「海南雞壽司」
-鼎爺手起刀落示範斬雞，斬得俐落還要砌得好睇；三姐則教路燉出滴雞精。
+		<desc>第13集
+陈炜「韭菜盒子」 VS 谭俊彦「金华火腿鸡汤鸡丸手打面」
+今集以面食为主题，鼎爷示范手搓银针粉，三姐则传授令红薯粉口感QQ的技巧。
 
-俊彥以紅酒入饌炮製「紅酒燉雞」。除了西菜必備的洋蔥、西芹、甘筍，菜式還加入煎香意大利醃豬腩肉的香味。期間鼎爺突然考俊彥對烹調的認知，幸俊彥經驗搭夠過關！
+炜哥即席制作薄薄的面皮裹着五香豆腐、虾皮、粉丝、韭菜馅料，煎得金黄香脆，幻化成特色北方美食「韭菜盒子」，配上清凉的「韩式西红柿仔」同吃，开胃减腻！
 
-煒哥帶來創新「海南雞壽司」，以椰香飯配上嫩滑雞肉，煒哥即席示範浸雞技巧。她以斑蘭葉、紅尖椒等炮製兩款醬汁，一啖一口的海南雞飯帶來視覺、味覺新享受。
+俊彦以全鸡、金华火腿制作鸡浓汤配上手工面，将煎香鸡丸串悬在碗边，既能保持香脆的口感，又令菜式卖相精致独特。
 
-今集是法國菜式與南亞風味的「角力」！</desc>
+炜哥与俊彦都以手作面为亮点，尽显心思及耐性，谁的作品能令评判眼前一亮？
+
+收起</desc>
 	</programme>
 	<programme channel="5511" start="20260627093000 +0000" stop="20260627100000 +0000">
 		<title>周六聊Teen谷 / ChatSAT Episode 25</title>
@@ -68697,9 +68657,19 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<title>J Music / J Music 2026 Episode 21</title>
 		<desc>《J Music》致力打造高质音乐平台，一众歌手有展示音乐实力的机会之余，也可让乐迷更深入了解歌手的音乐故事。节目邀请「人气」歌手担任嘉宾，由嘉宾亲自挑选其喜欢的新旧作品，并即场演唱，分享喜爱曲目。而一些乐坛新面孔亦会亮相，透过互动交流，展现音乐潜力。此外，每集紧贴「劲歌金榜」最新形势，送上歌曲MV外，还会带来不同歌手、创作人或制作人的访问，跟观众畅谈作品，以至音乐业界的人和事。</desc>
 	</programme>
-	<programme channel="5511" start="20260627141500 +0000" stop="20260627151500 +0000">
-		<title>直播灵接触 / You Are Not Alone Again Episode 12</title>
-		<desc>《直播灵接触》载誉归来，第二季继续由「鬼王」梁思浩带领主持拍档黄耀英、黄紫恩，以及小编黄滢仴、汤之欣，为观众带来更多惊吓与惊喜。每集锁定不同灵异主题，诚邀「重量级」嘉宾讲鬼故，揭开法科风俗与行业秘闻。世界之大无奇不有，节目网罗各地「阴讯」，紫恩还会前赴韩国与台湾，一探当地异闻。跟观众实时互动亦是「灵接触」亮点，团队紧贴直播</desc>
+	<programme channel="5511" start="20260627141500 +0000" stop="20260627144500 +0000">
+		<title>我们的戏剧大师 钟景辉 / Chung King Fai - All the World's a Stage</title>
+		<desc>戏剧大师「King Sir」钟景辉于六月初辞世，享年89岁。他毕生奉献舞台，留下深远影响。King Sir致力培养演艺人才，是TVB艺训班的始创人之一，桃李满门。其严谨的教学态度，为一代又一代演员建立并巩固专业精神。他亦贯彻「没有小演员，只有小角色」的信念，不论戏份多寡，皆用心演绎。此外，他以字正腔圆的标志声线，为信息节目担任旁白，也成为香港几代人的集体回忆。透过节目，让大家一同怀念这位戏剧巨匠。</desc>
+	</programme>
+	<programme channel="5511" start="20260627144500 +0000" stop="20260627151500 +0000">
+		<title>奢游记 / Journey To The Wealthy West Episode 11</title>
+		<desc>第11集
+藏于茶餐厅的亚洲风酒吧、帆船日落之旅
+继续奢游美国「不夜城」，极尚鱼子酱冲击味蕾，衍峰「刘华」上身扮演霸气一幕！参观富豪专享「皇宫」套房，配套固然豪华，酒店接待大使更提到曾满足贵宾要求，带猛兽上房？
+
+推开茶餐厅的「招财猫柜」，竟发现神秘酒吧，主题布置、鸡尾酒也融入不少亚洲风情。
+
+体验贵价水疗之后，转往旧金山感受海湾魅力。吃过「蚝」气大餐，晨芝撇甩拍档展开帆船之旅，喜获海狮「欢迎」？一尝扬帆、驾船乐趣，再于夕阳映照下细赏金门大桥，惊喜连连！</desc>
 	</programme>
 	<programme channel="5511" start="20260627151500 +0000" stop="20260627153000 +0000">
 		<title>晚间新闻 / News Roundup</title>
@@ -112940,32 +112910,32 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<desc>IT'S SHOWTIME</desc>
 	</programme>
 	<programme channel="5693" start="20260626164500 +0000" stop="20260626171500 +0000">
-		<title>Sigabo</title>
-		<desc>Sigabo</desc>
+		<title>Sigabo®</title>
+		<desc>Sigabo®</desc>
 	</programme>
 	<programme channel="5693" start="20260626171500 +0000" stop="20260626174500 +0000">
-		<title>BLOOD VS DUTY</title>
-		<desc>BLOOD VS DUTY</desc>
+		<title>Blood VS. Duty®</title>
+		<desc>Blood VS. Duty®</desc>
 	</programme>
 	<programme channel="5693" start="20260626174500 +0000" stop="20260626182000 +0000">
-		<title>The Alibi</title>
-		<desc>The Alibi</desc>
+		<title>The Alibi®</title>
+		<desc>The Alibi®</desc>
 	</programme>
 	<programme channel="5693" start="20260626182000 +0000" stop="20260626185500 +0000">
-		<title>The Secrets of Hotel 88</title>
-		<desc>The Secrets of Hotel 88</desc>
+		<title>The Secrets of Hotel 88 ®</title>
+		<desc>The Secrets of Hotel 88 ®</desc>
 	</programme>
 	<programme channel="5693" start="20260626185500 +0000" stop="20260626193000 +0000">
-		<title>LINLANG</title>
-		<desc>LINLANG</desc>
+		<title>Linlang ®</title>
+		<desc>Linlang ®</desc>
 	</programme>
 	<programme channel="5693" start="20260626193000 +0000" stop="20260626200000 +0000">
-		<title>INCOGNITO</title>
-		<desc>INCOGNITO</desc>
+		<title>Incognito®</title>
+		<desc>Incognito®</desc>
 	</programme>
 	<programme channel="5693" start="20260626200000 +0000" stop="20260626213000 +0000">
-		<title>TV PATROL GLOBAL EDITION</title>
-		<desc>TV PATROL GLOBAL EDITION</desc>
+		<title>TV Patrol Weekday Global Edition</title>
+		<desc>TV Patrol Weekday Global Edition</desc>
 	</programme>
 	<programme channel="5693" start="20260626213000 +0000" stop="20260626223000 +0000">
 		<title>TABING ILOG</title>
@@ -112980,12 +112950,12 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<desc>WOW</desc>
 	</programme>
 	<programme channel="5693" start="20260626233000 +0000" stop="20260627000000 +0000">
-		<title>TUBIG TO HANDLE SAT</title>
-		<desc>TUBIG TO HANDLE SAT</desc>
+		<title>Tubig To Handle (Sat) ®</title>
+		<desc>Tubig To Handle (Sat) ®</desc>
 	</programme>
 	<programme channel="5693" start="20260627000000 +0000" stop="20260627003000 +0000">
-		<title>TUBIG TO HANDLE SUN</title>
-		<desc>TUBIG TO HANDLE SUN</desc>
+		<title>Tubig To Handle (Sun) ®</title>
+		<desc>Tubig To Handle (Sun) ®</desc>
 	</programme>
 	<programme channel="5693" start="20260627003000 +0000" stop="20260627010000 +0000">
 		<title>Astig Vegan S4</title>
@@ -112996,8 +112966,8 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<desc>TULONG KO, PASA MO</desc>
 	</programme>
 	<programme channel="5693" start="20260627020000 +0000" stop="20260627023000 +0000">
-		<title>ANO NA, BEV S6</title>
-		<desc>ANO NA, BEV S6</desc>
+		<title>Ano Na Bev S6</title>
+		<desc>Ano Na Bev S6</desc>
 	</programme>
 	<programme channel="5693" start="20260627023000 +0000" stop="20260627030000 +0000">
 		<title>KAPAMILYA DAILY MASS</title>
@@ -113008,8 +112978,8 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<desc>DARNA</desc>
 	</programme>
 	<programme channel="5693" start="20260627040000 +0000" stop="20260627063000 +0000">
-		<title>IT'S SHOWTIME SATURDAY</title>
-		<desc>IT'S SHOWTIME SATURDAY</desc>
+		<title>IT'S SHOWTIME</title>
+		<desc>IT'S SHOWTIME</desc>
 	</programme>
 	<programme channel="5693" start="20260627063000 +0000" stop="20260627071500 +0000">
 		<title>Tubig To Handle</title>
@@ -113032,8 +113002,8 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<desc>SOCO</desc>
 	</programme>
 	<programme channel="5693" start="20260627094500 +0000" stop="20260627104500 +0000">
-		<title>TV PATROL SABADO</title>
-		<desc>TV PATROL SABADO</desc>
+		<title>TV Patrol Sabado Live</title>
+		<desc>TV Patrol Sabado Live</desc>
 	</programme>
 	<programme channel="5693" start="20260627104500 +0000" stop="20260627113000 +0000">
 		<title>TAO PO</title>
@@ -113044,16 +113014,16 @@ On the day the Liangs re-opened their bakery for business, they were shocked to 
 		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
 	</programme>
 	<programme channel="5693" start="20260627123000 +0000" stop="20260627134500 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
-	<programme channel="5693" start="20260627134500 +0000" stop="20260627144500 +0000">
+	<programme channel="5693" start="20260627134500 +0000" stop="20260627145500 +0000">
 		<title>The Crossings: Finding Our Way Home Through Stories</title>
 		<desc>The Crossings: Finding Our Way Home Through Stories</desc>
 	</programme>
-	<programme channel="5693" start="20260627144500 +0000" stop="20260627154500 +0000">
-		<title>Y Speak 2.0</title>
-		<desc>Y Speak 2.0</desc>
+	<programme channel="5693" start="20260627145500 +0000" stop="20260627154500 +0000">
+		<title>The B Side S2</title>
+		<desc>The B Side S2</desc>
 	</programme>
 	<programme channel="5693" start="20260627154500 +0000" stop="20260627173000 +0000">
 		<title>It's Showtime ®</title>
