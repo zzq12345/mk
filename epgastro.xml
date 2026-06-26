@@ -693,7 +693,11 @@
   <title lang="zh">(L) Berita Tengah Hari</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260627133000 +0800" stop="20260627150000 +0800" channel="TV1_HD">
+<programme start="20260627133000 +0800" stop="20260627133600 +0800" channel="TV1_HD">
+  <title lang="zh">Galeri Nasional</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260627133600 +0800" stop="20260627150000 +0800" channel="TV1_HD">
   <title lang="zh">Dia Miliknya</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -713,7 +717,11 @@
   <title lang="zh">(L) Berita Semasa</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260627160500 +0800" stop="20260627163000 +0800" channel="TV1_HD">
+<programme start="20260627160500 +0800" stop="20260627161000 +0800" channel="TV1_HD">
+  <title lang="zh">Galeri Nasional</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260627161000 +0800" stop="20260627163000 +0800" channel="TV1_HD">
   <title lang="zh">Pastikan Sahih</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -1541,15 +1549,15 @@
   <title lang="zh">Dendam Seorang Mentua Ep39</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260626110000 +0800" stop="20260626120000 +0800" channel="Astro_Prima">
+<programme start="20260626110000 +0800" stop="20260626120500 +0800" channel="Astro_Prima">
   <title lang="zh">(L) Borak SeeNI S2 Ep102</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260626120000 +0800" stop="20260626140200 +0800" channel="Astro_Prima">
+<programme start="20260626120500 +0800" stop="20260626140800 +0800" channel="Astro_Prima">
   <title lang="zh">Maharaja Lawak Mega 2021 Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260626140200 +0800" stop="20260626143000 +0800" channel="Astro_Prima">
+<programme start="20260626140800 +0800" stop="20260626143000 +0800" channel="Astro_Prima">
   <title lang="zh">Syoknya Seoul Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -3069,11 +3077,11 @@
   <title lang="zh">Mangal Lakshmi Ep658</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260626120000 +0800" stop="20260626123000 +0800" channel="Colors_Hindi_HD">
+<programme start="20260626120000 +0800" stop="20260626123500 +0800" channel="Colors_Hindi_HD">
   <title lang="zh">Tuu Juliet Jatt Di Ep110</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260626123000 +0800" stop="20260626130000 +0800" channel="Colors_Hindi_HD">
+<programme start="20260626123500 +0800" stop="20260626130000 +0800" channel="Colors_Hindi_HD">
   <title lang="zh">Mannat Harr Khushi Paane Ki Ep378</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -6302,7 +6310,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627073000 +0800" stop="20260627093000 +0800" channel="KTV">
-  <title lang="zh">Morning Show</title>
+  <title lang="zh">Sindanai Sei</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627093000 +0800" stop="20260627103000 +0800" channel="KTV">
@@ -6310,19 +6318,19 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627103000 +0800" stop="20260627133000 +0800" channel="KTV">
-  <title lang="zh">Morning Show</title>
+  <title lang="zh">Pongalo Pongal</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627133000 +0800" stop="20260627163000 +0800" channel="KTV">
-  <title lang="zh">Special Show</title>
+  <title lang="zh">Aanai</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627163000 +0800" stop="20260627193000 +0800" channel="KTV">
-  <title lang="zh">Matinee Show</title>
+  <title lang="zh">Mr.Bharath</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627193000 +0800" stop="20260627223000 +0800" channel="KTV">
-  <title lang="zh">Evening Show</title>
+  <title lang="zh">Ambasamuthiram Ambani</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260626003000 +0800" stop="20260626013000 +0800" channel="Sun_Life">
@@ -7981,12 +7989,8 @@
   <title lang="zh">(L) 2000 Prime Talk</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260627203000 +0800" stop="20260627222500 +0800" channel="Astro_AEC">
+<programme start="20260627203000 +0800" stop="20260627223000 +0800" channel="Astro_AEC">
   <title lang="zh">Singer 2026 - Malaysia Ep05</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260627222500 +0800" stop="20260627223000 +0800" channel="Astro_AEC">
-  <title lang="zh">Let&apos;s Go Green Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627223000 +0800" stop="20260627230000 +0800" channel="Astro_AEC">
@@ -8134,7 +8138,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627165000 +0800" stop="20260627190000 +0800" channel="Astro_QJ">
-  <title lang="zh">The 37th Golden Melody Awards Red Carpet</title>
+  <title lang="zh">(L) The 37th Golden Melody Awards Red Carpet</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260627190000 +0800" stop="20260627233000 +0800" channel="Astro_QJ">
@@ -26273,11 +26277,11 @@
   <title lang="zh">VNL Men&apos;s: Week 1: UKR vs JPN</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260627140000 +0800" stop="20260627163000 +0800" channel="Astro_Grandstand">
+<programme start="20260627140000 +0800" stop="20260627160000 +0800" channel="Astro_Grandstand">
   <title lang="zh">VNL Men&apos;s: Week 2: UKR vs ITA</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260627163000 +0800" stop="20260627190500 +0800" channel="Astro_Grandstand">
+<programme start="20260627160000 +0800" stop="20260627190500 +0800" channel="Astro_Grandstand">
   <title lang="zh">VNL Men&apos;s: Week 2: POL vs TUR</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -26845,11 +26849,11 @@
   <title lang="zh">VNL Women&apos;s: Week 2: SRB vs ITA</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260626102800 +0800" stop="20260626123000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260626102800 +0800" stop="20260626120000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">FEI LLN 2026: Rotterdam</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260626123000 +0800" stop="20260626145500 +0800" channel="Astro_Sports_Plus">
+<programme start="20260626120000 +0800" stop="20260626145500 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">(D) VNL Men&apos;s: Week 2: FRA vs CUB</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -27290,7 +27294,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260626180000 +0800" stop="20260626193000 +0800" channel="beIN_SPORTS_2">
-  <title lang="zh">(L) Premier Padel (2026)</title>
+  <title lang="zh">Best of RG (2026)</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260626193000 +0800" stop="20260626210000 +0800" channel="beIN_SPORTS_2">
