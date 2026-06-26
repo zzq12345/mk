@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260626053000 +0800" stop="20260626070000 +0800" channel="mbc max">
-    <title lang="en">Cloudy with a Chance of Meatballs</title>
-    <desc lang="en">A failed scientist's luck turns around when he invents amachine that can get food to fall from the sky, but things take a disastrous turn and he has to reverse his invention to save his town.</desc>
-    <category lang="en">Movie - Cartoon
-               (2009)</category>
-  </programme>
   <programme start="20260626073000 +0800" stop="20260626093000 +0800" channel="mbc max">
     <title lang="en">Gangster Squad</title>
     <desc lang="en">In late 1940s Los Angeles, a secret crew of determinedpolice officers try to take down a ruthless mob king, whose power and influence extend from his aides to the police, all the way up to the city's politicians.</desc>
@@ -174,23 +168,11 @@
     <category lang="en">Movie
                (2006)</category>
   </programme>
-  <programme start="20260626043000 +0800" stop="20260626060000 +0800" channel="mbc 2">
-    <title lang="en">All I See Is You</title>
-    <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
+  <programme start="20260628160000 +0800" stop="20260628180000 +0800" channel="mbc max">
+    <title lang="en">Last Vegas</title>
+    <desc lang="en">Four childhood friends are reunited when the group's swornbachelor decides to get married. As they head to Las Vegas to relieve their glory days, they realize how much the Sin City has transformed.</desc>
     <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20260626060000 +0800" stop="20260626073000 +0800" channel="mbc 2">
-    <title lang="en">Anger Management</title>
-    <desc lang="en">After a misunderstanding on a plane goes bad, Dave Buznikis forced to attend an anger management therapy with the eccentric specialist Dr. Buddy Rydell, who starts invading his life but he might be the only one who can help him.</desc>
-    <category lang="en">Movie
-               (2003)</category>
-  </programme>
-  <programme start="20260626073000 +0800" stop="20260626080000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
+               (2013)</category>
   </programme>
   <programme start="20260626080000 +0800" stop="20260626093000 +0800" channel="mbc 2">
     <title lang="en">The Words</title>
@@ -359,5 +341,11 @@
     <desc lang="en">After a woman was physically assaulted by a group of peopleafter attending a party and getting away with it, John Dromoor, a gulf war veteran who now works as a local police officer decides to take matters into his own hands and bring the woman justice.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260628170000 +0800" stop="20260628193000 +0800" channel="mbc 2">
+    <title lang="en">Live By Night</title>
+    <desc lang="en">Set in 1962 Boston, where alcohol flows and bullets fly, asingle man decides to leave his mark on the world when he discovers a world of underground distilleries, bars, gangs and corrupt police officers. In the meantime the son of a known police officer turns his back on his strict upbringing and gets involved with a dangerous mob.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
