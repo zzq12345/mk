@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260728160000 +0800" stop="20260728183000 +0800" channel="mbc max">
-    <title lang="en">The Departed</title>
-    <desc lang="en">With two simultaneous uncover operations intersect, anundercover cop that has joined the mob and a spy infiltrating the police force try to uncover the identity of the other mole before their own cover is blown.</desc>
-    <category lang="en">Movie
-               (2006)</category>
-  </programme>
   <programme start="20260728183000 +0800" stop="20260728203500 +0800" channel="mbc max">
     <title lang="en">Pride and Glory</title>
     <desc lang="en">A family of police officers is trying to fight corruption inWashington Heights, when four police officers are killed while ambushing a drug dealer's apartment. When Ray is charged with investigating his brother's work area, he finds many hints of corruption, and his brother appears to be involved. Ray's father promises to take care of it.</desc>
@@ -216,11 +210,11 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260728173000 +0800" stop="20260728193000 +0800" channel="mbc 2">
-    <title lang="en">Wrath of Man</title>
-    <desc lang="en">With a high-stakes job that sees him moving millions ofdollars weekly across LA, H has to be tough and calculated to keep his job at the cash truck company and overcome the various obstacles that creep up in his way.</desc>
+  <programme start="20260731033000 +0800" stop="20260731053000 +0800" channel="mbc max">
+    <title lang="en">Sorry to Bother You</title>
+    <desc lang="en">Hilarious Cassius “Cash” Green is a low-level telemarketerwho wonders about his life purpose. He learns that corporate success for a black worker happens by adopting a submissive personality that pleases white people. While his work mates form a union to defend their rights, management promotes successful Cassius to “Power Caller” to sell a virtual slaves’ workforce, which awakens his conscience.</desc>
     <category lang="en">Movie
-               (2021)</category>
+               (2018)</category>
   </programme>
   <programme start="20260728193000 +0800" stop="20260728213000 +0800" channel="mbc 2">
     <title lang="en">Cop Out</title>
@@ -413,5 +407,11 @@
     <desc lang="en">A group of soldiers and scientists set out on a scientificexpedition to explore an uncharted island in the Pacific. Unaware that they are crossing into the domain of monsters, the mission of discovery becomes an explosive war between monster and man in a thrilling and original new adventure that reveals the untold story of how Kong became King.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260731050000 +0800" stop="20260731053000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
   </programme>
 </tv>
