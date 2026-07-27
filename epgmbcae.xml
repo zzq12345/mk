@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260727073000 +0800" stop="20260727092500 +0800" channel="mbc max">
-    <title lang="en">Pan</title>
-    <desc lang="en">When he is whisked away from his dull London orphanage,life, the twelve-year-old Peter finds himself in the magical Neverland, where fun is just another word for danger and vice versa. Many adventures send Peter exploring more about himself and his world, eventually becoming an immortal hero.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260727092500 +0800" stop="20260727110000 +0800" channel="mbc max">
     <title lang="en">Basic</title>
     <desc lang="en">Commander Col. Bill calls his old friend, ex-Ranger Hardy,to investigate the disappearance of a Sgt. and several of his cadets during a training exercise. At first, Capt. Julia Osborne disapproves of Hardy, until she decides to work with him to uncover the mystery.</desc>
@@ -204,17 +198,23 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260727060000 +0800" stop="20260727080000 +0800" channel="mbc 2">
-    <title lang="en">The Huntsman: Winter's War</title>
-    <desc lang="en">Raised as soldiers in Ice Queen Freya's army, Eric and Sara,a fellow warrior, attempt to hide their forbidden love while they battle to survive Freya and her sister Ravenna's evil plans.</desc>
+  <programme start="20260729175500 +0800" stop="20260729193000 +0800" channel="mbc max">
+    <title lang="en">The Lucky One</title>
+    <desc lang="en">A marine finds a picture in Iraq that helps him survive thedramatic battles. Getting back home, he tracks the girl in the picture which leads him to Louisiana. There he meets her and tries to explain his motives to find her.</desc>
+    <category lang="en">Movie
+               (2012)</category>
+  </programme>
+  <programme start="20260729193000 +0800" stop="20260729200000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260729200000 +0800" stop="20260729213500 +0800" channel="mbc max">
+    <title lang="en">Sully</title>
+    <desc lang="en">Based on a true story that took place on January 15, 2009,when the American pilot Chesley 'Sully' Sullenberger managed to land his damaged plane above the Hudson River and save the lives of 155 passengers on the plane.</desc>
     <category lang="en">Movie
                (2016)</category>
-  </programme>
-  <programme start="20260727082500 +0800" stop="20260727103000 +0800" channel="mbc 2">
-    <title lang="en">Stomp the Yard</title>
-    <desc lang="en">After the death of his brother,  a street dancer moves toGeorgia to enter the university, but his efforts to get education and attract the girl he wants are put to the test when he takes part in a dance tournament.</desc>
-    <category lang="en">Movie
-               (2007)</category>
   </programme>
   <programme start="20260727103000 +0800" stop="20260727110000 +0800" channel="mbc 2">
     <title lang="en">Scoop Maa Raya</title>
@@ -425,5 +425,11 @@
     <desc lang="en">A group of soldiers and scientists set out on a scientificexpedition to explore an uncharted island in the Pacific. Unaware that they are crossing into the domain of monsters, the mission of discovery becomes an explosive war between monster and man in a thrilling and original new adventure that reveals the untold story of how Kong became King.</desc>
     <category lang="en">Movie
                (2017)</category>
+  </programme>
+  <programme start="20260729190000 +0800" stop="20260729212000 +0800" channel="mbc 2">
+    <title lang="en">Godzilla: King of the Monsters</title>
+    <desc lang="en">Follows the relentless efforts of the crypto-zoologicalagency, as it faces off against a group of enormous monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah , leaving humanity to an unknown fate.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
