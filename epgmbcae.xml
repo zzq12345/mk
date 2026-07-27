@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260728133000 +0800" stop="20260728160000 +0800" channel="mbc max">
-    <title lang="en">The Place Beyond the Pines</title>
-    <desc lang="en">A motorcycle stunt rider (Ryan Gosling) makes a fatefuldecision to carry out robberies to support his girlfriend and baby. When a rookie cop (Bradley Cooper) pursues him, the two become locked on a tense collision course whose devastating consequences will impact their families for years to come.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
   <programme start="20260728160000 +0800" stop="20260728183000 +0800" channel="mbc max">
     <title lang="en">The Departed</title>
     <desc lang="en">With two simultaneous uncover operations intersect, anundercover cop that has joined the mob and a spy infiltrating the police force try to uncover the identity of the other mole before their own cover is blown.</desc>
@@ -216,11 +210,11 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260728150000 +0800" stop="20260728170500 +0800" channel="mbc 2">
-    <title lang="en">The Town</title>
-    <desc lang="en">In the wake of a daring bank heist, Doug tries to get closeto the bank manager to ensure that she can not identify him and his crew. But as he starts to fall for her, he has to be careful to hide the fact that she knows a crucial bit of information that could help bring them down from his crew.</desc>
+  <programme start="20260731013000 +0800" stop="20260731033000 +0800" channel="mbc max">
+    <title lang="en">In the Heart of the Sea</title>
+    <desc lang="en">The crew of a whaling ship faces an unexpected hurdle in theform of a giant whale that devastates the ship and leaves the crew stranded at sea. With the whale after them and no hope of rescue, the crew resorts to drastic measures in order to survive.</desc>
     <category lang="en">Movie
-               (2010)</category>
+               (2015)</category>
   </programme>
   <programme start="20260728173000 +0800" stop="20260728193000 +0800" channel="mbc 2">
     <title lang="en">Wrath of Man</title>
@@ -413,5 +407,11 @@
     <desc lang="en">Military lawyer Daniel Kaffee(Tom Cruise) is charged withdefending two marines accused of killing their colleague. His defense teammate Galloway (Demi Moore) believes they were only following orders from their superior. They unite to prove the truth that the Colonel wants to hide with all his might.</desc>
     <category lang="en">Movie
                (1992)</category>
+  </programme>
+  <programme start="20260731030000 +0800" stop="20260731050000 +0800" channel="mbc 2">
+    <title lang="en">Kong: Skull Island</title>
+    <desc lang="en">A group of soldiers and scientists set out on a scientificexpedition to explore an uncharted island in the Pacific. Unaware that they are crossing into the domain of monsters, the mission of discovery becomes an explosive war between monster and man in a thrilling and original new adventure that reveals the untold story of how Kong became King.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
