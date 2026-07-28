@@ -1794,10 +1794,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260728053000 +0800" stop="20260728072500 +0800" channel="mbc max">
-    <title lang="en">Paddington 2</title>
-    <desc lang="en">Paddington is happily living with the Brown family inWindsor Gardens, where he becomes a popular member of the community. He finds a special book to give to his Aunt Lucy for her 100th birthday at Mr. Gruber's antique shop, and gets involved in a series of peculiar jobs to buy it.</desc>
-  </programme>
   <programme start="20260728072500 +0800" stop="20260728093000 +0800" channel="mbc max">
     <title lang="en">Pride and Glory</title>
     <desc lang="en">A family of police officers is trying to fight corruption inWashington Heights, when four police officers are killed while ambushing a drug dealer's apartment. When Ray is charged with investigating his brother's work area, he finds many hints of corruption, and his brother appears to be involved. Ray's father promises to take care of it.</desc>
@@ -1930,9 +1926,13 @@
     <title lang="en">Live By Night</title>
     <desc lang="en">Set in 1962 Boston, where alcohol flows and bullets fly, asingle man decides to leave his mark on the world when he discovers a world of underground distilleries, bars, gangs and corrupt police officers. In the meantime the son of a known police officer turns his back on his strict upbringing and gets involved with a dangerous mob.</desc>
   </programme>
-  <programme start="20260728055500 +0800" stop="20260728073000 +0800" channel="mbc 2">
-    <title lang="en">Honest Thief</title>
-    <desc lang="en">When the bank robber Tom Carter decides to leave hisnotorious life behind and make a fresh start, he finds himself thrust back into action when he's pursued by two corrupt  FBI agents.</desc>
+  <programme start="20260730160000 +0800" stop="20260730180000 +0800" channel="mbc max">
+    <title lang="en">Black Mass</title>
+    <desc lang="en">The film follows the true story of Whitey Bulger, the mostinfamous violent criminal in the history of South Boston, who also happened to be the brother of a state senator, and became an FBI informant to take down a Mafia family invading his turf.</desc>
+  </programme>
+  <programme start="20260730180000 +0800" stop="20260730200000 +0800" channel="mbc max">
+    <title lang="en">The Infiltrator</title>
+    <desc lang="en">The true story of Customs Service agent Robert Mazur whoexposes a money laundering scheme by legendary drug lord Pablo Escobar</desc>
   </programme>
   <programme start="20260728075500 +0800" stop="20260728093500 +0800" channel="mbc 2">
     <title lang="en">Ben Is Back</title>
@@ -2062,13 +2062,13 @@
     <title lang="en">Second Act</title>
     <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
   </programme>
-  <programme start="20260728053000 +0800" stop="20260728063000 +0800" channel="mbc action">
-    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
-    <desc lang="en">Type: Series (2024)</desc>
+  <programme start="20260730164000 +0800" stop="20260730170000 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
+    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
   </programme>
-  <programme start="20260728063000 +0800" stop="20260728080000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  <programme start="20260730170000 +0800" stop="20260730183000 +0800" channel="mbc 2">
+    <title lang="en">Walk of Shame</title>
+    <desc lang="en">After a hard day, a reporter tries to get out of her funk bygoing out drinking and having a one-night-stand. But the next morning, she finds that this night of fun may jeopardize her lifelong dream as she gets stranded with no way to go to the most important job interview of her life.</desc>
   </programme>
   <programme start="20260728080000 +0800" stop="20260728090000 +0800" channel="mbc action">
     <title lang="en">برنامجcar issuse</title>
@@ -2293,6 +2293,14 @@
   <programme start="20260730150000 +0800" stop="20260730153000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
     <desc lang=""/>
+  </programme>
+  <programme start="20260730153000 +0800" stop="20260730170000 +0800" channel="mbc action">
+    <title lang="en">بودكاست ملح الدوري</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260730170000 +0800" stop="20260730183000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
   </programme>
   <programme start="20260727060000 +0800" stop="20260727063000 +0800" channel="第一财经">
     <title lang="zh">两说</title>
@@ -5470,28 +5478,20 @@
     <title lang="zh">FashionTV</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260803060000 +0800" stop="20260803070000 +0800" channel="HOY 76">
-    <title lang="zh">Bloomberg 时段</title>
+  <programme start="20260803060000 +0800" stop="20260803061000 +0800" channel="HOY 76">
+    <title lang="zh">Green Touch</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260803070000 +0800" stop="20260803080000 +0800" channel="HOY 76">
-    <title lang="zh">CGTN 时段</title>
+  <programme start="20260803061000 +0800" stop="20260803081500 +0800" channel="HOY 76">
+    <title lang="zh">阿根廷甲组足球联赛-河床 对  罗沙里奥中央</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260803080000 +0800" stop="20260803090000 +0800" channel="HOY 76">
-    <title lang="zh">CGTN 时段</title>
+  <programme start="20260803081500 +0800" stop="20260803082500 +0800" channel="HOY 76">
+    <title lang="zh">Green Touch</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260803090000 +0800" stop="20260803093000 +0800" channel="HOY 76">
-    <title lang="zh">怪物高中：动画 第1季</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260803093000 +0800" stop="20260803100000 +0800" channel="HOY 76">
-    <title lang="zh">格里苏-小龙第1季</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260803100000 +0800" stop="20260803103000 +0800" channel="HOY 76">
-    <title lang="zh">露露布鲁姆布鲁姆 第1-2季</title>
+  <programme start="20260803082500 +0800" stop="20260803103000 +0800" channel="HOY 76">
+    <title lang="zh">阿根廷甲组足球联赛-拉努斯 对  联合队</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260803103000 +0800" stop="20260803110000 +0800" channel="HOY 76">
@@ -5574,16 +5574,12 @@
     <title lang="zh">真心假结婚</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260804003000 +0800" stop="20260804013000 +0800" channel="HOY 76">
-    <title lang="zh">乐游原</title>
+  <programme start="20260804003000 +0800" stop="20260804005500 +0800" channel="HOY 76">
+    <title lang="zh">小空间大活用 3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260804013000 +0800" stop="20260804020000 +0800" channel="HOY 76">
-    <title lang="zh">Bloomberg 时段</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260804020000 +0800" stop="20260804030000 +0800" channel="HOY 76">
-    <title lang="zh">Bloomberg 时段</title>
+  <programme start="20260804005500 +0800" stop="20260804030000 +0800" channel="HOY 76">
+    <title lang="zh">瑞典超级足球联赛-佐加顿斯 对  华斯特拉斯</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260804030000 +0800" stop="20260804040000 +0800" channel="HOY 76">
@@ -5594,32 +5590,24 @@
     <title lang="zh">Bloomberg 时段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260804050000 +0800" stop="20260804060000 +0800" channel="HOY 76">
+  <programme start="20260804050000 +0800" stop="20260804055500 +0800" channel="HOY 76">
     <title lang="zh">Bloomberg 时段</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260804060000 +0800" stop="20260804070000 +0800" channel="HOY 76">
-    <title lang="zh">Bloomberg 时段</title>
+  <programme start="20260804055500 +0800" stop="20260804080000 +0800" channel="HOY 76">
+    <title lang="zh">阿根廷甲组足球联赛-沙士菲  对  独立队</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260804070000 +0800" stop="20260804080000 +0800" channel="HOY 76">
-    <title lang="zh">CGTN 时段</title>
+  <programme start="20260804080000 +0800" stop="20260804081000 +0800" channel="HOY 76">
+    <title lang="zh">Green Touch</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260804080000 +0800" stop="20260804090000 +0800" channel="HOY 76">
-    <title lang="zh">CGTN 时段</title>
+  <programme start="20260804081000 +0800" stop="20260804101500 +0800" channel="HOY 76">
+    <title lang="zh">阿根廷甲组足球联赛-飓风队 对 图库曼体育会</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260804090000 +0800" stop="20260804093000 +0800" channel="HOY 76">
-    <title lang="zh">怪物高中：动画 第1季</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260804093000 +0800" stop="20260804100000 +0800" channel="HOY 76">
-    <title lang="zh">格里苏-小龙第1季</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260804100000 +0800" stop="20260804103000 +0800" channel="HOY 76">
-    <title lang="zh">露露布鲁姆布鲁姆 第1-2季</title>
+  <programme start="20260804101500 +0800" stop="20260804103000 +0800" channel="HOY 76">
+    <title lang="zh">Green Touch</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260804103000 +0800" stop="20260804110000 +0800" channel="HOY 76">

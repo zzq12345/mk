@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260728053000 +0800" stop="20260728072500 +0800" channel="mbc max">
-    <title lang="en">Paddington 2</title>
-    <desc lang="en">Paddington is happily living with the Brown family inWindsor Gardens, where he becomes a popular member of the community. He finds a special book to give to his Aunt Lucy for her 100th birthday at Mr. Gruber's antique shop, and gets involved in a series of peculiar jobs to buy it.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260728072500 +0800" stop="20260728093000 +0800" channel="mbc max">
     <title lang="en">Pride and Glory</title>
     <desc lang="en">A family of police officers is trying to fight corruption inWashington Heights, when four police officers are killed while ambushing a drug dealer's apartment. When Ray is charged with investigating his brother's work area, he finds many hints of corruption, and his brother appears to be involved. Ray's father promises to take care of it.</desc>
@@ -210,11 +204,17 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260728055500 +0800" stop="20260728073000 +0800" channel="mbc 2">
-    <title lang="en">Honest Thief</title>
-    <desc lang="en">When the bank robber Tom Carter decides to leave hisnotorious life behind and make a fresh start, he finds himself thrust back into action when he's pursued by two corrupt  FBI agents.</desc>
+  <programme start="20260730160000 +0800" stop="20260730180000 +0800" channel="mbc max">
+    <title lang="en">Black Mass</title>
+    <desc lang="en">The film follows the true story of Whitey Bulger, the mostinfamous violent criminal in the history of South Boston, who also happened to be the brother of a state senator, and became an FBI informant to take down a Mafia family invading his turf.</desc>
     <category lang="en">Movie
-               (2020)</category>
+               (2015)</category>
+  </programme>
+  <programme start="20260730180000 +0800" stop="20260730200000 +0800" channel="mbc max">
+    <title lang="en">The Infiltrator</title>
+    <desc lang="en">The true story of Customs Service agent Robert Mazur whoexposes a money laundering scheme by legendary drug lord Pablo Escobar</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
   <programme start="20260728075500 +0800" stop="20260728093500 +0800" channel="mbc 2">
     <title lang="en">Ben Is Back</title>
@@ -407,5 +407,17 @@
     <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260730164000 +0800" stop="20260730170000 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
+    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
+    <category lang="en">Program
+               (2012)</category>
+  </programme>
+  <programme start="20260730170000 +0800" stop="20260730183000 +0800" channel="mbc 2">
+    <title lang="en">Walk of Shame</title>
+    <desc lang="en">After a hard day, a reporter tries to get out of her funk bygoing out drinking and having a one-night-stand. But the next morning, she finds that this night of fun may jeopardize her lifelong dream as she gets stranded with no way to go to the most important job interview of her life.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
