@@ -1,76 +1,13 @@
-页面 1 日期: Jul 27, 2026, 节目数量: 17
-页面 2 日期: Jul 28, 2026, 节目数量: 17
-页面 3 日期: Jul 29, 2026, 节目数量: 17
-页面 4 日期: Jul 30, 2026, 节目数量: 16
+页面 1 日期: Jul 28, 2026, 节目数量: 17
+页面 2 日期: Jul 29, 2026, 节目数量: 17
+页面 3 日期: Jul 30, 2026, 节目数量: 16
+页面 4 日期: Jul 31, 2026, 节目数量: 17
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="http://192.168.10.1/system/opt/" generator-info-url="QQ">
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
   </channel>
-  <programme start="20260727003000 +0400" stop="20260727023000 +0400" channel="Dubai One">
-    <title lang="en">End of Sentence</title>
-    <desc lang="en">A wrong turn can get you to a right place</desc>
-  </programme>
-  <programme start="20260727023000 +0400" stop="20260727033000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260727033000 +0400" stop="20260727040000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260727040000 +0400" stop="20260727060000 +0400" channel="Dubai One">
-    <title lang="en">An Uncommon Grace</title>
-  </programme>
-  <programme start="20260727060000 +0400" stop="20260727080000 +0400" channel="Dubai One">
-    <title lang="en">Sicilian Letters</title>
-  </programme>
-  <programme start="20260727080000 +0400" stop="20260727090000 +0400" channel="Dubai One">
-    <title lang="en">Homegrown DXB</title>
-    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
-  </programme>
-  <programme start="20260727090000 +0400" stop="20260727110000 +0400" channel="Dubai One">
-    <title lang="en">An Uncommon Grace</title>
-  </programme>
-  <programme start="20260727110000 +0400" stop="20260727150000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260727150000 +0400" stop="20260727160000 +0400" channel="Dubai One">
-    <title lang="en">Desperate Mrs. Seonju</title>
-    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
-  </programme>
-  <programme start="20260727160000 +0400" stop="20260727170000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260727170000 +0400" stop="20260727190000 +0400" channel="Dubai One">
-    <title lang="en">End of Sentence</title>
-    <desc lang="en">A wrong turn can get you to a right place</desc>
-  </programme>
-  <programme start="20260727190000 +0400" stop="20260727193000 +0400" channel="Dubai One">
-    <title lang="en">Freeze</title>
-    <desc lang="en">The challenge to remain calm...</desc>
-  </programme>
-  <programme start="20260727193000 +0400" stop="20260727200000 +0400" channel="Dubai One">
-    <title lang="en">City of Summits</title>
-  </programme>
-  <programme start="20260727200000 +0400" stop="20260727203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260727203000 +0400" stop="20260727213000 +0400" channel="Dubai One">
-    <title lang="en">Desperate Mrs. Seonju</title>
-    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
-  </programme>
-  <programme start="20260727213000 +0400" stop="20260727223000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260727223000 +0400" stop="20260728003000 +0400" channel="Dubai One">
-    <title lang="en">This Is the End</title>
-  </programme>
   <programme start="20260728003000 +0400" stop="20260728023000 +0400" channel="Dubai One">
     <title lang="en">Home Again</title>
     <desc lang="en">Starting over is not for beginners.</desc>
@@ -253,8 +190,72 @@
     <title lang="en">Sweet Diva</title>
     <desc lang="en">She may lose everything. Except the courage to move on.</desc>
   </programme>
-  <programme start="20260730223000 +0400" stop="20260731000000 +0400" channel="Dubai One">
+  <programme start="20260730223000 +0400" stop="20260731003000 +0400" channel="Dubai One">
     <title lang="en">Mechanic: Resurrection</title>
     <desc lang="en">Four continents. Three kills... Or the love of his life is dead.</desc>
+  </programme>
+  <programme start="20260731003000 +0400" stop="20260731023000 +0400" channel="Dubai One">
+    <title lang="en">Stockholm</title>
+    <desc lang="en">Based On An Absurd But True Story</desc>
+  </programme>
+  <programme start="20260731023000 +0400" stop="20260731030000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260731030000 +0400" stop="20260731040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260731040000 +0400" stop="20260731060000 +0400" channel="Dubai One">
+    <title lang="en">Mechanic: Resurrection</title>
+    <desc lang="en">Four continents. Three kills... Or the love of his life is dead.</desc>
+  </programme>
+  <programme start="20260731060000 +0400" stop="20260731080000 +0400" channel="Dubai One">
+    <title lang="en">Skylines</title>
+  </programme>
+  <programme start="20260731080000 +0400" stop="20260731090000 +0400" channel="Dubai One">
+    <title lang="en">Professor T</title>
+  </programme>
+  <programme start="20260731090000 +0400" stop="20260731110000 +0400" channel="Dubai One">
+    <title lang="en">Mechanic: Resurrection</title>
+    <desc lang="en">Four continents. Three kills... Or the love of his life is dead.</desc>
+  </programme>
+  <programme start="20260731110000 +0400" stop="20260731150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260731150000 +0400" stop="20260731160000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260731160000 +0400" stop="20260731170000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260731170000 +0400" stop="20260731190000 +0400" channel="Dubai One">
+    <title lang="en">Stockholm</title>
+    <desc lang="en">Based On An Absurd But True Story</desc>
+  </programme>
+  <programme start="20260731190000 +0400" stop="20260731193000 +0400" channel="Dubai One">
+    <title lang="en">Digital</title>
+  </programme>
+  <programme start="20260731193000 +0400" stop="20260731200000 +0400" channel="Dubai One">
+    <title lang="en">بتوقيت دبي</title>
+  </programme>
+  <programme start="20260731200000 +0400" stop="20260731203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260731203000 +0400" stop="20260731213000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260731213000 +0400" stop="20260731223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260731223000 +0400" stop="20260801000000 +0400" channel="Dubai One">
+    <title lang="en">Boss Level</title>
+    <desc lang="en">Gone today, here tomorrow</desc>
   </programme>
 </tv>
