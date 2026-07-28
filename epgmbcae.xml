@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260729140000 +0800" stop="20260729160000 +0800" channel="mbc max">
-    <title lang="en">San Andreas</title>
-    <desc lang="en">When a massive earthquake hits California and leaves it inruins, a search-and-rescue helicopter pilot embarks on a most perilous journey to find his wife and daughter amidst the ruins.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260729160000 +0800" stop="20260729180000 +0800" channel="mbc max">
     <title lang="en">Everest</title>
     <desc lang="en">Based on real life events in 1996, about a group of mountainclimbers who have decided to challenge the hardest climate conditions on the globe and climb Everest. The climbing trip turned to be a deadly adventure due to a storm, which changed everything.</desc>
@@ -204,11 +198,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260729150000 +0800" stop="20260729170500 +0800" channel="mbc 2">
-    <title lang="en">She Said</title>
-    <desc lang="en">Following the story of Megan Twohey and Jodi Kantor, two NewYork Times reporters, and the founding of the #MeToo movement, which ended decades of silence about sexual assault in Hollywood.</desc>
+  <programme start="20260801020000 +0800" stop="20260801033000 +0800" channel="mbc max">
+    <title lang="en">Flipped</title>
+    <desc lang="en">Juli Baker believes in three things: the holiness of trees,the eggs in her backyard, and that one day she will kiss Bryce Loski. She has been in love with him since the second grade, but he doesn't seem to know that she exists, until the eighth grade, where things begin to change at a time where Juli has started to lose hope.</desc>
     <category lang="en">Movie
-               (2022)</category>
+               (2010)</category>
   </programme>
   <programme start="20260729170500 +0800" stop="20260729193000 +0800" channel="mbc 2">
     <title lang="en">The Judge</title>
@@ -407,5 +401,11 @@
     <desc lang="en">Within the ranks of the Jellicles, a cat tribe, the cats viefor the chance to go to the Heaviside Layer, a place that grants them a chance at rebirth and a whole new life.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260801030000 +0800" stop="20260801043500 +0800" channel="mbc 2">
+    <title lang="en">Second Act</title>
+    <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
