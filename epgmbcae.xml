@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260729133000 +0800" stop="20260729140000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260729140000 +0800" stop="20260729160000 +0800" channel="mbc max">
     <title lang="en">San Andreas</title>
     <desc lang="en">When a massive earthquake hits California and leaves it inruins, a search-and-rescue helicopter pilot embarks on a most perilous journey to find his wife and daughter amidst the ruins.</desc>
@@ -204,17 +198,11 @@
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260729123000 +0800" stop="20260729145500 +0800" channel="mbc 2">
-    <title lang="en">Invictus</title>
-    <desc lang="en">The film tells the story of South African President NelsonMandela and how he joined forces with the captain of the rugby team to unite a country torn from the apartheid era and its laws.</desc>
+  <programme start="20260801000000 +0800" stop="20260801020000 +0800" channel="mbc max">
+    <title lang="en">Sorry to Bother You</title>
+    <desc lang="en">Hilarious Cassius “Cash” Green is a low-level telemarketerwho wonders about his life purpose. He learns that corporate success for a black worker happens by adopting a submissive personality that pleases white people. While his work mates form a union to defend their rights, management promotes successful Cassius to “Power Caller” to sell a virtual slaves’ workforce, which awakens his conscience.</desc>
     <category lang="en">Movie
-               (2009)</category>
-  </programme>
-  <programme start="20260729145500 +0800" stop="20260729150000 +0800" channel="mbc 2">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-    <category lang="en">Program
-               (2012)</category>
+               (2018)</category>
   </programme>
   <programme start="20260729150000 +0800" stop="20260729170500 +0800" channel="mbc 2">
     <title lang="en">She Said</title>
@@ -405,6 +393,18 @@
   <programme start="20260731223000 +0800" stop="20260801003000 +0800" channel="mbc 2">
     <title lang="en">Godzilla: King of the Monsters</title>
     <desc lang="en">Follows the relentless efforts of the crypto-zoologicalagency, as it faces off against a group of enormous monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah , leaving humanity to an unknown fate.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
+  <programme start="20260801003000 +0800" stop="20260801010000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
+  </programme>
+  <programme start="20260801010000 +0800" stop="20260801030000 +0800" channel="mbc 2">
+    <title lang="en">Cats</title>
+    <desc lang="en">Within the ranks of the Jellicles, a cat tribe, the cats viefor the chance to go to the Heaviside Layer, a place that grants them a chance at rebirth and a whole new life.</desc>
     <category lang="en">Movie
                (2019)</category>
   </programme>
