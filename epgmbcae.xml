@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260729160000 +0800" stop="20260729180000 +0800" channel="mbc max">
-    <title lang="en">Everest</title>
-    <desc lang="en">Based on real life events in 1996, about a group of mountainclimbers who have decided to challenge the hardest climate conditions on the globe and climb Everest. The climbing trip turned to be a deadly adventure due to a storm, which changed everything.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260729180000 +0800" stop="20260729200000 +0800" channel="mbc max">
     <title lang="en">Fall</title>
     <desc lang="en">When best friends Becky and Hunter decide to take a trip andclimb a deserted 2,000-foot radio tower, things spiral out of control when they  get stranded on top of the tower and they have to push themselves to the limit in order to make it out alive.</desc>
@@ -204,11 +198,17 @@
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260729170500 +0800" stop="20260729193000 +0800" channel="mbc 2">
-    <title lang="en">The Judge</title>
-    <desc lang="en">When Henry “Hank” Palmer, a lawyer, returns to his hometownto attend his mother's funeral, he discovers that his estranged father, Joseph Palmer, the town's judge, is suspected of murder. Hank must now defend his father in court against a prosecutor determined to have him put away.</desc>
+  <programme start="20260801033000 +0800" stop="20260801050000 +0800" channel="mbc max">
+    <title lang="en">Taken 2</title>
+    <desc lang="en">The past comes back to haunt former CIA operative BryanMills when the father of one of the kidnappers he killed to rescue his daughter Kim comes after him and his family. With Bryan and his ex-wife captured, it's up to Kim to help her father escape his captors and save her mother.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2012)</category>
+  </programme>
+  <programme start="20260801050000 +0800" stop="20260801070000 +0800" channel="mbc max">
+    <title lang="en">The United States vs. Billie Holiday</title>
+    <desc lang="en">A biopic that follows the jazz singer Billie Holiday, as shestruggled with drug abuse and became targeted by the Federal Bureau of Narcotics who launched an undercover sting operation against her.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
   <programme start="20260729193000 +0800" stop="20260729213000 +0800" channel="mbc 2">
     <title lang="en">Roman J Israel, Esq.</title>
@@ -407,5 +407,17 @@
     <desc lang="en">A Costco worker rebuilds her life again- and shows MadisonAvenue what street smarts can do.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260801043500 +0800" stop="20260801050000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
+  </programme>
+  <programme start="20260801050000 +0800" stop="20260801065500 +0800" channel="mbc 2">
+    <title lang="en">Just Go with It</title>
+    <desc lang="en">Plastic surgeon Danny Maccabee fakes being married in orderto enjoy future dates. He fabricates a web of lies with his assistant as she poses as his soon-to-be-ex-wife, but that apparently gets him into more trouble and pushes away his crush.</desc>
+    <category lang="en">Movie
+               (2011)</category>
   </programme>
 </tv>
