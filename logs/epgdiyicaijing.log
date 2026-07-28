@@ -1,4 +1,4 @@
-XML file generated successfully: epgdiyicaijing.xml (Size: 21502 bytes)
+XML file generated successfully: epgdiyicaijing.xml (Size: 32239 bytes)
 XML format validation: PASSED
 PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/runner/work/mk/mk/epgdiyicaijing.php:149) in /home/runner/work/mk/mk/epgdiyicaijing.php on line 172
 
@@ -192,6 +192,102 @@ Warning: Cannot modify header information - headers already sent by (output star
     <desc lang="zh">2026下半年经济展望</desc>
   </programme>
   <programme start="20260729014000 +0800" stop="20260729024200 +0800" channel="第一财经">
+    <title lang="zh">公司与行业(重播)</title>
+    <desc lang="zh">公司与行业(重播)</desc>
+  </programme>
+  <programme start="20260729060000 +0800" stop="20260729063000 +0800" channel="第一财经">
+    <title lang="zh">出海瞭望</title>
+    <desc lang="zh">出海瞭望</desc>
+  </programme>
+  <programme start="20260729063000 +0800" stop="20260729070000 +0800" channel="第一财经">
+    <title lang="zh">投资有看头</title>
+    <desc lang="zh">投资有看头</desc>
+  </programme>
+  <programme start="20260729070000 +0800" stop="20260729080000 +0800" channel="第一财经">
+    <title lang="zh">公司与行业(重播)</title>
+    <desc lang="zh">公司与行业(重播)</desc>
+  </programme>
+  <programme start="20260729080000 +0800" stop="20260729090000 +0800" channel="第一财经">
+    <title lang="zh">今日股市(重播)</title>
+    <desc lang="zh">今日股市(重播)</desc>
+  </programme>
+  <programme start="20260729090000 +0800" stop="20260729120500 +0800" channel="第一财经">
+    <title lang="zh">市场零距离</title>
+    <desc lang="zh">市场零距离</desc>
+  </programme>
+  <programme start="20260729120500 +0800" stop="20260729123000 +0800" channel="第一财经">
+    <title lang="zh">2026经济展望</title>
+    <desc lang="zh">2026经济展望</desc>
+  </programme>
+  <programme start="20260729123000 +0800" stop="20260729130000 +0800" channel="第一财经">
+    <title lang="zh">两说</title>
+    <desc lang="zh">两说</desc>
+  </programme>
+  <programme start="20260729130000 +0800" stop="20260729160500 +0800" channel="第一财经">
+    <title lang="zh">市场零距离</title>
+    <desc lang="zh">市场零距离</desc>
+  </programme>
+  <programme start="20260729160500 +0800" stop="20260729163500 +0800" channel="第一财经">
+    <title lang="zh">投资有看头</title>
+    <desc lang="zh">投资有看头</desc>
+  </programme>
+  <programme start="20260729163500 +0800" stop="20260729170800 +0800" channel="第一财经">
+    <title lang="zh">出海瞭望</title>
+    <desc lang="zh">出海瞭望</desc>
+  </programme>
+  <programme start="20260729170800 +0800" stop="20260729173500 +0800" channel="第一财经">
+    <title lang="zh">创时代</title>
+    <desc lang="zh">创时代</desc>
+  </programme>
+  <programme start="20260729173500 +0800" stop="20260729180000 +0800" channel="第一财经">
+    <title lang="zh">2026经济展望</title>
+    <desc lang="zh">2026经济展望</desc>
+  </programme>
+  <programme start="20260729180000 +0800" stop="20260729190000 +0800" channel="第一财经">
+    <title lang="zh">今日股市</title>
+    <desc lang="zh">今日股市</desc>
+  </programme>
+  <programme start="20260729190000 +0800" stop="20260729200000 +0800" channel="第一财经">
+    <title lang="zh">公司与行业</title>
+    <desc lang="zh">公司与行业</desc>
+  </programme>
+  <programme start="20260729200000 +0800" stop="20260729210000 +0800" channel="第一财经">
+    <title lang="zh">谈股论金</title>
+    <desc lang="zh">谈股论金</desc>
+  </programme>
+  <programme start="20260729210000 +0800" stop="20260729214100 +0800" channel="第一财经">
+    <title lang="zh">财经夜行线</title>
+    <desc lang="zh">财经夜行线</desc>
+  </programme>
+  <programme start="20260729214100 +0800" stop="20260729220300 +0800" channel="第一财经">
+    <title lang="zh">2026下半年经济展望</title>
+    <desc lang="zh">2026下半年经济展望</desc>
+  </programme>
+  <programme start="20260729220300 +0800" stop="20260729223000 +0800" channel="第一财经">
+    <title lang="zh">两说</title>
+    <desc lang="zh">两说</desc>
+  </programme>
+  <programme start="20260729223000 +0800" stop="20260729233000 +0800" channel="第一财经">
+    <title lang="zh">今日股市(重播)</title>
+    <desc lang="zh">今日股市(重播)</desc>
+  </programme>
+  <programme start="20260729233000 +0800" stop="20260730000000 +0800" channel="第一财经">
+    <title lang="zh">投资有看头</title>
+    <desc lang="zh">投资有看头</desc>
+  </programme>
+  <programme start="20260730000000 +0800" stop="20260730004000 +0800" channel="第一财经">
+    <title lang="zh">财经夜行线(重播)</title>
+    <desc lang="zh">财经夜行线(重播)</desc>
+  </programme>
+  <programme start="20260730004000 +0800" stop="20260730011500 +0800" channel="第一财经">
+    <title lang="zh">出海瞭望</title>
+    <desc lang="zh">出海瞭望</desc>
+  </programme>
+  <programme start="20260730011500 +0800" stop="20260730014000 +0800" channel="第一财经">
+    <title lang="zh">2026下半年经济展望</title>
+    <desc lang="zh">2026下半年经济展望</desc>
+  </programme>
+  <programme start="20260730014000 +0800" stop="20260730023900 +0800" channel="第一财经">
     <title lang="zh">公司与行业(重播)</title>
     <desc lang="zh">公司与行业(重播)</desc>
   </programme>
@@ -440,6 +536,130 @@ Warning: Cannot modify header information - headers already sent by (output star
     <desc lang="zh">纪录片</desc>
   </programme>
   <programme start="20260729013000 +0800" stop="20260729020000 +0800" channel="东方财经">
+    <title lang="zh">创时代</title>
+    <desc lang="zh">创时代</desc>
+  </programme>
+  <programme start="20260729060000 +0800" stop="20260729070000 +0800" channel="东方财经">
+    <title lang="zh">今日股市</title>
+    <desc lang="zh">今日股市</desc>
+  </programme>
+  <programme start="20260729070000 +0800" stop="20260729080000 +0800" channel="东方财经">
+    <title lang="zh">创赢未来</title>
+    <desc lang="zh">创赢未来</desc>
+  </programme>
+  <programme start="20260729080000 +0800" stop="20260729083000 +0800" channel="东方财经">
+    <title lang="zh">文化访谈录</title>
+    <desc lang="zh">文化访谈录</desc>
+  </programme>
+  <programme start="20260729083000 +0800" stop="20260729090000 +0800" channel="东方财经">
+    <title lang="zh">创时代</title>
+    <desc lang="zh">创时代</desc>
+  </programme>
+  <programme start="20260729090000 +0800" stop="20260729120000 +0800" channel="东方财经">
+    <title lang="zh">市场零距离</title>
+    <desc lang="zh">市场零距离</desc>
+  </programme>
+  <programme start="20260729120000 +0800" stop="20260729123000 +0800" channel="东方财经">
+    <title lang="zh">直击引领区</title>
+    <desc lang="zh">直击引领区</desc>
+  </programme>
+  <programme start="20260729123000 +0800" stop="20260729124500 +0800" channel="东方财经">
+    <title lang="zh">632观察</title>
+    <desc lang="zh">632观察</desc>
+  </programme>
+  <programme start="20260729124500 +0800" stop="20260729130000 +0800" channel="东方财经">
+    <title lang="zh">科创先行者</title>
+    <desc lang="zh">科创先行者</desc>
+  </programme>
+  <programme start="20260729130000 +0800" stop="20260729150000 +0800" channel="东方财经">
+    <title lang="zh">市场零距离</title>
+    <desc lang="zh">市场零距离</desc>
+  </programme>
+  <programme start="20260729150000 +0800" stop="20260729151000 +0800" channel="东方财经">
+    <title lang="zh">直击引领区</title>
+    <desc lang="zh">直击引领区</desc>
+  </programme>
+  <programme start="20260729151000 +0800" stop="20260729170000 +0800" channel="东方财经">
+    <title lang="zh">纪录片</title>
+    <desc lang="zh">纪录片</desc>
+  </programme>
+  <programme start="20260729170000 +0800" stop="20260729173000 +0800" channel="东方财经">
+    <title lang="zh">直击引领区</title>
+    <desc lang="zh">直击引领区</desc>
+  </programme>
+  <programme start="20260729173000 +0800" stop="20260729180000 +0800" channel="东方财经">
+    <title lang="zh">创时代</title>
+    <desc lang="zh">创时代</desc>
+  </programme>
+  <programme start="20260729180000 +0800" stop="20260729183000 +0800" channel="东方财经">
+    <title lang="zh">对话引领区</title>
+    <desc lang="zh">对话引领区</desc>
+  </programme>
+  <programme start="20260729183000 +0800" stop="20260729190000 +0800" channel="东方财经">
+    <title lang="zh">几何书房</title>
+    <desc lang="zh">几何书房</desc>
+  </programme>
+  <programme start="20260729190000 +0800" stop="20260729191500 +0800" channel="东方财经">
+    <title lang="zh">新闻制高点</title>
+    <desc lang="zh">新闻制高点</desc>
+  </programme>
+  <programme start="20260729191500 +0800" stop="20260729193000 +0800" channel="东方财经">
+    <title lang="zh">632观察</title>
+    <desc lang="zh">632观察</desc>
+  </programme>
+  <programme start="20260729193000 +0800" stop="20260729194500 +0800" channel="东方财经">
+    <title lang="zh">科创先行者</title>
+    <desc lang="zh">科创先行者</desc>
+  </programme>
+  <programme start="20260729194500 +0800" stop="20260729200000 +0800" channel="东方财经">
+    <title lang="zh">直击引领区</title>
+    <desc lang="zh">直击引领区</desc>
+  </programme>
+  <programme start="20260729200000 +0800" stop="20260729203000 +0800" channel="东方财经">
+    <title lang="zh">文化访谈录</title>
+    <desc lang="zh">文化访谈录</desc>
+  </programme>
+  <programme start="20260729203000 +0800" stop="20260729210000 +0800" channel="东方财经">
+    <title lang="zh">创时代</title>
+    <desc lang="zh">创时代</desc>
+  </programme>
+  <programme start="20260729210000 +0800" stop="20260729214000 +0800" channel="东方财经">
+    <title lang="zh">财经夜行线</title>
+    <desc lang="zh">财经夜行线</desc>
+  </programme>
+  <programme start="20260729214000 +0800" stop="20260729220000 +0800" channel="东方财经">
+    <title lang="zh">首席评论</title>
+    <desc lang="zh">首席评论</desc>
+  </programme>
+  <programme start="20260729220000 +0800" stop="20260729221500 +0800" channel="东方财经">
+    <title lang="zh">新闻制高点</title>
+    <desc lang="zh">新闻制高点</desc>
+  </programme>
+  <programme start="20260729221500 +0800" stop="20260729223000 +0800" channel="东方财经">
+    <title lang="zh">632观察</title>
+    <desc lang="zh">632观察</desc>
+  </programme>
+  <programme start="20260729223000 +0800" stop="20260729224500 +0800" channel="东方财经">
+    <title lang="zh">科创先行者</title>
+    <desc lang="zh">科创先行者</desc>
+  </programme>
+  <programme start="20260729224500 +0800" stop="20260729230000 +0800" channel="东方财经">
+    <title lang="zh">文化访谈录</title>
+    <desc lang="zh">文化访谈录</desc>
+  </programme>
+  <programme start="20260729230000 +0800" stop="20260729233000 +0800" channel="东方财经">
+    <title lang="zh">直击引领区</title>
+    <desc lang="zh">直击引领区</desc>
+  </programme>
+  <programme start="20260729233000 +0800" stop="20260730000000 +0800" channel="东方财经">
+    <title lang="zh">对话引领区</title>
+    <desc lang="zh">对话引领区</desc>
+  </programme>
+  <programme start="20260730000000 +0800" stop="20260730013000 +0800" channel="东方财经">
+    <title lang="zh">纪录片</title>
+    <desc lang="zh">纪录片</desc>
+  </programme>
+  <programme start="20260730013000 +0800" stop="20260730020000 +0800" channel="东方财经">
     <title lang="zh">创时代</title>
     <desc lang="zh">创时代</desc>
   </programme>
