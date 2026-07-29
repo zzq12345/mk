@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260729012500 +0800" stop="20260729030000 +0800" channel="mbc max">
-    <title lang="en">Nutty Professor II: The Klumps</title>
-    <desc lang="en">Scientist Sherman Klump finds his life threatened by hisalter ego Buddy Love, who wants to steal his new youth formula and disrupt his marriage plans.</desc>
-    <category lang="en">Movie
-               (2000)</category>
-  </programme>
-  <programme start="20260729030000 +0800" stop="20260729045500 +0800" channel="mbc max">
-    <title lang="en">San Andreas</title>
-    <desc lang="en">When a massive earthquake hits California and leaves it inruins, a search-and-rescue helicopter pilot embarks on a most perilous journey to find his wife and daughter amidst the ruins.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
-  <programme start="20260729045500 +0800" stop="20260729052500 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program
-               (1998)</category>
-  </programme>
   <programme start="20260729052500 +0800" stop="20260729070000 +0800" channel="mbc max">
     <title lang="en">Sully</title>
     <desc lang="en">Based on a true story that took place on January 15, 2009,when the American pilot Chesley 'Sully' Sullenberger managed to land his damaged plane above the Hudson River and save the lives of 155 passengers on the plane.</desc>
@@ -204,17 +186,11 @@
     <category lang="en">Movie
                (1998)</category>
   </programme>
-  <programme start="20260729011000 +0800" stop="20260729030000 +0800" channel="mbc 2">
-    <title lang="en">RED 2</title>
-    <desc lang="en">Retired CIA agent Frank (Bruce Willis)  reunites his team.They're trying to track down a missing portable nuclear device. The team have to overcome an army of professional killers: terrorists, corrupt government officials, who are also after the weapon.</desc>
+  <programme start="20260731133000 +0800" stop="20260731160000 +0800" channel="mbc max">
+    <title lang="en">Gladiator</title>
+    <desc lang="en">During the time of the Roman empire, Emperor Marcus Aureliusdecides that his heir will be General Maximus. However, his son, Commodus, murders him before he has a chance to act on his decision, and he becomes the Emperor after his father. Commodus then decides that Maximus must be killed, who in a turn of events, becomes a gladiator and a hero in people's eyes.</desc>
     <category lang="en">Movie
-               (2013)</category>
-  </programme>
-  <programme start="20260729030000 +0800" stop="20260729053500 +0800" channel="mbc 2">
-    <title lang="en">The Judge</title>
-    <desc lang="en">When Henry “Hank” Palmer, a lawyer, returns to his hometownto attend his mother's funeral, he discovers that his estranged father, Joseph Palmer, the town's judge, is suspected of murder. Hank must now defend his father in court against a prosecutor determined to have him put away.</desc>
-    <category lang="en">Movie
-               (2014)</category>
+               (2000)</category>
   </programme>
   <programme start="20260729053500 +0800" stop="20260729060000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -413,5 +389,23 @@
     <desc lang="en">When an American war correspondent arrives in post-warBerlin to report on a conference, he is drawn into a murder investigation and an attempt to help his former sweetheart escape Germany which uncovers a larger government conspiracy.</desc>
     <category lang="en">Movie
                (2006)</category>
+  </programme>
+  <programme start="20260731123000 +0800" stop="20260731143000 +0800" channel="mbc 2">
+    <title lang="en">Flags of Our Fathers</title>
+    <desc lang="en">In the midst of World War II battles between Japan and theUnited States, when the troops opened fire at the battle of Iwjima, the life stories of six soldiers who raised the American flag on the shore is highlighted.</desc>
+    <category lang="en">Movie
+               (2006)</category>
+  </programme>
+  <programme start="20260731143000 +0800" stop="20260731150000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260731150000 +0800" stop="20260731170000 +0800" channel="mbc 2">
+    <title lang="en">Dunkirk</title>
+    <desc lang="en">After a fierce struggle with German forces in the town ofDunkirk, soldiers from the British Empire, Belgium, and France attempt to flee the area during World War II.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
