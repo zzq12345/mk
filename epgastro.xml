@@ -367,6 +367,9 @@
 <channel id="Astro_Sports_Plus">
   <display-name lang="zh">Astro Sports Plus</display-name>
 </channel>
+<channel id="Astro_Sports_Plus_2">
+  <display-name lang="zh">Astro Sports Plus 2</display-name>
+</channel>
 <channel id="Astro_Tennis">
   <display-name lang="zh">Astro Tennis</display-name>
 </channel>
@@ -6445,7 +6448,7 @@
   <title lang="zh">Priya</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260729193000 +0800" stop="20260729223000 +0800" channel="KTV">
+<programme start="20260729193000 +0800" stop="20260729223600 +0800" channel="KTV">
   <title lang="zh">Jaihind</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -27133,12 +27136,8 @@
   <title lang="zh">Match Day Highlights Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260729180000 +0800" stop="20260729210000 +0800" channel="Sukan_">
+<programme start="20260729180000 +0800" stop="20260729213000 +0800" channel="Sukan_">
   <title lang="zh">Live : Laporan Harian Sukan Komanwel Glasgow 2026</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260729210000 +0800" stop="20260729213000 +0800" channel="Sukan_">
-  <title lang="zh">House of Champions Ep06</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260729213000 +0800" stop="20260729223000 +0800" channel="Sukan_">
@@ -27963,6 +27962,18 @@
 </programme>
 <programme start="20260730191500 +0800" stop="20260730215000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">(L) VNL Men&apos;s: QFs: POL vs UKR</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260729060000 +0800" stop="20260729120000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">World Snooker Tour 2026/27</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260729120000 +0800" stop="20260729180000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">World Snooker Tour 2026/27</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260730000000 +0800" stop="20260730060000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">World Snooker Tour 2026/27</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260729060000 +0800" stop="20260729091500 +0800" channel="Astro_Tennis">
