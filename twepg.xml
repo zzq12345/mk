@@ -1797,10 +1797,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260807053000 +0800" stop="20260807073000 +0800" channel="mbc max">
-    <title lang="en">Adrift</title>
-    <desc lang="en">The true story of, Tami Oldham and Richard Sharp, whosailed across the ocean, but didn't anticipate that they would be sailing directly into one of the most catastrophic hurricanes in recorded history and must stand against all difficulties throughout their journey.</desc>
-  </programme>
   <programme start="20260807073000 +0800" stop="20260807090000 +0800" channel="mbc max">
     <title lang="en">Gravity</title>
     <desc lang="en">A brilliant medical engineer (Sandra Bullock) is on herfirst shuttle mission with veteran astronaut (George Clooney) when disaster strikes, leaving both of them drifting alone in the terrifying expanse of outer space.</desc>
@@ -1905,9 +1901,9 @@
     <title lang="en">The Great Wall</title>
     <desc lang="en">Set during the era in which the Sung ancestry ruled theChinese territory where many mysteries unfold regarding the construction of the Great Wall.</desc>
   </programme>
-  <programme start="20260807053000 +0800" stop="20260807073000 +0800" channel="mbc 2">
-    <title lang="en">The Meg</title>
-    <desc lang="en">Five years after escaping an attack by what he claims was a70-foot shark, Jonas Taylor, an expert diver and naval captain, must confront his fears to save those trapped in a sunken submersible.</desc>
+  <programme start="20260809160000 +0800" stop="20260809183000 +0800" channel="mbc max">
+    <title lang="en">The Last Samurai</title>
+    <desc lang="en">Cynical veteran Nathan Algren is hired to train a Japanesearmy to use firearms against the traditionalist Samurai. After being taken hostage by the Samurai after a bloody confrontation, he grows to respect their culture and joins their ranks.</desc>
   </programme>
   <programme start="20260807073000 +0800" stop="20260807090000 +0800" channel="mbc 2">
     <title lang="en">Poseidon</title>
@@ -2021,9 +2017,9 @@
     <title lang="en">Looper</title>
     <desc lang="en">In the future when the mob wants to get rid of someone, theyuse time travel to send them back a few decades, where "looper" Joe (Joseph Gordon-Levitt) is waiting to kill them off. Joe excels at his job, but one day he must face off against his future self (Bruce Willis) when the mob decides to "close the loop."</desc>
   </programme>
-  <programme start="20260807053000 +0800" stop="20260807063500 +0800" channel="mbc action">
-    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
-    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
+  <programme start="20260809170000 +0800" stop="20260809190000 +0800" channel="mbc 2">
+    <title lang="en">The Domestics</title>
+    <desc lang="en">In the wake of an apocalyptic event, a married couplestruggles to survive the violent new normal of their world as murderous gangs take control of the streets, forcing the couple into a battle for survival as they desperately search for safety.</desc>
   </programme>
   <programme start="20260807063500 +0800" stop="20260807090000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
@@ -2248,6 +2244,14 @@
   <programme start="20260809150000 +0800" stop="20260809153000 +0800" channel="mbc action">
     <title lang="en">Kinnikuman: Perfect Origin Arc</title>
     <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
+  </programme>
+  <programme start="20260809153000 +0800" stop="20260809170000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
+  <programme start="20260809170000 +0800" stop="20260809180000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast </title>
+    <desc lang=""/>
   </programme>
   <programme start="20260803060000 +0800" stop="20260803063000 +0800" channel="第一財經">
     <title lang="zh">兩說</title>
@@ -19209,8 +19213,16 @@
     <title lang="zh">2026 LET: Hulencourt Women's Open</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260809093000 +0800" stop="20260809120000 +0800" channel="SPOTV  ">
+    <title lang="zh">World Supercross 2026: Rd 1 Canadian GP</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260809093000 +0800" stop="20260809123000 +0800" channel="SPOTV  ">
     <title lang="zh">2026 U.S. Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260809120000 +0800" stop="20260809123000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 14 Tokyo E-Prix</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260809123000 +0800" stop="20260809170000 +0800" channel="SPOTV  ">
@@ -19229,7 +19241,139 @@
     <title lang="zh">2026 LET: PIF London Championship</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260810000000 +0800" stop="20260810040000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LIV Golf League, New York</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810040000 +0800" stop="20260810043000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 15 Tokyo E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810043000 +0800" stop="20260810090000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 FIM ARRC Round 4: Mandalika, Indonesia</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810090000 +0800" stop="20260810120000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810120000 +0800" stop="20260810150000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810150000 +0800" stop="20260810180000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810180000 +0800" stop="20260810190000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 World Surf League Replay</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810190000 +0800" stop="20260811000000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LIV Golf League, New York</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811000000 +0800" stop="20260811010000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Supercars: Bosch Power Tools Perth Super 440</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811010000 +0800" stop="20260811020000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Supercars: Bosch Power Tools Perth Super 440</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811020000 +0800" stop="20260811060000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LET: PIF London Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811060000 +0800" stop="20260811103000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 FIM ARRC Round 4: Mandalika, Indonesia</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811103000 +0800" stop="20260811133000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811133000 +0800" stop="20260811163000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811163000 +0800" stop="20260811210000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 FIM ARRC Round 4: Mandalika, Indonesia</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811210000 +0800" stop="20260812020000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LIV Golf League, New York</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812020000 +0800" stop="20260812060000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LET: PIF London Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812060000 +0800" stop="20260812093000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 WTCS, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812093000 +0800" stop="20260812103000 +0800" channel="SPOTV  ">
+    <title lang="zh">World Supercross 2026: Rd 1 Canadian GP</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812103000 +0800" stop="20260812133000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812133000 +0800" stop="20260812163000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Women's Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812163000 +0800" stop="20260812210000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 FIM ARRC Round 4: Mandalika, Indonesia</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812210000 +0800" stop="20260813020000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LIV Golf League, New York</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813020000 +0800" stop="20260813030000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 WSL Inside Pro Surfing</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813030000 +0800" stop="20260813060000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813060000 +0800" stop="20260813080000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Girls' Junior Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813080000 +0800" stop="20260813090000 +0800" channel="SPOTV  ">
+    <title lang="zh">E1 World Championship 2026 HLs</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813090000 +0800" stop="20260813130000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LET: PIF London Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813130000 +0800" stop="20260813133000 +0800" channel="SPOTV  ">
+    <title lang="zh">World Supercross 2026: Rd 1 Canadian GP</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813133000 +0800" stop="20260813160000 +0800" channel="SPOTV  ">
+    <title lang="zh">World Supercross 2026: Rd 1 Canadian GP</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813160000 +0800" stop="20260813210000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LIV Golf League, New York</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813210000 +0800" stop="20260813213000 +0800" channel="SPOTV  ">
+    <title lang="zh">ISPS HANDA Senior Open 2026</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260807000000 +0800" stop="20260807020000 +0800" channel="SPOTV   2">
+    <title lang="zh">SailGP S6: Emirates Great Britain Sail Grand Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260807001000 +0800" stop="20260807020000 +0800" channel="SPOTV   2">
     <title lang="zh">SailGP S6: Emirates Great Britain Sail Grand Prix</title>
     <desc lang="zh"/>
   </programme>
@@ -19273,8 +19417,16 @@
     <title lang="zh">2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260807194500 +0800" stop="20260807202700 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Moto4 British Cup Rd 4 Brands Hatch</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260807194500 +0800" stop="20260807211000 +0800" channel="SPOTV   2">
     <title lang="zh">Faultless</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260807202700 +0800" stop="20260807211000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Moto4 British Cup Rd 4 Brands Hatch</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260807211000 +0800" stop="20260808001000 +0800" channel="SPOTV   2">
@@ -19318,7 +19470,7 @@
     <desc lang="zh"/>
   </programme>
   <programme start="20260808153000 +0800" stop="20260808163500 +0800" channel="SPOTV   2">
-    <title lang="zh">Unbridled: The Spruce Meadows Story</title>
+    <title lang="zh">2026 Rolex Series of Show Jumping, Dinard</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260808163500 +0800" stop="20260808184500 +0800" channel="SPOTV   2">
@@ -19407,6 +19559,194 @@
   </programme>
   <programme start="20260810003000 +0800" stop="20260810013500 +0800" channel="SPOTV   2">
     <title lang="zh">Unbridled: The Spruce Meadows Story</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810013500 +0800" stop="20260810043000 +0800" channel="SPOTV   2">
+    <title lang="zh">10/8 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810043000 +0800" stop="20260810053000 +0800" channel="SPOTV   2">
+    <title lang="zh">SailGP S6: Emirates Great Britain Sail Grand Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810053000 +0800" stop="20260810070500 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810070500 +0800" stop="20260810083000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810083000 +0800" stop="20260810094000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810094000 +0800" stop="20260810103000 +0800" channel="SPOTV   2">
+    <title lang="zh">Faultless</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810103000 +0800" stop="20260810113000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 R&amp;G Moto4 British Cup: Rd 5 Silverstone</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810113000 +0800" stop="20260810123000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 R&amp;G Moto4 British Cup: Rd 5 Silverstone</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810123000 +0800" stop="20260810133000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810133000 +0800" stop="20260810180000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810180000 +0800" stop="20260810210000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260810210000 +0800" stop="20260811000000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Longines Global Champions Tour, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811000000 +0800" stop="20260811030000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811030000 +0800" stop="20260811033000 +0800" channel="SPOTV   2">
+    <title lang="zh">WPBL S2, Mumbai Highlights</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811033000 +0800" stop="20260811043000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 R&amp;G Moto4 British Cup: Rd 5 Silverstone</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811043000 +0800" stop="20260811053000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 R&amp;G Moto4 British Cup: Rd 5 Silverstone</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811053000 +0800" stop="20260811070000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811070000 +0800" stop="20260811083000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811083000 +0800" stop="20260811100000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811100000 +0800" stop="20260811124500 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Champions Yokohama 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811124500 +0800" stop="20260811160000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811160000 +0800" stop="20260811170000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Rolex Series of Show Jumping, Dinard</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811170000 +0800" stop="20260811180000 +0800" channel="SPOTV   2">
+    <title lang="zh">Faultless</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811180000 +0800" stop="20260811210000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811210000 +0800" stop="20260811213000 +0800" channel="SPOTV   2">
+    <title lang="zh">52 SUPER SERIES GP Sailing show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260811213000 +0800" stop="20260812000000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Longines Global Champions Tour, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812000000 +0800" stop="20260812030000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812030000 +0800" stop="20260812053000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812053000 +0800" stop="20260812070500 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812070500 +0800" stop="20260812083000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812083000 +0800" stop="20260812100000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812100000 +0800" stop="20260812131500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812131500 +0800" stop="20260812163000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 MotoGP Rd 12 Qatar Airways Grand Prix of Great Britain</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812163000 +0800" stop="20260812170000 +0800" channel="SPOTV   2">
+    <title lang="zh">SailGP: Racing on the Edge S6</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812170000 +0800" stop="20260812180000 +0800" channel="SPOTV   2">
+    <title lang="zh">Faultless</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812180000 +0800" stop="20260812213000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260812213000 +0800" stop="20260813000000 +0800" channel="SPOTV   2">
+    <title lang="zh">10/8 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813000000 +0800" stop="20260813033000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813033000 +0800" stop="20260813071500 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Champions Yokohama 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813071500 +0800" stop="20260813085500 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813085500 +0800" stop="20260813094000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Moto4 British Cup Rd 4 Brands Hatch</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813094000 +0800" stop="20260813101000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Global Champions League, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813101000 +0800" stop="20260813131500 +0800" channel="SPOTV   2">
+    <title lang="zh">13/8 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813131500 +0800" stop="20260813141500 +0800" channel="SPOTV   2">
+    <title lang="zh">Faultless</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813141500 +0800" stop="20260813180000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813180000 +0800" stop="20260813213000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260813213000 +0800" stop="20260814000000 +0800" channel="SPOTV   2">
+    <title lang="zh">6/8 2026 MLB Regular Season</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260807000000 +0800" stop="20260807020000 +0800" channel="球王臺">
@@ -84457,54 +84797,6 @@
     <title lang="zh">電視劇場</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260807134300 +0800" stop="20260807140300 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(16)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807140300 +0800" stop="20260807141400 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(17)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807141400 +0800" stop="20260807142900 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(18)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807142900 +0800" stop="20260807144000 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(19)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807144000 +0800" stop="20260807145200 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(20)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807145200 +0800" stop="20260807145400 +0800" channel="深圳少兒">
-    <title lang="zh">短視頻:二十四節氣-2026立秋</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807145400 +0800" stop="20260807150000 +0800" channel="深圳少兒">
-    <title lang="zh">深小健親子研學</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807150000 +0800" stop="20260807151100 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(21)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807151100 +0800" stop="20260807152400 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(22)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807152400 +0800" stop="20260807152700 +0800" channel="深圳少兒">
-    <title lang="zh">短視頻:二十四節氣-2026立秋</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807152700 +0800" stop="20260807153800 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(23)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807153800 +0800" stop="20260807155300 +0800" channel="深圳少兒">
-    <title lang="zh">心奇爆龍戰車-超鬥爆龍(24)</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260807155300 +0800" stop="20260807160400 +0800" channel="深圳少兒">
     <title lang="zh">心奇爆龍戰車-超鬥爆龍(25)</title>
     <desc lang=""/>
@@ -93641,22 +93933,6 @@
     <title lang="zh">電視劇:《生活像陽光一樣燦爛》</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260807131500 +0800" stop="20260807140500 +0800" channel="睛彩廣場舞">
-    <title lang="zh">摜牌精英賽</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807140500 +0800" stop="20260807141500 +0800" channel="睛彩廣場舞">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807141500 +0800" stop="20260807155500 +0800" channel="睛彩廣場舞">
-    <title lang="zh">全景世界盃:2026美加墨世界盃</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807155500 +0800" stop="20260807160000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260807160000 +0800" stop="20260807170000 +0800" channel="睛彩廣場舞">
     <title lang="zh">瑜悅身心</title>
     <desc lang=""/>
@@ -93985,14 +94261,6 @@
     <title lang="zh">頻道宣傳</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260807133000 +0800" stop="20260807154500 +0800" channel="睛彩競技">
-    <title lang="zh">全景世界盃:美加墨世界盃1/4決賽</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807154500 +0800" stop="20260807155000 +0800" channel="睛彩競技">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260807155000 +0800" stop="20260807171500 +0800" channel="睛彩競技">
     <title lang="zh">網球世界:WTA250雅典站女單第2輪</title>
     <desc lang=""/>
@@ -94175,22 +94443,6 @@
   </programme>
   <programme start="20260809233000 +0800" stop="20260810002500 +0800" channel="睛彩競技">
     <title lang="zh">曼聯92班Ⅰ(2)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807135000 +0800" stop="20260807144000 +0800" channel="睛彩籃球">
-    <title lang="zh">最後之舞(2)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807144000 +0800" stop="20260807144500 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807144500 +0800" stop="20260807154500 +0800" channel="睛彩籃球">
-    <title lang="zh">超級三對三:2026超三聯賽</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807154500 +0800" stop="20260807155000 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
     <desc lang=""/>
   </programme>
   <programme start="20260807155000 +0800" stop="20260807165000 +0800" channel="睛彩籃球">
@@ -94590,14 +94842,6 @@
     <desc lang=""/>
   </programme>
   <programme start="20260809235000 +0800" stop="20260810000500 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807134000 +0800" stop="20260807152000 +0800" channel="睛彩青少">
-    <title lang="zh">乙戰到底:2026賽季中乙第15輪</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807152000 +0800" stop="20260807153000 +0800" channel="睛彩青少">
     <title lang="zh">頻道宣傳</title>
     <desc lang=""/>
   </programme>
@@ -104430,7 +104674,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808113000 +0800" stop="20260808120000 +0800" channel="SUN_TV_HD">
-    <title lang="zh">Kitchen Galatta Ep65</title>
+    <title lang="zh">Kitchen Galatta Ep71</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808120000 +0800" stop="20260808123000 +0800" channel="SUN_TV_HD">
@@ -104462,7 +104706,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808153000 +0800" stop="20260808180000 +0800" channel="SUN_TV_HD">
-    <title lang="zh">Movie</title>
+    <title lang="zh">Devarattam</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808180000 +0800" stop="20260808183000 +0800" channel="SUN_TV_HD">
@@ -110613,11 +110857,11 @@
     <title lang="zh">Good Partner Ep16</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808022500 +0800" stop="20260808034000 +0800" channel="K-Plus_HD">
+  <programme start="20260808022500 +0800" stop="20260808033700 +0800" channel="K-Plus_HD">
     <title lang="zh">The Defects Ep04</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808034000 +0800" stop="20260808045500 +0800" channel="K-Plus_HD">
+  <programme start="20260808033700 +0800" stop="20260808045500 +0800" channel="K-Plus_HD">
     <title lang="zh">Show Champion Ep604</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110649,11 +110893,11 @@
     <title lang="zh">Strong Woman Do Bong Soon Ep08</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808141000 +0800" stop="20260808152500 +0800" channel="K-Plus_HD">
+  <programme start="20260808141000 +0800" stop="20260808152800 +0800" channel="K-Plus_HD">
     <title lang="zh">Show Champion Ep604</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808152500 +0800" stop="20260808162500 +0800" channel="K-Plus_HD">
+  <programme start="20260808152800 +0800" stop="20260808162500 +0800" channel="K-Plus_HD">
     <title lang="zh">Weekly Idol Ep704</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -125253,11 +125497,11 @@
     <title lang="zh">Nadi Meledak</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807170000 +0800" stop="20260807184500 +0800" channel="Astro_Arena">
+  <programme start="20260807170000 +0800" stop="20260807185000 +0800" channel="Astro_Arena">
     <title lang="zh">(L) MotoGP 2026 Rnd 12: Moto 3 &amp; 2</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807184500 +0800" stop="20260807190000 +0800" channel="Astro_Arena">
+  <programme start="20260807185000 +0800" stop="20260807190000 +0800" channel="Astro_Arena">
     <title lang="zh">Kisah Di Sebalik Harimau: Masa Depan</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -134106,7 +134350,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808084500 +0700" stop="20260808090000 +0700" channel="BTV">
-    <title lang="zh">Masak Ala Devina Hermawan</title>
+    <title lang="zh">Galeri Rasa</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808090000 +0700" stop="20260808090500 +0700" channel="BTV">
@@ -134114,7 +134358,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808090500 +0700" stop="20260808093000 +0700" channel="BTV">
-    <title lang="zh">Masak Ala Devina Hermawan</title>
+    <title lang="zh">Galeri Rasa</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808093000 +0700" stop="20260808100000 +0700" channel="BTV">
@@ -142489,11 +142733,11 @@
     <title lang="zh">Sirkuit Nasional A (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807200000 +0700" stop="20260807204500 +0700" channel="iNews">
+  <programme start="20260807200000 +0700" stop="20260807203000 +0700" channel="iNews">
     <title lang="zh">Breaking Goals (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807204500 +0700" stop="20260807220000 +0700" channel="iNews">
+  <programme start="20260807203000 +0700" stop="20260807220000 +0700" channel="iNews">
     <title lang="zh">iNews Prime (L)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -142509,15 +142753,11 @@
     <title lang="zh">iNews Sport</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808003000 +0700" stop="20260808010000 +0700" channel="iNews">
-    <title lang="zh">Breaking News</title>
+  <programme start="20260808003000 +0700" stop="20260808020000 +0700" channel="iNews">
+    <title lang="zh">Hyundai Cup 2026: VIE Vs CAM</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808010000 +0700" stop="20260808014500 +0700" channel="iNews">
-    <title lang="zh">iNews Sore</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260808014500 +0700" stop="20260808023000 +0700" channel="iNews">
+  <programme start="20260808020000 +0700" stop="20260808023000 +0700" channel="iNews">
     <title lang="zh">iNews Malam</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -142574,7 +142814,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808160500 +0700" stop="20260808170000 +0700" channel="iNews">
-    <title lang="zh">Realita (L) 16:05</title>
+    <title lang="zh">Realita (L)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808170000 +0700" stop="20260808190000 +0700" channel="iNews">
@@ -142681,11 +142921,11 @@
     <title lang="zh">Sirkuit Nasional A (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807200000 +0700" stop="20260807204500 +0700" channel="iNews HD">
+  <programme start="20260807200000 +0700" stop="20260807203000 +0700" channel="iNews HD">
     <title lang="zh">Breaking Goals (L)</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807204500 +0700" stop="20260807220000 +0700" channel="iNews HD">
+  <programme start="20260807203000 +0700" stop="20260807220000 +0700" channel="iNews HD">
     <title lang="zh">iNews Prime (L)</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -142701,15 +142941,11 @@
     <title lang="zh">iNews Sport</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808003000 +0700" stop="20260808010000 +0700" channel="iNews HD">
-    <title lang="zh">Breaking News</title>
+  <programme start="20260808003000 +0700" stop="20260808020000 +0700" channel="iNews HD">
+    <title lang="zh">Hyundai Cup 2026: VIE Vs CAM</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808010000 +0700" stop="20260808014500 +0700" channel="iNews HD">
-    <title lang="zh">iNews Sore</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260808014500 +0700" stop="20260808023000 +0700" channel="iNews HD">
+  <programme start="20260808020000 +0700" stop="20260808023000 +0700" channel="iNews HD">
     <title lang="zh">iNews Malam</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -142766,7 +143002,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808160500 +0700" stop="20260808170000 +0700" channel="iNews HD">
-    <title lang="zh">Realita (L) 16:05</title>
+    <title lang="zh">Realita (L)</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808170000 +0700" stop="20260808190000 +0700" channel="iNews HD">
@@ -144789,19 +145025,19 @@
     <title lang="zh">SensasiHot</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808100000 +0700" stop="20260808105000 +0700" channel="MDTV">
+  <programme start="20260808100000 +0700" stop="20260808105500 +0700" channel="MDTV">
     <title lang="zh">Main Drama Casting</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808105000 +0700" stop="20260808115500 +0700" channel="MDTV">
+  <programme start="20260808105500 +0700" stop="20260808120000 +0700" channel="MDTV">
     <title lang="zh">SUCI</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808115500 +0700" stop="20260808125500 +0700" channel="MDTV">
+  <programme start="20260808120000 +0700" stop="20260808130000 +0700" channel="MDTV">
     <title lang="zh">Resep Chef Devina</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808125500 +0700" stop="20260808143000 +0700" channel="MDTV">
+  <programme start="20260808130000 +0700" stop="20260808143000 +0700" channel="MDTV">
     <title lang="zh">Makan Enak Lagiii</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -144817,19 +145053,19 @@
     <title lang="zh">Adit Sopo Jarwo</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808173000 +0700" stop="20260808201000 +0700" channel="MDTV">
+  <programme start="20260808173000 +0700" stop="20260808201500 +0700" channel="MDTV">
     <title lang="zh">Friendly Match: Calcio Italiano</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808201000 +0700" stop="20260808213000 +0700" channel="MDTV">
+  <programme start="20260808201500 +0700" stop="20260808213000 +0700" channel="MDTV">
     <title lang="zh">Kupu Malam</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808213000 +0700" stop="20260808223000 +0700" channel="MDTV">
+  <programme start="20260808213000 +0700" stop="20260808222500 +0700" channel="MDTV">
     <title lang="zh">Dunia Tanpa Tuhan</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808223000 +0700" stop="20260808233500 +0700" channel="MDTV">
+  <programme start="20260808222500 +0700" stop="20260808233500 +0700" channel="MDTV">
     <title lang="zh">Jatanras</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -147046,7 +147282,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808145000 +0700" stop="20260808150000 +0700" channel="NHK World Premium">
-    <title lang="zh">Mini Program</title>
+    <title lang="zh">Life Force</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808150000 +0700" stop="20260808153000 +0700" channel="NHK World Premium">

@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260807053000 +0800" stop="20260807073000 +0800" channel="mbc max">
-    <title lang="en">Adrift</title>
-    <desc lang="en">The true story of, Tami Oldham and Richard Sharp, whosailed across the ocean, but didn't anticipate that they would be sailing directly into one of the most catastrophic hurricanes in recorded history and must stand against all difficulties throughout their journey.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260807073000 +0800" stop="20260807090000 +0800" channel="mbc max">
     <title lang="en">Gravity</title>
     <desc lang="en">A brilliant medical engineer (Sandra Bullock) is on herfirst shuttle mission with veteran astronaut (George Clooney) when disaster strikes, leaving both of them drifting alone in the terrifying expanse of outer space.</desc>
@@ -168,11 +162,11 @@
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260807053000 +0800" stop="20260807073000 +0800" channel="mbc 2">
-    <title lang="en">The Meg</title>
-    <desc lang="en">Five years after escaping an attack by what he claims was a70-foot shark, Jonas Taylor, an expert diver and naval captain, must confront his fears to save those trapped in a sunken submersible.</desc>
+  <programme start="20260809160000 +0800" stop="20260809183000 +0800" channel="mbc max">
+    <title lang="en">The Last Samurai</title>
+    <desc lang="en">Cynical veteran Nathan Algren is hired to train a Japanesearmy to use firearms against the traditionalist Samurai. After being taken hostage by the Samurai after a bloody confrontation, he grows to respect their culture and joins their ranks.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2003)</category>
   </programme>
   <programme start="20260807073000 +0800" stop="20260807090000 +0800" channel="mbc 2">
     <title lang="en">Poseidon</title>
@@ -341,5 +335,11 @@
     <desc lang="en">In the future when the mob wants to get rid of someone, theyuse time travel to send them back a few decades, where "looper" Joe (Joseph Gordon-Levitt) is waiting to kill them off. Joe excels at his job, but one day he must face off against his future self (Bruce Willis) when the mob decides to "close the loop."</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260809170000 +0800" stop="20260809190000 +0800" channel="mbc 2">
+    <title lang="en">The Domestics</title>
+    <desc lang="en">In the wake of an apocalyptic event, a married couplestruggles to survive the violent new normal of their world as murderous gangs take control of the streets, forcing the couple into a battle for survival as they desperately search for safety.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
