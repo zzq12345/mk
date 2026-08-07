@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260807013000 +0800" stop="20260807030000 +0800" channel="mbc max">
-    <title lang="en">Above Suspicion</title>
-    <desc lang="en">The true story of how an affair between an FBI sketch artistand a local Kentucky woman turned into a complete disaster between his marriage and her role as an informant, leading to a murder and a scandal that shook the FBI.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260807030000 +0800" stop="20260807053000 +0800" channel="mbc max">
     <title lang="en">The Impossible</title>
     <desc lang="en">A young British family vacationing in Thailand is suddenlytorn apart when the devastating 2004 tsunami tears through their seaside resort. Their devoted search for one another is a testament to the human spirit and the power of family.</desc>
@@ -168,11 +162,11 @@
     <category lang="en">Movie
                (2013)</category>
   </programme>
-  <programme start="20260807010000 +0800" stop="20260807030000 +0800" channel="mbc 2">
-    <title lang="en">Charlie and the Chocolate Factory</title>
-    <desc lang="en">Charlie leads a happy life with his family, despite livingin poverty. He dreams of winning a golden ticket that would give him a chance to visit the mysterious Willy Wonka factory. His dream comes true and he gets the chance to go with his grandfather on an exciting tour of the factory, led by Mr. Wonka himself.</desc>
+  <programme start="20260809120000 +0800" stop="20260809140000 +0800" channel="mbc max">
+    <title lang="en">Alpha</title>
+    <desc lang="en">A young man in the prehistoric era, split off from his tribeduring a buffalo hunt, battles to find his way back home. He makes a bond with a fellow lost wolf that has the power to transform humanity.</desc>
     <category lang="en">Movie
-               (2005)</category>
+               (2018)</category>
   </programme>
   <programme start="20260807030000 +0800" stop="20260807050000 +0800" channel="mbc 2">
     <title lang="en">Jaws</title>
@@ -347,5 +341,11 @@
     <desc lang="en">In the near future, a computer hacker named Neo discoversthat all life on Earth may be nothing more than a virtual reality created by cyber-intelligence, for the purpose of detaching us while our real purpose is to secretly fuel the "Matrix". He joins Rebel warriors Morpheus and Trinity in their struggle to overthrow the Matrix.</desc>
     <category lang="en">Movie
                (1999)</category>
+  </programme>
+  <programme start="20260809130000 +0800" stop="20260809150000 +0800" channel="mbc 2">
+    <title lang="en">Ip Man 4: The Finale</title>
+    <desc lang="en">The Kung Fu master travels to the United States with hisson, where his student, Bruce Lee, has disturbed the local martial arts community by opening a Wing Chun school.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
