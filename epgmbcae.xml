@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260807073000 +0800" stop="20260807090000 +0800" channel="mbc max">
-    <title lang="en">Gravity</title>
-    <desc lang="en">A brilliant medical engineer (Sandra Bullock) is on herfirst shuttle mission with veteran astronaut (George Clooney) when disaster strikes, leaving both of them drifting alone in the terrifying expanse of outer space.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260807090000 +0800" stop="20260807113000 +0800" channel="mbc max">
     <title lang="en">The Island</title>
     <desc lang="en">In a futuristic colony, all the residents live on the hopeof winning the lottery that enables them to go to The Island, a rumored paradise which is the last surviving uncontaminated location. But one of the residents, Lincoln, soon comes to discover the horrifying truth behind The Island.</desc>
@@ -168,11 +162,11 @@
     <category lang="en">Movie
                (2003)</category>
   </programme>
-  <programme start="20260807073000 +0800" stop="20260807090000 +0800" channel="mbc 2">
-    <title lang="en">Poseidon</title>
-    <desc lang="en">On New Year's Eve, a huge passenger ship is exposed to adangerous wave that capsizes it, and the passengers try to survive at all costs.</desc>
+  <programme start="20260809183000 +0800" stop="20260809200000 +0800" channel="mbc max">
+    <title lang="en">Gretel and Hansel</title>
+    <desc lang="en">Desperate to find work to support themselves, siblingsHansel and Gretel stumble upon a remote house in the woods whose owner offers them food and work, only for them to come to realize the terrifying secret that she is hiding.</desc>
     <category lang="en">Movie
-               (2006)</category>
+               (2020)</category>
   </programme>
   <programme start="20260807093000 +0800" stop="20260807110000 +0800" channel="mbc 2">
     <title lang="en">The Angry Birds Movie</title>
@@ -341,5 +335,11 @@
     <desc lang="en">In the wake of an apocalyptic event, a married couplestruggles to survive the violent new normal of their world as murderous gangs take control of the streets, forcing the couple into a battle for survival as they desperately search for safety.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260809190000 +0800" stop="20260809213000 +0800" channel="mbc 2">
+    <title lang="en">Insidious</title>
+    <desc lang="en">After their son Dalton mysteriously falls into a coma, Joshand Renai find themselves drawn into a sinister world of supernatural occurrences that want to take over their child.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
 </tv>
