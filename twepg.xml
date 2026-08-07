@@ -1797,14 +1797,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260807193000 +0800" stop="20260807213000 +0800" channel="mbc max">
-    <title lang="en">Edge of Darkness</title>
-    <desc lang="en">Detective Thomas Craven is investigating the murder of hisactivist daughter. He not only exposes sensitive aspects of her secret life, but also clashes with crime organizations that try to erase any thread that may link her to them.</desc>
-  </programme>
-  <programme start="20260807213000 +0800" stop="20260807233000 +0800" channel="mbc max">
-    <title lang="en">Sleepless</title>
-    <desc lang="en">Vincent Downs is a cop in Las Vegas, who gets involved in adrug robbery with his corrupt partner. The Novaks, the crime family they robbed, abduct Downs's son in exchange for the stolen drugs, but things are not that simple.</desc>
-  </programme>
   <programme start="20260807233000 +0800" stop="20260808013000 +0800" channel="mbc max">
     <title lang="en">The Mechanic</title>
     <desc lang="en">An elite hitman is successful working in the shadows. Nowhe's teaching his trade to an apprentice who is related to one of his previous victims.</desc>
@@ -1909,13 +1901,13 @@
     <title lang="en">Jonah Hex</title>
     <desc lang="en">In exchange for his own freedom, a bounty hunter is assignedby the U.S millitary to stop a terrorist who is ready to unleash Hell on Earth.</desc>
   </programme>
-  <programme start="20260807210000 +0800" stop="20260807230000 +0800" channel="mbc 2">
-    <title lang="en">Howl's Moving Castle</title>
-    <desc lang="en">A story about a young girl named Sophie, who sells hats inthe magical kingdom of Ingary.  One night she meets a witch who turns her into a 90-year-old woman. She decides to head to the woods to find a way to break the curse which leads her to Howl's strange moving castle.</desc>
+  <programme start="20260810073000 +0800" stop="20260810093000 +0800" channel="mbc max">
+    <title lang="en">Sherlock Holmes</title>
+    <desc lang="en">With the latest criminal they caught promising to returnfrom the dead, detective Sherlock Holmes and his trusted companion Dr. Watson face a new mystery when the criminal, Lord Blackwood, seemingly returns from the dead with plans to befall all of England.</desc>
   </programme>
-  <programme start="20260807230000 +0800" stop="20260807233000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+  <programme start="20260810100000 +0800" stop="20260810120000 +0800" channel="mbc max">
+    <title lang="en">Jack the Giant Slayer</title>
+    <desc lang="en">An ancient war is reignited when a young farmhand, Jack,unwittingly opens a gateway between our world and that of a fearsome race of giants. Jack fights for a kingdom, its people, and the love of a princess.</desc>
   </programme>
   <programme start="20260807233000 +0800" stop="20260808010000 +0800" channel="mbc 2">
     <title lang="en">Hotel Transylvania</title>
@@ -2033,17 +2025,9 @@
     <title lang="en">Central Intelligence</title>
     <desc lang="en">Accountant Calvin Joyner and Bob Stone ,are old schoolmateswho reconnect through Facebook.  But Calvin suddenly finds himself lured into the world of espionage and collecting information with its various dangers.</desc>
   </programme>
-  <programme start="20260807203000 +0800" stop="20260807213000 +0800" channel="mbc action">
-    <title lang="en">برنامج action podcast</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807213000 +0800" stop="20260807220000 +0800" channel="mbc action">
-    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
-    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
-  </programme>
-  <programme start="20260807220000 +0800" stop="20260808003000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  <programme start="20260810080000 +0800" stop="20260810103000 +0800" channel="mbc 2">
+    <title lang="en">The Amazing Spider-Man 2</title>
+    <desc lang="en">Spider-Man sets out to face a much stronger foe after theemergence of Electro. However, when Harry Osborn, his former friend, returns, Peter Parker discovers what all his foes have in common.</desc>
   </programme>
   <programme start="20260807003000 +0800" stop="20260807010000 +0800" channel="mbc action">
     <title lang="en">برنامج motor city masters</title>
@@ -2248,6 +2232,26 @@
   <programme start="20260809053000 +0800" stop="20260809063000 +0800" channel="mbc action">
     <title lang="en">Kinnikuman: Perfect Origin Arc</title>
     <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
+  </programme>
+  <programme start="20260809063000 +0800" stop="20260809080000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
+  <programme start="20260809080000 +0800" stop="20260809083000 +0800" channel="mbc action">
+    <title lang="en">برنامج bricks&amp;brain</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260809083000 +0800" stop="20260809090000 +0800" channel="mbc action">
+    <title lang="en">برنامج Sports Quest</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260809090000 +0800" stop="20260809100000 +0800" channel="mbc action">
+    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
+    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
+  </programme>
+  <programme start="20260809100000 +0800" stop="20260809103000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
   </programme>
   <programme start="20260803060000 +0800" stop="20260803063000 +0800" channel="第一財經">
     <title lang="zh">兩說</title>
@@ -84853,34 +84857,6 @@
     <title lang="zh">電視劇場</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260807003400 +0800" stop="20260807070100 +0800" channel="深圳少兒">
-    <title lang="zh">測試卡</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807070100 +0800" stop="20260807071500 +0800" channel="深圳少兒">
-    <title lang="zh">尋夢泡泡島Ⅲ(12)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807071500 +0800" stop="20260807072800 +0800" channel="深圳少兒">
-    <title lang="zh">尋夢泡泡島Ⅲ(13)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807072800 +0800" stop="20260807073000 +0800" channel="深圳少兒">
-    <title lang="zh">短視頻:二十四節氣-2026立秋</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807073000 +0800" stop="20260807074400 +0800" channel="深圳少兒">
-    <title lang="zh">尋夢泡泡島Ⅳ(1)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807074400 +0800" stop="20260807075700 +0800" channel="深圳少兒">
-    <title lang="zh">尋夢泡泡島Ⅳ(2)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807075700 +0800" stop="20260807080000 +0800" channel="深圳少兒">
-    <title lang="zh">深小健親子研學</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260807080000 +0800" stop="20260807083000 +0800" channel="深圳少兒">
     <title lang="zh">長青空中課堂(16)</title>
     <desc lang=""/>
@@ -93629,50 +93605,6 @@
     <title lang="zh">電視劇:《生活像陽光一樣燦爛》</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260807012500 +0800" stop="20260807030500 +0800" channel="睛彩廣場舞">
-    <title lang="zh">經典逆轉時刻</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807030500 +0800" stop="20260807031000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807031000 +0800" stop="20260807035500 +0800" channel="睛彩廣場舞">
-    <title lang="zh">英超精華</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807035500 +0800" stop="20260807040000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807040000 +0800" stop="20260807041000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">射正指南</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807041000 +0800" stop="20260807061000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">2026上海灣區半程馬拉松</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807061000 +0800" stop="20260807061500 +0800" channel="睛彩廣場舞">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807061500 +0800" stop="20260807064000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">國球榮耀:世界乒乓球團體錦標賽</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807064000 +0800" stop="20260807071000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807071000 +0800" stop="20260807080000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">摜牌精英賽</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807080000 +0800" stop="20260807081000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260807081000 +0800" stop="20260807085500 +0800" channel="睛彩廣場舞">
     <title lang="zh">英超精華</title>
     <desc lang=""/>
@@ -94053,14 +93985,6 @@
     <title lang="zh">頻道宣傳</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260807010000 +0800" stop="20260807040500 +0800" channel="睛彩競技">
-    <title lang="zh">JCK覺城之夜N118</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807040500 +0800" stop="20260807041500 +0800" channel="睛彩競技">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260807041500 +0800" stop="20260807081500 +0800" channel="睛彩競技">
     <title lang="zh">2025浪琴錶北京國際馬術大師賽</title>
     <desc lang=""/>
@@ -94267,46 +94191,6 @@
   </programme>
   <programme start="20260809233000 +0800" stop="20260809235900 +0800" channel="睛彩競技">
     <title lang="zh">曼聯92班Ⅰ(2)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807015000 +0800" stop="20260807021000 +0800" channel="睛彩籃球">
-    <title lang="zh">榮耀之路</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807021000 +0800" stop="20260807022000 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807022000 +0800" stop="20260807035500 +0800" channel="睛彩籃球">
-    <title lang="zh">NBL城燃之戰:長沙勇勝-香港金牛</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807035500 +0800" stop="20260807040500 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807040500 +0800" stop="20260807044000 +0800" channel="睛彩籃球">
-    <title lang="zh">西班牙籃球黃金一代(2):籃球萬歲</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807044000 +0800" stop="20260807045000 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807045000 +0800" stop="20260807062000 +0800" channel="睛彩籃球">
-    <title lang="zh">我愛女籃:WCBA常規賽第20輪</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807062000 +0800" stop="20260807063500 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807063500 +0800" stop="20260807065500 +0800" channel="睛彩籃球">
-    <title lang="zh">薪火相傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807065500 +0800" stop="20260807070000 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
     <desc lang=""/>
   </programme>
   <programme start="20260807070000 +0800" stop="20260807083500 +0800" channel="睛彩籃球">
@@ -94770,62 +94654,6 @@
     <desc lang=""/>
   </programme>
   <programme start="20260809235000 +0800" stop="20260809235900 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807015000 +0800" stop="20260807024000 +0800" channel="睛彩青少">
-    <title lang="zh">青少年健身課</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807024000 +0800" stop="20260807025000 +0800" channel="睛彩青少">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807025000 +0800" stop="20260807035000 +0800" channel="睛彩青少">
-    <title lang="zh">機甲大師賽</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807035000 +0800" stop="20260807040000 +0800" channel="睛彩青少">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807040000 +0800" stop="20260807052000 +0800" channel="睛彩青少">
-    <title lang="zh">戶外探險</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807052000 +0800" stop="20260807052500 +0800" channel="睛彩青少">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807052500 +0800" stop="20260807055500 +0800" channel="睛彩青少">
-    <title lang="zh">睛彩世界盃</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807055500 +0800" stop="20260807060000 +0800" channel="睛彩青少">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807060000 +0800" stop="20260807062500 +0800" channel="睛彩青少">
-    <title lang="zh">歐陸足球版圖</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807062500 +0800" stop="20260807063000 +0800" channel="睛彩青少">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807063000 +0800" stop="20260807072000 +0800" channel="睛彩青少">
-    <title lang="zh">青少年健身課</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807072000 +0800" stop="20260807073000 +0800" channel="睛彩青少">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807073000 +0800" stop="20260807080000 +0800" channel="睛彩青少">
-    <title lang="zh">航拍法國(5)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807080000 +0800" stop="20260807080500 +0800" channel="睛彩青少">
     <title lang="zh">頻道宣傳</title>
     <desc lang=""/>
   </programme>
@@ -100661,7 +100489,19 @@
     <title lang="zh">MyQURANTIME 2.0 Ep1244</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807130000 +0800" stop="20260807140000 +0800" channel="Astro_Oasis">
+  <programme start="20260807130000 +0800" stop="20260807130600 +0800" channel="Astro_Oasis">
+    <title lang="zh">Kata-kata Mutiara Ep05</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260807130600 +0800" stop="20260807131100 +0800" channel="Astro_Oasis">
+    <title lang="zh">Kata-kata Mutiara Ep06</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260807131100 +0800" stop="20260807131500 +0800" channel="Astro_Oasis">
+    <title lang="zh">Kata-kata Mutiara Ep09</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260807131500 +0800" stop="20260807140000 +0800" channel="Astro_Oasis">
     <title lang="zh">(L) Solat Jumaat</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -125061,19 +124901,19 @@
     <title lang="zh">Nadi Arena</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807140000 +0800" stop="20260807150000 +0800" channel="Astro_Arena">
+  <programme start="20260807140000 +0800" stop="20260807150100 +0800" channel="Astro_Arena">
     <title lang="zh">The Bangmed Show S3 eps.14</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807150000 +0800" stop="20260807153000 +0800" channel="Astro_Arena">
+  <programme start="20260807150100 +0800" stop="20260807153000 +0800" channel="Astro_Arena">
     <title lang="zh">Sorotan ISTAF Sepak Takraw WC 2026 Quadrant: Akhir</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807153000 +0800" stop="20260807160000 +0800" channel="Astro_Arena">
+  <programme start="20260807153000 +0800" stop="20260807155900 +0800" channel="Astro_Arena">
     <title lang="zh">Sorotan CelcomDigi NSL 2026: MEL lwn PAH</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807160000 +0800" stop="20260807170000 +0800" channel="Astro_Arena">
+  <programme start="20260807155900 +0800" stop="20260807170000 +0800" channel="Astro_Arena">
     <title lang="zh">Nadi Meledak</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -126566,7 +126406,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808151500 +0800" stop="20260808173000 +0800" channel="Astro_Sports_Plus_2">
-    <title lang="zh">(L) AUBL 2026: SF 1</title>
+    <title lang="zh">(L) AUBL 2026: SF 1: Tsing Hua University vs Shang Hai Jiao Tong University</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808173000 +0800" stop="20260808191500 +0800" channel="Astro_Sports_Plus_2">
@@ -126574,15 +126414,19 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808191500 +0800" stop="20260808213000 +0800" channel="Astro_Sports_Plus_2">
-    <title lang="zh">(L) AUBL 2026: SF 2</title>
+    <title lang="zh">(L) AUBL 2026: SF 2: Waseda University vs NCCU</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807003000 +0800" stop="20260807060000 +0800" channel="Astro_Tennis">
+  <programme start="20260807003000 +0800" stop="20260807064500 +0800" channel="Astro_Tennis">
     <title lang="zh">(L) ATP 1000's: National Bank Open: Day 5: Session 1</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260807060000 +0800" stop="20260807110000 +0800" channel="Astro_Tennis">
+  <programme start="20260807064500 +0800" stop="20260807104000 +0800" channel="Astro_Tennis">
     <title lang="zh">(L) ATP 1000's: National Bank Open: Day 5: Session 2</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260807104000 +0800" stop="20260807110000 +0800" channel="Astro_Tennis">
+    <title lang="zh">ATP Tour This Week 2026: Episode 30</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807110000 +0800" stop="20260807113000 +0800" channel="Astro_Tennis">
@@ -127298,11 +127142,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808060000 +0800" stop="20260808110000 +0800" channel="Astro_Golf">
-    <title lang="zh">KPMG Women's PGA C'ship FG Day2 pt 1</title>
+    <title lang="zh">KPMG Women's PGA C‘ship FG Day2 pt 1</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808110000 +0800" stop="20260808153500 +0800" channel="Astro_Golf">
-    <title lang="zh">KPMG Women's PGA C'ship FG Day2 pt 2</title>
+    <title lang="zh">KPMG Women's PGA C‘ship FG Day2 pt 2</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808153500 +0800" stop="20260808163000 +0800" channel="Astro_Golf">
@@ -127317,11 +127161,11 @@
     <title lang="zh">Aurora World Ladies Championship Day 3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808201500 +0800" stop="20260808203000 +0800" channel="Astro_Golf">
+  <programme start="20260808201500 +0800" stop="20260808203500 +0800" channel="Astro_Golf">
     <title lang="zh">HotelPlanner Tour Series Hls Ep.18</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260808203000 +0800" stop="20260808210000 +0800" channel="Astro_Golf">
+  <programme start="20260808203500 +0800" stop="20260808210000 +0800" channel="Astro_Golf">
     <title lang="zh">Unfiltered: Genesis Scottish Open 2026</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -145722,7 +145566,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807180000 +0700" stop="20260807190000 +0700" channel="Music TV">
-    <title lang="zh">K-Hits</title>
+    <title lang="zh">Made In India</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807190000 +0700" stop="20260807200000 +0700" channel="Music TV">
@@ -145750,7 +145594,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808053000 +0700" channel="Music TV">
-    <title lang="zh">Made In India</title>
+    <title lang="zh">Godain</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808053000 +0700" stop="20260808063000 +0700" channel="Music TV">
@@ -145758,7 +145602,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808063000 +0700" stop="20260808071500 +0700" channel="Music TV">
-    <title lang="zh">Music Versus</title>
+    <title lang="zh">Made In India</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808071500 +0700" stop="20260808090000 +0700" channel="Music TV">
@@ -145874,7 +145718,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807180000 +0700" stop="20260807190000 +0700" channel="Music TV HD">
-    <title lang="zh">K-Hits</title>
+    <title lang="zh">Made In India</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807190000 +0700" stop="20260807200000 +0700" channel="Music TV HD">
@@ -145902,7 +145746,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808053000 +0700" channel="Music TV HD">
-    <title lang="zh">Made In India</title>
+    <title lang="zh">Godain</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808053000 +0700" stop="20260808063000 +0700" channel="Music TV HD">
@@ -145910,7 +145754,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808063000 +0700" stop="20260808071500 +0700" channel="Music TV HD">
-    <title lang="zh">Music Versus</title>
+    <title lang="zh">Made In India</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808071500 +0700" stop="20260808090000 +0700" channel="Music TV HD">
@@ -150146,7 +149990,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807173000 +0700" stop="20260807193000 +0700" channel="Soccer Channel">
-    <title lang="zh">VI Nations Futsal: IDN Vs BRA</title>
+    <title lang="zh">VI Nations Futsal: POR Vs SPA</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807193000 +0700" stop="20260807195500 +0700" channel="Soccer Channel">
@@ -150170,7 +150014,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="Soccer Channel">
-    <title lang="zh">VI Nations Futsal: IDN Vs BRA</title>
+    <title lang="zh">VI Nations Futsal: POR Vs SPA</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="Soccer Channel">
@@ -150258,7 +150102,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807173000 +0700" stop="20260807193000 +0700" channel="Soccer Channel HD">
-    <title lang="zh">VI Nations Futsal: IDN Vs BRA</title>
+    <title lang="zh">VI Nations Futsal: POR Vs SPA</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260807193000 +0700" stop="20260807195500 +0700" channel="Soccer Channel HD">
@@ -150282,7 +150126,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="Soccer Channel HD">
-    <title lang="zh">VI Nations Futsal: IDN Vs BRA</title>
+    <title lang="zh">VI Nations Futsal: POR Vs SPA</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="Soccer Channel HD">
