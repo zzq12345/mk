@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260808140000 +0800" stop="20260808160000 +0800" channel="mbc max">
-    <title lang="en">Sucker Punch</title>
-    <desc lang="en">Baby Doll is detained in the mental hospital by herstep-father. During an operation, she gets into a fantasy world in her head, where she attempts to escape her prison with four other girls and faces strange creatures.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260808160000 +0800" stop="20260808183000 +0800" channel="mbc max">
     <title lang="en">Blade Runner 2049</title>
     <desc lang="en">After learning of a long-kept secret, young Blade Runner Ksets out to find the thirty-year-missing former Blade Runner Rick Deckard.</desc>
@@ -341,5 +335,11 @@
     <desc lang="en">Accused of fraud and sentenced to prison, millionaire JamesKing enlists the help of a friend, Darnell Lewis, to help teach him how to cope with prison life. Along the way, the two men discover they have been wrong about many things, even about their regard for one another.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260811013000 +0800" stop="20260811020000 +0800" channel="mbc 2">
+    <title lang="en">Central Intelligence</title>
+    <desc lang="en">Accountant Calvin Joyner and Bob Stone ,are old schoolmateswho reconnect through Facebook.  But Calvin suddenly finds himself lured into the world of espionage and collecting information with its various dangers.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
