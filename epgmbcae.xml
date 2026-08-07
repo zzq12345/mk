@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260807030000 +0800" stop="20260807053000 +0800" channel="mbc max">
-    <title lang="en">The Impossible</title>
-    <desc lang="en">A young British family vacationing in Thailand is suddenlytorn apart when the devastating 2004 tsunami tears through their seaside resort. Their devoted search for one another is a testament to the human spirit and the power of family.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
   <programme start="20260807053000 +0800" stop="20260807073000 +0800" channel="mbc max">
     <title lang="en">Adrift</title>
     <desc lang="en">The true story of, Tami Oldham and Richard Sharp, whosailed across the ocean, but didn't anticipate that they would be sailing directly into one of the most catastrophic hurricanes in recorded history and must stand against all difficulties throughout their journey.</desc>
@@ -168,17 +162,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260807030000 +0800" stop="20260807050000 +0800" channel="mbc 2">
-    <title lang="en">Jaws</title>
-    <desc lang="en">In a beach town, a tourist is attacked and killed by sharks,leaving the police chief to fight to close the beaches. But as more shark attacks occur, the police chief, a marine biologist, and a shark hunter team up to locate and dispose of the predator that is terrorizing the town.</desc>
+  <programme start="20260809140000 +0800" stop="20260809160000 +0800" channel="mbc max">
+    <title lang="en">The Great Wall</title>
+    <desc lang="en">Set during the era in which the Sung ancestry ruled theChinese territory where many mysteries unfold regarding the construction of the Great Wall.</desc>
     <category lang="en">Movie
-               (1975)</category>
-  </programme>
-  <programme start="20260807050000 +0800" stop="20260807053000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
+               (2016)</category>
   </programme>
   <programme start="20260807053000 +0800" stop="20260807073000 +0800" channel="mbc 2">
     <title lang="en">The Meg</title>
@@ -347,5 +335,11 @@
     <desc lang="en">The Kung Fu master travels to the United States with hisson, where his student, Bruce Lee, has disturbed the local martial arts community by opening a Wing Chun school.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260809150000 +0800" stop="20260809170000 +0800" channel="mbc 2">
+    <title lang="en">Looper</title>
+    <desc lang="en">In the future when the mob wants to get rid of someone, theyuse time travel to send them back a few decades, where "looper" Joe (Joseph Gordon-Levitt) is waiting to kill them off. Joe excels at his job, but one day he must face off against his future self (Bruce Willis) when the mob decides to "close the loop."</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>
