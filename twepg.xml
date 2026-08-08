@@ -1860,10 +1860,6 @@
     <title lang="en">Mirror Mirror</title>
     <desc lang="en">A modern copy of the classic tale of "Snow White". The filmtells the story of an evil Queen (Roberts) who takes control of a kingdom, and an exiled princess (Collins) who asks the help of seven rebels to win back her royal life.</desc>
   </programme>
-  <programme start="20260809170000 +0800" stop="20260809190000 +0800" channel="mbc 2">
-    <title lang="en">Get Hard</title>
-    <desc lang="en">Accused of fraud and sentenced to prison, millionaire JamesKing enlists the help of a friend, Darnell Lewis, to help teach him how to cope with prison life. Along the way, the two men discover they have been wrong about many things, even about their regard for one another.</desc>
-  </programme>
   <programme start="20260809190000 +0800" stop="20260809213000 +0800" channel="mbc 2">
     <title lang="en">Violent Night</title>
     <desc lang="en">As a bunch of mercenaries storms the residence of a richfamily on Christmas Eve, it's up to Santa Claus to save the day.</desc>
@@ -2150,6 +2146,10 @@
   </programme>
   <programme start="20260811040000 +0800" stop="20260811043000 +0800" channel="mbc action">
     <title lang="en">برنامج The Ride Life With Sung Kang</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260811043000 +0800" stop="20260811053000 +0800" channel="mbc action">
+    <title lang="en">برنامج the inside line</title>
     <desc lang=""/>
   </programme>
   <programme start="20260803060000 +0800" stop="20260803063000 +0800" channel="第一財經">
@@ -126804,20 +126804,16 @@
     <title lang="zh">Legends Tour Hls 2026: OFX Irish Legends</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809010000 +0800" stop="20260809060000 +0800" channel="Astro_Golf">
+  <programme start="20260809010000 +0800" stop="20260809073000 +0800" channel="Astro_Golf">
     <title lang="zh">(L) Wyndham Championship Day 3</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809060000 +0800" stop="20260809070000 +0800" channel="Astro_Golf">
-    <title lang="zh">The PLAYERS Championship Official Film 2026</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260809070000 +0800" stop="20260809084000 +0800" channel="Astro_Golf">
-    <title lang="zh">KPMG Women's PGA C'ship FG Day 3</title>
+  <programme start="20260809073000 +0800" stop="20260809084000 +0800" channel="Astro_Golf">
+    <title lang="zh">KPMG Women's PGA C‘ship FG Day 3</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260809084000 +0800" stop="20260809101000 +0800" channel="Astro_Golf">
-    <title lang="zh">KPMG Women's PGA C'ship FG Day 4</title>
+    <title lang="zh">KPMG Women's PGA C‘ship FG Day 4</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260809101000 +0800" stop="20260809130000 +0800" channel="Astro_Golf">
