@@ -3,9 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20260808150000 +0800" stop="20260808160000 +0800" channel="mbc action">
-    <title lang="en">برنامج Sports Quest</title>
-  </programme>
   <programme start="20260808160000 +0800" stop="20260808170000 +0800" channel="mbc action">
     <title lang="en">برنامج american ninja warrior</title>
   </programme>
@@ -362,5 +359,8 @@
       <actor>Shoya Ishige</actor>
     </credits>
     <date>2024</date>
+  </programme>
+  <programme start="20260811020000 +0800" stop="20260811030000 +0800" channel="mbc action">
+    <title lang="en">ascend برنامج</title>
   </programme>
 </tv>
