@@ -364,6 +364,9 @@
 <channel id="Astro_Badminton">
   <display-name lang="zh">Astro Badminton</display-name>
 </channel>
+<channel id="Astro_Badminton_2">
+  <display-name lang="zh">Astro Badminton 2</display-name>
+</channel>
 <channel id="Astro_Sports_Plus">
   <display-name lang="zh">Astro Sports Plus</display-name>
 </channel>
@@ -7012,15 +7015,15 @@
   <title lang="zh">Parijatham Ep268</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808193000 +0800" stop="20260808210000 +0800" channel="Z_Tamil_HD">
+<programme start="20260808193000 +0800" stop="20260808211000 +0800" channel="Z_Tamil_HD">
   <title lang="zh">Ippadiku Kadhal</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808210000 +0800" stop="20260808213000 +0800" channel="Z_Tamil_HD">
+<programme start="20260808211000 +0800" stop="20260808213600 +0800" channel="Z_Tamil_HD">
   <title lang="zh">Ayali Ep370</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808213000 +0800" stop="20260808220000 +0800" channel="Z_Tamil_HD">
+<programme start="20260808213600 +0800" stop="20260808220000 +0800" channel="Z_Tamil_HD">
   <title lang="zh">Karthigai Deepam Ep1283</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -7332,8 +7335,12 @@
   <title lang="zh">The Legend of Aquawitch</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808193000 +0800" stop="20260808224000 +0800" channel="iQIYI_HD">
-  <title lang="zh">Wander Together S1 Ep10</title>
+<programme start="20260808193000 +0800" stop="20260808211000 +0800" channel="iQIYI_HD">
+  <title lang="zh">Blade Of Fury</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260808211000 +0800" stop="20260808224000 +0800" channel="iQIYI_HD">
+  <title lang="zh">Brotherhood Of Blades: Kill Evil</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260809002000 +0800" stop="20260809013500 +0800" channel="iQIYI_HD">
@@ -26928,11 +26935,11 @@
   <title lang="zh">MotoGP Czechia: Warm Up</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808185000 +0800" stop="20260808210000 +0800" channel="Astro_Grandstand">
+<programme start="20260808185000 +0800" stop="20260808211000 +0800" channel="Astro_Grandstand">
   <title lang="zh">(L) Friendly: Juventus vs Inter</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808210000 +0800" stop="20260808213000 +0800" channel="Astro_Grandstand">
+<programme start="20260808211000 +0800" stop="20260808213000 +0800" channel="Astro_Grandstand">
   <title lang="zh">Total Combat 2026: Ep2</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -27320,11 +27327,11 @@
   <title lang="zh">Dutch League Playoffs: SF Highlights</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808185000 +0800" stop="20260808210000 +0800" channel="Astro_Football">
+<programme start="20260808185000 +0800" stop="20260808211000 +0800" channel="Astro_Football">
   <title lang="zh">(L) Friendly: Juventus vs Inter</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808210000 +0800" stop="20260808230000 +0800" channel="Astro_Football">
+<programme start="20260808211000 +0800" stop="20260808230000 +0800" channel="Astro_Football">
   <title lang="zh">Dutch: PSV vs NEC</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -28532,11 +28539,11 @@
   <title lang="zh">(L) AFL: Geelong V Essendon</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808173000 +0800" stop="20260808193200 +0800" channel="Premier_Sports">
+<programme start="20260808173000 +0800" stop="20260808193700 +0800" channel="Premier_Sports">
   <title lang="zh">(L) NRL: Rabbitohs V Eels</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260808193200 +0800" stop="20260808200200 +0800" channel="Premier_Sports">
+<programme start="20260808193700 +0800" stop="20260808200200 +0800" channel="Premier_Sports">
   <title lang="zh">5 and 6 Nations Classics: 2009 - Italy V Ireland</title>
   <desc lang="zh"> </desc>
 </programme>
