@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260810120000 +0800" stop="20260810140000 +0800" channel="mbc max">
-    <title lang="en">Alpha</title>
-    <desc lang="en">A young man in the prehistoric era, split off from his tribeduring a buffalo hunt, battles to find his way back home. He makes a bond with a fellow lost wolf that has the power to transform humanity.</desc>
-    <category lang="en">Movie
-               (2018)</category>
-  </programme>
   <programme start="20260810140000 +0800" stop="20260810160000 +0800" channel="mbc max">
     <title lang="en">The Great Wall</title>
     <desc lang="en">Set during the era in which the Sung ancestry ruled theChinese territory where many mysteries unfold regarding the construction of the Great Wall.</desc>
@@ -210,17 +204,23 @@
     <category lang="en">Movie
                (2022)</category>
   </programme>
-  <programme start="20260810103000 +0800" stop="20260810130000 +0800" channel="mbc 2">
-    <title lang="en">The Matrix</title>
-    <desc lang="en">In the near future, a computer hacker named Neo discoversthat all life on Earth may be nothing more than a virtual reality created by cyber-intelligence, for the purpose of detaching us while our real purpose is to secretly fuel the "Matrix". He joins Rebel warriors Morpheus and Trinity in their struggle to overthrow the Matrix.</desc>
-    <category lang="en">Movie
-               (1999)</category>
+  <programme start="20260812230000 +0800" stop="20260812233000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
   </programme>
-  <programme start="20260810130000 +0800" stop="20260810150000 +0800" channel="mbc 2">
-    <title lang="en">Ip Man 4: The Finale</title>
-    <desc lang="en">The Kung Fu master travels to the United States with hisson, where his student, Bruce Lee, has disturbed the local martial arts community by opening a Wing Chun school.</desc>
+  <programme start="20260812233000 +0800" stop="20260813010000 +0800" channel="mbc max">
+    <title lang="en">211</title>
+    <desc lang="en">When a group of ex-mercenaries carry out a risky bank heist,police detectives Steve MacAvoy and Mike Chandler find themselves dreadfully unprepared.</desc>
     <category lang="en">Movie
-               (2019)</category>
+               (2018)</category>
+  </programme>
+  <programme start="20260813010000 +0800" stop="20260813023000 +0800" channel="mbc max">
+    <title lang="en">Caged</title>
+    <desc lang="en">An African-American psychiatrist is imprisoned and placed insolitary confinement after being convicted of killing his wife. He finds himself haunted by inner demons and is pushed to the brink by an abusive guard.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
   <programme start="20260810150000 +0800" stop="20260810170000 +0800" channel="mbc 2">
     <title lang="en">Looper</title>
@@ -419,5 +419,17 @@
     <desc lang="en">As government agent Travis Block tries to reconcile himselfto his murky past, he stumbles upon a sinister plot that threatens Americans' lives, whereupon he ends up in an unenviable situation when he's forced to face off against the FBI director whom he helped to save before.</desc>
     <category lang="en">Movie
                (2022)</category>
+  </programme>
+  <programme start="20260812230000 +0800" stop="20260813003000 +0800" channel="mbc 2">
+    <title lang="en">Bullet Head</title>
+    <desc lang="en">After a robbery goes south, three criminals hide from thepolice in a warehouse. Unbeknownst to them, a bigger threat awaits them inside, forcing them into a fight for survival.</desc>
+    <category lang="en">Movie
+               (2017)</category>
+  </programme>
+  <programme start="20260813003000 +0800" stop="20260813023000 +0800" channel="mbc 2">
+    <title lang="en">S.W.A.T.</title>
+    <desc lang="en">As new candidates in the S.W.A.T. team are being selected torepresent China in an international competition, the members of the force find themselves facing a dangerous threat, as they get tasked to eliminate a drug factory.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
