@@ -27,6 +27,9 @@
   <channel id="HOY 78">
     <display-name lang="zh">HOY 78</display-name>
   </channel>
+  <channel id="瑞典超级足球联赛 - 哈马比 对 赫根 (没有评述) (晚上7:55)">
+    <display-name lang="zh">瑞典超级足球联赛 - 哈马比 对 赫根 (没有评述) (晚上7:55)</display-name>
+  </channel>
   <channel id="凤凰卫视中文台">
     <display-name lang="zh">凤凰卫视中文台</display-name>
   </channel>
@@ -1800,14 +1803,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260809053000 +0800" stop="20260809073000 +0800" channel="mbc max">
-    <title lang="en">Jonah Hex</title>
-    <desc lang="en">In exchange for his own freedom, a bounty hunter is assignedby the U.S millitary to stop a terrorist who is ready to unleash Hell on Earth.</desc>
-  </programme>
-  <programme start="20260809073000 +0800" stop="20260809093000 +0800" channel="mbc max">
-    <title lang="en">Sherlock Holmes</title>
-    <desc lang="en">With the latest criminal they caught promising to returnfrom the dead, detective Sherlock Holmes and his trusted companion Dr. Watson face a new mystery when the criminal, Lord Blackwood, seemingly returns from the dead with plans to befall all of England.</desc>
-  </programme>
   <programme start="20260809100000 +0800" stop="20260809120000 +0800" channel="mbc max">
     <title lang="en">Jack the Giant Slayer</title>
     <desc lang="en">An ancient war is reignited when a young farmhand, Jack,unwittingly opens a gateway between our world and that of a fearsome race of giants. Jack fights for a kingdom, its people, and the love of a princess.</desc>
@@ -1839,10 +1834,6 @@
   <programme start="20260809234500 +0800" stop="20260810013000 +0800" channel="mbc max">
     <title lang="en">Mirror Mirror</title>
     <desc lang="en">A modern copy of the classic tale of "Snow White". The filmtells the story of an evil Queen (Roberts) who takes control of a kingdom, and an exiled princess (Collins) who asks the help of seven rebels to win back her royal life.</desc>
-  </programme>
-  <programme start="20260809060000 +0800" stop="20260809080000 +0800" channel="mbc 2">
-    <title lang="en">Central Intelligence</title>
-    <desc lang="en">Accountant Calvin Joyner and Bob Stone ,are old schoolmateswho reconnect through Facebook.  But Calvin suddenly finds himself lured into the world of espionage and collecting information with its various dangers.</desc>
   </programme>
   <programme start="20260809080000 +0800" stop="20260809103000 +0800" channel="mbc 2">
     <title lang="en">The Amazing Spider-Man 2</title>
@@ -1879,18 +1870,6 @@
   <programme start="20260810013000 +0800" stop="20260810020000 +0800" channel="mbc 2">
     <title lang="en">Central Intelligence</title>
     <desc lang="en">Accountant Calvin Joyner and Bob Stone ,are old schoolmateswho reconnect through Facebook.  But Calvin suddenly finds himself lured into the world of espionage and collecting information with its various dangers.</desc>
-  </programme>
-  <programme start="20260809063000 +0800" stop="20260809080000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
-  </programme>
-  <programme start="20260809080000 +0800" stop="20260809083000 +0800" channel="mbc action">
-    <title lang="en">برنامج bricks&amp;brain</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260809083000 +0800" stop="20260809090000 +0800" channel="mbc action">
-    <title lang="en">برنامج Sports Quest</title>
-    <desc lang=""/>
   </programme>
   <programme start="20260809090000 +0800" stop="20260809100000 +0800" channel="mbc action">
     <title lang="en">Kinnikuman: Perfect Origin Arc</title>
@@ -2114,6 +2093,14 @@
   </programme>
   <programme start="20260811160000 +0800" stop="20260811170000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260811170000 +0800" stop="20260811183000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
+  <programme start="20260812183000 +0800" stop="20260812193000 +0800" channel="mbc action">
+    <title lang="en">برنامج Accelerate</title>
     <desc lang=""/>
   </programme>
   <programme start="20260803060000 +0800" stop="20260803063000 +0800" channel="第一财经">
@@ -103796,7 +103783,7 @@
     <title lang="zh">Waqt: the Race Against Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809180000 +0800" stop="20260809210000 +0800" channel="Z_Cinema_HD">
+  <programme start="20260809180000 +0800" stop="20260809205400 +0800" channel="Z_Cinema_HD">
     <title lang="zh">Zindagi Na Milegi Dobara</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -106308,11 +106295,7 @@
     <title lang="zh">Vaanga Sirikkalam</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809133000 +0800" stop="20260809140000 +0800" channel="Adithya">
-    <title lang="zh">Digital Diary</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260809140000 +0800" stop="20260809143000 +0800" channel="Adithya">
+  <programme start="20260809133000 +0800" stop="20260809143000 +0800" channel="Adithya">
     <title lang="zh">Idaividatha Comedy</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -106345,11 +106328,11 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260809193000 +0800" stop="20260809203000 +0800" channel="Adithya">
-    <title lang="zh">Oru Naal VJ</title>
+    <title lang="zh">Sirigama Pathani</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260809203000 +0800" stop="20260809210000 +0800" channel="Adithya">
-    <title lang="zh">Comedykku Naanga Guarantee</title>
+    <title lang="zh">Adithya Paarunga Sirichitte Irunga</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260809210000 +0800" stop="20260809213000 +0800" channel="Adithya">
@@ -106832,15 +106815,15 @@
     <title lang="zh">V.I.P</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809053000 +0800" stop="20260809073000 +0800" channel="KTV">
+  <programme start="20260809053000 +0800" stop="20260809080000 +0800" channel="KTV">
     <title lang="zh">Chinna Chinna Aasaigal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809073000 +0800" stop="20260809093000 +0800" channel="KTV">
+  <programme start="20260809080000 +0800" stop="20260809100000 +0800" channel="KTV">
     <title lang="zh">Nyayam</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809093000 +0800" stop="20260809103000 +0800" channel="KTV">
+  <programme start="20260809100000 +0800" stop="20260809103000 +0800" channel="KTV">
     <title lang="zh">Kaalai Thaeneer</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -106852,11 +106835,11 @@
     <title lang="zh">Meesaya Murukku</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809163000 +0800" stop="20260809193000 +0800" channel="KTV">
+  <programme start="20260809163000 +0800" stop="20260809193500 +0800" channel="KTV">
     <title lang="zh">Thulladha Manamum Thullum</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809193000 +0800" stop="20260809223000 +0800" channel="KTV">
+  <programme start="20260809193500 +0800" stop="20260809223000 +0800" channel="KTV">
     <title lang="zh">Ayogya</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110476,11 +110459,11 @@
     <title lang="zh">NEWS TIMES 547</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810060300 +0800" stop="20260810063300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810060300 +0800" stop="20260810063200 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">The Great Era</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810063300 +0800" stop="20260810070300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810063200 +0800" stop="20260810070300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">We Are One Ep160</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110504,11 +110487,11 @@
     <title lang="zh">Premium Spectacular</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810100300 +0800" stop="20260810110000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810100300 +0800" stop="20260810105900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810110000 +0800" stop="20260810110300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810105900 +0800" stop="20260810110300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110520,11 +110503,11 @@
     <title lang="zh">Summary of Press</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810120300 +0800" stop="20260810125800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810120300 +0800" stop="20260810125700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810125800 +0800" stop="20260810130300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810125700 +0800" stop="20260810130300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110540,11 +110523,11 @@
     <title lang="zh">GBA Discovery Ep183</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810150300 +0800" stop="20260810160000 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810150300 +0800" stop="20260810155900 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810160000 +0800" stop="20260810160300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810155900 +0800" stop="20260810160300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110592,11 +110575,11 @@
     <title lang="zh">Mainland Q&amp;A</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810210300 +0800" stop="20260810215800 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810210300 +0800" stop="20260810215700 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810215800 +0800" stop="20260810220300 +0800" channel="Phoenix_Chinese_Channel_HD">
+  <programme start="20260810215700 +0800" stop="20260810220300 +0800" channel="Phoenix_Chinese_Channel_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110940,11 +110923,11 @@
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810060300 +0800" stop="20260810063000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810060300 +0800" stop="20260810062900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810063000 +0800" stop="20260810063300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810062900 +0800" stop="20260810063300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110960,11 +110943,11 @@
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810080300 +0800" stop="20260810090000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810080300 +0800" stop="20260810085900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Morning Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810090000 +0800" stop="20260810090300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810085900 +0800" stop="20260810090300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110976,11 +110959,11 @@
     <title lang="zh">News Times</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810100300 +0800" stop="20260810110000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810100300 +0800" stop="20260810105900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810110000 +0800" stop="20260810110300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810105900 +0800" stop="20260810110300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -110996,11 +110979,11 @@
     <title lang="zh">Mainland Q&amp;A</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810120300 +0800" stop="20260810125800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810120300 +0800" stop="20260810125700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Midday Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810125800 +0800" stop="20260810130300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810125700 +0800" stop="20260810130300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -111020,31 +111003,31 @@
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810143000 +0800" stop="20260810143300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810143000 +0800" stop="20260810143200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810143300 +0800" stop="20260810150000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810143200 +0800" stop="20260810145900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810150000 +0800" stop="20260810150300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810145900 +0800" stop="20260810150300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810150300 +0800" stop="20260810160000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810150300 +0800" stop="20260810155900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810160000 +0800" stop="20260810160300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810155900 +0800" stop="20260810160300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810160300 +0800" stop="20260810170000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810160300 +0800" stop="20260810165900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News on the Hour</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810170000 +0800" stop="20260810170300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810165900 +0800" stop="20260810170300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -111072,11 +111055,11 @@
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810190300 +0800" stop="20260810200000 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810190300 +0800" stop="20260810195900 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">China News Live</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810200000 +0800" stop="20260810200300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810195900 +0800" stop="20260810200300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -111092,19 +111075,19 @@
     <title lang="zh">Phoenix Financial Daily Report</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810210300 +0800" stop="20260810215800 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810210300 +0800" stop="20260810214700 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Evening Express</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810215800 +0800" stop="20260810220300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810214700 +0800" stop="20260810220300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Phoenix Weather Forecast</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810220300 +0800" stop="20260810223300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810220300 +0800" stop="20260810223200 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">Chief Editor's Time</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810223300 +0800" stop="20260810230300 +0800" channel="Phoenix_Info_News_HD">
+  <programme start="20260810223200 +0800" stop="20260810230300 +0800" channel="Phoenix_Info_News_HD">
     <title lang="zh">News Talk</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -128268,11 +128251,11 @@
     <title lang="zh">GTWC Europe: Magny-Cours HL</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809180000 +0800" stop="20260809191500 +0800" channel="Astro_Sports_Plus">
+  <programme start="20260809180000 +0800" stop="20260809193000 +0800" channel="Astro_Sports_Plus">
     <title lang="zh">(L) MotoGP Great Britain: Moto2 Race</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260809191500 +0800" stop="20260809211500 +0800" channel="Astro_Sports_Plus">
+  <programme start="20260809193000 +0800" stop="20260809211500 +0800" channel="Astro_Sports_Plus">
     <title lang="zh">(L) MotoGP Great Britain: MotoGP Race</title>
     <desc lang="zh"> </desc>
   </programme>
