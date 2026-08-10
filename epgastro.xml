@@ -142,9 +142,6 @@
 <channel id="KBS_World_HD">
   <display-name lang="zh">KBS World HD</display-name>
 </channel>
-<channel id="Astro_Daebak">
-  <display-name lang="zh">Astro Daebak</display-name>
-</channel>
 <channel id="tvN_HD">
   <display-name lang="zh">tvN HD</display-name>
 </channel>
@@ -1367,31 +1364,31 @@
   <title lang="zh">Life At ... S5 Ep20</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810170000 +0800" stop="20260810175500 +0800" channel="Astro_Ria">
+<programme start="20260810170000 +0800" stop="20260810175400 +0800" channel="Astro_Ria">
   <title lang="zh">Amidst a Snowstorm of Love Ep02 Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810175500 +0800" stop="20260810180000 +0800" channel="Astro_Ria">
+<programme start="20260810175400 +0800" stop="20260810175900 +0800" channel="Astro_Ria">
   <title lang="zh">Kapsul RSVP Kilauan Emas Selebriti Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810180000 +0800" stop="20260810180500 +0800" channel="Astro_Ria">
+<programme start="20260810175900 +0800" stop="20260810180400 +0800" channel="Astro_Ria">
   <title lang="zh">Kapsul RSVP Kilauan Emas Selebriti Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810180500 +0800" stop="20260810183400 +0800" channel="Astro_Ria">
+<programme start="20260810180400 +0800" stop="20260810183300 +0800" channel="Astro_Ria">
   <title lang="zh">Mat Dan Kaki Jalan Ep03</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810183400 +0800" stop="20260810190100 +0800" channel="Astro_Ria">
+<programme start="20260810183300 +0800" stop="20260810190000 +0800" channel="Astro_Ria">
   <title lang="zh">Living With My Manager Ep06 Ep06</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810190100 +0800" stop="20260810195500 +0800" channel="Astro_Ria">
+<programme start="20260810190000 +0800" stop="20260810195400 +0800" channel="Astro_Ria">
   <title lang="zh">Sujud Terakhir Encik Norman Ep21 Ep21</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810195500 +0800" stop="20260810200000 +0800" channel="Astro_Ria">
+<programme start="20260810195400 +0800" stop="20260810200000 +0800" channel="Astro_Ria">
   <title lang="zh">Singgah Set S4 Ep24</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -5623,15 +5620,15 @@
   <title lang="zh">News</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810073000 +0800" stop="20260810080500 +0800" channel="SUN_TV_HD">
+<programme start="20260810073000 +0800" stop="20260810081100 +0800" channel="SUN_TV_HD">
   <title lang="zh">Rasipalan</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810080500 +0800" stop="20260810083000 +0800" channel="SUN_TV_HD">
+<programme start="20260810081100 +0800" stop="20260810083500 +0800" channel="SUN_TV_HD">
   <title lang="zh">Vanakkam Thamizha</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810083000 +0800" stop="20260810093000 +0800" channel="SUN_TV_HD">
+<programme start="20260810083500 +0800" stop="20260810093000 +0800" channel="SUN_TV_HD">
   <title lang="zh">Ramayanam Ep160</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -6539,15 +6536,15 @@
   <title lang="zh">Kaathala Kaathala</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810053000 +0800" stop="20260810073000 +0800" channel="KTV">
+<programme start="20260810053000 +0800" stop="20260810072500 +0800" channel="KTV">
   <title lang="zh">Ellame En Thangachi</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810073000 +0800" stop="20260810093000 +0800" channel="KTV">
+<programme start="20260810072500 +0800" stop="20260810095000 +0800" channel="KTV">
   <title lang="zh">Mannava</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810093000 +0800" stop="20260810103000 +0800" channel="KTV">
+<programme start="20260810095000 +0800" stop="20260810103000 +0800" channel="KTV">
   <title lang="zh">Kaalai Thaeneer</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -11741,22 +11738,6 @@
 </programme>
 <programme start="20260811221000 +0800" stop="20260811234000 +0800" channel="KBS_World_HD">
   <title lang="zh">Hometown Heroes : Baseball Ep07</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260810001500 +0800" stop="20260810021500 +0800" channel="Astro_Daebak">
-  <title lang="zh">Innocence</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260810021500 +0800" stop="20260810034500 +0800" channel="Astro_Daebak">
-  <title lang="zh">I Can See Your Voice S5 Ep06 Ep06</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260810034500 +0800" stop="20260810045500 +0800" channel="Astro_Daebak">
-  <title lang="zh">Mr. Queen Ep11 Ep11</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260810045500 +0800" stop="20260810060000 +0800" channel="Astro_Daebak">
-  <title lang="zh">Mr. Queen Ep12 Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260810011000 +0800" stop="20260810022500 +0800" channel="tvN_HD">
@@ -26895,16 +26876,12 @@
   <title lang="zh">The Bangmed Show S3 eps.15</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810060000 +0800" stop="20260810060000 +0800" channel="Astro_Arena_2">
-  <title lang="zh">(D) Hari ke-3: PUBGM | EWC 2026</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260810060000 +0800" stop="20260810110000 +0800" channel="Astro_Arena_2">
+<programme start="20260810060500 +0800" stop="20260810070500 +0800" channel="Astro_Arena_2">
   <title lang="zh">The Bangmed Show S3 eps.11</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810110000 +0800" stop="20260810120000 +0800" channel="Astro_Arena_2">
-  <title lang="zh">Sorotan Hari Pertama: 5th WDSF MO 2026</title>
+<programme start="20260810070500 +0800" stop="20260810120000 +0800" channel="Astro_Arena_2">
+  <title lang="zh">(D) Hari ke-3: PUBGM | EWC 2026</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260810120000 +0800" stop="20260810121500 +0800" channel="Astro_Arena_2">
@@ -27559,15 +27536,15 @@
   <title lang="zh">PBR UTB 2026: Ep.14</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811070000 +0800" stop="20260811100000 +0800" channel="Astro_Grandstand">
+<programme start="20260811070000 +0800" stop="20260811095000 +0800" channel="Astro_Grandstand">
   <title lang="zh">PL: Chelsea vs Man Utd</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811100000 +0800" stop="20260811110000 +0800" channel="Astro_Grandstand">
+<programme start="20260811095000 +0800" stop="20260811104500 +0800" channel="Astro_Grandstand">
   <title lang="zh">UFC Main Event 322: Shevchenko vs Zhang</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811110000 +0800" stop="20260811133000 +0800" channel="Astro_Grandstand">
+<programme start="20260811104500 +0800" stop="20260811133000 +0800" channel="Astro_Grandstand">
   <title lang="zh">VNL Men&apos;s: QFs: SLO vs TUR</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -27591,7 +27568,7 @@
   <title lang="zh">(L) Friendly: Juventus vs Palermo</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811200000 +0800" stop="20260811230000 +0800" channel="Astro_Grandstand">
+<programme start="20260811200000 +0800" stop="20260811231000 +0800" channel="Astro_Grandstand">
   <title lang="zh">(D) Friuli Venezia Giulia Cup</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -28095,31 +28072,39 @@
   <title lang="zh">MotoGP Great Britain: Practice</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810124000 +0800" stop="20260810155000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260810124000 +0800" stop="20260810160000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">MotoGP 2026: Great Britain: Free Practice 2/Qualifying 1 &amp; 2</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810155000 +0800" stop="20260810180000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260810160000 +0800" stop="20260810164000 +0800" channel="Astro_Sports_Plus">
+  <title lang="zh">World Super Cross Calgary: Preview Show</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260810164000 +0800" stop="20260810192000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">World Super Cross 2026: Rd 1: Calgary</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811000000 +0800" stop="20260811060000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260811000000 +0800" stop="20260811053000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">UFC 2026: Gamrot vs Salkilld</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260811053000 +0800" stop="20260811060000 +0800" channel="Astro_Sports_Plus">
+  <title lang="zh">TP52 Super Series 2026: Ep3</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260811060000 +0800" stop="20260811083000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">UFC Reloaded 327: Prochazka vs Ulberg</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811083000 +0800" stop="20260811092000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260811083000 +0800" stop="20260811093000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">MotoGP 2026: Germany Highlights</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811092000 +0800" stop="20260811124000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260811093000 +0800" stop="20260811125000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">MotoGP Great Britain: Qualifying/MotoGP Sprint</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811124000 +0800" stop="20260811132000 +0800" channel="Astro_Sports_Plus">
+<programme start="20260811125000 +0800" stop="20260811132000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">MotoGP Great Britain: Warm Up</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -28133,6 +28118,10 @@
 </programme>
 <programme start="20260811160000 +0800" stop="20260811180000 +0800" channel="Astro_Sports_Plus">
   <title lang="zh">MotoGP Great Britain: MotoGP Race</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260811180000 +0800" stop="20260811230000 +0800" channel="Astro_Sports_Plus">
+  <title lang="zh">Malaysian Cycling BMX Championships 2026</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260810034000 +0800" stop="20260810095000 +0800" channel="Astro_Sports_Plus_2">
@@ -28151,12 +28140,16 @@
   <title lang="zh">AUBL 2026: SF 1: Tsing Hua University vs Shang Hai Jiao Tong University</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811014000 +0800" stop="20260811034000 +0800" channel="Astro_Sports_Plus_2">
-  <title lang="zh">AUBL 2026: 3/4 Place</title>
+<programme start="20260811013000 +0800" stop="20260811042000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">World Super Cross 2026: Rd 1: Calgary</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260811034000 +0800" stop="20260811060000 +0800" channel="Astro_Sports_Plus_2">
-  <title lang="zh">AUBL 2026: Championship Game</title>
+<programme start="20260811042000 +0800" stop="20260811051000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">Faultless 2026: Ep1</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260811051000 +0800" stop="20260811060000 +0800" channel="Astro_Sports_Plus_2">
+  <title lang="zh">Faultless 2026: Ep2</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260811060000 +0800" stop="20260811070000 +0800" channel="Astro_Sports_Plus_2">
@@ -28207,12 +28200,8 @@
   <title lang="zh">The Championships, Wimbledon: Day 5 HL</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260810060000 +0800" stop="20260810100000 +0800" channel="Astro_Tennis">
+<programme start="20260810060000 +0800" stop="20260810103000 +0800" channel="Astro_Tennis">
   <title lang="zh">(L) ATP 1000&apos;s: National Bank Open: Day 8: Session 2</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260810100000 +0800" stop="20260810103000 +0800" channel="Astro_Tennis">
-  <title lang="zh">The Championships, Wimbledon: Day 6 HL</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260810103000 +0800" stop="20260810220000 +0800" channel="Astro_Tennis">
