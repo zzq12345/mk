@@ -3,12 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20260810153000 +0800" stop="20260810170000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
-    <category lang="en">Program</category>
-    <date>2021</date>
-  </programme>
   <programme start="20260810170000 +0800" stop="20260810180000 +0800" channel="mbc action">
     <title lang="en">برنامج action bodcast</title>
   </programme>
@@ -277,7 +271,7 @@
     <title lang="en">ابرز لقطات الدوري</title>
   </programme>
   <programme start="20260813193000 +0800" stop="20260813203000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
+    <title lang="en">برنامج  Adrenaline</title>
   </programme>
   <programme start="20260813203000 +0800" stop="20260813210000 +0800" channel="mbc action">
     <title lang="en">Kinnikuman: Perfect Origin Arc</title>
@@ -317,5 +311,14 @@
   </programme>
   <programme start="20260813010000 +0800" stop="20260813020000 +0800" channel="mbc action">
     <title lang="en">بودكاست ملح الدوري</title>
+  </programme>
+  <programme start="20260813020000 +0800" stop="20260813030000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
+  <programme start="20260813030000 +0800" stop="20260813043000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+    <category lang="en">Program</category>
+    <date>2021</date>
   </programme>
 </tv>
