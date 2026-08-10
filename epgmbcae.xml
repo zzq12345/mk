@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260810073000 +0800" stop="20260810093000 +0800" channel="mbc max">
-    <title lang="en">Sherlock Holmes: A Game of Shadows</title>
-    <desc lang="en">Sherlock Holmes, the brightest and funniest man in the room,together with his friend Dr. Watson, tries to bring down their toughest foe, Professor Moriarty.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260810100000 +0800" stop="20260810120000 +0800" channel="mbc max">
     <title lang="en">Firewall</title>
     <desc lang="en">(Jack Stanfield) , a chief executive of security at a smallbank, is forced to steal the bank he's meant to protect,or else his family would be killed if he refused. Jack has to save his family and bring back the money.</desc>
@@ -437,5 +431,11 @@
     <desc lang="en">Set on Valentine's Day, the story follows the interwovenlives of couples as well as single people as they go through this highly anticipated and greatly dreaded day.</desc>
     <category lang="en">Movie
                (2010)</category>
+  </programme>
+  <programme start="20260812190000 +0800" stop="20260812210000 +0800" channel="mbc 2">
+    <title lang="en">New Year's Eve</title>
+    <desc lang="en">Didem plans to hold a New Year's party to bring her lovedones together and make up for lost time during the pandemic, but a new quarantine decision shatters her dreams.</desc>
+    <category lang="en">Movie
+               (2022)</category>
   </programme>
 </tv>
