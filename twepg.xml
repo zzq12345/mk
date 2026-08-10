@@ -1689,10 +1689,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260810050000 +0800" stop="20260810073000 +0800" channel="mbc max">
-    <title lang="en">The Last Samurai</title>
-    <desc lang="en">Cynical veteran Nathan Algren is hired to train a Japanesearmy to use firearms against the traditionalist Samurai. After being taken hostage by the Samurai after a bloody confrontation, he grows to respect their culture and joins their ranks.</desc>
-  </programme>
   <programme start="20260810073000 +0800" stop="20260810093000 +0800" channel="mbc max">
     <title lang="en">Sherlock Holmes: A Game of Shadows</title>
     <desc lang="en">Sherlock Holmes, the brightest and funniest man in the room,together with his friend Dr. Watson, tries to bring down their toughest foe, Professor Moriarty.</desc>
@@ -1829,9 +1825,9 @@
     <title lang="en">Ghost in the Shell</title>
     <desc lang="en">Major Mira Killian is the first person of her kind in thenear future: a human salvaged from a horrific accident who has been cyber-enhanced to become an ideal soldier committed to apprehending the most dangerous criminals on the planet.</desc>
   </programme>
-  <programme start="20260810063000 +0800" stop="20260810083000 +0800" channel="mbc 2">
-    <title lang="en">Ip Man 4: The Finale</title>
-    <desc lang="en">The Kung Fu master travels to the United States with hisson, where his student, Bruce Lee, has disturbed the local martial arts community by opening a Wing Chun school.</desc>
+  <programme start="20260812180000 +0800" stop="20260812200000 +0800" channel="mbc max">
+    <title lang="en">Mad Max: Fury Road</title>
+    <desc lang="en">Set in a dystopian landscape, the world has descended intofighting over dwindling resources, a brave woman called Furiosa tries to help the enslaved wives of a tyrant as she searches for her home, reluctantly aided by a drifter called Max.</desc>
   </programme>
   <programme start="20260810083000 +0800" stop="20260810103000 +0800" channel="mbc 2">
     <title lang="en">Dumplin'</title>
@@ -1973,9 +1969,13 @@
     <title lang="en">Laggies</title>
     <desc lang="en">Feeling overwhelmed by the pressures of being an adult,Megan decides to take a break and hides at the house of a new teenager friend and her single father.</desc>
   </programme>
-  <programme start="20260810063000 +0800" stop="20260810080000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  <programme start="20260812163000 +0800" stop="20260812170000 +0800" channel="mbc 2">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+  </programme>
+  <programme start="20260812170000 +0800" stop="20260812190000 +0800" channel="mbc 2">
+    <title lang="en">Valentine's Day</title>
+    <desc lang="en">Set on Valentine's Day, the story follows the interwovenlives of couples as well as single people as they go through this highly anticipated and greatly dreaded day.</desc>
   </programme>
   <programme start="20260810080000 +0800" stop="20260810090000 +0800" channel="mbc action">
     <title lang="en">Ridiculousness</title>
@@ -2209,6 +2209,10 @@
     <title lang="en">بودكاست ملح الدوري</title>
     <desc lang=""/>
   </programme>
+  <programme start="20260812170000 +0800" stop="20260812183000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
   <programme start="20260810060000 +0800" stop="20260810063000 +0800" channel="第一財經">
     <title lang="zh">兩說</title>
     <desc lang="zh">兩說</desc>
@@ -2421,277 +2425,277 @@
     <title lang="zh">創時代</title>
     <desc lang="zh">創時代</desc>
   </programme>
-  <programme start="20260806003000 +0400" stop="20260806023000 +0400" channel="Dubai One">
-    <title lang="en">5 Flights Up</title>
-    <desc lang="en">The best moves in life are the ones you make together.</desc>
+  <programme start="20260810003000 +0400" stop="20260810023000 +0400" channel="Dubai One">
+    <title lang="en">Four Kids and It</title>
+    <desc lang="en">A wish a day brings adventure your way</desc>
   </programme>
-  <programme start="20260806023000 +0400" stop="20260806033000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
+  <programme start="20260810023000 +0400" stop="20260810030000 +0400" channel="Dubai One">
+    <title lang="en">Hollywood News Feed</title>
+    <desc lang="en">Hottest entertainment news of the week!</desc>
   </programme>
-  <programme start="20260806033000 +0400" stop="20260806040000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260806040000 +0400" stop="20260806060000 +0400" channel="Dubai One">
-    <title lang="en">Hotel Artemis</title>
-    <desc lang="en">No guns. No cops. No killing the other patients.</desc>
-  </programme>
-  <programme start="20260806060000 +0400" stop="20260806080000 +0400" channel="Dubai One">
-    <title lang="en">Good People</title>
-    <desc lang="en">Money changes everything.</desc>
-  </programme>
-  <programme start="20260806080000 +0400" stop="20260806090000 +0400" channel="Dubai One">
-    <title lang="en">Professor T</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260806090000 +0400" stop="20260806110000 +0400" channel="Dubai One">
-    <title lang="en">Hotel Artemis</title>
-    <desc lang="en">No guns. No cops. No killing the other patients.</desc>
-  </programme>
-  <programme start="20260806110000 +0400" stop="20260806150000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260806150000 +0400" stop="20260806160000 +0400" channel="Dubai One">
-    <title lang="en">Desperate Mrs. Seonju</title>
-    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
-  </programme>
-  <programme start="20260806160000 +0400" stop="20260806170000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260806170000 +0400" stop="20260806190000 +0400" channel="Dubai One">
-    <title lang="en">5 Flights Up</title>
-    <desc lang="en">The best moves in life are the ones you make together.</desc>
-  </programme>
-  <programme start="20260806190000 +0400" stop="20260806200000 +0400" channel="Dubai One">
-    <title lang="en">Professor T</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260806200000 +0400" stop="20260806203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260806203000 +0400" stop="20260806213000 +0400" channel="Dubai One">
-    <title lang="en">Desperate Mrs. Seonju</title>
-    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
-  </programme>
-  <programme start="20260806213000 +0400" stop="20260806223000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260806223000 +0400" stop="20260807003000 +0400" channel="Dubai One">
-    <title lang="en">Emily</title>
-    <desc lang="en">"Emily" imagines Emily Brontë's own Gothic story that inspired her seminal novel</desc>
-  </programme>
-  <programme start="20260807003000 +0400" stop="20260807023000 +0400" channel="Dubai One">
-    <title lang="en">Above Suspicion</title>
-    <desc lang="en">The true-crime story leading to the first-ever conviction of an F.B.I. Agent for murder.</desc>
-  </programme>
-  <programme start="20260807023000 +0400" stop="20260807033000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260807033000 +0400" stop="20260807040000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260807040000 +0400" stop="20260807060000 +0400" channel="Dubai One">
-    <title lang="en">Emily</title>
-    <desc lang="en">"Emily" imagines Emily Brontë's own Gothic story that inspired her seminal novel</desc>
-  </programme>
-  <programme start="20260807060000 +0400" stop="20260807080000 +0400" channel="Dubai One">
-    <title lang="en">5 Flights Up</title>
-    <desc lang="en">The best moves in life are the ones you make together.</desc>
-  </programme>
-  <programme start="20260807080000 +0400" stop="20260807090000 +0400" channel="Dubai One">
-    <title lang="en">Professor T</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807090000 +0400" stop="20260807110000 +0400" channel="Dubai One">
-    <title lang="en">Emily</title>
-    <desc lang="en">"Emily" imagines Emily Brontë's own Gothic story that inspired her seminal novel</desc>
-  </programme>
-  <programme start="20260807110000 +0400" stop="20260807150000 +0400" channel="Dubai One">
-    <title lang="en">Dubai Eye</title>
-    <desc lang="en">Magazine show featuring news and current affairs</desc>
-  </programme>
-  <programme start="20260807150000 +0400" stop="20260807160000 +0400" channel="Dubai One">
-    <title lang="en">Desperate Mrs. Seonju</title>
-    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
-  </programme>
-  <programme start="20260807160000 +0400" stop="20260807170000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260807170000 +0400" stop="20260807190000 +0400" channel="Dubai One">
-    <title lang="en">Above Suspicion</title>
-    <desc lang="en">The true-crime story leading to the first-ever conviction of an F.B.I. Agent for murder.</desc>
-  </programme>
-  <programme start="20260807190000 +0400" stop="20260807193000 +0400" channel="Dubai One">
-    <title lang="en">The Quest For Knowledge</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807193000 +0400" stop="20260807200000 +0400" channel="Dubai One">
-    <title lang="en">بتوقيت دبي</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260807200000 +0400" stop="20260807203000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260807203000 +0400" stop="20260807213000 +0400" channel="Dubai One">
-    <title lang="en">Desperate Mrs. Seonju</title>
-    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
-  </programme>
-  <programme start="20260807213000 +0400" stop="20260807223000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260807223000 +0400" stop="20260808003000 +0400" channel="Dubai One">
-    <title lang="en">Survivor</title>
-    <desc lang="en">Framed. Abandoned. Hunted.</desc>
-  </programme>
-  <programme start="20260808003000 +0400" stop="20260808023000 +0400" channel="Dubai One">
-    <title lang="en">All the Money in the World</title>
-    <desc lang="en">Everyone wants a cut.</desc>
-  </programme>
-  <programme start="20260808023000 +0400" stop="20260808030000 +0400" channel="Dubai One">
-    <title lang="en">Emirates News Emirates News</title>
-    <desc lang="en">Be the First to Know.</desc>
-  </programme>
-  <programme start="20260808030000 +0400" stop="20260808040000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260808040000 +0400" stop="20260808060000 +0400" channel="Dubai One">
-    <title lang="en">Survivor</title>
-    <desc lang="en">Framed. Abandoned. Hunted.</desc>
-  </programme>
-  <programme start="20260808060000 +0400" stop="20260808080000 +0400" channel="Dubai One">
-    <title lang="en">Above Suspicion</title>
-    <desc lang="en">The true-crime story leading to the first-ever conviction of an F.B.I. Agent for murder.</desc>
-  </programme>
-  <programme start="20260808080000 +0400" stop="20260808083000 +0400" channel="Dubai One">
-    <title lang="en">City of Summits</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260808083000 +0400" stop="20260808123000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260808123000 +0400" stop="20260808143000 +0400" channel="Dubai One">
-    <title lang="en">Survivor</title>
-    <desc lang="en">Framed. Abandoned. Hunted.</desc>
-  </programme>
-  <programme start="20260808143000 +0400" stop="20260808150000 +0400" channel="Dubai One">
+  <programme start="20260810030000 +0400" stop="20260810033000 +0400" channel="Dubai One">
     <title lang="en">Hollywood on Set</title>
     <desc lang="en">The making of blockbuster movies</desc>
   </programme>
-  <programme start="20260808150000 +0400" stop="20260808160000 +0400" channel="Dubai One">
+  <programme start="20260810033000 +0400" stop="20260810040000 +0400" channel="Dubai One">
     <title lang="en">Sweet Diva</title>
     <desc lang="en">She may lose everything. Except the courage to move on.</desc>
   </programme>
-  <programme start="20260808160000 +0400" stop="20260808200000 +0400" channel="Dubai One">
-    <title lang="en">All the Money in the World</title>
-    <desc lang="en">Everyone wants a cut.</desc>
+  <programme start="20260810040000 +0400" stop="20260810060000 +0400" channel="Dubai One">
+    <title lang="en">The Help</title>
+    <desc lang="en">Change begins with a whisper.</desc>
   </programme>
-  <programme start="20260808200000 +0400" stop="20260808210000 +0400" channel="Dubai One">
-    <title lang="en">Homegrown DXB</title>
-    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
-  </programme>
-  <programme start="20260808210000 +0400" stop="20260808213000 +0400" channel="Dubai One">
-    <title lang="en">Freeze</title>
-    <desc lang="en">The challenge to remain calm...</desc>
-  </programme>
-  <programme start="20260808213000 +0400" stop="20260808223000 +0400" channel="Dubai One">
-    <title lang="en">Sweet Diva</title>
-    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
-  </programme>
-  <programme start="20260808223000 +0400" stop="20260809003000 +0400" channel="Dubai One">
-    <title lang="en">Bandit</title>
-    <desc lang="en">Catch him if you can</desc>
-  </programme>
-  <programme start="20260809003000 +0400" stop="20260809023000 +0400" channel="Dubai One">
+  <programme start="20260810060000 +0400" stop="20260810080000 +0400" channel="Dubai One">
     <title lang="en">Taxi 5</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260809023000 +0400" stop="20260809033000 +0400" channel="Dubai One">
+  <programme start="20260810080000 +0400" stop="20260810090000 +0400" channel="Dubai One">
     <title lang="en">Homegrown DXB</title>
     <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
   </programme>
-  <programme start="20260809033000 +0400" stop="20260809040000 +0400" channel="Dubai One">
+  <programme start="20260810090000 +0400" stop="20260810110000 +0400" channel="Dubai One">
+    <title lang="en">The Help</title>
+    <desc lang="en">Change begins with a whisper.</desc>
+  </programme>
+  <programme start="20260810110000 +0400" stop="20260810150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260810150000 +0400" stop="20260810160000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260810160000 +0400" stop="20260810170000 +0400" channel="Dubai One">
     <title lang="en">Sweet Diva</title>
     <desc lang="en">She may lose everything. Except the courage to move on.</desc>
   </programme>
-  <programme start="20260809040000 +0400" stop="20260809060000 +0400" channel="Dubai One">
-    <title lang="en">Bandit</title>
-    <desc lang="en">Catch him if you can</desc>
+  <programme start="20260810170000 +0400" stop="20260810190000 +0400" channel="Dubai One">
+    <title lang="en">Four Kids and It</title>
+    <desc lang="en">A wish a day brings adventure your way</desc>
   </programme>
-  <programme start="20260809060000 +0400" stop="20260809080000 +0400" channel="Dubai One">
-    <title lang="en">Dilili in Paris</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260809080000 +0400" stop="20260809083000 +0400" channel="Dubai One">
-    <title lang="en">Hollywood News Feed</title>
-    <desc lang="en">Hottest entertainment news of the week!</desc>
-  </programme>
-  <programme start="20260809083000 +0400" stop="20260809090000 +0400" channel="Dubai One">
-    <title lang="en">The Quest For Knowledge</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260809090000 +0400" stop="20260809093000 +0400" channel="Dubai One">
+  <programme start="20260810190000 +0400" stop="20260810193000 +0400" channel="Dubai One">
     <title lang="en">Freeze</title>
     <desc lang="en">The challenge to remain calm...</desc>
   </programme>
-  <programme start="20260809093000 +0400" stop="20260809113000 +0400" channel="Dubai One">
-    <title lang="en">All the Money in the World</title>
-    <desc lang="en">Everyone wants a cut.</desc>
+  <programme start="20260810193000 +0400" stop="20260810200000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+    <desc lang=""/>
   </programme>
-  <programme start="20260809113000 +0400" stop="20260809123000 +0400" channel="Dubai One">
-    <title lang="en">Homegrown DXB</title>
-    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  <programme start="20260810200000 +0400" stop="20260810203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
   </programme>
-  <programme start="20260809123000 +0400" stop="20260809143000 +0400" channel="Dubai One">
-    <title lang="en">Above Suspicion</title>
-    <desc lang="en">The true-crime story leading to the first-ever conviction of an F.B.I. Agent for murder.</desc>
+  <programme start="20260810203000 +0400" stop="20260810213000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
   </programme>
-  <programme start="20260809143000 +0400" stop="20260809150000 +0400" channel="Dubai One">
+  <programme start="20260810213000 +0400" stop="20260810223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260810223000 +0400" stop="20260811003000 +0400" channel="Dubai One">
+    <title lang="en">LBJ</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260811003000 +0400" stop="20260811023000 +0400" channel="Dubai One">
+    <title lang="en">Kursk: The Last Mission</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260811023000 +0400" stop="20260811033000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260811033000 +0400" stop="20260811040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260811040000 +0400" stop="20260811060000 +0400" channel="Dubai One">
+    <title lang="en">LBJ</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260811060000 +0400" stop="20260811080000 +0400" channel="Dubai One">
+    <title lang="en">Four Kids and It</title>
+    <desc lang="en">A wish a day brings adventure your way</desc>
+  </programme>
+  <programme start="20260811080000 +0400" stop="20260811083000 +0400" channel="Dubai One">
     <title lang="en">بتوقيت دبي</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260809150000 +0400" stop="20260809160000 +0400" channel="Dubai One">
+  <programme start="20260811083000 +0400" stop="20260811090000 +0400" channel="Dubai One">
+    <title lang="en">City of Summits</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260811090000 +0400" stop="20260811110000 +0400" channel="Dubai One">
+    <title lang="en">LBJ</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260811110000 +0400" stop="20260811150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260811150000 +0400" stop="20260811160000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260811160000 +0400" stop="20260811170000 +0400" channel="Dubai One">
     <title lang="en">Sweet Diva</title>
     <desc lang="en">She may lose everything. Except the courage to move on.</desc>
   </programme>
-  <programme start="20260809160000 +0400" stop="20260809180000 +0400" channel="Dubai One">
-    <title lang="en">Bandit</title>
-    <desc lang="en">Catch him if you can</desc>
-  </programme>
-  <programme start="20260809180000 +0400" stop="20260809200000 +0400" channel="Dubai One">
-    <title lang="en">Dilili in Paris</title>
+  <programme start="20260811170000 +0400" stop="20260811190000 +0400" channel="Dubai One">
+    <title lang="en">Kursk: The Last Mission</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260809200000 +0400" stop="20260809203000 +0400" channel="Dubai One">
+  <programme start="20260811190000 +0400" stop="20260811200000 +0400" channel="Dubai One">
+    <title lang="en">Homegrown DXB</title>
+    <desc lang="en">Home Grown Dubai will highlight the businesses and people who are not only making a difference in our country but across the world.</desc>
+  </programme>
+  <programme start="20260811200000 +0400" stop="20260811203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260811203000 +0400" stop="20260811213000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260811213000 +0400" stop="20260811223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260811223000 +0400" stop="20260812003000 +0400" channel="Dubai One">
+    <title lang="en">Dangerous</title>
+    <desc lang="en">Killer instincts don't expire</desc>
+  </programme>
+  <programme start="20260812003000 +0400" stop="20260812023000 +0400" channel="Dubai One">
+    <title lang="en">Manhattan Night</title>
+    <desc lang="en">No reporter can resist a siren.</desc>
+  </programme>
+  <programme start="20260812023000 +0400" stop="20260812033000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260812033000 +0400" stop="20260812040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260812040000 +0400" stop="20260812060000 +0400" channel="Dubai One">
+    <title lang="en">Dangerous</title>
+    <desc lang="en">Killer instincts don't expire</desc>
+  </programme>
+  <programme start="20260812060000 +0400" stop="20260812080000 +0400" channel="Dubai One">
+    <title lang="en">Kursk: The Last Mission</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260812080000 +0400" stop="20260812083000 +0400" channel="Dubai One">
     <title lang="en">The Mysteries Of The Brain</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260809203000 +0400" stop="20260809210000 +0400" channel="Dubai One">
-    <title lang="en">Hollywood on Set</title>
-    <desc lang="en">The making of blockbuster movies</desc>
+  <programme start="20260812083000 +0400" stop="20260812090000 +0400" channel="Dubai One">
+    <title lang="en">Freeze</title>
+    <desc lang="en">The challenge to remain calm...</desc>
   </programme>
-  <programme start="20260809210000 +0400" stop="20260809213000 +0400" channel="Dubai One">
-    <title lang="en">Hollywood News Feed</title>
-    <desc lang="en">Hottest entertainment news of the week!</desc>
+  <programme start="20260812090000 +0400" stop="20260812110000 +0400" channel="Dubai One">
+    <title lang="en">Dangerous</title>
+    <desc lang="en">Killer instincts don't expire</desc>
   </programme>
-  <programme start="20260809213000 +0400" stop="20260809223000 +0400" channel="Dubai One">
+  <programme start="20260812110000 +0400" stop="20260812150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260812150000 +0400" stop="20260812160000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260812160000 +0400" stop="20260812170000 +0400" channel="Dubai One">
     <title lang="en">Sweet Diva</title>
     <desc lang="en">She may lose everything. Except the courage to move on.</desc>
   </programme>
-  <programme start="20260809223000 +0400" stop="20260802000000 +0400" channel="Dubai One">
-    <title lang="en">The Help</title>
-    <desc lang="en">Change begins with a whisper.</desc>
+  <programme start="20260812170000 +0400" stop="20260812190000 +0400" channel="Dubai One">
+    <title lang="en">Manhattan Night</title>
+    <desc lang="en">No reporter can resist a siren.</desc>
+  </programme>
+  <programme start="20260812190000 +0400" stop="20260812200000 +0400" channel="Dubai One">
+    <title lang="en">Professor T</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260812200000 +0400" stop="20260812203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260812203000 +0400" stop="20260812213000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260812213000 +0400" stop="20260812223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260812223000 +0400" stop="20260813003000 +0400" channel="Dubai One">
+    <title lang="en">Quiz Lady</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260813003000 +0400" stop="20260813023000 +0400" channel="Dubai One">
+    <title lang="en">Cold Brook</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260813023000 +0400" stop="20260813033000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260813033000 +0400" stop="20260813040000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260813040000 +0400" stop="20260813060000 +0400" channel="Dubai One">
+    <title lang="en">Quiz Lady</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260813060000 +0400" stop="20260813080000 +0400" channel="Dubai One">
+    <title lang="en">Manhattan Night</title>
+    <desc lang="en">No reporter can resist a siren.</desc>
+  </programme>
+  <programme start="20260813080000 +0400" stop="20260813090000 +0400" channel="Dubai One">
+    <title lang="en">Professor T</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260813090000 +0400" stop="20260813110000 +0400" channel="Dubai One">
+    <title lang="en">Quiz Lady</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260813110000 +0400" stop="20260813150000 +0400" channel="Dubai One">
+    <title lang="en">Dubai Eye</title>
+    <desc lang="en">Magazine show featuring news and current affairs</desc>
+  </programme>
+  <programme start="20260813150000 +0400" stop="20260813160000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260813160000 +0400" stop="20260813170000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260813170000 +0400" stop="20260813190000 +0400" channel="Dubai One">
+    <title lang="en">Cold Brook</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260813190000 +0400" stop="20260813200000 +0400" channel="Dubai One">
+    <title lang="en">Professor T</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260813200000 +0400" stop="20260813203000 +0400" channel="Dubai One">
+    <title lang="en">Emirates News Emirates News</title>
+    <desc lang="en">Be the First to Know.</desc>
+  </programme>
+  <programme start="20260813203000 +0400" stop="20260813213000 +0400" channel="Dubai One">
+    <title lang="en">Desperate Mrs. Seonju</title>
+    <desc lang="en">Mrs. Seonju is desperate to start over after a failed marriage.</desc>
+  </programme>
+  <programme start="20260813213000 +0400" stop="20260813223000 +0400" channel="Dubai One">
+    <title lang="en">Sweet Diva</title>
+    <desc lang="en">She may lose everything. Except the courage to move on.</desc>
+  </programme>
+  <programme start="20260813223000 +0400" stop="20260814000000 +0400" channel="Dubai One">
+    <title lang="en">5lbs of Pressure</title>
+    <desc lang="en">Some cycles are never broken</desc>
   </programme>
   <programme start="20260727003000 +0800" stop="20260727010000 +0800" channel="HOY 76">
     <title lang="zh">牛市</title>
@@ -117081,28 +117085,20 @@
     <title lang="zh">V-League 2025-2026: Men</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810163000 +0700" stop="20260810170000 +0700" channel="Sportstars">
-    <title lang="zh">Golden Fit</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260810170000 +0700" stop="20260810173000 +0700" channel="Sportstars">
-    <title lang="zh">Bloopers</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260810173000 +0700" stop="20260810200000 +0700" channel="Sportstars">
+  <programme start="20260810163000 +0700" stop="20260810182500 +0700" channel="Sportstars">
     <title lang="zh">Best Of Badminton</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810200000 +0700" stop="20260810203000 +0700" channel="Sportstars">
+  <programme start="20260810182500 +0700" stop="20260810203000 +0700" channel="Sportstars">
+    <title lang="zh">AUBL 2026: Finals (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260810203000 +0700" stop="20260810210000 +0700" channel="Sportstars">
     <title lang="zh">Sports Today</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810203000 +0700" stop="20260810223000 +0700" channel="Sportstars">
+  <programme start="20260810210000 +0700" stop="20260810230000 +0700" channel="Sportstars">
     <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260811003000 +0700" stop="20260811010000 +0700" channel="Sportstars">
-    <title lang="zh">Bloopers</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260811010000 +0700" stop="20260811013000 +0700" channel="Sportstars">
@@ -117809,28 +117805,20 @@
     <title lang="zh">V-League 2025-2026: Men</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810163000 +0700" stop="20260810170000 +0700" channel="Sportstars HD">
-    <title lang="zh">Golden Fit</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260810170000 +0700" stop="20260810173000 +0700" channel="Sportstars HD">
-    <title lang="zh">Bloopers</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260810173000 +0700" stop="20260810200000 +0700" channel="Sportstars HD">
+  <programme start="20260810163000 +0700" stop="20260810182500 +0700" channel="Sportstars HD">
     <title lang="zh">Best Of Badminton</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810200000 +0700" stop="20260810203000 +0700" channel="Sportstars HD">
+  <programme start="20260810182500 +0700" stop="20260810203000 +0700" channel="Sportstars HD">
+    <title lang="zh">AUBL 2026: Finals (L)</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260810203000 +0700" stop="20260810210000 +0700" channel="Sportstars HD">
     <title lang="zh">Sports Today</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260810203000 +0700" stop="20260810223000 +0700" channel="Sportstars HD">
+  <programme start="20260810210000 +0700" stop="20260810230000 +0700" channel="Sportstars HD">
     <title lang="zh">Satu Hati Untuk Garuda</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260811003000 +0700" stop="20260811010000 +0700" channel="Sportstars HD">
-    <title lang="zh">Bloopers</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260811010000 +0700" stop="20260811013000 +0700" channel="Sportstars HD">

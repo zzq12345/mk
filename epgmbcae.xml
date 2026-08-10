@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260810050000 +0800" stop="20260810073000 +0800" channel="mbc max">
-    <title lang="en">The Last Samurai</title>
-    <desc lang="en">Cynical veteran Nathan Algren is hired to train a Japanesearmy to use firearms against the traditionalist Samurai. After being taken hostage by the Samurai after a bloody confrontation, he grows to respect their culture and joins their ranks.</desc>
-    <category lang="en">Movie
-               (2003)</category>
-  </programme>
   <programme start="20260810073000 +0800" stop="20260810093000 +0800" channel="mbc max">
     <title lang="en">Sherlock Holmes: A Game of Shadows</title>
     <desc lang="en">Sherlock Holmes, the brightest and funniest man in the room,together with his friend Dr. Watson, tries to bring down their toughest foe, Professor Moriarty.</desc>
@@ -216,11 +210,11 @@
     <category lang="en">Movie
                (2017)</category>
   </programme>
-  <programme start="20260810063000 +0800" stop="20260810083000 +0800" channel="mbc 2">
-    <title lang="en">Ip Man 4: The Finale</title>
-    <desc lang="en">The Kung Fu master travels to the United States with hisson, where his student, Bruce Lee, has disturbed the local martial arts community by opening a Wing Chun school.</desc>
+  <programme start="20260812180000 +0800" stop="20260812200000 +0800" channel="mbc max">
+    <title lang="en">Mad Max: Fury Road</title>
+    <desc lang="en">Set in a dystopian landscape, the world has descended intofighting over dwindling resources, a brave woman called Furiosa tries to help the enslaved wives of a tyrant as she searches for her home, reluctantly aided by a drifter called Max.</desc>
     <category lang="en">Movie
-               (2019)</category>
+               (2015)</category>
   </programme>
   <programme start="20260810083000 +0800" stop="20260810103000 +0800" channel="mbc 2">
     <title lang="en">Dumplin'</title>
@@ -431,5 +425,17 @@
     <desc lang="en">Feeling overwhelmed by the pressures of being an adult,Megan decides to take a break and hides at the house of a new teenager friend and her single father.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260812163000 +0800" stop="20260812170000 +0800" channel="mbc 2">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260812170000 +0800" stop="20260812190000 +0800" channel="mbc 2">
+    <title lang="en">Valentine's Day</title>
+    <desc lang="en">Set on Valentine's Day, the story follows the interwovenlives of couples as well as single people as they go through this highly anticipated and greatly dreaded day.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
 </tv>
