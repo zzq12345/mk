@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260811140000 +0800" stop="20260811153500 +0800" channel="mbc max">
-    <title lang="en">Winter's Bone</title>
-    <desc lang="en">When her father vanishes after putting their family home onthe line, the teenage Ree is left with no choice but to go looking for him in the hopes of saving her family from a grim fate.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260811160000 +0800" stop="20260811173000 +0800" channel="mbc max">
     <title lang="en">211</title>
     <desc lang="en">When a group of ex-mercenaries carry out a risky bank heist,police detectives Steve MacAvoy and Mike Chandler find themselves dreadfully unprepared.</desc>
@@ -209,6 +203,18 @@
     <desc lang="en">Sports agent Jerry Maguire is fired after he exposes thedishonesty and corruption that rules his career field. As he loses everything, he tries to prove the success of his new management philosophy with the help of his secretary and the one client who agreed not to fire him.</desc>
     <category lang="en">Movie
                (1996)</category>
+  </programme>
+  <programme start="20260814003500 +0800" stop="20260814010000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260814010000 +0800" stop="20260814033000 +0800" channel="mbc max">
+    <title lang="en">King Richard</title>
+    <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
   <programme start="20260811150000 +0800" stop="20260811164500 +0800" channel="mbc 2">
     <title lang="en">The Fast and the Furious</title>
@@ -431,5 +437,11 @@
     <desc lang="en">After their blind date goes horribly bad, Jim and Laurendecide they should never see each other again, until they get stuck with their respective kids at a family resort.</desc>
     <category lang="en">Movie
                (2014)</category>
+  </programme>
+  <programme start="20260814010000 +0800" stop="20260814030000 +0800" channel="mbc 2">
+    <title lang="en">Life as We Know It</title>
+    <desc lang="en">After an unsuccessful date set up by their common friends,Holly and Eric are shocked when life brings them together when their friends die in an accident, leaving them as their child’s sole caretakers. Their reluctance soon turns into joy as little Sophie proves the catalyst to bring them together.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
 </tv>
