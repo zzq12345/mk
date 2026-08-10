@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260811173000 +0800" stop="20260811180000 +0800" channel="mbc max">
-    <title lang="en">Action Zone</title>
-    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
-    <category lang="en">Program
-               (2010)</category>
-  </programme>
   <programme start="20260811180000 +0800" stop="20260811193000 +0800" channel="mbc max">
     <title lang="en">Caged</title>
     <desc lang="en">An African-American psychiatrist is imprisoned and placed insolitary confinement after being convicted of killing his wife. He finds himself haunted by inner demons and is pushed to the brink by an abusive guard.</desc>
@@ -209,6 +203,12 @@
     <desc lang="en">Based on a true story; a look into the rise of tennis starsVenus and Serena Williams, after many years of training under their father, Richard Williams.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260814033000 +0800" stop="20260814053000 +0800" channel="mbc max">
+    <title lang="en">Edge of Tomorrow</title>
+    <desc lang="en">Major William Cage finds himself  thrown into a timeloop-forcing him to fight aliens in the same brutal battle over and over, and together with Special Forces warrior Rita Vrataski they must find a way to defeat them.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
   <programme start="20260811170000 +0800" stop="20260811190000 +0800" channel="mbc 2">
     <title lang="en">2 Fast 2 Furious</title>
