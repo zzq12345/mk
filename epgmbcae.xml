@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260811093000 +0800" stop="20260811113500 +0800" channel="mbc max">
-    <title lang="en">Jerry Maguire</title>
-    <desc lang="en">Sports agent Jerry Maguire is fired after he exposes thedishonesty and corruption that rules his career field. As he loses everything, he tries to prove the success of his new management philosophy with the help of his secretary and the one client who agreed not to fire him.</desc>
-    <category lang="en">Movie
-               (1996)</category>
-  </programme>
   <programme start="20260811113500 +0800" stop="20260811120000 +0800" channel="mbc max">
     <title lang="en">Action Zone</title>
     <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
@@ -192,9 +186,9 @@
     <category lang="en">Movie
                (2023)</category>
   </programme>
-  <programme start="20260811083000 +0800" stop="20260811110000 +0800" channel="mbc 2">
-    <title lang="en">Godzilla</title>
-    <desc lang="en">An epic rebirth to Toho’s iconic Godzilla, the film pits theworld’s most famous monster against malevolent creatures who, bolstered by humanity’s scientific arrogance, threaten our very existence.</desc>
+  <programme start="20260813193000 +0800" stop="20260813213000 +0800" channel="mbc max">
+    <title lang="en">Edge of Tomorrow</title>
+    <desc lang="en">Major William Cage finds himself  thrown into a timeloop-forcing him to fight aliens in the same brutal battle over and over, and together with Special Forces warrior Rita Vrataski they must find a way to defeat them.</desc>
     <category lang="en">Movie
                (2014)</category>
   </programme>
@@ -419,5 +413,11 @@
     <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
     <category lang="en">Program
                (2012)</category>
+  </programme>
+  <programme start="20260813193000 +0800" stop="20260813213000 +0800" channel="mbc 2">
+    <title lang="en">The Informant</title>
+    <desc lang="en">The US government decides to pursue the giant of the worldof agriculture,and arrest him for illegal price-fixing, based on many complaints and reports submitted to the government and decides to put an informant to investigate this.</desc>
+    <category lang="en">Movie
+               (2009)</category>
   </programme>
 </tv>
