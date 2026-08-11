@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260812120000 +0800" stop="20260812140000 +0800" channel="mbc max">
-    <title lang="en">42</title>
-    <desc lang="en">The film follows the life of baseball player JackieRobinson, and how he wrote down history as the first African-American to play in Major League,playing with the Brooklyn Dodger under the management of Branch Rickey.</desc>
-    <category lang="en">Movie
-               (2013)</category>
-  </programme>
   <programme start="20260812140000 +0800" stop="20260812160000 +0800" channel="mbc max">
     <title lang="en">The Fighter</title>
     <desc lang="en">The life story of Mickey Ward, and his relationship with hisbrother Dicky, who is more famous than him in the boxing ring, as well as his exposure to a world of poverty, crime and drugs.</desc>
@@ -192,11 +186,11 @@
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260812130000 +0800" stop="20260812143500 +0800" channel="mbc 2">
-    <title lang="en">Playing for Keeps</title>
-    <desc lang="en">George Dryer, a charming former Scottish football star, isdown on his luck and unable to find a sports-related job to pay his bills. He has a minimal connection with his son, Lewis, but as his ex-wife, Stacie, decides to remarry, he gets despondent and decides to pull his life together for his son and to win her back. To do this, he must rise above temptations, bribery and wrong career choices.</desc>
+  <programme start="20260814233000 +0800" stop="20260815010500 +0800" channel="mbc max">
+    <title lang="en">Ghost in the Shell</title>
+    <desc lang="en">Major Mira Killian is the first person of her kind in thenear future: a human salvaged from a horrific accident who has been cyber-enhanced to become an ideal soldier committed to apprehending the most dangerous criminals on the planet.</desc>
     <category lang="en">Movie
-               (2012)</category>
+               (2017)</category>
   </programme>
   <programme start="20260812150000 +0800" stop="20260812163500 +0800" channel="mbc 2">
     <title lang="en">Last Christmas</title>
@@ -419,5 +413,17 @@
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
     <category lang="en">Program
                (2008)</category>
+  </programme>
+  <programme start="20260814233000 +0800" stop="20260815010000 +0800" channel="mbc 2">
+    <title lang="en">Puss in Boots</title>
+    <desc lang="en">In an attempt to steal the goose that lays golden eggs, thefamous warrior, lover, and outlaw Cat-in-Boots begins his adventure alongside the tough and street-smart Kitty Softpaws and the mastermind Humpty Dumpty.</desc>
+    <category lang="en">Movie - Cartoon
+               (2011)</category>
+  </programme>
+  <programme start="20260815010000 +0800" stop="20260815023000 +0800" channel="mbc 2">
+    <title lang="en">Ace Ventura: When Nature Calls</title>
+    <desc lang="en">Ace Ventura is drawn out of isolation by the mysteriousdisappearance of a rare white bat that happens to be sacred for an African tribe. As he tries to stave off a war between two tribes, his involvement stirs its own kind of trouble.</desc>
+    <category lang="en">Movie
+               (1995)</category>
   </programme>
 </tv>
