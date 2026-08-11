@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260811073000 +0800" stop="20260811090000 +0800" channel="mbc max">
-    <title lang="en">Caged</title>
-    <desc lang="en">An African-American psychiatrist is imprisoned and placed insolitary confinement after being convicted of killing his wife. He finds himself haunted by inner demons and is pushed to the brink by an abusive guard.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260811093000 +0800" stop="20260811113500 +0800" channel="mbc max">
     <title lang="en">Jerry Maguire</title>
     <desc lang="en">Sports agent Jerry Maguire is fired after he exposes thedishonesty and corruption that rules his career field. As he loses everything, he tries to prove the success of his new management philosophy with the help of his secretary and the one client who agreed not to fire him.</desc>
@@ -192,11 +186,11 @@
     <category lang="en">Movie
                (2021)</category>
   </programme>
-  <programme start="20260811063000 +0800" stop="20260811083000 +0800" channel="mbc 2">
-    <title lang="en">The Fast and the Furious</title>
-    <desc lang="en">Cop Brian O'Conner is assigned with stopping a group ofcar-hijackers led by Dominic Toretto. However, he gets enamored with the street-racing society, and he has to decide where does his loyalty lie.</desc>
+  <programme start="20260813180000 +0800" stop="20260813193000 +0800" channel="mbc max">
+    <title lang="en">Cocaine Bear</title>
+    <desc lang="en">Fate strangely brings together a group of cops, criminals,tourists and teens in a Georgia forest, when a massive bear goes on killing spree after accidentally ingesting drugs.</desc>
     <category lang="en">Movie
-               (2001)</category>
+               (2023)</category>
   </programme>
   <programme start="20260811083000 +0800" stop="20260811110000 +0800" channel="mbc 2">
     <title lang="en">Godzilla</title>
@@ -413,5 +407,17 @@
     <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
     <category lang="en">Program
                (1998)</category>
+  </programme>
+  <programme start="20260813173000 +0800" stop="20260813191000 +0800" channel="mbc 2">
+    <title lang="en">Bombshell</title>
+    <desc lang="en">A group of women try to take on Fox News head, Roger Ailes,due to his administration policy and the toxic male culture he is spreading in the network.</desc>
+    <category lang="en">Movie
+               (2019)</category>
+  </programme>
+  <programme start="20260813191000 +0800" stop="20260813193000 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
+    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
+    <category lang="en">Program
+               (2012)</category>
   </programme>
 </tv>
