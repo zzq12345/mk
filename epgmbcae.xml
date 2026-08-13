@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260814180000 +0800" stop="20260814193000 +0800" channel="mbc max">
-    <title lang="en">Cocaine Bear</title>
-    <desc lang="en">Fate strangely brings together a group of cops, criminals,tourists and teens in a Georgia forest, when a massive bear goes on killing spree after accidentally ingesting drugs.</desc>
-    <category lang="en">Movie
-               (2023)</category>
-  </programme>
   <programme start="20260814193000 +0800" stop="20260814213000 +0800" channel="mbc max">
     <title lang="en">Edge of Tomorrow</title>
     <desc lang="en">Major William Cage finds himself  thrown into a timeloop-forcing him to fight aliens in the same brutal battle over and over, and together with Special Forces warrior Rita Vrataski they must find a way to defeat them.</desc>
@@ -198,17 +192,11 @@
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260814173000 +0800" stop="20260814191000 +0800" channel="mbc 2">
-    <title lang="en">Bombshell</title>
-    <desc lang="en">A group of women try to take on Fox News head, Roger Ailes,due to his administration policy and the toxic male culture he is spreading in the network.</desc>
+  <programme start="20260817043000 +0800" stop="20260817063000 +0800" channel="mbc max">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc lang="en">Harry and his friends set out to destroy Voldemort, so goodconquers over evil. Voldemort discovers their plan and the battle begins between the forces of good and evil as events unfold</desc>
     <category lang="en">Movie
-               (2019)</category>
-  </programme>
-  <programme start="20260814191000 +0800" stop="20260814193000 +0800" channel="mbc 2">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-    <category lang="en">Program
-               (2012)</category>
+               (2011)</category>
   </programme>
   <programme start="20260814193000 +0800" stop="20260814213000 +0800" channel="mbc 2">
     <title lang="en">The Informant</title>
@@ -443,5 +431,11 @@
     <desc lang="en">Two businessmen are trying to get the US Congressman Cam(Will Ferrell) out of the way ahead of the next election in an attempt to take control of the North Carolina area and gain greater power, by pushing Marty Huggins (Zach Galifianakis) to run against him.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260817043000 +0800" stop="20260817060000 +0800" channel="mbc 2">
+    <title lang="en">The Hustle</title>
+    <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
