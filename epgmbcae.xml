@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260814060000 +0800" stop="20260814070000 +0800" channel="mbc max">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
-  </programme>
   <programme start="20260814070000 +0800" stop="20260814093000 +0800" channel="mbc max">
     <title lang="en">House of Gucci</title>
     <desc lang="en">An account of Maurizio Gucci’s murder at the hands of ahitman hired by his ex-wife Patrizia Reggiani and the fate of the Gucci brand following his death, as Maurizio was the last of the Gucci family to run the luxury fashion house.</desc>
@@ -203,12 +197,6 @@
     <desc lang="en">In a dystopian post-apocalyptic future in the nation ofPanem, Katniss Everdeen (Lawrence) volunteers to take her younger sister's place in the Hunger Games, where boys and girls between the ages of 12 and 18 are required to fight to death in a televised annual event until there is one remaining who will be crowned the victor.</desc>
     <category lang="en">Movie
                (2012)</category>
-  </programme>
-  <programme start="20260814063000 +0800" stop="20260814070000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program
-               (2008)</category>
   </programme>
   <programme start="20260814070000 +0800" stop="20260814090000 +0800" channel="mbc 2">
     <title lang="en">The Informant</title>
@@ -449,5 +437,11 @@
     <desc lang="en">Today, Kaulder is the last witch hunter remaining, and hasspent centuries hunting down rogue witches, all the while yearning for his long-lost loved ones. However, unbeknownst to Kaulder, the Queen Witch is resurrected and seeks revenge on her killer causing an epic battle that will determine the survival of the human race.</desc>
     <category lang="en">Movie
                (2015)</category>
+  </programme>
+  <programme start="20260816170000 +0800" stop="20260816183000 +0800" channel="mbc 2">
+    <title lang="en">Underworld: Rise of the Lycans</title>
+    <desc lang="en">In continuation of the first two parts of the same series,bloody events unfold between bloodsucking vampires and their slaves, the Lycans. The Lycans are led by Lucian, who wants to destroy the vampires' leader, whose daughter is in love with Lucian. She joins in the bloody wars with her lover against her father.</desc>
+    <category lang="en">Movie
+               (2009)</category>
   </programme>
 </tv>
