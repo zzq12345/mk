@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260814193000 +0800" stop="20260814213000 +0800" channel="mbc max">
-    <title lang="en">Edge of Tomorrow</title>
-    <desc lang="en">Major William Cage finds himself  thrown into a timeloop-forcing him to fight aliens in the same brutal battle over and over, and together with Special Forces warrior Rita Vrataski they must find a way to defeat them.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260814213000 +0800" stop="20260814233000 +0800" channel="mbc max">
     <title lang="en">Mad Max: Fury Road</title>
     <desc lang="en">Set in a dystopian landscape, the world has descended intofighting over dwindling resources, a brave woman called Furiosa tries to help the enslaved wives of a tyrant as she searches for her home, reluctantly aided by a drifter called Max.</desc>
@@ -198,11 +192,17 @@
     <category lang="en">Movie
                (2011)</category>
   </programme>
-  <programme start="20260814193000 +0800" stop="20260814213000 +0800" channel="mbc 2">
-    <title lang="en">The Informant</title>
-    <desc lang="en">The US government decides to pursue the giant of the worldof agriculture,and arrest him for illegal price-fixing, based on many complaints and reports submitted to the government and decides to put an informant to investigate this.</desc>
+  <programme start="20260817063000 +0800" stop="20260817070000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program
+               (1998)</category>
+  </programme>
+  <programme start="20260817070000 +0800" stop="20260817090000 +0800" channel="mbc max">
+    <title lang="en">Green Book</title>
+    <desc lang="en">An Italian American bouncer is hired by an African Americanpianist to accompany him around his venues in the 1960s when prejudice was still pervasive in southern America. Through their travels, they get closer.</desc>
     <category lang="en">Movie
-               (2009)</category>
+               (2018)</category>
   </programme>
   <programme start="20260814213000 +0800" stop="20260814230000 +0800" channel="mbc 2">
     <title lang="en">Laggies</title>
@@ -437,5 +437,17 @@
     <desc lang="en">A remake of the 1988 “Dirty little scoundrels”, starringAnne Hathaway and Rebel Wilson as two scam artist  trying their best shot at conning a filthy rich Tech wonder.</desc>
     <category lang="en">Movie
                (2019)</category>
+  </programme>
+  <programme start="20260817060000 +0800" stop="20260817063000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program
+               (2008)</category>
+  </programme>
+  <programme start="20260817063000 +0800" stop="20260817083000 +0800" channel="mbc 2">
+    <title lang="en">Overboard</title>
+    <desc lang="en">A spoiled, wealthy yacht owner is thrown overboard and loseshis memory when a single working mother decides to take advantage of the situation and tries to convince him that they are married.</desc>
+    <category lang="en">Movie
+               (2018)</category>
   </programme>
 </tv>
