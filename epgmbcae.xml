@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260814033000 +0800" stop="20260814060000 +0800" channel="mbc max">
-    <title lang="en">Princess Mononoke</title>
-    <desc lang="en">When Ashitaka is afflicted by a curse, his search for a curelands him in the middle of a war between humans and the forest gods. He only has the best of intentions when he tries to broker peace between them, but good intentions don't always lead to a good outcome.</desc>
-    <category lang="en">Movie - Cartoon
-               (1997)</category>
-  </programme>
   <programme start="20260814060000 +0800" stop="20260814070000 +0800" channel="mbc max">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
@@ -204,11 +198,11 @@
     <category lang="en">Movie
                (2017)</category>
   </programme>
-  <programme start="20260814043000 +0800" stop="20260814063000 +0800" channel="mbc 2">
-    <title lang="en">Miss Sloane</title>
-    <desc lang="en">A successful lobbyist finds herself in the fight of her lifewhen she puts her strategic talents into trying to push for legislation to control guns. But as the powerful gun lobby rises up against her, she discovers that she is going against people who are willing to go to any lengths to stop her.</desc>
+  <programme start="20260816160000 +0800" stop="20260816183000 +0800" channel="mbc max">
+    <title lang="en">The Hunger Games</title>
+    <desc lang="en">In a dystopian post-apocalyptic future in the nation ofPanem, Katniss Everdeen (Lawrence) volunteers to take her younger sister's place in the Hunger Games, where boys and girls between the ages of 12 and 18 are required to fight to death in a televised annual event until there is one remaining who will be crowned the victor.</desc>
     <category lang="en">Movie
-               (2016)</category>
+               (2012)</category>
   </programme>
   <programme start="20260814063000 +0800" stop="20260814070000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -443,5 +437,17 @@
     <desc lang="en">After a failed climate-change experiment , ice age destroyslife on the planet except some survivors, who take a huge train (Snowpiercer) as a place of survival. The elite live at the front, while the poor live at the back. But 17 years later, the tail's inhabitants start a rebellion led by Curtis (Chris Evans).</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260816145000 +0800" stop="20260816150000 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
+    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
+    <category lang="en">Program
+               (2012)</category>
+  </programme>
+  <programme start="20260816150000 +0800" stop="20260816163500 +0800" channel="mbc 2">
+    <title lang="en">The Last Witch Hunter</title>
+    <desc lang="en">Today, Kaulder is the last witch hunter remaining, and hasspent centuries hunting down rogue witches, all the while yearning for his long-lost loved ones. However, unbeknownst to Kaulder, the Queen Witch is resurrected and seeks revenge on her killer causing an epic battle that will determine the survival of the human race.</desc>
+    <category lang="en">Movie
+               (2015)</category>
   </programme>
 </tv>
