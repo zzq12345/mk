@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260814013000 +0800" stop="20260814033000 +0800" channel="mbc max">
-    <title lang="en">The Green Hornet</title>
-    <desc lang="en">Britt Reid is the under-achieving son of an LA mediamagnate. The unanticipated death of his father kick-starts his life as he decides to use resources inherited from his father to fight city crime. In his efforts to fight crime Reid recruits the help of his father’s mechanic and a criminologist. Disputes threaten the crime-fighting trio before they have a chance to make a difference.</desc>
-    <category lang="en">Movie
-               (2011)</category>
-  </programme>
   <programme start="20260814033000 +0800" stop="20260814060000 +0800" channel="mbc max">
     <title lang="en">Princess Mononoke</title>
     <desc lang="en">When Ashitaka is afflicted by a curse, his search for a curelands him in the middle of a war between humans and the forest gods. He only has the best of intentions when he tries to broker peace between them, but good intentions don't always lead to a good outcome.</desc>
@@ -204,9 +198,9 @@
     <category lang="en">Movie
                (2010)</category>
   </programme>
-  <programme start="20260814023000 +0800" stop="20260814043000 +0800" channel="mbc 2">
-    <title lang="en">Marshall</title>
-    <desc lang="en">The movie tells the story of the first-ever black-AmericanSupreme Court Justice, Thurgood Marshall, working on a case that could determine the success of his career.</desc>
+  <programme start="20260816140000 +0800" stop="20260816160000 +0800" channel="mbc max">
+    <title lang="en">King Arthur: Legend of the Sword</title>
+    <desc lang="en">The story of young King Arthur who succeeded in drawing thepowerful sword of Excalibur from the rock  where it is lodged. He has to control his sword and unite the people under one front in order to defeat the tyrannical Vortigern, who had killed his parents and seized his throne in the past.</desc>
     <category lang="en">Movie
                (2017)</category>
   </programme>
@@ -437,5 +431,17 @@
     <desc lang="en">When an extraterrestrial epidemic spreads, psychiatristCarol Bennell observes the modification of the behavior in the population. She also discovers that her son might have the cure.</desc>
     <category lang="en">Movie
                (2007)</category>
+  </programme>
+  <programme start="20260816123000 +0800" stop="20260816130000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program
+               (2010)</category>
+  </programme>
+  <programme start="20260816130000 +0800" stop="20260816145000 +0800" channel="mbc 2">
+    <title lang="en">Snowpiercer</title>
+    <desc lang="en">After a failed climate-change experiment , ice age destroyslife on the planet except some survivors, who take a huge train (Snowpiercer) as a place of survival. The elite live at the front, while the poor live at the back. But 17 years later, the tail's inhabitants start a rebellion led by Curtis (Chris Evans).</desc>
+    <category lang="en">Movie
+               (2013)</category>
   </programme>
 </tv>
