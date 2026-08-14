@@ -1281,6 +1281,9 @@
   <channel id="Sukan_">
     <display-name lang="zh">Sukan+</display-name>
   </channel>
+  <channel id="Astro_Premier_League_4">
+    <display-name lang="zh">Astro Premier League 4</display-name>
+  </channel>
   <channel id="Astro_Grandstand">
     <display-name lang="zh">Astro Grandstand</display-name>
   </channel>
@@ -1809,10 +1812,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260814093000 +0800" stop="20260814100000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-  </programme>
   <programme start="20260814100000 +0800" stop="20260814120000 +0800" channel="mbc max">
     <title lang="en">The Grinch</title>
     <desc lang="en">A grumpy Grinch leading a solitary life with his dog isannoyed when the neighboring city of Whoville decides to throw brighter, larger, and more cheerful celebrations. He hatches a scheme to ruin their festivities, but his nefarious plan collides with a cheerful plan of a cheerful young girl.</desc>
@@ -1932,10 +1931,6 @@
   <programme start="20260816160000 +0800" stop="20260816183000 +0800" channel="mbc max">
     <title lang="en">The Hunger Games</title>
     <desc lang="en">In a dystopian post-apocalyptic future in the nation ofPanem, Katniss Everdeen (Lawrence) volunteers to take her younger sister's place in the Hunger Games, where boys and girls between the ages of 12 and 18 are required to fight to death in a televised annual event until there is one remaining who will be crowned the victor.</desc>
-  </programme>
-  <programme start="20260814090000 +0800" stop="20260814110000 +0800" channel="mbc 2">
-    <title lang="en">Bombshell</title>
-    <desc lang="en">A group of women try to take on Fox News head, Roger Ailes,due to his administration policy and the toxic male culture he is spreading in the network.</desc>
   </programme>
   <programme start="20260814110000 +0800" stop="20260814123000 +0800" channel="mbc 2">
     <title lang="en">Charlie's Angels</title>
@@ -2092,10 +2087,6 @@
   <programme start="20260816170000 +0800" stop="20260816183000 +0800" channel="mbc 2">
     <title lang="en">Underworld: Rise of the Lycans</title>
     <desc lang="en">In continuation of the first two parts of the same series,bloody events unfold between bloodsucking vampires and their slaves, the Lycans. The Lycans are led by Lucian, who wants to destroy the vampires' leader, whose daughter is in love with Lucian. She joins in the bloody wars with her lover against her father.</desc>
-  </programme>
-  <programme start="20260814093000 +0800" stop="20260814114500 +0800" channel="mbc action">
-    <title lang="en">برنامج joy form 2025</title>
-    <desc lang=""/>
   </programme>
   <programme start="20260814114500 +0800" stop="20260814120000 +0800" channel="mbc action">
     <title lang="en">برنامج bricks&amp;brain</title>
@@ -2324,6 +2315,10 @@
   <programme start="20260817183000 +0800" stop="20260817203000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
     <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
+  <programme start="20260817203000 +0800" stop="20260817213000 +0800" channel="mbc action">
+    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
+    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
   </programme>
   <programme start="20260810060000 +0800" stop="20260810063000 +0800" channel="第一财经">
     <title lang="zh">两说</title>
@@ -18882,14 +18877,22 @@
     <desc lang="zh"/>
   </programme>
   <programme start="20260815140000 +0800" stop="20260815152500 +0800" channel="SPOTV  ">
-    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <title lang="zh">2026 LIV Golf League, New York</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260815152500 +0800" stop="20260815163000 +0800" channel="SPOTV  ">
     <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260815163000 +0800" stop="20260815173000 +0800" channel="SPOTV  ">
+    <title lang="zh">World Supercross 2026: Rd 1 Canadian GP</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260815163000 +0800" stop="20260815181500 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815173000 +0800" stop="20260815193000 +0800" channel="SPOTV  ">
     <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
     <desc lang="zh"/>
   </programme>
@@ -18899,6 +18902,10 @@
   </programme>
   <programme start="20260815184500 +0800" stop="20260815200000 +0800" channel="SPOTV  ">
     <title lang="zh">2026 LIV Golf League, New York</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815193000 +0800" stop="20260815200000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 15 Tokyo E-Prix</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260815200000 +0800" stop="20260815230000 +0800" channel="SPOTV  ">
@@ -18973,6 +18980,170 @@
     <title lang="zh">Formula E S12: Rd 17 Hankook London E-Prix</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260817000000 +0800" stop="20260817020000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817020000 +0800" stop="20260817030000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 World Surf League Replay</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817030000 +0800" stop="20260817060000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817060000 +0800" stop="20260817080000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817080000 +0800" stop="20260817100000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817100000 +0800" stop="20260817130000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817130000 +0800" stop="20260817150000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817150000 +0800" stop="20260817180000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LET: VP Bank Swiss Ladies Open</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817180000 +0800" stop="20260817220000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 Vancouver T100</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817220000 +0800" stop="20260818010000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818010000 +0800" stop="20260818020000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 17 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818020000 +0800" stop="20260818050000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LET: VP Bank Swiss Ladies Open</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818050000 +0800" stop="20260818063000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818063000 +0800" stop="20260818073000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818073000 +0800" stop="20260818093000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818093000 +0800" stop="20260818120000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818120000 +0800" stop="20260818123000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 17 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818123000 +0800" stop="20260818143000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818143000 +0800" stop="20260818163000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818163000 +0800" stop="20260818173000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 17 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818173000 +0800" stop="20260818193000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 17 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818193000 +0800" stop="20260818220000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 17 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818220000 +0800" stop="20260819004500 +0800" channel="SPOTV  ">
+    <title lang="zh">World Supercross 2026: Rd 1 Canadian GP</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819004500 +0800" stop="20260819020000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LIV Golf League, New York</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819020000 +0800" stop="20260819050000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LET: VP Bank Swiss Ladies Open</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819050000 +0800" stop="20260819080000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819080000 +0800" stop="20260819110000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819110000 +0800" stop="20260819153000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 FIM ARRC Round 4: Mandalika, Indonesia</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819153000 +0800" stop="20260819200000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 FIM ARRC Round 4: Mandalika, Indonesia</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819200000 +0800" stop="20260819220000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819220000 +0800" stop="20260820000000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820000000 +0800" stop="20260820020000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820020000 +0800" stop="20260820050000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 LET: VP Bank Swiss Ladies Open</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820050000 +0800" stop="20260820060000 +0800" channel="SPOTV  ">
+    <title lang="zh">World Supercross 2026: Rd 1 Canadian GP</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820060000 +0800" stop="20260820080000 +0800" channel="SPOTV  ">
+    <title lang="zh">Roshn Saudi League 26/27</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820080000 +0800" stop="20260820110000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820110000 +0800" stop="20260820140000 +0800" channel="SPOTV  ">
+    <title lang="zh">2026 U.S. Amateur Championship</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820140000 +0800" stop="20260820153000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820153000 +0800" stop="20260820163000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820163000 +0800" stop="20260820183000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820183000 +0800" stop="20260820210000 +0800" channel="SPOTV  ">
+    <title lang="zh">Formula E S12: Rd 16 Hankook London E-Prix</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260814000000 +0800" stop="20260814033000 +0800" channel="SPOTV   2">
     <title lang="zh">WTT Europe Smash 2026</title>
     <desc lang="zh"/>
@@ -19041,8 +19212,16 @@
     <title lang="zh">WTT Champions Yokohama 2026</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260815100000 +0800" stop="20260815133000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Champions Yokohama 2026</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260815131500 +0800" stop="20260815143000 +0800" channel="SPOTV   2">
     <title lang="zh">Faultless</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815133000 +0800" stop="20260815143000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Rolex Series of Show Jumping, Dinard</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260815143000 +0800" stop="20260815180000 +0800" channel="SPOTV   2">
@@ -19101,6 +19280,218 @@
     <title lang="zh">2026 Longines Global Champions Tour, London</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260817000000 +0800" stop="20260817023000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817023000 +0800" stop="20260817031500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Moto4 British Cup Rd 4 Brands Hatch</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817031500 +0800" stop="20260817041000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Moto4 British Cup Rd 4 Brands Hatch</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817041000 +0800" stop="20260817070000 +0800" channel="SPOTV   2">
+    <title lang="zh">17/8 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817070000 +0800" stop="20260817083000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817083000 +0800" stop="20260817090500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Global Champions League, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817090500 +0800" stop="20260817100000 +0800" channel="SPOTV   2">
+    <title lang="zh">Unbridled: The Spruce Meadows Story</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817100000 +0800" stop="20260817130000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817130000 +0800" stop="20260817150000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817150000 +0800" stop="20260817153000 +0800" channel="SPOTV   2">
+    <title lang="zh">SailGP: Racing on the Edge S6</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817153000 +0800" stop="20260817173000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817173000 +0800" stop="20260817193000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817193000 +0800" stop="20260817200000 +0800" channel="SPOTV   2">
+    <title lang="zh">52 SUPER SERIES GP Sailing show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817200000 +0800" stop="20260817220000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817220000 +0800" stop="20260818003000 +0800" channel="SPOTV   2">
+    <title lang="zh">15/8 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818003000 +0800" stop="20260818020000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818020000 +0800" stop="20260818033000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818033000 +0800" stop="20260818045000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818045000 +0800" stop="20260818063000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818063000 +0800" stop="20260818090500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Longines Global Champions Tour, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818090500 +0800" stop="20260818100000 +0800" channel="SPOTV   2">
+    <title lang="zh">Unbridled: The Spruce Meadows Story</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818100000 +0800" stop="20260818103000 +0800" channel="SPOTV   2">
+    <title lang="zh">52 SUPER SERIES GP Sailing show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818103000 +0800" stop="20260818130000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818130000 +0800" stop="20260818145500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818145500 +0800" stop="20260818153000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Longines Global Champions Tour, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818153000 +0800" stop="20260818173000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818173000 +0800" stop="20260818192500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818192500 +0800" stop="20260818200000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Global Champions League, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818200000 +0800" stop="20260818220000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818220000 +0800" stop="20260819003000 +0800" channel="SPOTV   2">
+    <title lang="zh">16/8 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819003000 +0800" stop="20260819020000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819020000 +0800" stop="20260819034000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819034000 +0800" stop="20260819050000 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819050000 +0800" stop="20260819053500 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Global Champions League, London</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819053500 +0800" stop="20260819084500 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819084500 +0800" stop="20260819130000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819130000 +0800" stop="20260819150000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819150000 +0800" stop="20260819153000 +0800" channel="SPOTV   2">
+    <title lang="zh">52 SUPER SERIES GP Sailing show</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819153000 +0800" stop="20260819173000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819173000 +0800" stop="20260819193000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819193000 +0800" stop="20260819203000 +0800" channel="SPOTV   2">
+    <title lang="zh">Faultless</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819203000 +0800" stop="20260819233000 +0800" channel="SPOTV   2">
+    <title lang="zh">Juddmonte International 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819233000 +0800" stop="20260820020000 +0800" channel="SPOTV   2">
+    <title lang="zh">17/8 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820020000 +0800" stop="20260820031500 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820031500 +0800" stop="20260820043500 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820043500 +0800" stop="20260820063500 +0800" channel="SPOTV   2">
+    <title lang="zh">2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820063500 +0800" stop="20260820093000 +0800" channel="SPOTV   2">
+    <title lang="zh">20/8 2026 MLB Regular Season</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820093000 +0800" stop="20260820130000 +0800" channel="SPOTV   2">
+    <title lang="zh">WTT Europe Smash 2026</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820130000 +0800" stop="20260820150000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820150000 +0800" stop="20260820170000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820170000 +0800" stop="20260820180000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 Rolex Series of Show Jumping, Dinard</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820180000 +0800" stop="20260820200000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820200000 +0800" stop="20260820220000 +0800" channel="SPOTV   2">
+    <title lang="zh">2026 The Asian Tournament, Leg 3 Chengdu</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260814000000 +0800" stop="20260814020000 +0800" channel="球王台">
     <title lang="zh">Lazio 拉素 vs Inter 國際米蘭</title>
     <desc lang="zh"/>
@@ -19145,6 +19536,326 @@
     <title lang="zh">Milan AC米蘭 vs Atalanta 阿特蘭大</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260814220000 +0800" stop="20260815000000 +0800" channel="球王台">
+    <title lang="zh">Ulsan 蔚山HD vs. Jeonbuk 全北汽車</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815000000 +0800" stop="20260815020000 +0800" channel="球王台">
+    <title lang="zh">Torino 拖連奴 vs Sassuolo 莎索羅</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815020000 +0800" stop="20260815040000 +0800" channel="球王台">
+    <title lang="zh">Jeju 濟州SK vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815040000 +0800" stop="20260815060000 +0800" channel="球王台">
+    <title lang="zh">Cagliari 卡利亞里 vs Udinese 烏甸尼斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815060000 +0800" stop="20260815080000 +0800" channel="球王台">
+    <title lang="zh">Anyang 安養FC vs. Jeonbuk 全北汽車</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815080000 +0800" stop="20260815100000 +0800" channel="球王台">
+    <title lang="zh">Lazio 拉素 vs Inter 國際米蘭</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815100000 +0800" stop="20260815120000 +0800" channel="球王台">
+    <title lang="zh">Gwangju FC光州 vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815120000 +0800" stop="20260815140000 +0800" channel="球王台">
+    <title lang="zh">Lecce 萊切 vs Juventus 祖雲達斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815140000 +0800" stop="20260815160000 +0800" channel="球王台">
+    <title lang="zh">Ulsan 蔚山現代 vs. Jeju 濟州SK</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815160000 +0800" stop="20260815180000 +0800" channel="球王台">
+    <title lang="zh">Verona 維羅納  vs Como 科木</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815180000 +0800" stop="20260815183000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815183000 +0800" stop="20260815203500 +0800" channel="球王台">
+    <title lang="zh">Seoul FC首爾 vs. Daejeon 大田市民</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815203500 +0800" stop="20260815220000 +0800" channel="球王台">
+    <title lang="zh">Cremonese 克雷莫納 vs Pisa 比薩</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815220000 +0800" stop="20260816000000 +0800" channel="球王台">
+    <title lang="zh">Daejeon 大田市民 vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816000000 +0800" stop="20260816013000 +0800" channel="球王台">
+    <title lang="zh">Parma 帕爾馬 vs Roma 羅馬</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816013000 +0800" stop="20260816033000 +0800" channel="球王台">
+    <title lang="zh">Alaves 艾拉維斯 vs Getafe 加泰</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816033000 +0800" stop="20260816053500 +0800" channel="球王台">
+    <title lang="zh">Sevilla FC 西維爾 vs Rayo Vallecano 華歷簡奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816053500 +0800" stop="20260816060000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816060000 +0800" stop="20260816080000 +0800" channel="球王台">
+    <title lang="zh">Jeonbuk 全北汽車 vs. Gangwon FC江原</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816080000 +0800" stop="20260816100000 +0800" channel="球王台">
+    <title lang="zh">Napoli 拿玻里 vs Bologna 博洛尼亞</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816100000 +0800" stop="20260816120000 +0800" channel="球王台">
+    <title lang="zh">Seoul FC首爾 vs. Incheon 仁川聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816120000 +0800" stop="20260816140000 +0800" channel="球王台">
+    <title lang="zh">Roma 羅馬 vs Lazio 拉素</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816140000 +0800" stop="20260816160000 +0800" channel="球王台">
+    <title lang="zh">Ulsan 蔚山HD vs. Jeonbuk 全北汽車</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816160000 +0800" stop="20260816180000 +0800" channel="球王台">
+    <title lang="zh">Inter 國際米蘭 vs Verona 維羅納</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816180000 +0800" stop="20260816183000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816183000 +0800" stop="20260816203500 +0800" channel="球王台">
+    <title lang="zh">Ulsan 蔚山HD vs. Gangwon FC江原</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816203500 +0800" stop="20260816220000 +0800" channel="球王台">
+    <title lang="zh">Atalanta 阿特蘭大 vs Bologna 博洛尼亞</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816220000 +0800" stop="20260817001500 +0800" channel="球王台">
+    <title lang="zh">Arsenal 阿仙奴 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817001500 +0800" stop="20260817010000 +0800" channel="球王台">
+    <title lang="zh">Award Ceremony</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817010000 +0800" stop="20260817013000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817013000 +0800" stop="20260817033000 +0800" channel="球王台">
+    <title lang="zh">Bucheon FC 富川FC vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817033000 +0800" stop="20260817053500 +0800" channel="球王台">
+    <title lang="zh">Celta de Vigo 切爾達 vs CA Osasuna 奧沙辛拿</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817053500 +0800" stop="20260817060000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817060000 +0800" stop="20260817080000 +0800" channel="球王台">
+    <title lang="zh">Jeonbuk 全北汽車 vs. Daejeon 大田市民</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817080000 +0800" stop="20260817100000 +0800" channel="球王台">
+    <title lang="zh">Bologna 博洛尼亞 vs Inter 國際米蘭</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817100000 +0800" stop="20260817120000 +0800" channel="球王台">
+    <title lang="zh">Seoul FC首爾vs. Pohang 浦項制鐵</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817120000 +0800" stop="20260817140000 +0800" channel="球王台">
+    <title lang="zh">Napoli 拿玻里 vs Udinese 烏甸尼斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817140000 +0800" stop="20260817160000 +0800" channel="球王台">
+    <title lang="zh">Pohang 浦項制鐵 vs. Jeonbuk 全北汽車</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817160000 +0800" stop="20260817180000 +0800" channel="球王台">
+    <title lang="zh">Torino 拖連奴 vs Juventus 祖雲達斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817180000 +0800" stop="20260817200000 +0800" channel="球王台">
+    <title lang="zh">Seoul FC首爾vs. Ulsan 蔚山HD</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817200000 +0800" stop="20260817220000 +0800" channel="球王台">
+    <title lang="zh">Torino 拖連奴 vs Sassuolo 莎索羅</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817220000 +0800" stop="20260818000000 +0800" channel="球王台">
+    <title lang="zh">Jeju 濟州SK vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818000000 +0800" stop="20260818020000 +0800" channel="球王台">
+    <title lang="zh">Cagliari 卡利亞里 vs Udinese 烏甸尼斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818020000 +0800" stop="20260818030000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818030000 +0800" stop="20260818050500 +0800" channel="球王台">
+    <title lang="zh">Dep. La Coruna 拉科魯尼亞 vs Elche CF 艾爾切</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818050500 +0800" stop="20260818060000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818060000 +0800" stop="20260818080000 +0800" channel="球王台">
+    <title lang="zh">Gwangju FC光州 vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818080000 +0800" stop="20260818100000 +0800" channel="球王台">
+    <title lang="zh">Lecce 萊切 vs Juventus 祖雲達斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818100000 +0800" stop="20260818120000 +0800" channel="球王台">
+    <title lang="zh">Ulsan 蔚山現代 vs. Jeju 濟州SK</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818120000 +0800" stop="20260818140000 +0800" channel="球王台">
+    <title lang="zh">Verona 維羅納  vs Como 科木</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818140000 +0800" stop="20260818160000 +0800" channel="球王台">
+    <title lang="zh">Daejeon 大田市民 vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818160000 +0800" stop="20260818180000 +0800" channel="球王台">
+    <title lang="zh">Cremonese 克雷莫納 vs Pisa 比薩</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818180000 +0800" stop="20260818200000 +0800" channel="球王台">
+    <title lang="zh">Jeonbuk 全北汽車 vs. Gimcheon 金泉尚武</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818200000 +0800" stop="20260818220000 +0800" channel="球王台">
+    <title lang="zh">Parma 帕爾馬 vs Roma 羅馬</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818220000 +0800" stop="20260819000000 +0800" channel="球王台">
+    <title lang="zh">Jeonbuk 全北汽車 vs. Gangwon FC江原</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819000000 +0800" stop="20260819020000 +0800" channel="球王台">
+    <title lang="zh">Milan AC米蘭 vs Atalanta 阿特蘭大</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819020000 +0800" stop="20260819040000 +0800" channel="球王台">
+    <title lang="zh">Seoul FC首爾 vs. Incheon 仁川聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819040000 +0800" stop="20260819060000 +0800" channel="球王台">
+    <title lang="zh">Napoli 拿玻里 vs Bologna 博洛尼亞</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819060000 +0800" stop="20260819080000 +0800" channel="球王台">
+    <title lang="zh">Ulsan 蔚山HD vs. Jeonbuk 全北汽車</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819080000 +0800" stop="20260819100000 +0800" channel="球王台">
+    <title lang="zh">Roma 羅馬 vs Lazio 拉素</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819100000 +0800" stop="20260819120000 +0800" channel="球王台">
+    <title lang="zh">Seoul FC首爾 vs. Gangwon FC江原</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819120000 +0800" stop="20260819140000 +0800" channel="球王台">
+    <title lang="zh">Inter 國際米蘭 vs Verona 維羅納</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819140000 +0800" stop="20260819160000 +0800" channel="球王台">
+    <title lang="zh">Daejeon 大田市民 vs. Ulsan 蔚山HD</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819160000 +0800" stop="20260819180000 +0800" channel="球王台">
+    <title lang="zh">Atalanta 阿特蘭大 vs Bologna 博洛尼亞</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819180000 +0800" stop="20260819200000 +0800" channel="球王台">
+    <title lang="zh">Bucheon FC 富川FC vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819200000 +0800" stop="20260819220000 +0800" channel="球王台">
+    <title lang="zh">Udinese 烏甸尼斯 vs Cremonese 克雷莫納</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819220000 +0800" stop="20260820000000 +0800" channel="球王台">
+    <title lang="zh">Jeonbuk 全北汽車 vs. Daejeon 大田市民</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820000000 +0800" stop="20260820020000 +0800" channel="球王台">
+    <title lang="zh">Fiorentina 費倫天拿 vs Atalanta 阿特蘭大</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820020000 +0800" stop="20260820030000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820030000 +0800" stop="20260820050500 +0800" channel="球王台">
+    <title lang="zh">Atletico Madrid 馬德里體育會 vs Malaga 馬拉加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820050500 +0800" stop="20260820060000 +0800" channel="球王台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820060000 +0800" stop="20260820080000 +0800" channel="球王台">
+    <title lang="zh">Pohang 浦項制鐵 vs. Jeonbuk 全北汽車</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820080000 +0800" stop="20260820100000 +0800" channel="球王台">
+    <title lang="zh">Napoli 拿玻里 vs Udinese 烏甸尼斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820100000 +0800" stop="20260820120000 +0800" channel="球王台">
+    <title lang="zh">Seoul FC首爾vs. Ulsan 蔚山HD</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820120000 +0800" stop="20260820140000 +0800" channel="球王台">
+    <title lang="zh">Torino 拖連奴 vs Juventus 祖雲達斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820140000 +0800" stop="20260820160000 +0800" channel="球王台">
+    <title lang="zh">Jeju 濟州SK vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820160000 +0800" stop="20260820180000 +0800" channel="球王台">
+    <title lang="zh">Torino 拖連奴 vs Sassuolo 莎索羅</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820180000 +0800" stop="20260820200000 +0800" channel="球王台">
+    <title lang="zh">Anyang 安養FC vs. Jeonbuk 全北汽車</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820200000 +0800" stop="20260820220000 +0800" channel="球王台">
+    <title lang="zh">Cagliari 卡利亞里 vs Udinese 烏甸尼斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820220000 +0800" stop="20260821000000 +0800" channel="球王台">
+    <title lang="zh">Gwangju FC光州 vs. Seoul FC首爾</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260814000000 +0800" stop="20260814020000 +0800" channel="球迷台">
     <title lang="zh">Espanyol 愛斯賓奴 vs Athletic Bilbao 畢爾包</title>
     <desc lang="zh"/>
@@ -19187,6 +19898,302 @@
   </programme>
   <programme start="20260814200000 +0800" stop="20260814220000 +0800" channel="球迷台">
     <title lang="zh">Girona 傑羅納 vs Real Sociedad 皇家蘇斯達</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260814220000 +0800" stop="20260815000000 +0800" channel="球迷台">
+    <title lang="zh">Bayern Munich 拜仁慕尼黑 vs Stuttgart 史特加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815000000 +0800" stop="20260815020000 +0800" channel="球迷台">
+    <title lang="zh">Levant 利雲特 vs CA Osasuna 奧沙辛拿</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815020000 +0800" stop="20260815040000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Adelaide United 阿德萊德聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815040000 +0800" stop="20260815060000 +0800" channel="球迷台">
+    <title lang="zh">Elche CF 艾爾切 vs Alaves 艾拉維斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815060000 +0800" stop="20260815080000 +0800" channel="球迷台">
+    <title lang="zh">AL NASSR CLUB 艾納斯 vs GAMBA OSAKA 大阪飛腳</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815080000 +0800" stop="20260815100000 +0800" channel="球迷台">
+    <title lang="zh">Atletico Madrid 馬德里體育會 vs Celta de Vigo 切爾達</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815100000 +0800" stop="20260815120000 +0800" channel="球迷台">
+    <title lang="zh">Sydney FC 悉尼FC vs Newcastle Jets 紐卡素噴射機</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815120000 +0800" stop="20260815140000 +0800" channel="球迷台">
+    <title lang="zh">Real Sociedad 皇家蘇斯達 vs Real Betis 貝迪斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815140000 +0800" stop="20260815160000 +0800" channel="球迷台">
+    <title lang="zh">Chelsea 車路士 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815160000 +0800" stop="20260815180000 +0800" channel="球迷台">
+    <title lang="zh">Real Oviedo 奧維多 vs Getafe 加泰</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815180000 +0800" stop="20260815200000 +0800" channel="球迷台">
+    <title lang="zh">Bayern Munich 拜仁慕尼黑 vs Stuttgart 史特加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815200000 +0800" stop="20260815220000 +0800" channel="球迷台">
+    <title lang="zh">Alaves 艾拉維斯 vs Barcelona 巴塞隆拿</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815220000 +0800" stop="20260816000000 +0800" channel="球迷台">
+    <title lang="zh">Adelaide United 阿德萊德聯 vs Auckland FC 奧克蘭FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816000000 +0800" stop="20260816020000 +0800" channel="球迷台">
+    <title lang="zh">Rayo Vallecano 華歷簡奴 vs Girona 傑羅納</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816020000 +0800" stop="20260816040000 +0800" channel="球迷台">
+    <title lang="zh">AL NASSR CLUB 艾納斯 vs GAMBA OSAKA 大阪飛腳</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816040000 +0800" stop="20260816060000 +0800" channel="球迷台">
+    <title lang="zh">Celta de Vigo 切爾達 vs Levant 利雲特</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816060000 +0800" stop="20260816080000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Sydney FC 悉尼FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816080000 +0800" stop="20260816100000 +0800" channel="球迷台">
+    <title lang="zh">Real Betis 貝迪斯 vs Elche CF 艾爾切</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816100000 +0800" stop="20260816120000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Adelaide United 阿德萊德聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816120000 +0800" stop="20260816140000 +0800" channel="球迷台">
+    <title lang="zh">CA Osasuna 奧沙辛拿 vs Atletico Madrid 馬德里體育會</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816140000 +0800" stop="20260816160000 +0800" channel="球迷台">
+    <title lang="zh">Bayern Munich 拜仁慕尼黑 vs Stuttgart 史特加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816160000 +0800" stop="20260816180000 +0800" channel="球迷台">
+    <title lang="zh">Espanyol 愛斯賓奴 vs Athletic Bilbao 畢爾包</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816180000 +0800" stop="20260816200000 +0800" channel="球迷台">
+    <title lang="zh">Sydney FC 悉尼FC vs Newcastle Jets 紐卡素噴射機</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816200000 +0800" stop="20260816220000 +0800" channel="球迷台">
+    <title lang="zh">Chelsea 車路士 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816220000 +0800" stop="20260816230000 +0800" channel="球迷台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816230000 +0800" stop="20260817010000 +0800" channel="球迷台">
+    <title lang="zh">Racing Santander 桑坦德 vs Villarreal 維拉利爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817010000 +0800" stop="20260817030500 +0800" channel="球迷台">
+    <title lang="zh">Espanyol 愛斯賓奴 vs Levant 利雲特</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817030500 +0800" stop="20260817040000 +0800" channel="球迷台">
+    <title lang="zh">ADVERTISING</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817040000 +0800" stop="20260817060000 +0800" channel="球迷台">
+    <title lang="zh">Villarreal 維拉利爾 vs Sevilla FC 西維爾</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817060000 +0800" stop="20260817080000 +0800" channel="球迷台">
+    <title lang="zh">Adelaide United 阿德萊德聯 vs Auckland FC 奧克蘭FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817080000 +0800" stop="20260817100000 +0800" channel="球迷台">
+    <title lang="zh">Valencia 華倫西亞 vs Rayo Vallecano 華歷簡奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817100000 +0800" stop="20260817120000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Sydney FC 悉尼FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817120000 +0800" stop="20260817140000 +0800" channel="球迷台">
+    <title lang="zh">Girona 傑羅納 vs Real Sociedad 皇家蘇斯達</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817140000 +0800" stop="20260817160000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Adelaide United 阿德萊德聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817160000 +0800" stop="20260817180000 +0800" channel="球迷台">
+    <title lang="zh">Real Madrid 皇家馬德里 vs Real Oviedo 奧維多</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817180000 +0800" stop="20260817200000 +0800" channel="球迷台">
+    <title lang="zh">AL NASSR CLUB 艾納斯 vs GAMBA OSAKA 大阪飛腳</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817200000 +0800" stop="20260817220000 +0800" channel="球迷台">
+    <title lang="zh">Sevilla FC 西維爾 vs Real Madrid 皇家馬德里</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817220000 +0800" stop="20260818000000 +0800" channel="球迷台">
+    <title lang="zh">Sydney FC 悉尼FC vs Newcastle Jets 紐卡素噴射機</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818000000 +0800" stop="20260818020000 +0800" channel="球迷台">
+    <title lang="zh">Valencia 華倫西亞 vs Barcelona 巴塞隆拿</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818020000 +0800" stop="20260818040000 +0800" channel="球迷台">
+    <title lang="zh">Chelsea 車路士 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818040000 +0800" stop="20260818060000 +0800" channel="球迷台">
+    <title lang="zh">Villarreal 維拉利爾 vs Atletico Madrid 馬德里體育會</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818060000 +0800" stop="20260818080000 +0800" channel="球迷台">
+    <title lang="zh">Adelaide United 阿德萊德聯 vs Auckland FC 奧克蘭FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818080000 +0800" stop="20260818100000 +0800" channel="球迷台">
+    <title lang="zh">Castellon 卡斯迪隆 vs Almeria 艾美利亞</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818100000 +0800" stop="20260818120000 +0800" channel="球迷台">
+    <title lang="zh">Bayern Munich 拜仁慕尼黑 vs Stuttgart 史特加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818120000 +0800" stop="20260818140000 +0800" channel="球迷台">
+    <title lang="zh">Las Palmas 拉斯彭馬斯 vs. Malaga 馬拉加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818140000 +0800" stop="20260818160000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Sydney FC 悉尼FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818160000 +0800" stop="20260818180000 +0800" channel="球迷台">
+    <title lang="zh">Almeria 艾美利亞 vs Castellon 卡斯迪隆</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818180000 +0800" stop="20260818200000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Adelaide United 阿德萊德聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818200000 +0800" stop="20260818220000 +0800" channel="球迷台">
+    <title lang="zh">Malaga 馬拉加 vs. Las Palmas 拉斯彭馬斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818220000 +0800" stop="20260819000000 +0800" channel="球迷台">
+    <title lang="zh">AL NASSR CLUB 艾納斯 vs GAMBA OSAKA 大阪飛腳</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819000000 +0800" stop="20260819020000 +0800" channel="球迷台">
+    <title lang="zh">Malaga 馬拉加 vs. Almeria 艾美利亞</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819020000 +0800" stop="20260819040000 +0800" channel="球迷台">
+    <title lang="zh">Sydney FC 悉尼FC vs Newcastle Jets 紐卡素噴射機</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819040000 +0800" stop="20260819060000 +0800" channel="球迷台">
+    <title lang="zh">Almeria 艾美利亞 vs Malaga 馬拉加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819060000 +0800" stop="20260819080000 +0800" channel="球迷台">
+    <title lang="zh">Chelsea 車路士 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819080000 +0800" stop="20260819100000 +0800" channel="球迷台">
+    <title lang="zh">Levant 利雲特 vs CA Osasuna 奧沙辛拿</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819100000 +0800" stop="20260819120000 +0800" channel="球迷台">
+    <title lang="zh">Adelaide United 阿德萊德聯 vs Auckland FC 奧克蘭FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819120000 +0800" stop="20260819140000 +0800" channel="球迷台">
+    <title lang="zh">Elche CF 艾爾切 vs Alaves 艾拉維斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819140000 +0800" stop="20260819160000 +0800" channel="球迷台">
+    <title lang="zh">Bayern Munich 拜仁慕尼黑 vs Stuttgart 史特加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819160000 +0800" stop="20260819180000 +0800" channel="球迷台">
+    <title lang="zh">Atletico Madrid 馬德里體育會 vs Celta de Vigo 切爾達</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819180000 +0800" stop="20260819200000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Sydney FC 悉尼FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819200000 +0800" stop="20260819220000 +0800" channel="球迷台">
+    <title lang="zh">Real Sociedad 皇家蘇斯達 vs Real Betis 貝迪斯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819220000 +0800" stop="20260820000000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Adelaide United 阿德萊德聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820000000 +0800" stop="20260820020000 +0800" channel="球迷台">
+    <title lang="zh">Real Oviedo 奧維多 vs Getafe 加泰</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820020000 +0800" stop="20260820040000 +0800" channel="球迷台">
+    <title lang="zh">AL NASSR CLUB 艾納斯 vs GAMBA OSAKA 大阪飛腳</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820040000 +0800" stop="20260820060000 +0800" channel="球迷台">
+    <title lang="zh">Barcelona 巴塞隆拿 vs Real Madrid 皇家馬德里</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820060000 +0800" stop="20260820080000 +0800" channel="球迷台">
+    <title lang="zh">Sydney FC 悉尼FC vs Newcastle Jets 紐卡素噴射機</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820080000 +0800" stop="20260820100000 +0800" channel="球迷台">
+    <title lang="zh">Rayo Vallecano 華歷簡奴 vs Girona 傑羅納</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820100000 +0800" stop="20260820120000 +0800" channel="球迷台">
+    <title lang="zh">Chelsea 車路士 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820120000 +0800" stop="20260820140000 +0800" channel="球迷台">
+    <title lang="zh">Celta de Vigo 切爾達 vs Levant 利雲特</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820140000 +0800" stop="20260820160000 +0800" channel="球迷台">
+    <title lang="zh">Adelaide United 阿德萊德聯 vs Auckland FC 奧克蘭FC</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820160000 +0800" stop="20260820180000 +0800" channel="球迷台">
+    <title lang="zh">Real Betis 貝迪斯 vs Elche CF 艾爾切</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820180000 +0800" stop="20260820200000 +0800" channel="球迷台">
+    <title lang="zh">Bayern Munich 拜仁慕尼黑 vs Stuttgart 史特加</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820200000 +0800" stop="20260820220000 +0800" channel="球迷台">
+    <title lang="zh">CA Osasuna 奧沙辛拿 vs Atletico Madrid 馬德里體育會</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820220000 +0800" stop="20260821000000 +0800" channel="球迷台">
+    <title lang="zh">Auckland FC 奧克蘭FC vs Sydney FC 悉尼FC</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260814003000 +0800" stop="20260814013000 +0800" channel="英超1台">
@@ -19293,6 +20300,746 @@
     <title lang="zh">PL STORIES</title>
     <desc lang="zh"/>
   </programme>
+  <programme start="20260814233000 +0800" stop="20260815000000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815000000 +0800" stop="20260815003000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815003000 +0800" stop="20260815013000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815013000 +0800" stop="20260815023000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815023000 +0800" stop="20260815030000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815030000 +0800" stop="20260815033000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815033000 +0800" stop="20260815040000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815040000 +0800" stop="20260815050000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815050000 +0800" stop="20260815070000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815070000 +0800" stop="20260815073000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815073000 +0800" stop="20260815080000 +0800" channel="英超1台">
+    <title lang="zh">NETBUSTERS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815080000 +0800" stop="20260815090000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815090000 +0800" stop="20260815100000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815100000 +0800" stop="20260815110000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815110000 +0800" stop="20260815120000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815120000 +0800" stop="20260815130000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815130000 +0800" stop="20260815133000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815133000 +0800" stop="20260815140000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815140000 +0800" stop="20260815143000 +0800" channel="英超1台">
+    <title lang="zh">NETBUSTERS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815143000 +0800" stop="20260815163000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815163000 +0800" stop="20260815173000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815173000 +0800" stop="20260815180000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815180000 +0800" stop="20260815183000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815183000 +0800" stop="20260815193000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815193000 +0800" stop="20260815200000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815200000 +0800" stop="20260815203000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815203000 +0800" stop="20260815210000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815210000 +0800" stop="20260815220000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815220000 +0800" stop="20260815230000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815230000 +0800" stop="20260815233000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815233000 +0800" stop="20260816003000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816003000 +0800" stop="20260816010000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816010000 +0800" stop="20260816013000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816013000 +0800" stop="20260816033000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816033000 +0800" stop="20260816040000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816040000 +0800" stop="20260816050000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816050000 +0800" stop="20260816053000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816053000 +0800" stop="20260816060000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816060000 +0800" stop="20260816063000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816063000 +0800" stop="20260816073000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816073000 +0800" stop="20260816080000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816080000 +0800" stop="20260816090000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816090000 +0800" stop="20260816100000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816100000 +0800" stop="20260816120000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816120000 +0800" stop="20260816123000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816123000 +0800" stop="20260816130000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816130000 +0800" stop="20260816133000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816133000 +0800" stop="20260816143000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816143000 +0800" stop="20260816150000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816150000 +0800" stop="20260816160000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816160000 +0800" stop="20260816170000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816170000 +0800" stop="20260816180000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816180000 +0800" stop="20260816183000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816183000 +0800" stop="20260816193000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816193000 +0800" stop="20260816200000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816200000 +0800" stop="20260816203000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816203000 +0800" stop="20260816210000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816210000 +0800" stop="20260816220000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816220000 +0800" stop="20260816230000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816230000 +0800" stop="20260816233000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816233000 +0800" stop="20260817000000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817000000 +0800" stop="20260817020000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817020000 +0800" stop="20260817023000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817023000 +0800" stop="20260817033000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817033000 +0800" stop="20260817040000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817040000 +0800" stop="20260817043000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817043000 +0800" stop="20260817053000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817053000 +0800" stop="20260817060000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817060000 +0800" stop="20260817070000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817070000 +0800" stop="20260817073000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817073000 +0800" stop="20260817080000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817080000 +0800" stop="20260817100000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817100000 +0800" stop="20260817103000 +0800" channel="英超1台">
+    <title lang="zh">NETBUSTERS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817103000 +0800" stop="20260817110000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817110000 +0800" stop="20260817120000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817120000 +0800" stop="20260817130000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817130000 +0800" stop="20260817140000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817140000 +0800" stop="20260817150000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817150000 +0800" stop="20260817153000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817153000 +0800" stop="20260817160000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817160000 +0800" stop="20260817170000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817170000 +0800" stop="20260817180000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817180000 +0800" stop="20260817200000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817200000 +0800" stop="20260817203000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817203000 +0800" stop="20260817210000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817210000 +0800" stop="20260817213000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817213000 +0800" stop="20260817223000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817223000 +0800" stop="20260817230000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817230000 +0800" stop="20260818000000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818000000 +0800" stop="20260818010000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818010000 +0800" stop="20260818020000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818020000 +0800" stop="20260818023000 +0800" channel="英超1台">
+    <title lang="zh">NETBUSTERS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818023000 +0800" stop="20260818030000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818030000 +0800" stop="20260818033000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818033000 +0800" stop="20260818040000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818040000 +0800" stop="20260818043000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818043000 +0800" stop="20260818063000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818063000 +0800" stop="20260818070000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818070000 +0800" stop="20260818080000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818080000 +0800" stop="20260818083000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818083000 +0800" stop="20260818093000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818093000 +0800" stop="20260818103000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818103000 +0800" stop="20260818113000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818113000 +0800" stop="20260818133000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818133000 +0800" stop="20260818140000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818140000 +0800" stop="20260818143000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818143000 +0800" stop="20260818150000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818150000 +0800" stop="20260818160000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818160000 +0800" stop="20260818170000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818170000 +0800" stop="20260818180000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818180000 +0800" stop="20260818190000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818190000 +0800" stop="20260818200000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818200000 +0800" stop="20260818210000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818210000 +0800" stop="20260818213000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818213000 +0800" stop="20260818223000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818223000 +0800" stop="20260818230000 +0800" channel="英超1台">
+    <title lang="zh">REWIND</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818230000 +0800" stop="20260819000000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819000000 +0800" stop="20260819003000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819003000 +0800" stop="20260819010000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819010000 +0800" stop="20260819020000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819020000 +0800" stop="20260819023000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819023000 +0800" stop="20260819030000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819030000 +0800" stop="20260819040000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819040000 +0800" stop="20260819050000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819050000 +0800" stop="20260819060000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819060000 +0800" stop="20260819070000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819070000 +0800" stop="20260819073000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819073000 +0800" stop="20260819080000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819080000 +0800" stop="20260819090000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819090000 +0800" stop="20260819093000 +0800" channel="英超1台">
+    <title lang="zh">CLASSIC MATCH</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819093000 +0800" stop="20260819100000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819100000 +0800" stop="20260819103000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819103000 +0800" stop="20260819113000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819113000 +0800" stop="20260819123000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819123000 +0800" stop="20260819130000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819130000 +0800" stop="20260819133000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819133000 +0800" stop="20260819143000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819143000 +0800" stop="20260819150000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819150000 +0800" stop="20260819153000 +0800" channel="英超1台">
+    <title lang="zh">REWIND</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819153000 +0800" stop="20260819160000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819160000 +0800" stop="20260819180000 +0800" channel="英超1台">
+    <title lang="zh">CLASSIC MATCH</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819180000 +0800" stop="20260819190000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819190000 +0800" stop="20260819200000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819200000 +0800" stop="20260819203000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819203000 +0800" stop="20260819210000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819210000 +0800" stop="20260819213000 +0800" channel="英超1台">
+    <title lang="zh">REWIND</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819213000 +0800" stop="20260819223000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819223000 +0800" stop="20260819233000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819233000 +0800" stop="20260820000000 +0800" channel="英超1台">
+    <title lang="zh">CLASSIC MATCH</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820000000 +0800" stop="20260820010000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820010000 +0800" stop="20260820013000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820013000 +0800" stop="20260820020000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820020000 +0800" stop="20260820030000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820030000 +0800" stop="20260820040000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820040000 +0800" stop="20260820043000 +0800" channel="英超1台">
+    <title lang="zh">CLASSIC MATCH</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820043000 +0800" stop="20260820050000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820050000 +0800" stop="20260820053000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820053000 +0800" stop="20260820060000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820060000 +0800" stop="20260820063000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820063000 +0800" stop="20260820070000 +0800" channel="英超1台">
+    <title lang="zh">REWIND</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820070000 +0800" stop="20260820080000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820080000 +0800" stop="20260820090000 +0800" channel="英超1台">
+    <title lang="zh">PL MASTERCLASS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820090000 +0800" stop="20260820100000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820100000 +0800" stop="20260820103000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820103000 +0800" stop="20260820110000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820110000 +0800" stop="20260820113000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820113000 +0800" stop="20260820123000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820123000 +0800" stop="20260820133000 +0800" channel="英超1台">
+    <title lang="zh">PL MOMENTS</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820133000 +0800" stop="20260820143000 +0800" channel="英超1台">
+    <title lang="zh">REVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820143000 +0800" stop="20260820150000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820150000 +0800" stop="20260820153000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820153000 +0800" stop="20260820160000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820160000 +0800" stop="20260820163000 +0800" channel="英超1台">
+    <title lang="zh">CLASSIC MATCH</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820163000 +0800" stop="20260820173000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820173000 +0800" stop="20260820180000 +0800" channel="英超1台">
+    <title lang="zh">FANTASY SHOW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820180000 +0800" stop="20260820183000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820183000 +0800" stop="20260820190000 +0800" channel="英超1台">
+    <title lang="zh">REWIND</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820190000 +0800" stop="20260820193000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820193000 +0800" stop="20260820200000 +0800" channel="英超1台">
+    <title lang="zh">CLASSIC MATCH</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820200000 +0800" stop="20260820203000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820203000 +0800" stop="20260820210000 +0800" channel="英超1台">
+    <title lang="zh">THE BIG INTERVIEW</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820210000 +0800" stop="20260820220000 +0800" channel="英超1台">
+    <title lang="zh">PREVIEW OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820220000 +0800" stop="20260820223000 +0800" channel="英超1台">
+    <title lang="zh">CLASSIC MATCH</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820223000 +0800" stop="20260820230000 +0800" channel="英超1台">
+    <title lang="zh">PL STORIES</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820230000 +0800" stop="20260821000000 +0800" channel="英超1台">
+    <title lang="zh">GOALS OF THE SEASON</title>
+    <desc lang="zh"/>
+  </programme>
   <programme start="20260814000000 +0800" stop="20260814020000 +0800" channel="英超2台">
     <title lang="zh">Man City 曼城 vs Brentford 賓福特</title>
     <desc lang="zh"/>
@@ -19335,6 +21082,298 @@
   </programme>
   <programme start="20260814200000 +0800" stop="20260814220000 +0800" channel="英超2台">
     <title lang="zh">Bournemouth 般尼茅夫 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260814220000 +0800" stop="20260815000000 +0800" channel="英超2台">
+    <title lang="zh">Crystal Palace 水晶宮 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815000000 +0800" stop="20260815020000 +0800" channel="英超2台">
+    <title lang="zh">Liverpool 利物浦 vs Chelsea 車路士</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815020000 +0800" stop="20260815040000 +0800" channel="英超2台">
+    <title lang="zh">Sunderland 新特蘭 vs Man Utd 曼聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815040000 +0800" stop="20260815060000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Brentford 賓福特</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815060000 +0800" stop="20260815080000 +0800" channel="英超2台">
+    <title lang="zh">Nott'm Forest 諾定咸森林 vs Newcastle 紐卡素</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815080000 +0800" stop="20260815100000 +0800" channel="英超2台">
+    <title lang="zh">West Ham 韋斯咸 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815100000 +0800" stop="20260815120000 +0800" channel="英超2台">
+    <title lang="zh">Tottenham Hotspur 熱刺 vs Leeds United 列斯聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815120000 +0800" stop="20260815140000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Crystal Palace 水晶宮</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815140000 +0800" stop="20260815160000 +0800" channel="英超2台">
+    <title lang="zh">Aston Villa 阿士東維拉 vs Liverpool 利物浦</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815160000 +0800" stop="20260815180000 +0800" channel="英超2台">
+    <title lang="zh">Man Utd 曼聯 vs Nott'm Forest 諾定咸森林</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815180000 +0800" stop="20260815200000 +0800" channel="英超2台">
+    <title lang="zh">Leeds United 列斯聯 vs Brighton 白禮頓</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815200000 +0800" stop="20260815220000 +0800" channel="英超2台">
+    <title lang="zh">Newcastle 紐卡素 vs West Ham 韋斯咸</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260815220000 +0800" stop="20260816000000 +0800" channel="英超2台">
+    <title lang="zh">Arsenal 阿仙奴 vs Burnley 般尼</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816000000 +0800" stop="20260816020000 +0800" channel="英超2台">
+    <title lang="zh">Bournemouth 般尼茅夫 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816020000 +0800" stop="20260816040000 +0800" channel="英超2台">
+    <title lang="zh">Crystal Palace 水晶宮 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816040000 +0800" stop="20260816060000 +0800" channel="英超2台">
+    <title lang="zh">Liverpool 利物浦 vs Chelsea 車路士</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816060000 +0800" stop="20260816080000 +0800" channel="英超2台">
+    <title lang="zh">Sunderland 新特蘭 vs Man Utd 曼聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816080000 +0800" stop="20260816100000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Brentford 賓福特</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816100000 +0800" stop="20260816120000 +0800" channel="英超2台">
+    <title lang="zh">Nott'm Forest 諾定咸森林 vs Newcastle 紐卡素</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816120000 +0800" stop="20260816140000 +0800" channel="英超2台">
+    <title lang="zh">West Ham 韋斯咸 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816140000 +0800" stop="20260816160000 +0800" channel="英超2台">
+    <title lang="zh">Tottenham Hotspur 熱刺 vs Leeds United 列斯聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816160000 +0800" stop="20260816180000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Crystal Palace 水晶宮</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816180000 +0800" stop="20260816200000 +0800" channel="英超2台">
+    <title lang="zh">Aston Villa 阿士東維拉 vs Liverpool 利物浦</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816200000 +0800" stop="20260816220000 +0800" channel="英超2台">
+    <title lang="zh">Man Utd 曼聯 vs Nott'm Forest 諾定咸森林</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260816220000 +0800" stop="20260817000000 +0800" channel="英超2台">
+    <title lang="zh">Leeds United 列斯聯 vs Brighton 白禮頓</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817000000 +0800" stop="20260817020000 +0800" channel="英超2台">
+    <title lang="zh">Newcastle 紐卡素 vs West Ham 韋斯咸</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817020000 +0800" stop="20260817040000 +0800" channel="英超2台">
+    <title lang="zh">Arsenal 阿仙奴 vs Burnley 般尼</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817040000 +0800" stop="20260817060000 +0800" channel="英超2台">
+    <title lang="zh">Bournemouth 般尼茅夫 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817060000 +0800" stop="20260817080000 +0800" channel="英超2台">
+    <title lang="zh">Crystal Palace 水晶宮 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817080000 +0800" stop="20260817100000 +0800" channel="英超2台">
+    <title lang="zh">Liverpool 利物浦 vs Chelsea 車路士</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817100000 +0800" stop="20260817120000 +0800" channel="英超2台">
+    <title lang="zh">Sunderland 新特蘭 vs Man Utd 曼聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817120000 +0800" stop="20260817140000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Brentford 賓福特</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817140000 +0800" stop="20260817160000 +0800" channel="英超2台">
+    <title lang="zh">Nott'm Forest 諾定咸森林 vs Newcastle 紐卡素</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817160000 +0800" stop="20260817180000 +0800" channel="英超2台">
+    <title lang="zh">West Ham 韋斯咸 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817180000 +0800" stop="20260817200000 +0800" channel="英超2台">
+    <title lang="zh">Tottenham Hotspur 熱刺 vs Leeds United 列斯聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817200000 +0800" stop="20260817220000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Crystal Palace 水晶宮</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260817220000 +0800" stop="20260818000000 +0800" channel="英超2台">
+    <title lang="zh">Aston Villa 阿士東維拉 vs Liverpool 利物浦</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818000000 +0800" stop="20260818020000 +0800" channel="英超2台">
+    <title lang="zh">Man Utd 曼聯 vs Nott'm Forest 諾定咸森林</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818020000 +0800" stop="20260818040000 +0800" channel="英超2台">
+    <title lang="zh">Leeds United 列斯聯 vs Brighton 白禮頓</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818040000 +0800" stop="20260818060000 +0800" channel="英超2台">
+    <title lang="zh">Newcastle 紐卡素 vs West Ham 韋斯咸</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818060000 +0800" stop="20260818080000 +0800" channel="英超2台">
+    <title lang="zh">Arsenal 阿仙奴 vs Burnley 般尼</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818080000 +0800" stop="20260818100000 +0800" channel="英超2台">
+    <title lang="zh">Bournemouth 般尼茅夫 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818100000 +0800" stop="20260818120000 +0800" channel="英超2台">
+    <title lang="zh">Crystal Palace 水晶宮 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818120000 +0800" stop="20260818140000 +0800" channel="英超2台">
+    <title lang="zh">Liverpool 利物浦 vs Chelsea 車路士</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818140000 +0800" stop="20260818160000 +0800" channel="英超2台">
+    <title lang="zh">Sunderland 新特蘭 vs Man Utd 曼聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818160000 +0800" stop="20260818180000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Brentford 賓福特</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818180000 +0800" stop="20260818200000 +0800" channel="英超2台">
+    <title lang="zh">Nott'm Forest 諾定咸森林 vs Newcastle 紐卡素</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818200000 +0800" stop="20260818220000 +0800" channel="英超2台">
+    <title lang="zh">West Ham 韋斯咸 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260818220000 +0800" stop="20260819000000 +0800" channel="英超2台">
+    <title lang="zh">Tottenham Hotspur 熱刺 vs Leeds United 列斯聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819000000 +0800" stop="20260819020000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Crystal Palace 水晶宮</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819020000 +0800" stop="20260819040000 +0800" channel="英超2台">
+    <title lang="zh">Aston Villa 阿士東維拉 vs Liverpool 利物浦</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819040000 +0800" stop="20260819060000 +0800" channel="英超2台">
+    <title lang="zh">Man Utd 曼聯 vs Nott'm Forest 諾定咸森林</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819060000 +0800" stop="20260819080000 +0800" channel="英超2台">
+    <title lang="zh">Leeds United 列斯聯 vs Brighton 白禮頓</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819080000 +0800" stop="20260819100000 +0800" channel="英超2台">
+    <title lang="zh">Newcastle 紐卡素 vs West Ham 韋斯咸</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819100000 +0800" stop="20260819120000 +0800" channel="英超2台">
+    <title lang="zh">Arsenal 阿仙奴 vs Burnley 般尼</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819120000 +0800" stop="20260819140000 +0800" channel="英超2台">
+    <title lang="zh">Bournemouth 般尼茅夫 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819140000 +0800" stop="20260819160000 +0800" channel="英超2台">
+    <title lang="zh">Crystal Palace 水晶宮 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819160000 +0800" stop="20260819180000 +0800" channel="英超2台">
+    <title lang="zh">Liverpool 利物浦 vs Chelsea 車路士</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819180000 +0800" stop="20260819200000 +0800" channel="英超2台">
+    <title lang="zh">Sunderland 新特蘭 vs Man Utd 曼聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819200000 +0800" stop="20260819220000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Brentford 賓福特</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260819220000 +0800" stop="20260820000000 +0800" channel="英超2台">
+    <title lang="zh">Nott'm Forest 諾定咸森林 vs Newcastle 紐卡素</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820000000 +0800" stop="20260820020000 +0800" channel="英超2台">
+    <title lang="zh">West Ham 韋斯咸 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820020000 +0800" stop="20260820040000 +0800" channel="英超2台">
+    <title lang="zh">Tottenham Hotspur 熱刺 vs Leeds United 列斯聯</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820040000 +0800" stop="20260820060000 +0800" channel="英超2台">
+    <title lang="zh">Man City 曼城 vs Crystal Palace 水晶宮</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820060000 +0800" stop="20260820080000 +0800" channel="英超2台">
+    <title lang="zh">Aston Villa 阿士東維拉 vs Liverpool 利物浦</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820080000 +0800" stop="20260820100000 +0800" channel="英超2台">
+    <title lang="zh">Man Utd 曼聯 vs Nott'm Forest 諾定咸森林</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820100000 +0800" stop="20260820120000 +0800" channel="英超2台">
+    <title lang="zh">Leeds United 列斯聯 vs Brighton 白禮頓</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820120000 +0800" stop="20260820140000 +0800" channel="英超2台">
+    <title lang="zh">Newcastle 紐卡素 vs West Ham 韋斯咸</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820140000 +0800" stop="20260820160000 +0800" channel="英超2台">
+    <title lang="zh">Arsenal 阿仙奴 vs Burnley 般尼</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820160000 +0800" stop="20260820180000 +0800" channel="英超2台">
+    <title lang="zh">Bournemouth 般尼茅夫 vs Man City 曼城</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820180000 +0800" stop="20260820200000 +0800" channel="英超2台">
+    <title lang="zh">Crystal Palace 水晶宮 vs Arsenal 阿仙奴</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820200000 +0800" stop="20260820220000 +0800" channel="英超2台">
+    <title lang="zh">Liverpool 利物浦 vs Chelsea 車路士</title>
+    <desc lang="zh"/>
+  </programme>
+  <programme start="20260820220000 +0800" stop="20260821000000 +0800" channel="英超2台">
+    <title lang="zh">Sunderland 新特蘭 vs Man Utd 曼聯</title>
     <desc lang="zh"/>
   </programme>
   <programme start="20260814000000 +0800" stop="20260814170000 +0800" channel="Eurosoprt HD">
@@ -69937,12 +71976,12 @@
     <title lang="zh">情满夕阳</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260815090000 +0800" stop="20260815094500 +0800" channel="广州南国都市4K">
+  <programme start="20260815090000 +0800" stop="20260815100000 +0800" channel="广州南国都市4K">
     <title lang="zh">健康运动家</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260815094500 +0800" stop="20260815103000 +0800" channel="广州南国都市4K">
-    <title lang="zh">疯狂小画</title>
+  <programme start="20260815100000 +0800" stop="20260815103000 +0800" channel="广州南国都市4K">
+    <title lang="zh">螃蟹老师做手工</title>
     <desc lang=""/>
   </programme>
   <programme start="20260815103000 +0800" stop="20260815110000 +0800" channel="广州南国都市4K">
@@ -70002,7 +72041,7 @@
     <desc lang=""/>
   </programme>
   <programme start="20260815210000 +0800" stop="20260815213000 +0800" channel="广州南国都市4K">
-    <title lang="zh">十大猎手家族</title>
+    <title lang="zh">十大动物生化危机</title>
     <desc lang=""/>
   </programme>
   <programme start="20260815213000 +0800" stop="20260815220000 +0800" channel="广州南国都市4K">
@@ -84965,98 +87004,6 @@
     <title lang="zh">锦绣南歌(19)</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260814155400 +0800" stop="20260814160400 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(7)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814160400 +0800" stop="20260814161900 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(8)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814161900 +0800" stop="20260814162900 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(9)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814162900 +0800" stop="20260814163900 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(10)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814163900 +0800" stop="20260814165400 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(11)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814165400 +0800" stop="20260814170400 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(12)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814170400 +0800" stop="20260814171400 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(13)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814171400 +0800" stop="20260814172700 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(14)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814172700 +0800" stop="20260814173700 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(15)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814173700 +0800" stop="20260814174700 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(16)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814174700 +0800" stop="20260814180000 +0800" channel="深圳少儿">
-    <title lang="zh">开心超人联盟之星之力(17)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814180000 +0800" stop="20260814181300 +0800" channel="深圳少儿">
-    <title lang="zh">行走亦课堂Ⅱ(16)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814181300 +0800" stop="20260814181800 +0800" channel="深圳少儿">
-    <title lang="zh">谈心(30)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814181800 +0800" stop="20260814182900 +0800" channel="深圳少儿">
-    <title lang="zh">海底小纵队Ⅶ(13)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814182900 +0800" stop="20260814184000 +0800" channel="深圳少儿">
-    <title lang="zh">海底小纵队Ⅶ(14)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814184000 +0800" stop="20260814185100 +0800" channel="深圳少儿">
-    <title lang="zh">海底小纵队Ⅶ(15)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814185100 +0800" stop="20260814190400 +0800" channel="深圳少儿">
-    <title lang="zh">海底小纵队Ⅶ(16)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814190400 +0800" stop="20260814191500 +0800" channel="深圳少儿">
-    <title lang="zh">海底小纵队Ⅶ(17)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814191500 +0800" stop="20260814192600 +0800" channel="深圳少儿">
-    <title lang="zh">海底小纵队Ⅶ(18)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814192600 +0800" stop="20260814193700 +0800" channel="深圳少儿">
-    <title lang="zh">海底小纵队Ⅶ(19)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814193700 +0800" stop="20260814195000 +0800" channel="深圳少儿">
-    <title lang="zh">海底小纵队Ⅶ(20)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814195000 +0800" stop="20260814195300 +0800" channel="深圳少儿">
-    <title lang="zh">贝肯熊Ⅳ(9)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814195300 +0800" stop="20260814195500 +0800" channel="深圳少儿">
-    <title lang="zh">贝肯熊Ⅳ(10)</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260814195500 +0800" stop="20260814200200 +0800" channel="深圳少儿">
     <title lang="zh">贝肯熊Ⅳ(11)</title>
     <desc lang=""/>
@@ -85681,7 +87628,7 @@
     <title lang="zh">锦绣南歌(24)</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260816234700 +0800" stop="20260817003500 +0800" channel="深圳少儿">
+  <programme start="20260816234700 +0800" stop="20260817003400 +0800" channel="深圳少儿">
     <title lang="zh">锦绣南歌(25)</title>
     <desc lang=""/>
   </programme>
@@ -94093,18 +96040,6 @@
     <title lang="zh">频道宣传</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260814160000 +0800" stop="20260814170000 +0800" channel="睛彩广场舞">
-    <title lang="zh">瑜悦身心</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814170000 +0800" stop="20260814171000 +0800" channel="睛彩广场舞">
-    <title lang="zh">射正指南</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814171000 +0800" stop="20260814171500 +0800" channel="睛彩广场舞">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260814171500 +0800" stop="20260814201500 +0800" channel="睛彩广场舞">
     <title lang="zh">塖州杯中国王中王围棋争霸赛Day3</title>
     <desc lang=""/>
@@ -94437,18 +96372,6 @@
     <title lang="zh">C罗-世界在他脚下</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260814154000 +0800" stop="20260814182000 +0800" channel="睛彩竞技">
-    <title lang="zh">网球世界:WTA多哈站女单第2轮</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814182000 +0800" stop="20260814182500 +0800" channel="睛彩竞技">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814182500 +0800" stop="20260814185000 +0800" channel="睛彩竞技">
-    <title lang="zh">欧陆足球版图:英超特辑</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260814185000 +0800" stop="20260814214500 +0800" channel="睛彩竞技">
     <title lang="zh">频道宣传</title>
     <desc lang=""/>
@@ -94638,38 +96561,6 @@
     <desc lang=""/>
   </programme>
   <programme start="20260813235500 +0800" stop="20260814015000 +0800" channel="睛彩篮球">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814155000 +0800" stop="20260814165000 +0800" channel="睛彩篮球">
-    <title lang="zh">中国榜样篮球季:对话周鹏</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814165000 +0800" stop="20260814170000 +0800" channel="睛彩篮球">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814170000 +0800" stop="20260814183500 +0800" channel="睛彩篮球">
-    <title lang="zh">NBL城燃之战:山东蜜獾-焦作文旅</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814183500 +0800" stop="20260814184500 +0800" channel="睛彩篮球">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814184500 +0800" stop="20260814190500 +0800" channel="睛彩篮球">
-    <title lang="zh">赛事睛华</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814190500 +0800" stop="20260814191500 +0800" channel="睛彩篮球">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814191500 +0800" stop="20260814192000 +0800" channel="睛彩篮球">
-    <title lang="zh">睛彩AI速报</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814192000 +0800" stop="20260814193000 +0800" channel="睛彩篮球">
     <title lang="zh">频道宣传</title>
     <desc lang=""/>
   </programme>
@@ -95005,7 +96896,7 @@
     <title lang="zh">我爱女篮:季后赛半决赛G1</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260816235500 +0800" stop="20260817001000 +0800" channel="睛彩篮球">
+  <programme start="20260816235500 +0800" stop="20260817015000 +0800" channel="睛彩篮球">
     <title lang="zh">频道宣传</title>
     <desc lang=""/>
   </programme>
@@ -95027,10 +96918,6 @@
   </programme>
   <programme start="20260813231000 +0800" stop="20260814000000 +0800" channel="睛彩青少">
     <title lang="zh">青少年健身课</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260814152000 +0800" stop="20260814170000 +0800" channel="睛彩青少">
-    <title lang="zh">频道宣传</title>
     <desc lang=""/>
   </programme>
   <programme start="20260814170000 +0800" stop="20260814222000 +0800" channel="睛彩青少">
@@ -95389,7 +97276,7 @@
     <title lang="zh">频道宣传</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260816230000 +0800" stop="20260817000100 +0800" channel="睛彩青少">
+  <programme start="20260816230000 +0800" stop="20260817020000 +0800" channel="睛彩青少">
     <title lang="zh">国球荣耀:WTT欧洲大满贯男女单打</title>
     <desc lang=""/>
   </programme>
@@ -106045,11 +107932,11 @@
     <title lang="zh">Pattiyal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260814051000 +0800" stop="20260814073000 +0800" channel="KTV">
+  <programme start="20260814051000 +0800" stop="20260814071800 +0800" channel="KTV">
     <title lang="zh">Athisaya Piravigal</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260814073000 +0800" stop="20260814093000 +0800" channel="KTV">
+  <programme start="20260814071800 +0800" stop="20260814093000 +0800" channel="KTV">
     <title lang="zh">En Purushan Ethir Veetu Ponnu</title>
     <desc lang="zh"> </desc>
   </programme>
@@ -106069,16 +107956,16 @@
     <title lang="zh">Englishkaaran</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260814193000 +0800" stop="20260814223000 +0800" channel="KTV">
+  <programme start="20260814193000 +0800" stop="20260814224000 +0800" channel="KTV">
     <title lang="zh">Bose</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260815013000 +0800" stop="20260815043000 +0800" channel="KTV">
-    <title lang="zh">Midnight Show</title>
+    <title lang="zh">Kaadhal Kondein</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260815043000 +0800" stop="20260815073000 +0800" channel="KTV">
-    <title lang="zh">Classic Show</title>
+    <title lang="zh">Veettai Paar Naattai Par</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260815073000 +0800" stop="20260815093000 +0800" channel="KTV">
