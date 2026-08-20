@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260820100000 +0800" stop="20260820113000 +0800" channel="mbc max">
-    <title lang="en">Buried</title>
-    <desc lang="en">Paul Conroy is US truck driver who works as a contractor inIraq. He finds himself buried alive in a wooden coffin, with a cellphone that proved to be useless , he's forced to rely on himself to survive.</desc>
-    <category lang="en">Movie
-               (2010)</category>
-  </programme>
   <programme start="20260820113000 +0800" stop="20260820133000 +0800" channel="mbc max">
     <title lang="en">Memory</title>
     <desc lang="en">Expert assassin Alex Lewis finds himself in the line of fireafter he refuses to finish a job, as the crime syndicate and FBI are on his tail while he battles with his deteriorating memory.</desc>
@@ -173,6 +167,12 @@
     <desc lang="en">When the professional hitman, Bob Viddick goes after hisnext target, the con artist Teddy Murretto, things spiral out of control when Murretto hides in a small-town police station, only to find that Viddick is on his tail, along with a competing assassin, while a rookie police officer gets caught up in the mayhem.</desc>
     <category lang="en">Movie
                (2021)</category>
+  </programme>
+  <programme start="20260822203000 +0800" stop="20260822233000 +0800" channel="mbc max">
+    <title lang="en">A Few Good Men</title>
+    <desc lang="en">Military lawyer Daniel Kaffee(Tom Cruise) is charged withdefending two marines accused of killing their colleague. His defense teammate Galloway (Demi Moore) believes they were only following orders from their superior. They unite to prove the truth that the Colonel wants to hide with all his might.</desc>
+    <category lang="en">Movie
+               (1992)</category>
   </programme>
   <programme start="20260820100000 +0800" stop="20260820130000 +0800" channel="mbc 2">
     <title lang="en">The Green Mile</title>
@@ -383,5 +383,11 @@
     <desc lang="en">After the death of Allen's father (Zach Galifianakis), thegroup decides to make a hellish plan to get him out of his ordeal and find a solution to his psychological problems. But when Doug (Justin Bartha) is kidnapped,they must come together to save him.</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260822210000 +0800" stop="20260822230000 +0800" channel="mbc 2">
+    <title lang="en">The Good Lie</title>
+    <desc lang="en">Orphaned by the brutal Civil war in Sudan that began in1983, these young victims traveled as many as a thousand miles on foot in search of safety.  Fifteen years later, a humanitarian effort would bring 3600 lost boys and girls to America.</desc>
+    <category lang="en">Movie
+               (2014)</category>
   </programme>
 </tv>
