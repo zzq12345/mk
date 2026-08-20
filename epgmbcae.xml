@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260820010000 +0800" stop="20260820030000 +0800" channel="mbc max">
-    <title lang="en">Room</title>
-    <desc lang="en">24-year-old Joy and her young son Jack successfully escapetheir captivity after years of being held captive by a kidnapper in a remote hut.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260820030000 +0800" stop="20260820050000 +0800" channel="mbc max">
     <title lang="en">How Do You Know</title>
     <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
@@ -180,11 +174,11 @@
     <category lang="en">Movie
                (2009)</category>
   </programme>
-  <programme start="20260820014500 +0800" stop="20260820033000 +0800" channel="mbc 2">
-    <title lang="en">Gangster Squad</title>
-    <desc lang="en">In late 1940s Los Angeles, a secret crew of determinedpolice officers try to take down a ruthless mob king, whose power and influence extend from his aides to the police, all the way up to the city's politicians.</desc>
+  <programme start="20260822120000 +0800" stop="20260822140000 +0800" channel="mbc max">
+    <title lang="en">The Commuter</title>
+    <desc lang="en">A former cop's commute takes a dark turn when his wife'slife is held as leverage against him identifying a mysterious passenger on the train he is on. With time running out, the stakes have never been so high as he is drawn into a complex conspiracy with a deadly outcome.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2018)</category>
   </programme>
   <programme start="20260820033000 +0800" stop="20260820050000 +0800" channel="mbc 2">
     <title lang="en">Cloudy with a Chance of Meatballs</title>
@@ -395,5 +389,11 @@
     <desc lang="en">The tough CIA agent JJ finds himself at the mercy of thewitty 9-year-old girl Sophie, after he is secretly sent to monitor her family.</desc>
     <category lang="en">Movie
                (2020)</category>
+  </programme>
+  <programme start="20260822130000 +0800" stop="20260822150000 +0800" channel="mbc 2">
+    <title lang="en">Fighting with My Family</title>
+    <desc lang="en">A biopic that tells the story of WWE professional wrestlerPaige, covering how she made it from wrestling in small venues to becoming one of the prominent stars of the WWE despite the prejudice she faced in an industry marked by violence, friction, and hostile audiences.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
