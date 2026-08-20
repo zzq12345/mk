@@ -1812,10 +1812,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260820030000 +0800" stop="20260820050000 +0800" channel="mbc max">
-    <title lang="en">How Do You Know</title>
-    <desc lang="en">Baseball player Lisa wants to be a star, and pays noattention to her personal life. Then, she is kicked off the team for being older than 32, and her life changes completely. She starts to make up for lost time, and falls in love with two people at the same time, which places her in a difficult position to choose.</desc>
-  </programme>
   <programme start="20260820050000 +0800" stop="20260820063000 +0800" channel="mbc max">
     <title lang="en">Going the Distance</title>
     <desc lang="en">While in New York for an internship, Erin crosses paths withGarrett, with whom she decides to have a short, casual romance during her stay. But as they start to develop feelings for one another, they try to have a long-distance relationship, which proves to be difficult.</desc>
@@ -1931,14 +1927,6 @@
   <programme start="20260822140000 +0800" stop="20260822160000 +0800" channel="mbc max">
     <title lang="en">Mile 22</title>
     <desc lang="en">Assigned to Indonesia, a top notch intelligence officer,backed up by top-secret tactical command unit, is commissioned to smuggle a police officer out of the country, as he has some sensitive and classified information.</desc>
-  </programme>
-  <programme start="20260820033000 +0800" stop="20260820050000 +0800" channel="mbc 2">
-    <title lang="en">Cloudy with a Chance of Meatballs</title>
-    <desc lang="en">A failed scientist's luck turns around when he invents amachine that can get food to fall from the sky, but things take a disastrous turn and he has to reverse his invention to save his town.</desc>
-  </programme>
-  <programme start="20260820050000 +0800" stop="20260820053000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
   </programme>
   <programme start="20260820053000 +0800" stop="20260820073000 +0800" channel="mbc 2">
     <title lang="en">Winter's Tale</title>
@@ -2076,9 +2064,9 @@
     <title lang="en">Fighting with My Family</title>
     <desc lang="en">A biopic that tells the story of WWE professional wrestlerPaige, covering how she made it from wrestling in small venues to becoming one of the prominent stars of the WWE despite the prejudice she faced in an industry marked by violence, friction, and hostile audiences.</desc>
   </programme>
-  <programme start="20260820043000 +0800" stop="20260820053000 +0800" channel="mbc action">
-    <title lang="en">برنامج Accelerate</title>
-    <desc lang=""/>
+  <programme start="20260822150000 +0800" stop="20260822170000 +0800" channel="mbc 2">
+    <title lang="en">The Hangover</title>
+    <desc lang="en">The soon-to-be-married Doug goes with his three best menAlan, Phil, and Stu to Las Vegas for his bachelor party. After a night of hard partying, the three men wake up to find Doug missing. Hungover and unable to remember the events of the previous night, they set out on a mission to find the groom before the big day.</desc>
   </programme>
   <programme start="20260820053000 +0800" stop="20260820063000 +0800" channel="mbc action">
     <title lang="en">Kinnikuman: Perfect Origin Arc</title>
@@ -128892,8 +128880,12 @@
     <title lang="zh">(L) Hari ke-6: What's Up Selangor 2026</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260820133000 +0800" stop="20260820190000 +0800" channel="Astro_Arena">
+  <programme start="20260820133000 +0800" stop="20260820180000 +0800" channel="Astro_Arena">
     <title lang="zh">(L) Hari ke-6: Sukma Selangor 2026</title>
+    <desc lang="zh"> </desc>
+  </programme>
+  <programme start="20260820180000 +0800" stop="20260820190000 +0800" channel="Astro_Arena">
+    <title lang="zh">Sorotan BWF Terbuka Taipei 2026: Akhir</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260820190000 +0800" stop="20260820192000 +0800" channel="Astro_Arena">
@@ -144585,7 +144577,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260820180000 +0700" stop="20260820193000 +0700" channel="GTV">
-    <title lang="zh">Film Keluarga</title>
+    <title lang="zh">Berburu Di Hutan Sunyi</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260820193000 +0700" stop="20260820203000 +0700" channel="GTV">
@@ -144641,7 +144633,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260821180000 +0700" stop="20260821190000 +0700" channel="GTV">
-    <title lang="zh">Film Keluarga</title>
+    <title lang="zh">Sang Juara Di Hutan Rimba</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260821190000 +0700" stop="20260821203000 +0700" channel="GTV">
@@ -144649,7 +144641,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260821203000 +0700" stop="20260821223000 +0700" channel="GTV">
-    <title lang="zh">Mission: Impossble</title>
+    <title lang="zh">Battle Of Snakes: King Kong</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260820003000 +0700" stop="20260820020000 +0700" channel="GTV HD">
@@ -144693,7 +144685,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260820180000 +0700" stop="20260820193000 +0700" channel="GTV HD">
-    <title lang="zh">Film Keluarga</title>
+    <title lang="zh">Berburu Di Hutan Sunyi</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260820193000 +0700" stop="20260820203000 +0700" channel="GTV HD">
@@ -144749,7 +144741,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260821180000 +0700" stop="20260821190000 +0700" channel="GTV HD">
-    <title lang="zh">Film Keluarga</title>
+    <title lang="zh">Sang Juara Di Hutan Rimba</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260821190000 +0700" stop="20260821203000 +0700" channel="GTV HD">
@@ -144757,7 +144749,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260821203000 +0700" stop="20260821223000 +0700" channel="GTV HD">
-    <title lang="zh">Mission: Impossble</title>
+    <title lang="zh">Battle Of Snakes: King Kong</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260820003000 +0700" stop="20260820010000 +0700" channel="Hanacaraka TV">
