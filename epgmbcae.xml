@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260820193000 +0800" stop="20260820200000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program - Normal
-               (1998)</category>
-  </programme>
-  <programme start="20260820200000 +0800" stop="20260820213000 +0800" channel="mbc max">
-    <title lang="en">The Rental</title>
-    <desc lang="en">When two couples rent a home for a celebratory go-awayvacation, their stay takes a frightening turn, making a horrifying scene out of the place.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
-  <programme start="20260820213000 +0800" stop="20260820230500 +0800" channel="mbc max">
-    <title lang="en">The Perfect Guy</title>
-    <desc lang="en">Following a painful breakup, the lobbyist Leah Vaughncrosses paths with the charming Carter Duncan. Soon enough, however, the volatile side of Duncan emerges, turning their budding romance into a mind-game where the two questions she has to answer are who she should trust and who she should fear.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260820230500 +0800" stop="20260821010000 +0800" channel="mbc max">
     <title lang="en">Get Out</title>
     <desc lang="en">A young African-American man visits his girlfriend's family,only to discover that they are cursed.</desc>
@@ -186,17 +168,17 @@
     <category lang="en">Movie
                (1992)</category>
   </programme>
-  <programme start="20260820193000 +0800" stop="20260820213000 +0800" channel="mbc 2">
-    <title lang="en">Winter's Tale</title>
-    <desc lang="en">In 1916  an orphaned young man named Peter (Colin Farrell)tries to steal a mansion thinking that no one is inside. But he discovers the presence of Beverly (Jessica Brown Findlay) and they fall in love.  They have to face difficult challenges to save their love.</desc>
+  <programme start="20260823053000 +0800" stop="20260823080000 +0800" channel="mbc max">
+    <title lang="en">Batman Begins</title>
+    <desc lang="en">The film traces the emergence of Batman, as he travels tothe Far East to study martial arts. He soon discovers about the League of Shadows, whose purpose is to eradicate the crime-ridden city of Gotham as it plunges into wickedness. Batman then starts his quest to combat corruption.</desc>
     <category lang="en">Movie
-               (2014)</category>
+               (2005)</category>
   </programme>
-  <programme start="20260820213000 +0800" stop="20260820233000 +0800" channel="mbc 2">
-    <title lang="en">Live By Night</title>
-    <desc lang="en">Set in 1962 Boston, where alcohol flows and bullets fly, asingle man decides to leave his mark on the world when he discovers a world of underground distilleries, bars, gangs and corrupt police officers. In the meantime the son of a known police officer turns his back on his strict upbringing and gets involved with a dangerous mob.</desc>
+  <programme start="20260823080000 +0800" stop="20260823100000 +0800" channel="mbc max">
+    <title lang="en">Legacy of Lies</title>
+    <desc lang="en">After retiring from his work in MI6, former agent MartinBaxter is thrust back into his old dangerous life, as he joins forces with a Ukrainian journalist to uncover a conspiracy that is connected to Russian covert operations.</desc>
     <category lang="en">Movie
-               (2016)</category>
+               (2020)</category>
   </programme>
   <programme start="20260820233000 +0800" stop="20260821000000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -395,5 +377,23 @@
     <desc lang="en">A test pilot is granted a mystical green ring that bestowshim with otherworldly powers, as well as membership into an intergalactic squadron tasked with keeping peace within the universe.</desc>
     <category lang="en">Movie
                (2011)</category>
+  </programme>
+  <programme start="20260823053000 +0800" stop="20260823060000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program - Normal
+               (2008)</category>
+  </programme>
+  <programme start="20260823060000 +0800" stop="20260823073000 +0800" channel="mbc 2">
+    <title lang="en">The Dark Tower</title>
+    <desc lang="en">In a parallel universe, Roland Deschain fights witheverything he has to prevent his enemy, the Man in Black, from bringing down a structure that preserves reality. With the Man in Black trying to use psychic children to unleash darkness, Roland takes one of them in to save both him and the world.</desc>
+    <category lang="en">Movie
+               (2017)</category>
+  </programme>
+  <programme start="20260823080000 +0800" stop="20260823103000 +0800" channel="mbc 2">
+    <title lang="en">Spider-Man: No Way Home</title>
+    <desc lang="en">As Spider-Man's identity is revealed and he is no longerable to keep Peter Parker's life out of that of Spider-Man, he turns to Doctor Strange for help, but things take a dangerous turn when he realizes what it takes to be who he is.</desc>
+    <category lang="en">Movie
+               (2021)</category>
   </programme>
 </tv>
