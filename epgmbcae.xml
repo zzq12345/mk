@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260826093000 +0800" stop="20260826110000 +0800" channel="mbc max">
-    <title lang="en">Infinitely Polar Bear</title>
-    <desc lang="en">Cameron (Mark Ruffalo) is a depressed father who is addictedto alcohol, trying in various ways to regain his wife Maggie (Zoe Saldana) by taking full responsibility of his young daughters. In his attempt to deal with them, participate in their daily life, and do some chores, the girls do not make this task easy for the father.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260826110000 +0800" stop="20260826130000 +0800" channel="mbc max">
     <title lang="en">Our Friend</title>
     <desc lang="en">When a family receives life-changing news informing them ofthe wife's fatal disease, a couple strives to survive the tragedy with the help and support of their best friend, who moves into their house and ends up leaving a profound impact on the couple's relationship.</desc>
@@ -186,11 +180,11 @@
     <category lang="en">Movie
                (2018)</category>
   </programme>
-  <programme start="20260826090000 +0800" stop="20260826103000 +0800" channel="mbc 2">
-    <title lang="en">Paws of Fury: The Legend of Hank</title>
-    <desc lang="en">Hank, a charming dog with aspirations of becoming a samurai,ventures out in pursuit of his destiny.</desc>
+  <programme start="20260828200000 +0800" stop="20260828220000 +0800" channel="mbc max">
+    <title lang="en">Last Vegas</title>
+    <desc lang="en">Four childhood friends are reunited when the group's swornbachelor decides to get married. As they head to Las Vegas to relieve their glory days, they realize how much the Sin City has transformed.</desc>
     <category lang="en">Movie
-               (2022)</category>
+               (2013)</category>
   </programme>
   <programme start="20260826103000 +0800" stop="20260826123500 +0800" channel="mbc 2">
     <title lang="en">Speed Racer</title>
@@ -419,5 +413,11 @@
     <desc lang="en">An infamous mafia family, the Manzonis, headed by GiovanniManzoni (Robert De Niro) is relocated to Normandy, France under the witness protection program. Written and directed by the man who made "The Fifth Element" and "Léon: The Professional."</desc>
     <category lang="en">Movie
                (2013)</category>
+  </programme>
+  <programme start="20260828210000 +0800" stop="20260828213000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program - Normal
+               (2008)</category>
   </programme>
 </tv>
