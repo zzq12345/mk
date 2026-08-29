@@ -3,33 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20260829063000 +0800" stop="20260829080000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
-    <category lang="en">Program</category>
-    <date>2021</date>
-  </programme>
-  <programme start="20260829080000 +0800" stop="20260829083000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
-  <programme start="20260829083000 +0800" stop="20260829090000 +0800" channel="mbc action">
-    <title lang="en">برنامج the football review</title>
-  </programme>
-  <programme start="20260829090000 +0800" stop="20260829100000 +0800" channel="mbc action">
-    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
-    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Kenshô Ono</actor>
-      <actor>Akio Ôtsuka</actor>
-      <actor>Nobuyuki Hiyama</actor>
-      <actor>Shoya Ishige</actor>
-    </credits>
-    <date>2024</date>
-  </programme>
-  <programme start="20260829100000 +0800" stop="20260829110000 +0800" channel="mbc action">
-    <title lang="en">برنامج Celebrity Car Wars</title>
-  </programme>
   <programme start="20260829110000 +0800" stop="20260829120000 +0800" channel="mbc action">
     <title lang="en">برنامج وثائقيات مورشو</title>
   </programme>
@@ -365,5 +338,20 @@
     <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
     <category lang="en">Program</category>
     <date>2021</date>
+  </programme>
+  <programme start="20260831170000 +0800" stop="20260831180000 +0800" channel="mbc action">
+    <title lang="en">برنامج action bodcast</title>
+  </programme>
+  <programme start="20260901180000 +0800" stop="20260901190000 +0800" channel="mbc action">
+    <title lang="en">برنامج cars &amp; stars</title>
+  </programme>
+  <programme start="20260901190000 +0800" stop="20260901203000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+    <category lang="en">Program</category>
+    <date>2021</date>
+  </programme>
+  <programme start="20260901203000 +0800" stop="20260901213000 +0800" channel="mbc action">
+    <title lang="en">برنامج get  out a life with bear gryls</title>
   </programme>
 </tv>
