@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260901060000 +0800" stop="20260901073000 +0800" channel="mbc max">
-    <title lang="en">Journey to the Center of the Earth</title>
-    <desc lang="en">Based on the famous novel, a teenager goes to stay with hisuncle, Professor Trevor, while his mother prepares the paperwork for them to go to Canada. She gives Trevor a box that belonged to his brother, Max, who has gone missing. Trevor decides to follow in his brother's footsteps with his nephew to Iceland to look for Max, and they get trapped in a cave during a snowstorm.</desc>
-    <category lang="en">Movie
-               (2008)</category>
-  </programme>
-  <programme start="20260901080000 +0800" stop="20260901093000 +0800" channel="mbc max">
-    <title lang="en">Come Away</title>
-    <desc lang="en">A prequel to the tales of Peter Pan and Alice in Wonderland,as the siblings Peter Pan and Alice must endure the tragedy of their elder brother's death. But as they reach Neverland and Wonderland, it gets hard for them to differentiate between the real world and the fantasy world.</desc>
-    <category lang="en">Movie
-               (2020)</category>
-  </programme>
   <programme start="20260901100000 +0800" stop="20260901113000 +0800" channel="mbc max">
     <title lang="en">Daddy Day Care</title>
     <desc lang="en">Charlie and Phil are fired from the company they work in,and Charlie stumbles to find a new job, in order to enroll his son in the elite Chapman Academy. He spends time with his son, Ben, during the day while his wife is at work. This inspires him to open a daycare center with Phil, where they practice 'nontraditional' methods of child care.</desc>
@@ -220,23 +208,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260901063000 +0800" stop="20260901084500 +0800" channel="mbc 2">
-    <title lang="en">Furious Seven</title>
-    <desc lang="en">Following Owen Shaw and his team, Dominic (Van Diesel),Brian (Paul Walker) and their team can return to the United States and lead a normal life again, but Owen's older brother is seeking revenge for his brother's death from Dominique. Thus, the entire gang is determined to take revenge on the man who killed their friend</desc>
+  <programme start="20260903180000 +0800" stop="20260903193500 +0800" channel="mbc max">
+    <title lang="en">Ricki and the Flash</title>
+    <desc lang="en">Rock star Ricki (Meryl Streep), gave up everything for herdream of rock-and-roll stardom, is now returning home to make things right with her family.</desc>
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260901084500 +0800" stop="20260901090000 +0800" channel="mbc 2">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-    <category lang="en">Program - Normal
-               (2012)</category>
-  </programme>
-  <programme start="20260901090000 +0800" stop="20260901103000 +0800" channel="mbc 2">
-    <title lang="en">Vengeance: A Love Story</title>
-    <desc lang="en">After a woman was physically assaulted by a group of peopleafter attending a party and getting away with it, John Dromoor, a gulf war veteran who now works as a local police officer decides to take matters into his own hands and bring the woman justice.</desc>
+  <programme start="20260903200000 +0800" stop="20260903213500 +0800" channel="mbc max">
+    <title lang="en">xXx: State of the Union</title>
+    <desc lang="en">(Darius Stone), a new agent for xXx program, is sent toWashington DC to defuse the power struggle between national leaders.</desc>
     <category lang="en">Movie
-               (2017)</category>
+               (2005)</category>
   </programme>
   <programme start="20260901103000 +0800" stop="20260901110000 +0800" channel="mbc 2">
     <title lang="en">Films &amp; Stars</title>
@@ -435,5 +417,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260903174500 +0800" stop="20260903180000 +0800" channel="mbc 2">
+    <title lang="en">Scoop Maa Raya</title>
+    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
+    <category lang="en">Program - Normal
+               (2012)</category>
+  </programme>
+  <programme start="20260903180000 +0800" stop="20260903203000 +0800" channel="mbc 2">
+    <title lang="en">Blade Runner 2049</title>
+    <desc lang="en">After learning of a long-kept secret, young Blade Runner Ksets out to find the thirty-year-missing former Blade Runner Rick Deckard.</desc>
+    <category lang="en">Movie
+               (2017)</category>
   </programme>
 </tv>
