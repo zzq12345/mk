@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260902140000 +0800" stop="20260902160000 +0800" channel="mbc max">
-    <title lang="en">Annie</title>
-    <desc lang="en">For the good of his public image, wealthy businessman andpolitician Will Stacks launches a campaign to take in the little girl Annie who has been living with her mean foster mom since she was abandoned as a baby.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260902160000 +0800" stop="20260902180000 +0800" channel="mbc max">
     <title lang="en">The Sisterhood of the Traveling Pants</title>
     <desc lang="en">With summer coming up, four friends are faced with theprospect of spending their first vacation apart. They find a way to keep in touch through passing around a pair of jeans that fits all four of them.</desc>
@@ -220,17 +214,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2016)</category>
   </programme>
-  <programme start="20260902130000 +0800" stop="20260902150000 +0800" channel="mbc 2">
-    <title lang="en">Fracture</title>
-    <desc lang="en">Ted Crawford is a wealthy engineer who's arrested for theattempted murder of his wife. He decides to represent himself in court where the hotshot prosecutor ,Willy, expects it to be a simple case but he soon realizes that he's facing a tough opponent.</desc>
+  <programme start="20260905010000 +0800" stop="20260905030000 +0800" channel="mbc max">
+    <title lang="en">Flatliners</title>
+    <desc lang="en">Medical students experiment with the moments just beforedeath when the tragic and horrific events that are involved start to affect their lives negatively.</desc>
     <category lang="en">Movie
-               (2007)</category>
+               (2017)</category>
   </programme>
-  <programme start="20260902150000 +0800" stop="20260902163000 +0800" channel="mbc 2">
-    <title lang="en">The Night Clerk</title>
-    <desc lang="en">When a woman is murdered on his shift, Bart, a hotel clerk,becomes the prime suspect. In order to prove his innocence as the police investigation closes in, Bart must stop the real murderer from picking off another victim.</desc>
+  <programme start="20260905030000 +0800" stop="20260905050000 +0800" channel="mbc max">
+    <title lang="en">Sparkle</title>
+    <desc lang="en">Set in Motown's heyday in the 1960s, three sisters form agirl group and become an instant sensation. One of the sisters, Sparkle, faces the challenges of new fame and a new romance as her close-knit family begins to unravel.</desc>
     <category lang="en">Movie
-               (2020)</category>
+               (2012)</category>
   </programme>
   <programme start="20260902170000 +0800" stop="20260902193000 +0800" channel="mbc 2">
     <title lang="en">Prisoners</title>
@@ -435,5 +429,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">A young man in the prehistoric era, split off from his tribeduring a buffalo hunt, battles to find his way back home. He makes a bond with a fellow lost wolf that has the power to transform humanity.</desc>
     <category lang="en">Movie
                (2018)</category>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905030000 +0800" channel="mbc 2">
+    <title lang="en">Jonah Hex</title>
+    <desc lang="en">In exchange for his own freedom, a bounty hunter is assignedby the U.S millitary to stop a terrorist who is ready to unleash Hell on Earth.</desc>
+    <category lang="en">Movie
+               (2010)</category>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905060000 +0800" channel="mbc 2">
+    <title lang="en">Harry Potter and the Chamber of Secrets</title>
+    <desc lang="en">Harry Potter gets a warning from Dobby about going back toHogwarts. Ron and his brothers come to rescue Harry with their flying cars, and a series of attacks on students seem to be linked to the opening of the Chamber of Secrets.</desc>
+    <category lang="en">Movie
+               (2002)</category>
   </programme>
 </tv>
