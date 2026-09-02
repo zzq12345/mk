@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260902160000 +0800" stop="20260902180000 +0800" channel="mbc max">
-    <title lang="en">The Sisterhood of the Traveling Pants</title>
-    <desc lang="en">With summer coming up, four friends are faced with theprospect of spending their first vacation apart. They find a way to keep in touch through passing around a pair of jeans that fits all four of them.</desc>
-    <category lang="en">Movie
-               (2005)</category>
-  </programme>
-  <programme start="20260902180000 +0800" stop="20260902200000 +0800" channel="mbc max">
-    <title lang="en">Fatherhood</title>
-    <desc lang="en">When his wife passes away a day after his baby girl is born,a father must struggle to bring up his child as a single dad, and this unique experience teaches him a lot more about himself, the world, and what fatherhood really means.</desc>
-    <category lang="en">Movie
-               (2021)</category>
-  </programme>
   <programme start="20260902200000 +0800" stop="20260902220000 +0800" channel="mbc max">
     <title lang="en">Bad Samaritan</title>
     <desc lang="en">When two burglars break into a house they were going toloot, they stumble upon a woman being held captive inside.</desc>
@@ -226,11 +214,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2012)</category>
   </programme>
-  <programme start="20260902170000 +0800" stop="20260902193000 +0800" channel="mbc 2">
-    <title lang="en">Prisoners</title>
-    <desc lang="en">When Keller Dover's (Hugh Jackman) daughter and herboyfriend go missing, the police start searching for leads to find her, but when they fail due to lack of evidence, Dover takes matters into his own hands.</desc>
+  <programme start="20260905050000 +0800" stop="20260905053000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program - Normal
+               (1998)</category>
+  </programme>
+  <programme start="20260905053000 +0800" stop="20260905073000 +0800" channel="mbc max">
+    <title lang="en">Take the Lead</title>
+    <desc lang="en">Dance instructor Pierre Dulaine faces the ultimate challengewhen he volunteers to teach dance to a group of troublemakers, as he struggles to overcome many obstacles in order to prepare them to compete in a dance contest.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2006)</category>
   </programme>
   <programme start="20260902193000 +0800" stop="20260902210000 +0800" channel="mbc 2">
     <title lang="en">A History of Violence</title>
@@ -441,5 +435,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">Harry Potter gets a warning from Dobby about going back toHogwarts. Ron and his brothers come to rescue Harry with their flying cars, and a series of attacks on students seem to be linked to the opening of the Chamber of Secrets.</desc>
     <category lang="en">Movie
                (2002)</category>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905080000 +0800" channel="mbc 2">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">The life of the foster child Billy Batson changes foreverafter the ancient wizard Shazam grants him the power to transform into an adult superhero, only to find himself chased by Dr. Thaddeus Sivana who is after his newfound powers.</desc>
+    <category lang="en">Movie
+               (2019)</category>
   </programme>
 </tv>
