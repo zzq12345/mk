@@ -6,24 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260902053000 +0800" stop="20260902060000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program - Normal
-               (1998)</category>
-  </programme>
-  <programme start="20260902060000 +0800" stop="20260902073000 +0800" channel="mbc max">
-    <title lang="en">Journey 2: The Mysterious Island</title>
-    <desc lang="en">Sean Anderson goes off on a journey with his stepfather tofind his grandfather, who is missing on a mythical island. They set out for the island of Palau where they meet a man and his daughter. Their helicopter crashes on the mysterious island. Sean finds his grandfather and adventure begins.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
-  <programme start="20260902073000 +0800" stop="20260902093000 +0800" channel="mbc max">
-    <title lang="en">Annie</title>
-    <desc lang="en">For the good of his public image, wealthy businessman andpolitician Will Stacks launches a campaign to take in the little girl Annie who has been living with her mean foster mom since she was abandoned as a baby.</desc>
-    <category lang="en">Movie
-               (2014)</category>
-  </programme>
   <programme start="20260902100000 +0800" stop="20260902113500 +0800" channel="mbc max">
     <title lang="en">xXx: State of the Union</title>
     <desc lang="en">(Darius Stone), a new agent for xXx program, is sent toWashington DC to defuse the power struggle between national leaders.</desc>
@@ -220,29 +202,23 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie - Cartoon
                (2004)</category>
   </programme>
-  <programme start="20260902050000 +0800" stop="20260902063000 +0800" channel="mbc 2">
-    <title lang="en">Bee Movie</title>
-    <desc lang="en">Barry the Bee has recently graduated from university and isfeeling unmotivated about having to make honey for the rest of his life. He decides to embark on a special journey outside his hive, and meets Vanessa, a New-York flower seller. Things change when he learns that humans actually eat honey.</desc>
+  <programme start="20260904160000 +0800" stop="20260904173000 +0800" channel="mbc max">
+    <title lang="en">How to Train Your Dragon</title>
+    <desc lang="en">The unlikely friendship between the young Viking Hiccup, whowas raised to believe that dragons must be slayed, and a dangerous and rare dragon, Night Fury.</desc>
+    <category lang="en">Movie
+               (2010)</category>
+  </programme>
+  <programme start="20260904173000 +0800" stop="20260904190000 +0800" channel="mbc max">
+    <title lang="en">How to Train Your Dragon 2</title>
+    <desc lang="en">Hiccup and Toothless embark on an adventure to save theirisland from a dragon hunter who's bent on taking over the world with a dragon army.</desc>
     <category lang="en">Movie - Cartoon
+               (2014)</category>
+  </programme>
+  <programme start="20260904193000 +0800" stop="20260904213000 +0800" channel="mbc max">
+    <title lang="en">Across the Universe</title>
+    <desc lang="en">While looking for his American father, Jude meets theadventurous Max and his sister Lucy who he starts to fall for. As the war in Vietnam escalates, Max joins the army as Lucy supports an anti-war movement.</desc>
+    <category lang="en">Movie
                (2007)</category>
-  </programme>
-  <programme start="20260902063000 +0800" stop="20260902083500 +0800" channel="mbc 2">
-    <title lang="en">The Fate of the Furious</title>
-    <desc lang="en">After Dom and Letty spend their honeymoon, and theretirement of Brian and Mia, a mysterious woman tries to seduce Dom into the world of crime and the betrayal of his best friends, which puts the team in a tough situation.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
-  <programme start="20260902083500 +0800" stop="20260902090000 +0800" channel="mbc 2">
-    <title lang="en">Films &amp; Stars</title>
-    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
-    <category lang="en">Program - Normal
-               (2008)</category>
-  </programme>
-  <programme start="20260902090000 +0800" stop="20260902103000 +0800" channel="mbc 2">
-    <title lang="en">The Night Clerk</title>
-    <desc lang="en">When a woman is murdered on his shift, Bart, a hotel clerk,becomes the prime suspect. In order to prove his innocence as the police investigation closes in, Bart must stop the real murderer from picking off another victim.</desc>
-    <category lang="en">Movie
-               (2020)</category>
   </programme>
   <programme start="20260902103000 +0800" stop="20260902130000 +0800" channel="mbc 2">
     <title lang="en">Harry Potter and the Philosopher's Stone</title>
@@ -429,5 +405,23 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">The story of the Battle of Thermopylae where Persian KingXerxes led more than 100,000 men, confronting 300 Spartan warriors, 700 Thespians, and 400 Thebans.</desc>
     <category lang="en">Movie
                (2006)</category>
+  </programme>
+  <programme start="20260904170000 +0800" stop="20260904183000 +0800" channel="mbc 2">
+    <title lang="en">300: Rise of an Empire</title>
+    <desc lang="en">A new battle takes place against the Persians this time atsea, as the Greek general Themistokles faces the God-King Xerxes of Persia and Artemisia , the ruthless leader of the Persian armada.</desc>
+    <category lang="en">Movie
+               (2014)</category>
+  </programme>
+  <programme start="20260904183000 +0800" stop="20260904190000 +0800" channel="mbc 2">
+    <title lang="en">Action Zone</title>
+    <desc lang="en">A program that offers a look at the latest films that arepremiering in international theaters, and the film scenes that baffled audiences, in addition to many exclusive interviews.</desc>
+    <category lang="en">Program - Normal
+               (2010)</category>
+  </programme>
+  <programme start="20260904190000 +0800" stop="20260904213000 +0800" channel="mbc 2">
+    <title lang="en">The Last Samurai</title>
+    <desc lang="en">Cynical veteran Nathan Algren is hired to train a Japanesearmy to use firearms against the traditionalist Samurai. After being taken hostage by the Samurai after a bloody confrontation, he grows to respect their culture and joins their ranks.</desc>
+    <category lang="en">Movie
+               (2003)</category>
   </programme>
 </tv>
