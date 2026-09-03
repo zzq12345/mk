@@ -1815,10 +1815,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260903180000 +0800" stop="20260903200000 +0800" channel="mbc max">
-    <title lang="en">Flatliners</title>
-    <desc lang="en">Medical students experiment with the moments just beforedeath when the tragic and horrific events that are involved start to affect their lives negatively.</desc>
-  </programme>
   <programme start="20260903200000 +0800" stop="20260903213000 +0800" channel="mbc max">
     <title lang="en">Hoot</title>
     <desc lang="en">When Roy moves with his family to Florida, he soon befriendstwo siblings and gets drawn into their fight to save some endangered owls from the danger posed by a construction company.</desc>
@@ -1953,9 +1949,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="en">Ricki and the Flash</title>
     <desc lang="en">Rock star Ricki (Meryl Streep), gave up everything for herdream of rock-and-roll stardom, is now returning home to make things right with her family.</desc>
   </programme>
-  <programme start="20260903173000 +0800" stop="20260903193000 +0800" channel="mbc 2">
-    <title lang="en">Jack the Giant Slayer</title>
-    <desc lang="en">An ancient war is reignited when a young farmhand, Jack,unwittingly opens a gateway between our world and that of a fearsome race of giants. Jack fights for a kingdom, its people, and the love of a princess.</desc>
+  <programme start="20260906033000 +0800" stop="20260906050000 +0800" channel="mbc max">
+    <title lang="en">Moonrise Kingdom</title>
+    <desc lang="en">Set in the sixties, in an island in New England, a12-year-old boy and girl fall in love and secretly plan to run away together. This angers the authorities in the island, and the situation escalates to the point where they attempt to track the young couple in all directions.</desc>
+  </programme>
+  <programme start="20260906050000 +0800" stop="20260906053000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+  </programme>
+  <programme start="20260906053000 +0800" stop="20260906070000 +0800" channel="mbc max">
+    <title lang="en">How to Train Your Dragon</title>
+    <desc lang="en">The unlikely friendship between the young Viking Hiccup, whowas raised to believe that dragons must be slayed, and a dangerous and rare dragon, Night Fury.</desc>
   </programme>
   <programme start="20260903193000 +0800" stop="20260903210000 +0800" channel="mbc 2">
     <title lang="en">Jonah Hex</title>
@@ -2085,17 +2089,17 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="en">I, Robot</title>
     <desc lang="en">In the distant future, robots are created to help humanswith their daily tasks.  Detective Del Spooner begins to investigate the murder of a leading robotics scientist and discovers that a robot named Sonny is involved.  He has to protect the fate of humans, and reconcile between them and the robots.</desc>
   </programme>
-  <programme start="20260902170000 +0800" stop="20260902183000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  <programme start="20260906033000 +0800" stop="20260906053000 +0800" channel="mbc 2">
+    <title lang="en">Dumplin'</title>
+    <desc lang="en">Willowdean ('Dumplin'), is a full-bodied teenager and thedaughter of a former beauty queen, who signs up in the Miss Bluebonnet Teen Pageant, revolutionizing the contest and the small Texas town.</desc>
   </programme>
-  <programme start="20260903183000 +0800" stop="20260903193000 +0800" channel="mbc action">
-    <title lang="en">ابرز لقطات الدوري</title>
-    <desc lang=""/>
+  <programme start="20260906053000 +0800" stop="20260906060000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
   </programme>
-  <programme start="20260903193000 +0800" stop="20260903203000 +0800" channel="mbc action">
-    <title lang="en">الخميس</title>
-    <desc lang=""/>
+  <programme start="20260906060000 +0800" stop="20260906073000 +0800" channel="mbc 2">
+    <title lang="en">The Great Wall</title>
+    <desc lang="en">Set during the era in which the Sung ancestry ruled theChinese territory where many mysteries unfold regarding the construction of the Great Wall.</desc>
   </programme>
   <programme start="20260903203000 +0800" stop="20260903210000 +0800" channel="mbc action">
     <title lang="en">Kinnikuman: Perfect Origin Arc</title>
@@ -87345,250 +87349,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">全景世界盃:美加墨世界盃1/8決賽</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260903020000 +0800" stop="20260903023000 +0800" channel="廣州綜合">
-    <title lang="zh">健康100FUN</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903023000 +0800" stop="20260903030000 +0800" channel="廣州綜合">
-    <title lang="zh">中國城市報道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903030000 +0800" stop="20260903050000 +0800" channel="廣州綜合">
-    <title lang="zh">廣視劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903050000 +0800" stop="20260903053000 +0800" channel="廣州綜合">
-    <title lang="zh">搵食珠三角</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903053000 +0800" stop="20260903060000 +0800" channel="廣州綜合">
-    <title lang="zh">百味廣州</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903060000 +0800" stop="20260903063000 +0800" channel="廣州綜合">
-    <title lang="zh">中國城市報道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903063000 +0800" stop="20260903070000 +0800" channel="廣州綜合">
-    <title lang="zh">健康100FUN</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903070000 +0800" stop="20260903073000 +0800" channel="廣州綜合">
-    <title lang="zh">廣州新聞聯播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903073000 +0800" stop="20260903080000 +0800" channel="廣州綜合">
-    <title lang="zh">G4出動</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903080000 +0800" stop="20260903083000 +0800" channel="廣州綜合">
-    <title lang="zh">廣視新聞</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903083000 +0800" stop="20260903090000 +0800" channel="廣州綜合">
-    <title lang="zh">廣州新聞聯播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903090000 +0800" stop="20260903093000 +0800" channel="廣州綜合">
-    <title lang="zh">百味廣州</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903093000 +0800" stop="20260903120000 +0800" channel="廣州綜合">
-    <title lang="zh">廣視劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903120000 +0800" stop="20260903123000 +0800" channel="廣州綜合">
-    <title lang="zh">灣區全媒睇</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903123000 +0800" stop="20260903130000 +0800" channel="廣州綜合">
-    <title lang="zh">G4出動</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903130000 +0800" stop="20260903133000 +0800" channel="廣州綜合">
-    <title lang="zh">中國城市報道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903133000 +0800" stop="20260903140000 +0800" channel="廣州綜合">
-    <title lang="zh">健康100FUN</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903140000 +0800" stop="20260903141500 +0800" channel="廣州綜合">
-    <title lang="zh">百味廣州</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903141500 +0800" stop="20260903164500 +0800" channel="廣州綜合">
-    <title lang="zh">廣視劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903164500 +0800" stop="20260903171000 +0800" channel="廣州綜合">
-    <title lang="zh">府前直通車</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903171000 +0800" stop="20260903174500 +0800" channel="廣州綜合">
-    <title lang="zh">健康100FUN</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903174500 +0800" stop="20260903180000 +0800" channel="廣州綜合">
-    <title lang="zh">百味廣州</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903180000 +0800" stop="20260903183000 +0800" channel="廣州綜合">
-    <title lang="zh">G4出動</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903183000 +0800" stop="20260903190000 +0800" channel="廣州綜合">
-    <title lang="zh">廣視新聞</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903190000 +0800" stop="20260903193000 +0800" channel="廣州綜合">
-    <title lang="zh">轉播《新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903193000 +0800" stop="20260903210000 +0800" channel="廣州綜合">
-    <title lang="zh">閤家歡劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903210000 +0800" stop="20260903213000 +0800" channel="廣州綜合">
-    <title lang="zh">廣州新聞聯播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903213000 +0800" stop="20260903230000 +0800" channel="廣州綜合">
-    <title lang="zh">雷霆劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903230000 +0800" stop="20260903234000 +0800" channel="廣州綜合">
-    <title lang="zh">中國城市報道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903234000 +0800" stop="20260903235959 +0800" channel="廣州綜合">
-    <title lang="zh">廣視劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904020000 +0800" stop="20260904023000 +0800" channel="廣州綜合">
-    <title lang="zh">健康100FUN</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904023000 +0800" stop="20260904030000 +0800" channel="廣州綜合">
-    <title lang="zh">中國城市報道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904030000 +0800" stop="20260904050000 +0800" channel="廣州綜合">
-    <title lang="zh">廣視劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904050000 +0800" stop="20260904053000 +0800" channel="廣州綜合">
-    <title lang="zh">府前直通車</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904053000 +0800" stop="20260904060000 +0800" channel="廣州綜合">
-    <title lang="zh">百味廣州</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904060000 +0800" stop="20260904063000 +0800" channel="廣州綜合">
-    <title lang="zh">中國城市報道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904063000 +0800" stop="20260904070000 +0800" channel="廣州綜合">
-    <title lang="zh">健康100FUN</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904070000 +0800" stop="20260904073000 +0800" channel="廣州綜合">
-    <title lang="zh">廣州新聞聯播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904073000 +0800" stop="20260904080000 +0800" channel="廣州綜合">
-    <title lang="zh">G4出動</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904080000 +0800" stop="20260904083000 +0800" channel="廣州綜合">
-    <title lang="zh">廣視新聞</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904083000 +0800" stop="20260904090000 +0800" channel="廣州綜合">
-    <title lang="zh">廣州新聞聯播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904090000 +0800" stop="20260904093000 +0800" channel="廣州綜合">
-    <title lang="zh">百味廣州</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904093000 +0800" stop="20260904120000 +0800" channel="廣州綜合">
-    <title lang="zh">廣視劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="廣州綜合">
-    <title lang="zh">灣區全媒睇</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904123000 +0800" stop="20260904130000 +0800" channel="廣州綜合">
-    <title lang="zh">G4出動</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904130000 +0800" stop="20260904133000 +0800" channel="廣州綜合">
-    <title lang="zh">中國城市報道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904133000 +0800" stop="20260904140000 +0800" channel="廣州綜合">
-    <title lang="zh">健康100FUN</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904140000 +0800" stop="20260904141500 +0800" channel="廣州綜合">
-    <title lang="zh">百味廣州</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904141500 +0800" stop="20260904155500 +0800" channel="廣州綜合">
-    <title lang="zh">廣視劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904155500 +0800" stop="20260904164500 +0800" channel="廣州綜合">
-    <title lang="zh">一門“新”思</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904164500 +0800" stop="20260904171000 +0800" channel="廣州綜合">
-    <title lang="zh">府前直通車</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904171000 +0800" stop="20260904174500 +0800" channel="廣州綜合">
-    <title lang="zh">健康100FUN</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904174500 +0800" stop="20260904180000 +0800" channel="廣州綜合">
-    <title lang="zh">百味廣州</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904180000 +0800" stop="20260904183000 +0800" channel="廣州綜合">
-    <title lang="zh">G4出動</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904183000 +0800" stop="20260904190000 +0800" channel="廣州綜合">
-    <title lang="zh">廣視新聞</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904190000 +0800" stop="20260904193000 +0800" channel="廣州綜合">
-    <title lang="zh">轉播《新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904193000 +0800" stop="20260904210000 +0800" channel="廣州綜合">
-    <title lang="zh">閤家歡劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904210000 +0800" stop="20260904213000 +0800" channel="廣州綜合">
-    <title lang="zh">廣州新聞聯播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904213000 +0800" stop="20260904230000 +0800" channel="廣州綜合">
-    <title lang="zh">雷霆劇場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904230000 +0800" stop="20260904234000 +0800" channel="廣州綜合">
-    <title lang="zh">中國城市報道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904234000 +0800" stop="20260904235959 +0800" channel="廣州綜合">
-    <title lang="zh">廣視劇場</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260903001000 +0800" stop="20260903004000 +0800" channel="廣州新聞">
     <title lang="zh">中國城市報道</title>
     <desc lang=""/>
@@ -87963,6 +87723,250 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260904235000 +0800" stop="20260904235959 +0800" channel="廣州新聞">
     <title lang="zh">警視</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903020000 +0800" stop="20260903023000 +0800" channel="廣州綜合">
+    <title lang="zh">健康100FUN</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903023000 +0800" stop="20260903030000 +0800" channel="廣州綜合">
+    <title lang="zh">中國城市報道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903030000 +0800" stop="20260903050000 +0800" channel="廣州綜合">
+    <title lang="zh">廣視劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903050000 +0800" stop="20260903053000 +0800" channel="廣州綜合">
+    <title lang="zh">搵食珠三角</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903053000 +0800" stop="20260903060000 +0800" channel="廣州綜合">
+    <title lang="zh">百味廣州</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903060000 +0800" stop="20260903063000 +0800" channel="廣州綜合">
+    <title lang="zh">中國城市報道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903063000 +0800" stop="20260903070000 +0800" channel="廣州綜合">
+    <title lang="zh">健康100FUN</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903070000 +0800" stop="20260903073000 +0800" channel="廣州綜合">
+    <title lang="zh">廣州新聞聯播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903073000 +0800" stop="20260903080000 +0800" channel="廣州綜合">
+    <title lang="zh">G4出動</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903080000 +0800" stop="20260903083000 +0800" channel="廣州綜合">
+    <title lang="zh">廣視新聞</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903083000 +0800" stop="20260903090000 +0800" channel="廣州綜合">
+    <title lang="zh">廣州新聞聯播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903090000 +0800" stop="20260903093000 +0800" channel="廣州綜合">
+    <title lang="zh">百味廣州</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903093000 +0800" stop="20260903120000 +0800" channel="廣州綜合">
+    <title lang="zh">廣視劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903120000 +0800" stop="20260903123000 +0800" channel="廣州綜合">
+    <title lang="zh">灣區全媒睇</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903123000 +0800" stop="20260903130000 +0800" channel="廣州綜合">
+    <title lang="zh">G4出動</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903130000 +0800" stop="20260903133000 +0800" channel="廣州綜合">
+    <title lang="zh">中國城市報道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903133000 +0800" stop="20260903140000 +0800" channel="廣州綜合">
+    <title lang="zh">健康100FUN</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903140000 +0800" stop="20260903141500 +0800" channel="廣州綜合">
+    <title lang="zh">百味廣州</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903141500 +0800" stop="20260903164500 +0800" channel="廣州綜合">
+    <title lang="zh">廣視劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903164500 +0800" stop="20260903171000 +0800" channel="廣州綜合">
+    <title lang="zh">府前直通車</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903171000 +0800" stop="20260903174500 +0800" channel="廣州綜合">
+    <title lang="zh">健康100FUN</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903174500 +0800" stop="20260903180000 +0800" channel="廣州綜合">
+    <title lang="zh">百味廣州</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903180000 +0800" stop="20260903183000 +0800" channel="廣州綜合">
+    <title lang="zh">G4出動</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903183000 +0800" stop="20260903190000 +0800" channel="廣州綜合">
+    <title lang="zh">廣視新聞</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903190000 +0800" stop="20260903193000 +0800" channel="廣州綜合">
+    <title lang="zh">轉播《新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903193000 +0800" stop="20260903210000 +0800" channel="廣州綜合">
+    <title lang="zh">閤家歡劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903210000 +0800" stop="20260903213000 +0800" channel="廣州綜合">
+    <title lang="zh">廣州新聞聯播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903213000 +0800" stop="20260903230000 +0800" channel="廣州綜合">
+    <title lang="zh">雷霆劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903230000 +0800" stop="20260903234000 +0800" channel="廣州綜合">
+    <title lang="zh">中國城市報道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903234000 +0800" stop="20260903235959 +0800" channel="廣州綜合">
+    <title lang="zh">廣視劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904020000 +0800" stop="20260904023000 +0800" channel="廣州綜合">
+    <title lang="zh">健康100FUN</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904023000 +0800" stop="20260904030000 +0800" channel="廣州綜合">
+    <title lang="zh">中國城市報道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904030000 +0800" stop="20260904050000 +0800" channel="廣州綜合">
+    <title lang="zh">廣視劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904050000 +0800" stop="20260904053000 +0800" channel="廣州綜合">
+    <title lang="zh">府前直通車</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904053000 +0800" stop="20260904060000 +0800" channel="廣州綜合">
+    <title lang="zh">百味廣州</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904060000 +0800" stop="20260904063000 +0800" channel="廣州綜合">
+    <title lang="zh">中國城市報道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904063000 +0800" stop="20260904070000 +0800" channel="廣州綜合">
+    <title lang="zh">健康100FUN</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904070000 +0800" stop="20260904073000 +0800" channel="廣州綜合">
+    <title lang="zh">廣州新聞聯播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904073000 +0800" stop="20260904080000 +0800" channel="廣州綜合">
+    <title lang="zh">G4出動</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904080000 +0800" stop="20260904083000 +0800" channel="廣州綜合">
+    <title lang="zh">廣視新聞</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904083000 +0800" stop="20260904090000 +0800" channel="廣州綜合">
+    <title lang="zh">廣州新聞聯播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904090000 +0800" stop="20260904093000 +0800" channel="廣州綜合">
+    <title lang="zh">百味廣州</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904093000 +0800" stop="20260904120000 +0800" channel="廣州綜合">
+    <title lang="zh">廣視劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="廣州綜合">
+    <title lang="zh">灣區全媒睇</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904123000 +0800" stop="20260904130000 +0800" channel="廣州綜合">
+    <title lang="zh">G4出動</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904130000 +0800" stop="20260904133000 +0800" channel="廣州綜合">
+    <title lang="zh">中國城市報道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904133000 +0800" stop="20260904140000 +0800" channel="廣州綜合">
+    <title lang="zh">健康100FUN</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904140000 +0800" stop="20260904141500 +0800" channel="廣州綜合">
+    <title lang="zh">百味廣州</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904141500 +0800" stop="20260904155500 +0800" channel="廣州綜合">
+    <title lang="zh">廣視劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904155500 +0800" stop="20260904164500 +0800" channel="廣州綜合">
+    <title lang="zh">一門“新”思</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904164500 +0800" stop="20260904171000 +0800" channel="廣州綜合">
+    <title lang="zh">府前直通車</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904171000 +0800" stop="20260904174500 +0800" channel="廣州綜合">
+    <title lang="zh">健康100FUN</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904174500 +0800" stop="20260904180000 +0800" channel="廣州綜合">
+    <title lang="zh">百味廣州</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904180000 +0800" stop="20260904183000 +0800" channel="廣州綜合">
+    <title lang="zh">G4出動</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904183000 +0800" stop="20260904190000 +0800" channel="廣州綜合">
+    <title lang="zh">廣視新聞</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904190000 +0800" stop="20260904193000 +0800" channel="廣州綜合">
+    <title lang="zh">轉播《新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904193000 +0800" stop="20260904210000 +0800" channel="廣州綜合">
+    <title lang="zh">閤家歡劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904210000 +0800" stop="20260904213000 +0800" channel="廣州綜合">
+    <title lang="zh">廣州新聞聯播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904213000 +0800" stop="20260904230000 +0800" channel="廣州綜合">
+    <title lang="zh">雷霆劇場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904230000 +0800" stop="20260904234000 +0800" channel="廣州綜合">
+    <title lang="zh">中國城市報道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904234000 +0800" stop="20260904235959 +0800" channel="廣州綜合">
+    <title lang="zh">廣視劇場</title>
     <desc lang=""/>
   </programme>
   <programme start="20260903000000 +0800" stop="20260903070000 +0800" channel="佛山綜合">
@@ -89965,6 +89969,194 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">子夜劇場:愛的釐米</title>
     <desc lang=""/>
   </programme>
+  <programme start="20260903001000 +0800" stop="20260903080000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">閉臺曲</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903080000 +0800" stop="20260903080500 +0800" channel="汕頭經濟生活">
+    <title lang="zh">開臺曲</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903080500 +0800" stop="20260903113600 +0800" channel="汕頭經濟生活">
+    <title lang="zh">潮劇:皇子爭國（上）</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903113600 +0800" stop="20260903120000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">潮汕左翼文化名人-6</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903120000 +0800" stop="20260903123000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播昨天中醫非常道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903123000 +0800" stop="20260903141600 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播昨天今日視線</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903141600 +0800" stop="20260903150800 +0800" channel="汕頭經濟生活">
+    <title lang="zh">41劇:海棠依舊-32</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903150800 +0800" stop="20260903160000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">41劇:海棠依舊-33</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903160000 +0800" stop="20260903164800 +0800" channel="汕頭經濟生活">
+    <title lang="zh">41劇:海棠依舊-34</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903164800 +0800" stop="20260903170700 +0800" channel="汕頭經濟生活">
+    <title lang="zh">盟卡車神之龍獸覺醒-20</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903170700 +0800" stop="20260903173300 +0800" channel="汕頭經濟生活">
+    <title lang="zh">厝邊頭尾-638</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903173300 +0800" stop="20260903175900 +0800" channel="汕頭經濟生活">
+    <title lang="zh">厝邊頭尾-639</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903175900 +0800" stop="20260903182100 +0800" channel="汕頭經濟生活">
+    <title lang="zh">厝邊頭尾-640</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903182100 +0800" stop="20260903183000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播昨天汕頭舊事</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903183000 +0800" stop="20260903190000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播昨天中醫非常道</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903190000 +0800" stop="20260903193800 +0800" channel="汕頭經濟生活">
+    <title lang="zh">今日視線(首播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903193800 +0800" stop="20260903194300 +0800" channel="汕頭經濟生活">
+    <title lang="zh">汕頭舊事(首播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903194300 +0800" stop="20260903200000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">最美僑村第二季-4</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903200000 +0800" stop="20260903203000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">煙火生活(首播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903203000 +0800" stop="20260903212300 +0800" channel="汕頭經濟生活">
+    <title lang="zh">18劇:歡顏-11</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903212300 +0800" stop="20260903223000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">18劇:歡顏-12</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903223000 +0800" stop="20260903230000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">汕頭新聞(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903230000 +0800" stop="20260903232500 +0800" channel="汕頭經濟生活">
+    <title lang="zh">今日視線(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903232500 +0800" stop="20260903235959 +0800" channel="汕頭經濟生活">
+    <title lang="zh">33劇:大江大河之歲月如歌-32</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904001000 +0800" stop="20260904080000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">閉臺曲</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904080000 +0800" stop="20260904080500 +0800" channel="汕頭經濟生活">
+    <title lang="zh">開臺曲</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904080500 +0800" stop="20260904113600 +0800" channel="汕頭經濟生活">
+    <title lang="zh">潮劇:皇子爭國（下）</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904113600 +0800" stop="20260904120000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">潮汕左翼文化名人-7</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播昨天煙火生活</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904123000 +0800" stop="20260904141600 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播昨天今日視線</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904141600 +0800" stop="20260904150800 +0800" channel="汕頭經濟生活">
+    <title lang="zh">41劇:海棠依舊-35</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904150800 +0800" stop="20260904160000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">41劇:海棠依舊-36</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904160000 +0800" stop="20260904164800 +0800" channel="汕頭經濟生活">
+    <title lang="zh">41劇:海棠依舊-37</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904164800 +0800" stop="20260904170700 +0800" channel="汕頭經濟生活">
+    <title lang="zh">盟卡車神之龍獸覺醒-21</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904170700 +0800" stop="20260904173300 +0800" channel="汕頭經濟生活">
+    <title lang="zh">厝邊頭尾-641</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904173300 +0800" stop="20260904175900 +0800" channel="汕頭經濟生活">
+    <title lang="zh">厝邊頭尾-642</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904175900 +0800" stop="20260904182100 +0800" channel="汕頭經濟生活">
+    <title lang="zh">厝邊頭尾-643</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904182100 +0800" stop="20260904183000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播昨天汕頭舊事</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904183000 +0800" stop="20260904190000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播昨天煙火生活</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904190000 +0800" stop="20260904193800 +0800" channel="汕頭經濟生活">
+    <title lang="zh">今日視線(首播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904193800 +0800" stop="20260904194300 +0800" channel="汕頭經濟生活">
+    <title lang="zh">汕頭舊事(首播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904194300 +0800" stop="20260904200000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">最美僑村第二季-5</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904200000 +0800" stop="20260904213200 +0800" channel="汕頭經濟生活">
+    <title lang="zh">直播：海墘歌聲第6場</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904213200 +0800" stop="20260904223000 +0800" channel="汕頭經濟生活">
+    <title lang="zh">重播週二民聲熱線50’</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904223000 +0800" stop="20260904230600 +0800" channel="汕頭經濟生活">
+    <title lang="zh">汕頭新聞(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904230600 +0800" stop="20260904233100 +0800" channel="汕頭經濟生活">
+    <title lang="zh">今日視線(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904233100 +0800" stop="20260904235959 +0800" channel="汕頭經濟生活">
+    <title lang="zh">33劇:大江大河之歲月如歌-33</title>
+    <desc lang=""/>
+  </programme>
   <programme start="20260903000000 +0800" stop="20260903080000 +0800" channel="汕頭新聞綜合">
     <title lang="zh">閉臺曲</title>
     <desc lang=""/>
@@ -90219,194 +90411,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260904235500 +0800" stop="20260904235959 +0800" channel="汕頭新聞綜合">
     <title lang="zh">歷史潮汕精編版-14</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903001000 +0800" stop="20260903080000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">閉臺曲</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903080000 +0800" stop="20260903080500 +0800" channel="汕頭經濟生活">
-    <title lang="zh">開臺曲</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903080500 +0800" stop="20260903113600 +0800" channel="汕頭經濟生活">
-    <title lang="zh">潮劇:皇子爭國（上）</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903113600 +0800" stop="20260903120000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">潮汕左翼文化名人-6</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903120000 +0800" stop="20260903123000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播昨天中醫非常道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903123000 +0800" stop="20260903141600 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播昨天今日視線</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903141600 +0800" stop="20260903150800 +0800" channel="汕頭經濟生活">
-    <title lang="zh">41劇:海棠依舊-32</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903150800 +0800" stop="20260903160000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">41劇:海棠依舊-33</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903160000 +0800" stop="20260903164800 +0800" channel="汕頭經濟生活">
-    <title lang="zh">41劇:海棠依舊-34</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903164800 +0800" stop="20260903170700 +0800" channel="汕頭經濟生活">
-    <title lang="zh">盟卡車神之龍獸覺醒-20</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903170700 +0800" stop="20260903173300 +0800" channel="汕頭經濟生活">
-    <title lang="zh">厝邊頭尾-638</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903173300 +0800" stop="20260903175900 +0800" channel="汕頭經濟生活">
-    <title lang="zh">厝邊頭尾-639</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903175900 +0800" stop="20260903182100 +0800" channel="汕頭經濟生活">
-    <title lang="zh">厝邊頭尾-640</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903182100 +0800" stop="20260903183000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播昨天汕頭舊事</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903183000 +0800" stop="20260903190000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播昨天中醫非常道</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903190000 +0800" stop="20260903193800 +0800" channel="汕頭經濟生活">
-    <title lang="zh">今日視線(首播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903193800 +0800" stop="20260903194300 +0800" channel="汕頭經濟生活">
-    <title lang="zh">汕頭舊事(首播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903194300 +0800" stop="20260903200000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">最美僑村第二季-4</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903200000 +0800" stop="20260903203000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">煙火生活(首播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903203000 +0800" stop="20260903212300 +0800" channel="汕頭經濟生活">
-    <title lang="zh">18劇:歡顏-11</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903212300 +0800" stop="20260903223000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">18劇:歡顏-12</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903223000 +0800" stop="20260903230000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">汕頭新聞(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903230000 +0800" stop="20260903232500 +0800" channel="汕頭經濟生活">
-    <title lang="zh">今日視線(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903232500 +0800" stop="20260903235959 +0800" channel="汕頭經濟生活">
-    <title lang="zh">33劇:大江大河之歲月如歌-32</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904001000 +0800" stop="20260904080000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">閉臺曲</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904080000 +0800" stop="20260904080500 +0800" channel="汕頭經濟生活">
-    <title lang="zh">開臺曲</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904080500 +0800" stop="20260904113600 +0800" channel="汕頭經濟生活">
-    <title lang="zh">潮劇:皇子爭國（下）</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904113600 +0800" stop="20260904120000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">潮汕左翼文化名人-7</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播昨天煙火生活</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904123000 +0800" stop="20260904141600 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播昨天今日視線</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904141600 +0800" stop="20260904150800 +0800" channel="汕頭經濟生活">
-    <title lang="zh">41劇:海棠依舊-35</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904150800 +0800" stop="20260904160000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">41劇:海棠依舊-36</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904160000 +0800" stop="20260904164800 +0800" channel="汕頭經濟生活">
-    <title lang="zh">41劇:海棠依舊-37</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904164800 +0800" stop="20260904170700 +0800" channel="汕頭經濟生活">
-    <title lang="zh">盟卡車神之龍獸覺醒-21</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904170700 +0800" stop="20260904173300 +0800" channel="汕頭經濟生活">
-    <title lang="zh">厝邊頭尾-641</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904173300 +0800" stop="20260904175900 +0800" channel="汕頭經濟生活">
-    <title lang="zh">厝邊頭尾-642</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904175900 +0800" stop="20260904182100 +0800" channel="汕頭經濟生活">
-    <title lang="zh">厝邊頭尾-643</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904182100 +0800" stop="20260904183000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播昨天汕頭舊事</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904183000 +0800" stop="20260904190000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播昨天煙火生活</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904190000 +0800" stop="20260904193800 +0800" channel="汕頭經濟生活">
-    <title lang="zh">今日視線(首播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904193800 +0800" stop="20260904194300 +0800" channel="汕頭經濟生活">
-    <title lang="zh">汕頭舊事(首播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904194300 +0800" stop="20260904200000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">最美僑村第二季-5</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904200000 +0800" stop="20260904213200 +0800" channel="汕頭經濟生活">
-    <title lang="zh">直播：海墘歌聲第6場</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904213200 +0800" stop="20260904223000 +0800" channel="汕頭經濟生活">
-    <title lang="zh">重播週二民聲熱線50’</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904223000 +0800" stop="20260904230600 +0800" channel="汕頭經濟生活">
-    <title lang="zh">汕頭新聞(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904230600 +0800" stop="20260904233100 +0800" channel="汕頭經濟生活">
-    <title lang="zh">今日視線(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904233100 +0800" stop="20260904235959 +0800" channel="汕頭經濟生活">
-    <title lang="zh">33劇:大江大河之歲月如歌-33</title>
     <desc lang=""/>
   </programme>
   <programme start="20260903003000 +0800" stop="20260903075000 +0800" channel="揭陽綜合">
@@ -91049,130 +91053,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">潮州新聞（重播）</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260903002500 +0800" stop="20260903090000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">測試圖</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903090000 +0800" stop="20260903093000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《汕尾新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903093000 +0800" stop="20260903111000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《有話直講》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903111000 +0800" stop="20260903120000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">電視劇《懸崖》17</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903120000 +0800" stop="20260903123000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《汕尾新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903123000 +0800" stop="20260903133000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《有話直講》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903133000 +0800" stop="20260903150500 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">電視劇《後浪》39-40</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903150500 +0800" stop="20260903170000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">電視劇《大俠霍元甲》1-2</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903170000 +0800" stop="20260903183000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">動畫片</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903183000 +0800" stop="20260903190000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">轉播廣東衛視《全省新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903190000 +0800" stop="20260903193200 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">轉播中央臺《新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903193200 +0800" stop="20260903200000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">首播《汕尾新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903200000 +0800" stop="20260903203000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">首播《有話直講》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903203000 +0800" stop="20260903220000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">電視劇《懸崖》18</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903220000 +0800" stop="20260903223000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《汕尾新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903223000 +0800" stop="20260903235959 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《有話直講》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904002500 +0800" stop="20260904090000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">測試圖</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904090000 +0800" stop="20260904093000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《汕尾新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904093000 +0800" stop="20260904111000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《有話直講》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904111000 +0800" stop="20260904120000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">電視劇《懸崖》18</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《汕尾新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904123000 +0800" stop="20260904133000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《有話直講》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904133000 +0800" stop="20260904170000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">電視劇《大俠霍元甲》3-6</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904170000 +0800" stop="20260904183000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">動畫片</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904183000 +0800" stop="20260904190000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">轉播廣東衛視《全省新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904190000 +0800" stop="20260904193200 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">轉播中央臺《新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904193200 +0800" stop="20260904200000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">首播《汕尾新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904200000 +0800" stop="20260904203000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">首播《有話直講》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904203000 +0800" stop="20260904220000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">電視劇《懸崖》19</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904220000 +0800" stop="20260904223000 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《汕尾新聞聯播》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260904223000 +0800" stop="20260904235959 +0800" channel="汕尾新聞綜合">
-    <title lang="zh">重播《有話直講》</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260903000000 +0800" stop="20260903070000 +0800" channel="湛江新聞綜合">
     <title lang="zh">《湛江新聞聯播》重播《第一視線》重播</title>
     <desc lang=""/>
@@ -91339,6 +91219,130 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260904235600 +0800" stop="20260904235959 +0800" channel="湛江新聞綜合">
     <title lang="zh">《天氣預報》重播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903002500 +0800" stop="20260903090000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">測試圖</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903090000 +0800" stop="20260903093000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《汕尾新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903093000 +0800" stop="20260903111000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《有話直講》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903111000 +0800" stop="20260903120000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">電視劇《懸崖》17</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903120000 +0800" stop="20260903123000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《汕尾新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903123000 +0800" stop="20260903133000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《有話直講》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903133000 +0800" stop="20260903150500 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">電視劇《後浪》39-40</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903150500 +0800" stop="20260903170000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">電視劇《大俠霍元甲》1-2</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903170000 +0800" stop="20260903183000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">動畫片</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903183000 +0800" stop="20260903190000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">轉播廣東衛視《全省新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903190000 +0800" stop="20260903193200 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">轉播中央臺《新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903193200 +0800" stop="20260903200000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">首播《汕尾新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903200000 +0800" stop="20260903203000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">首播《有話直講》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903203000 +0800" stop="20260903220000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">電視劇《懸崖》18</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903220000 +0800" stop="20260903223000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《汕尾新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260903223000 +0800" stop="20260903235959 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《有話直講》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904002500 +0800" stop="20260904090000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">測試圖</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904090000 +0800" stop="20260904093000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《汕尾新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904093000 +0800" stop="20260904111000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《有話直講》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904111000 +0800" stop="20260904120000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">電視劇《懸崖》18</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《汕尾新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904123000 +0800" stop="20260904133000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《有話直講》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904133000 +0800" stop="20260904170000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">電視劇《大俠霍元甲》3-6</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904170000 +0800" stop="20260904183000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">動畫片</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904183000 +0800" stop="20260904190000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">轉播廣東衛視《全省新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904190000 +0800" stop="20260904193200 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">轉播中央臺《新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904193200 +0800" stop="20260904200000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">首播《汕尾新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904200000 +0800" stop="20260904203000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">首播《有話直講》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904203000 +0800" stop="20260904220000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">電視劇《懸崖》19</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904220000 +0800" stop="20260904223000 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《汕尾新聞聯播》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260904223000 +0800" stop="20260904235959 +0800" channel="汕尾新聞綜合">
+    <title lang="zh">重播《有話直講》</title>
     <desc lang=""/>
   </programme>
   <programme start="20260903080000 +0800" stop="20260903080100 +0800" channel="茂名綜合">
@@ -95677,14 +95681,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">法治中國60分</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260903005500 +0800" stop="20260903032000 +0800" channel="睛彩競技">
-    <title lang="zh">UFC主賽(330)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903032000 +0800" stop="20260903040000 +0800" channel="睛彩競技">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260903040000 +0800" stop="20260903063500 +0800" channel="睛彩競技">
     <title lang="zh">2026江蘇銀行南京半程馬拉松</title>
     <desc lang=""/>
@@ -95915,18 +95911,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260905214500 +0800" stop="20260905235900 +0800" channel="睛彩競技">
     <title lang="zh">英超賽場:2026/2027英超第3輪</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903015000 +0800" stop="20260903021000 +0800" channel="睛彩籃球">
-    <title lang="zh">榮耀之路</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903021000 +0800" stop="20260903022000 +0800" channel="睛彩籃球">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903022000 +0800" stop="20260903035500 +0800" channel="睛彩籃球">
-    <title lang="zh">NBL城燃之戰:常規賽第22輪</title>
     <desc lang=""/>
   </programme>
   <programme start="20260903035500 +0800" stop="20260903040500 +0800" channel="睛彩籃球">
@@ -96423,22 +96407,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260905222000 +0800" stop="20260905235900 +0800" channel="睛彩籃球">
     <title lang="zh">我愛女籃:WCBA常規賽第22輪</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903015000 +0800" stop="20260903024000 +0800" channel="睛彩青少">
-    <title lang="zh">青少年健身課</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903024000 +0800" stop="20260903025000 +0800" channel="睛彩青少">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903025000 +0800" stop="20260903035000 +0800" channel="睛彩青少">
-    <title lang="zh">機甲大師賽</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903035000 +0800" stop="20260903040000 +0800" channel="睛彩青少">
-    <title lang="zh">頻道宣傳</title>
     <desc lang=""/>
   </programme>
   <programme start="20260903040000 +0800" stop="20260903052000 +0800" channel="睛彩青少">
@@ -96971,18 +96939,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260905234500 +0800" stop="20260905235900 +0800" channel="睛彩青少">
     <title lang="zh">足球世界:2026/2027意甲第3輪</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903012500 +0800" stop="20260903030500 +0800" channel="睛彩廣場舞">
-    <title lang="zh">經典逆轉時刻</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903030500 +0800" stop="20260903031000 +0800" channel="睛彩廣場舞">
-    <title lang="zh">頻道宣傳</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260903031000 +0800" stop="20260903035500 +0800" channel="睛彩廣場舞">
-    <title lang="zh">英超精華</title>
     <desc lang=""/>
   </programme>
   <programme start="20260903035500 +0800" stop="20260903041000 +0800" channel="睛彩廣場舞">
@@ -108953,48 +108909,36 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">Across the Strait</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260903120300 +0800" stop="20260903130300 +0800" channel="CCTV4_HD">
+  <programme start="20260903120300 +0800" stop="20260903130700 +0800" channel="CCTV4_HD">
     <title lang="zh">China News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260903130300 +0800" stop="20260903134800 +0800" channel="CCTV4_HD">
-    <title lang="zh">Da Dao Xin Huo Ep28</title>
+  <programme start="20260903130700 +0800" stop="20260903135600 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep09</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260903134800 +0800" stop="20260903143300 +0800" channel="CCTV4_HD">
-    <title lang="zh">Da Dao Xin Huo Ep29</title>
+  <programme start="20260903135600 +0800" stop="20260903144600 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep10</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260903143300 +0800" stop="20260903151800 +0800" channel="CCTV4_HD">
-    <title lang="zh">Da Dao Xin Huo Ep30</title>
+  <programme start="20260903144600 +0800" stop="20260903153700 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep11</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260903151800 +0800" stop="20260903160300 +0800" channel="CCTV4_HD">
-    <title lang="zh">Da Dao Xin Huo Ep31</title>
+  <programme start="20260903153700 +0800" stop="20260903162600 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep12</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260903160300 +0800" stop="20260903165300 +0800" channel="CCTV4_HD">
-    <title lang="zh">Da Dao Xin Huo Ep32</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903165300 +0800" stop="20260903170300 +0800" channel="CCTV4_HD">
-    <title lang="zh">Nostalgia</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903170300 +0800" stop="20260903171800 +0800" channel="CCTV4_HD">
-    <title lang="zh">Dreamchaser</title>
+  <programme start="20260903162600 +0800" stop="20260903171800 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep13</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260903171800 +0800" stop="20260903180300 +0800" channel="CCTV4_HD">
     <title lang="zh">On the Way</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260903180300 +0800" stop="20260903183300 +0800" channel="CCTV4_HD">
+  <programme start="20260903180300 +0800" stop="20260903190300 +0800" channel="CCTV4_HD">
     <title lang="zh">China News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903183300 +0800" stop="20260903190300 +0800" channel="CCTV4_HD">
-    <title lang="zh">China Showbiz</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260903190300 +0800" stop="20260903193300 +0800" channel="CCTV4_HD">
@@ -109030,11 +108974,11 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260903230300 +0800" stop="20260903234600 +0800" channel="CCTV4_HD">
-    <title lang="zh">Yi Yi Xiang Bei Feng Ep31</title>
+    <title lang="zh">Yi Yi Xiang Bei Feng Ep22</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260904002900 +0800" stop="20260904011200 +0800" channel="CCTV4_HD">
-    <title lang="zh">Yi Yi Xiang Bei Feng Ep33</title>
+    <title lang="zh">Yi Yi Xiang Bei Feng Ep24</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260904011200 +0800" stop="20260904014200 +0800" channel="CCTV4_HD">
@@ -109125,48 +109069,36 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <title lang="zh">Across the Strait</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260904120300 +0800" stop="20260904130300 +0800" channel="CCTV4_HD">
+  <programme start="20260904120300 +0800" stop="20260904130700 +0800" channel="CCTV4_HD">
     <title lang="zh">China News</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260904130300 +0800" stop="20260904134800 +0800" channel="CCTV4_HD">
-    <title lang="zh">Da Dao Xin Huo Ep33</title>
+  <programme start="20260904130700 +0800" stop="20260904135600 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep14</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260904134800 +0800" stop="20260904143300 +0800" channel="CCTV4_HD">
-    <title lang="zh">Dawn of the Orient Ep01</title>
+  <programme start="20260904135600 +0800" stop="20260904144600 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep15</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260904143300 +0800" stop="20260904151800 +0800" channel="CCTV4_HD">
-    <title lang="zh">Dawn of the Orient Ep02</title>
+  <programme start="20260904144600 +0800" stop="20260904153700 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep16</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260904151800 +0800" stop="20260904160300 +0800" channel="CCTV4_HD">
-    <title lang="zh">Dawn of the Orient Ep03</title>
+  <programme start="20260904153700 +0800" stop="20260904162600 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep17</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260904160300 +0800" stop="20260904165300 +0800" channel="CCTV4_HD">
-    <title lang="zh">Dawn of the Orient Ep04</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260904165300 +0800" stop="20260904170300 +0800" channel="CCTV4_HD">
-    <title lang="zh">Nostalgia</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260904170300 +0800" stop="20260904171800 +0800" channel="CCTV4_HD">
-    <title lang="zh">Dreamchaser</title>
+  <programme start="20260904162600 +0800" stop="20260904171800 +0800" channel="CCTV4_HD">
+    <title lang="zh">Da Dao Xin Huo Ep18</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260904171800 +0800" stop="20260904180300 +0800" channel="CCTV4_HD">
     <title lang="zh">On the Way</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260904180300 +0800" stop="20260904183300 +0800" channel="CCTV4_HD">
+  <programme start="20260904180300 +0800" stop="20260904190300 +0800" channel="CCTV4_HD">
     <title lang="zh">China News</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260904183300 +0800" stop="20260904190300 +0800" channel="CCTV4_HD">
-    <title lang="zh">China Showbiz</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260904190300 +0800" stop="20260904193300 +0800" channel="CCTV4_HD">
@@ -109202,7 +109134,7 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260904230300 +0800" stop="20260904234600 +0800" channel="CCTV4_HD">
-    <title lang="zh">Yi Yi Xiang Bei Feng Ep34</title>
+    <title lang="zh">Yi Yi Xiang Bei Feng Ep25</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260903011500 +0800" stop="20260903023500 +0800" channel="KBS_World_HD">
@@ -136267,118 +136199,6 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
   </programme>
   <programme start="20260904200000 +0700" stop="20260904230000 +0700" channel="CNBC">
     <title lang="zh">Squawk On The Street</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903002000 +0700" stop="20260903011500 +0700" channel="Crime Investigation">
-    <title lang="zh">Beyond Headlines: Series, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903011500 +0700" stop="20260903021000 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S26, Ep 509</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903021000 +0700" stop="20260903030500 +0700" channel="Crime Investigation">
-    <title lang="zh">Tell Me How I Died, Ep 10</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903030500 +0700" stop="20260903040000 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S25, Ep 500</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903040000 +0700" stop="20260903050000 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S25, Ep 501</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903050000 +0700" stop="20260903052500 +0700" channel="Crime Investigation">
-    <title lang="zh">K9 PD With Jim Belushi S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903052500 +0700" stop="20260903055000 +0700" channel="Crime Investigation">
-    <title lang="zh">Court Cam: Accused Killers</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903055000 +0700" stop="20260903064500 +0700" channel="Crime Investigation">
-    <title lang="zh">After The First 48 S16, Ep 116</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903064500 +0700" stop="20260903074000 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S26, Ep 528</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903074000 +0700" stop="20260903083500 +0700" channel="Crime Investigation">
-    <title lang="zh">Tell Me How I Died, Ep 10</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903083500 +0700" stop="20260903093000 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S25, Ep 500</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903093000 +0700" stop="20260903102500 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S25, Ep 501</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903102500 +0700" stop="20260903112000 +0700" channel="Crime Investigation">
-    <title lang="zh">Tell Me How I Died, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903112000 +0700" stop="20260903121500 +0700" channel="Crime Investigation">
-    <title lang="zh">Beyond Headlines: Series, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903121500 +0700" stop="20260903131000 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S26, Ep 509</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903131000 +0700" stop="20260903133500 +0700" channel="Crime Investigation">
-    <title lang="zh">K9 PD With Jim Belushi S1, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903133500 +0700" stop="20260903140500 +0700" channel="Crime Investigation">
-    <title lang="zh">Court Cam: Accused Killers</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903140500 +0700" stop="20260903150000 +0700" channel="Crime Investigation">
-    <title lang="zh">After The First 48 S16, Ep 116</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903150000 +0700" stop="20260903155500 +0700" channel="Crime Investigation">
-    <title lang="zh">The First 48 S26, Ep 528</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903155500 +0700" stop="20260903164500 +0700" channel="Crime Investigation">
-    <title lang="zh">After The First 48 S16, Ep 113</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903164500 +0700" stop="20260903173500 +0700" channel="Crime Investigation">
-    <title lang="zh">Murder At The Motel, Ep 3</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903173500 +0700" stop="20260903182500 +0700" channel="Crime Investigation">
-    <title lang="zh">Murder At The Motel, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903182500 +0700" stop="20260903191500 +0700" channel="Crime Investigation">
-    <title lang="zh">Accused: Did I Do It?, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903191500 +0700" stop="20260903200500 +0700" channel="Crime Investigation">
-    <title lang="zh">Hoarders S14, Ep 2</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903200500 +0700" stop="20260903205500 +0700" channel="Crime Investigation">
-    <title lang="zh">Taking The Stand S4, Ep 1</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903205500 +0700" stop="20260903214500 +0700" channel="Crime Investigation">
-    <title lang="zh">Interrogation Raw S2, Ep 4</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903214500 +0700" stop="20260903223500 +0700" channel="Crime Investigation">
-    <title lang="zh">Undercover: On Tape, Ep 5</title>
-    <desc lang="zh"> </desc>
-  </programme>
-  <programme start="20260903223500 +0700" stop="20260903232500 +0700" channel="Crime Investigation">
-    <title lang="zh">Homicide Squad... S1, Ep 1</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260904002000 +0700" stop="20260904011500 +0700" channel="Crime Investigation">

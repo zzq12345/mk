@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260903180000 +0800" stop="20260903200000 +0800" channel="mbc max">
-    <title lang="en">Flatliners</title>
-    <desc lang="en">Medical students experiment with the moments just beforedeath when the tragic and horrific events that are involved start to affect their lives negatively.</desc>
-    <category lang="en">Movie
-               (2017)</category>
-  </programme>
   <programme start="20260903200000 +0800" stop="20260903213000 +0800" channel="mbc max">
     <title lang="en">Hoot</title>
     <desc lang="en">When Roy moves with his family to Florida, he soon befriendstwo siblings and gets drawn into their fight to save some endangered owls from the danger posed by a construction company.</desc>
@@ -212,11 +206,23 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <category lang="en">Movie
                (2015)</category>
   </programme>
-  <programme start="20260903173000 +0800" stop="20260903193000 +0800" channel="mbc 2">
-    <title lang="en">Jack the Giant Slayer</title>
-    <desc lang="en">An ancient war is reignited when a young farmhand, Jack,unwittingly opens a gateway between our world and that of a fearsome race of giants. Jack fights for a kingdom, its people, and the love of a princess.</desc>
+  <programme start="20260906033000 +0800" stop="20260906050000 +0800" channel="mbc max">
+    <title lang="en">Moonrise Kingdom</title>
+    <desc lang="en">Set in the sixties, in an island in New England, a12-year-old boy and girl fall in love and secretly plan to run away together. This angers the authorities in the island, and the situation escalates to the point where they attempt to track the young couple in all directions.</desc>
     <category lang="en">Movie
-               (2013)</category>
+               (2012)</category>
+  </programme>
+  <programme start="20260906050000 +0800" stop="20260906053000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program - Normal
+               (1998)</category>
+  </programme>
+  <programme start="20260906053000 +0800" stop="20260906070000 +0800" channel="mbc max">
+    <title lang="en">How to Train Your Dragon</title>
+    <desc lang="en">The unlikely friendship between the young Viking Hiccup, whowas raised to believe that dragons must be slayed, and a dangerous and rare dragon, Night Fury.</desc>
+    <category lang="en">Movie
+               (2010)</category>
   </programme>
   <programme start="20260903193000 +0800" stop="20260903210000 +0800" channel="mbc 2">
     <title lang="en">Jonah Hex</title>
@@ -409,5 +415,23 @@ In Moscow, 5 teenagers findthemselves forced to work together in order to surviv
     <desc lang="en">In the distant future, robots are created to help humanswith their daily tasks.  Detective Del Spooner begins to investigate the murder of a leading robotics scientist and discovers that a robot named Sonny is involved.  He has to protect the fate of humans, and reconcile between them and the robots.</desc>
     <category lang="en">Movie
                (2004)</category>
+  </programme>
+  <programme start="20260906033000 +0800" stop="20260906053000 +0800" channel="mbc 2">
+    <title lang="en">Dumplin'</title>
+    <desc lang="en">Willowdean ('Dumplin'), is a full-bodied teenager and thedaughter of a former beauty queen, who signs up in the Miss Bluebonnet Teen Pageant, revolutionizing the contest and the small Texas town.</desc>
+    <category lang="en">Movie
+               (2018)</category>
+  </programme>
+  <programme start="20260906053000 +0800" stop="20260906060000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program - Normal
+               (2008)</category>
+  </programme>
+  <programme start="20260906060000 +0800" stop="20260906073000 +0800" channel="mbc 2">
+    <title lang="en">The Great Wall</title>
+    <desc lang="en">Set during the era in which the Sung ancestry ruled theChinese territory where many mysteries unfold regarding the construction of the Great Wall.</desc>
+    <category lang="en">Movie
+               (2016)</category>
   </programme>
 </tv>
