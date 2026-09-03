@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260904140000 +0800" stop="20260904160000 +0800" channel="mbc max">
-    <title lang="en">Take the Lead</title>
-    <desc lang="en">Dance instructor Pierre Dulaine faces the ultimate challengewhen he volunteers to teach dance to a group of troublemakers, as he struggles to overcome many obstacles in order to prepare them to compete in a dance contest.</desc>
-    <category lang="en">Movie
-               (2006)</category>
-  </programme>
   <programme start="20260904160000 +0800" stop="20260904180000 +0800" channel="mbc max">
     <title lang="en">Sparkle</title>
     <desc lang="en">Set in Motown's heyday in the 1960s, three sisters form agirl group and become an instant sensation. One of the sisters, Sparkle, faces the challenges of new fame and a new romance as her close-knit family begins to unravel.</desc>
@@ -222,17 +216,17 @@
     <category lang="en">Movie - Cartoon
                (2004)</category>
   </programme>
-  <programme start="20260904130000 +0800" stop="20260904150500 +0800" channel="mbc 2">
-    <title lang="en">Shazam!</title>
-    <desc lang="en">The life of the foster child Billy Batson changes foreverafter the ancient wizard Shazam grants him the power to transform into an adult superhero, only to find himself chased by Dr. Thaddeus Sivana who is after his newfound powers.</desc>
-    <category lang="en">Movie
-               (2019)</category>
+  <programme start="20260907010000 +0800" stop="20260907013000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program - Normal
+               (1998)</category>
   </programme>
-  <programme start="20260904153000 +0800" stop="20260904174500 +0800" channel="mbc 2">
-    <title lang="en">Ready Player One</title>
-    <desc lang="en">Following his death, the inventor of the virtual realityknown as the OASIS issues a posthumous challenge to all of its users to locate his Easter Egg, which will grant the finder dominion over his world and his money.</desc>
+  <programme start="20260907013000 +0800" stop="20260907033000 +0800" channel="mbc max">
+    <title lang="en">Charlie and the Chocolate Factory</title>
+    <desc lang="en">Charlie leads a happy life with his family, despite livingin poverty. He dreams of winning a golden ticket that would give him a chance to visit the mysterious Willy Wonka factory. His dream comes true and he gets the chance to go with his grandfather on an exciting tour of the factory, led by Mr. Wonka himself.</desc>
     <category lang="en">Movie
-               (2018)</category>
+               (2005)</category>
   </programme>
   <programme start="20260904174500 +0800" stop="20260904180000 +0800" channel="mbc 2">
     <title lang="en">Scoop Maa Raya</title>
@@ -431,5 +425,11 @@
     <desc lang="en">The story of the Battle of Thermopylae where Persian KingXerxes led more than 100,000 men, confronting 300 Spartan warriors, 700 Thespians, and 400 Thebans.</desc>
     <category lang="en">Movie
                (2006)</category>
+  </programme>
+  <programme start="20260907010000 +0800" stop="20260907033000 +0800" channel="mbc 2">
+    <title lang="en">The New World</title>
+    <desc lang="en">Two star-crossed lovers are torn apart by culturalhostilities and imperialistic aspirations as Pocahontas, the daughter of a Native American chief, falls for an English captain, a romance that both sides of the conflict frown upon.</desc>
+    <category lang="en">Movie
+               (2005)</category>
   </programme>
 </tv>
