@@ -46,8 +46,8 @@
 <channel id="TV_Sarawak">
   <display-name lang="zh">TV Sarawak</display-name>
 </channel>
-<channel id="TV_Okey_HD">
-  <display-name lang="zh">TV Okey HD</display-name>
+<channel id="Okey">
+  <display-name lang="zh">Okey</display-name>
 </channel>
 <channel id="NTV7">
   <display-name lang="zh">NTV7</display-name>
@@ -2054,15 +2054,15 @@
   <title lang="zh">Trailer Kasih Yang Terkorban Ep08</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904110000 +0800" stop="20260904120000 +0800" channel="Astro_Prima">
+<programme start="20260904110000 +0800" stop="20260904120300 +0800" channel="Astro_Prima">
   <title lang="zh">(L) Borak SeeNI S2 Ep142</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="Astro_Prima">
+<programme start="20260904120300 +0800" stop="20260904123300 +0800" channel="Astro_Prima">
   <title lang="zh">Kak Kek Ke Kelate Ep05 Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904123000 +0800" stop="20260904143000 +0800" channel="Astro_Prima">
+<programme start="20260904123300 +0800" stop="20260904143000 +0800" channel="Astro_Prima">
   <title lang="zh">Maharaja Lawak Mega 2017 Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -2126,20 +2126,16 @@
   <title lang="zh">Kasih Yang Terkorban Ep40</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904190000 +0800" stop="20260904193000 +0800" channel="Astro_Prima">
+<programme start="20260904190000 +0800" stop="20260904192900 +0800" channel="Astro_Prima">
   <title lang="zh">The Making of Chelot</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904193000 +0800" stop="20260904200000 +0800" channel="Astro_Prima">
+<programme start="20260904192900 +0800" stop="20260904195500 +0800" channel="Astro_Prima">
   <title lang="zh">Extreme Roadtrip Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904200000 +0800" stop="20260904205800 +0800" channel="Astro_Prima">
+<programme start="20260904195500 +0800" stop="20260904210000 +0800" channel="Astro_Prima">
   <title lang="zh">Borak SeeNI S2 Ep142</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260904205800 +0800" stop="20260904210000 +0800" channel="Astro_Prima">
-  <title lang="zh">Cer Borak SeeNI S2 Ep37</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904210000 +0800" stop="20260904220000 +0800" channel="Astro_Prima">
@@ -2442,15 +2438,15 @@
   <title lang="zh">Syamsul Debat : Dakwah Santai Ep08</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904120000 +0800" stop="20260904130000 +0800" channel="Astro_Oasis">
+<programme start="20260904120000 +0800" stop="20260904130900 +0800" channel="Astro_Oasis">
   <title lang="zh">MyQURANTIME 2.0 Ep1272</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904130000 +0800" stop="20260904140000 +0800" channel="Astro_Oasis">
+<programme start="20260904130900 +0800" stop="20260904135500 +0800" channel="Astro_Oasis">
   <title lang="zh">(L) Solat Jumaat</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904140000 +0800" stop="20260904150000 +0800" channel="Astro_Oasis">
+<programme start="20260904135500 +0800" stop="20260904150000 +0800" channel="Astro_Oasis">
   <title lang="zh">Tazkirah Malam Jumaat Musim 8 Ep34</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -2590,15 +2586,15 @@
   <title lang="zh">Jom Khatam Ep40</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905063000 +0800" stop="20260905064500 +0800" channel="Astro_Oasis">
+<programme start="20260905063000 +0800" stop="20260905064600 +0800" channel="Astro_Oasis">
   <title lang="zh">Jom Khatam Ep41</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905064500 +0800" stop="20260905070000 +0800" channel="Astro_Oasis">
+<programme start="20260905064600 +0800" stop="20260905070100 +0800" channel="Astro_Oasis">
   <title lang="zh">Jom Khatam Ep42</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905070000 +0800" stop="20260905073000 +0800" channel="Astro_Oasis">
+<programme start="20260905070100 +0800" stop="20260905073000 +0800" channel="Astro_Oasis">
   <title lang="zh">Santai Janji Sampai S2 Ep07</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -2654,15 +2650,15 @@
   <title lang="zh">Cinta Ilmu Fiqh Syariah 2016 Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905150000 +0800" stop="20260905160000 +0800" channel="Astro_Oasis">
+<programme start="20260905150000 +0800" stop="20260905155400 +0800" channel="Astro_Oasis">
   <title lang="zh">Syamsul Debat : Dakwah Santai Ep15</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905160000 +0800" stop="20260905163000 +0800" channel="Astro_Oasis">
+<programme start="20260905155400 +0800" stop="20260905162100 +0800" channel="Astro_Oasis">
   <title lang="zh">Mawi Jawi Ep08</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905163000 +0800" stop="20260905170000 +0800" channel="Astro_Oasis">
+<programme start="20260905162100 +0800" stop="20260905170000 +0800" channel="Astro_Oasis">
   <title lang="zh">Indahnya Iman</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -2686,11 +2682,11 @@
   <title lang="zh">Kembara Chef Wan Laluan Sutera Ep06</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905200000 +0800" stop="20260905203000 +0800" channel="Astro_Oasis">
+<programme start="20260905200000 +0800" stop="20260905202800 +0800" channel="Astro_Oasis">
   <title lang="zh">Tafsir Al Munir Ep11 Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905203000 +0800" stop="20260905210000 +0800" channel="Astro_Oasis">
+<programme start="20260905202800 +0800" stop="20260905210000 +0800" channel="Astro_Oasis">
   <title lang="zh">Indahnya Iman</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -4638,359 +4634,359 @@
   <title lang="zh">Senario Lagi</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904000000 +0800" stop="20260904003000 +0800" channel="TV_Okey_HD">
+<programme start="20260904000000 +0800" stop="20260904003000 +0800" channel="Okey">
   <title lang="zh">Klip Video 30 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904003000 +0800" stop="20260904010000 +0800" channel="TV_Okey_HD">
+<programme start="20260904003000 +0800" stop="20260904010000 +0800" channel="Okey">
   <title lang="zh">Perantis Dapur (Ulangan) Ep10</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904010000 +0800" stop="20260904013000 +0800" channel="TV_Okey_HD">
+<programme start="20260904010000 +0800" stop="20260904013000 +0800" channel="Okey">
   <title lang="zh">Gerabak Cef (Ulangan) Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904013000 +0800" stop="20260904020000 +0800" channel="TV_Okey_HD">
+<programme start="20260904013000 +0800" stop="20260904020000 +0800" channel="Okey">
   <title lang="zh">Kisah Cuti Kita (Ulangan) Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904020000 +0800" stop="20260904023000 +0800" channel="TV_Okey_HD">
+<programme start="20260904020000 +0800" stop="20260904023000 +0800" channel="Okey">
   <title lang="zh">3 Men With No Plan (Ulangan) Ep08</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904023000 +0800" stop="20260904030000 +0800" channel="TV_Okey_HD">
+<programme start="20260904023000 +0800" stop="20260904030000 +0800" channel="Okey">
   <title lang="zh">Jom Minum Petang (Ulangan) Ep06</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904030000 +0800" stop="20260904040000 +0800" channel="TV_Okey_HD">
+<programme start="20260904030000 +0800" stop="20260904040000 +0800" channel="Okey">
   <title lang="zh">4 Musim Cinta (Ulangan) Ep17</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904040000 +0800" stop="20260904043000 +0800" channel="TV_Okey_HD">
+<programme start="20260904040000 +0800" stop="20260904043000 +0800" channel="Okey">
   <title lang="zh">Cari Apa Tu? (Ulangan) Ep08</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904043000 +0800" stop="20260904050000 +0800" channel="TV_Okey_HD">
+<programme start="20260904043000 +0800" stop="20260904050000 +0800" channel="Okey">
   <title lang="zh">Inspired (Ulangan) Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904050000 +0800" stop="20260904060000 +0800" channel="TV_Okey_HD">
+<programme start="20260904050000 +0800" stop="20260904060000 +0800" channel="Okey">
   <title lang="zh">ID57 (Ulangan) Ep24</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904060000 +0800" stop="20260904060500 +0800" channel="TV_Okey_HD">
+<programme start="20260904060000 +0800" stop="20260904060500 +0800" channel="Okey">
   <title lang="zh">Klip Video 5 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904060500 +0800" stop="20260904063000 +0800" channel="TV_Okey_HD">
+<programme start="20260904060500 +0800" stop="20260904063000 +0800" channel="Okey">
   <title lang="zh">Extra Minda (Ulangan) Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904063000 +0800" stop="20260904070000 +0800" channel="TV_Okey_HD">
+<programme start="20260904063000 +0800" stop="20260904070000 +0800" channel="Okey">
   <title lang="zh">#Laman Bajet (Ulangan) Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904070000 +0800" stop="20260904073000 +0800" channel="TV_Okey_HD">
+<programme start="20260904070000 +0800" stop="20260904073000 +0800" channel="Okey">
   <title lang="zh">#Kakikraf (Ulangan) Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904073000 +0800" stop="20260904080000 +0800" channel="TV_Okey_HD">
+<programme start="20260904073000 +0800" stop="20260904080000 +0800" channel="Okey">
   <title lang="zh">Klip Video 30 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904080000 +0800" stop="20260904090000 +0800" channel="TV_Okey_HD">
+<programme start="20260904080000 +0800" stop="20260904090000 +0800" channel="Okey">
   <title lang="zh">4 Musim Cinta (Ulangan) Ep18</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904090000 +0800" stop="20260904100000 +0800" channel="TV_Okey_HD">
+<programme start="20260904090000 +0800" stop="20260904100000 +0800" channel="Okey">
   <title lang="zh">Kinabalu Aku Rindu (Ulangan) Ep19</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904100000 +0800" stop="20260904103000 +0800" channel="TV_Okey_HD">
+<programme start="20260904100000 +0800" stop="20260904103000 +0800" channel="Okey">
   <title lang="zh">Selera Minang Nik Michael (Ulangan) Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904103000 +0800" stop="20260904104400 +0800" channel="TV_Okey_HD">
+<programme start="20260904103000 +0800" stop="20260904104400 +0800" channel="Okey">
   <title lang="zh">I-Kadazan</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904104400 +0800" stop="20260904104500 +0800" channel="TV_Okey_HD">
+<programme start="20260904104400 +0800" stop="20260904104500 +0800" channel="Okey">
   <title lang="zh">Klip Video 1 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904104500 +0800" stop="20260904110000 +0800" channel="TV_Okey_HD">
+<programme start="20260904104500 +0800" stop="20260904110000 +0800" channel="Okey">
   <title lang="zh">I-Iban</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904110000 +0800" stop="20260904113000 +0800" channel="TV_Okey_HD">
+<programme start="20260904110000 +0800" stop="20260904113000 +0800" channel="Okey">
   <title lang="zh">Cef Wira (Ulangan) Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904113000 +0800" stop="20260904120000 +0800" channel="TV_Okey_HD">
+<programme start="20260904113000 +0800" stop="20260904120000 +0800" channel="Okey">
   <title lang="zh">Lensa Fabrik (Ulangan) Ep07</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="TV_Okey_HD">
+<programme start="20260904120000 +0800" stop="20260904123000 +0800" channel="Okey">
   <title lang="zh">Jom Jelajah Jepun Ep03</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904123000 +0800" stop="20260904130000 +0800" channel="TV_Okey_HD">
+<programme start="20260904123000 +0800" stop="20260904130000 +0800" channel="Okey">
   <title lang="zh">Akar Kita (Ulangan) Ep06</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904130000 +0800" stop="20260904133000 +0800" channel="TV_Okey_HD">
+<programme start="20260904130000 +0800" stop="20260904133000 +0800" channel="Okey">
   <title lang="zh">Panggang-Panggang Bersama Cef Marshad (Ulangan) Ep10</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904133000 +0800" stop="20260904140000 +0800" channel="TV_Okey_HD">
+<programme start="20260904133000 +0800" stop="20260904140000 +0800" channel="Okey">
   <title lang="zh">Diari Bayu (Ulangan) Ep08</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904140000 +0800" stop="20260904141500 +0800" channel="TV_Okey_HD">
+<programme start="20260904140000 +0800" stop="20260904141500 +0800" channel="Okey">
   <title lang="zh">I- Bajau</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904141500 +0800" stop="20260904143000 +0800" channel="TV_Okey_HD">
+<programme start="20260904141500 +0800" stop="20260904143000 +0800" channel="Okey">
   <title lang="zh">Klip Video 15 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904143000 +0800" stop="20260904153000 +0800" channel="TV_Okey_HD">
+<programme start="20260904143000 +0800" stop="20260904153000 +0800" channel="Okey">
   <title lang="zh">ID57 (Ulangan) Ep25</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904153000 +0800" stop="20260904160000 +0800" channel="TV_Okey_HD">
+<programme start="20260904153000 +0800" stop="20260904160000 +0800" channel="Okey">
   <title lang="zh">Inspirasi Idaman (Ulangan) Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904160000 +0800" stop="20260904163000 +0800" channel="TV_Okey_HD">
+<programme start="20260904160000 +0800" stop="20260904163000 +0800" channel="Okey">
   <title lang="zh">Santai Seni (Ulangan) Ep07</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904163000 +0800" stop="20260904170000 +0800" channel="TV_Okey_HD">
+<programme start="20260904163000 +0800" stop="20260904170000 +0800" channel="Okey">
   <title lang="zh">Malaysian Delights (Ulangan) Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904170000 +0800" stop="20260904173000 +0800" channel="TV_Okey_HD">
+<programme start="20260904170000 +0800" stop="20260904173000 +0800" channel="Okey">
   <title lang="zh">Feel Borneo (Ulangan) Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904173000 +0800" stop="20260904180000 +0800" channel="TV_Okey_HD">
+<programme start="20260904173000 +0800" stop="20260904180000 +0800" channel="Okey">
   <title lang="zh">Maimao Ep03</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904180000 +0800" stop="20260904183000 +0800" channel="TV_Okey_HD">
+<programme start="20260904180000 +0800" stop="20260904183000 +0800" channel="Okey">
   <title lang="zh">Jom Pancing (Ulangan) Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904183000 +0800" stop="20260904184400 +0800" channel="TV_Okey_HD">
+<programme start="20260904183000 +0800" stop="20260904184400 +0800" channel="Okey">
   <title lang="zh">I-Iban</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904184400 +0800" stop="20260904184500 +0800" channel="TV_Okey_HD">
+<programme start="20260904184400 +0800" stop="20260904184500 +0800" channel="Okey">
   <title lang="zh">Klip Video 1 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904184500 +0800" stop="20260904190000 +0800" channel="TV_Okey_HD">
+<programme start="20260904184500 +0800" stop="20260904190000 +0800" channel="Okey">
   <title lang="zh">I-Dusun</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904190000 +0800" stop="20260904193000 +0800" channel="TV_Okey_HD">
+<programme start="20260904190000 +0800" stop="20260904193000 +0800" channel="Okey">
   <title lang="zh">Sihat Dan Rawat (Ulangan) Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904193000 +0800" stop="20260904200000 +0800" channel="TV_Okey_HD">
+<programme start="20260904193000 +0800" stop="20260904200000 +0800" channel="Okey">
   <title lang="zh">Vintaj Borneo (Ulangan) Ep13</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904200000 +0800" stop="20260904210000 +0800" channel="TV_Okey_HD">
+<programme start="20260904200000 +0800" stop="20260904210000 +0800" channel="Okey">
   <title lang="zh">Musuh Dalam Selimut (Ulangan) Ep09</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904210000 +0800" stop="20260904213000 +0800" channel="TV_Okey_HD">
+<programme start="20260904210000 +0800" stop="20260904213000 +0800" channel="Okey">
   <title lang="zh">Aksi 2026 Ep09</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904213000 +0800" stop="20260904233000 +0800" channel="TV_Okey_HD">
+<programme start="20260904213000 +0800" stop="20260904233000 +0800" channel="Okey">
   <title lang="zh">Cinta Yang Menakluki (Ulangan) Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905000000 +0800" stop="20260905003000 +0800" channel="TV_Okey_HD">
+<programme start="20260905000000 +0800" stop="20260905003000 +0800" channel="Okey">
   <title lang="zh">Klip Video 30 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905003000 +0800" stop="20260905010000 +0800" channel="TV_Okey_HD">
+<programme start="20260905003000 +0800" stop="20260905010000 +0800" channel="Okey">
   <title lang="zh">Selera Minang Nik Michael (Ulangan) Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905010000 +0800" stop="20260905013000 +0800" channel="TV_Okey_HD">
+<programme start="20260905010000 +0800" stop="20260905013000 +0800" channel="Okey">
   <title lang="zh">Panggang-Panggang Bersama Cef Marshad (Ulangan) Ep10</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905013000 +0800" stop="20260905020000 +0800" channel="TV_Okey_HD">
+<programme start="20260905013000 +0800" stop="20260905020000 +0800" channel="Okey">
   <title lang="zh">Diari Bayu (Ulangan) Ep08</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905020000 +0800" stop="20260905023000 +0800" channel="TV_Okey_HD">
+<programme start="20260905020000 +0800" stop="20260905023000 +0800" channel="Okey">
   <title lang="zh">Jom Pancing (Ulangan) Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905023000 +0800" stop="20260905030000 +0800" channel="TV_Okey_HD">
+<programme start="20260905023000 +0800" stop="20260905030000 +0800" channel="Okey">
   <title lang="zh">Malaysian Delights (Ulangan) Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="TV_Okey_HD">
+<programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="Okey">
   <title lang="zh">4 Musim Cinta (Ulangan) Ep18</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905040000 +0800" stop="20260905043000 +0800" channel="TV_Okey_HD">
+<programme start="20260905040000 +0800" stop="20260905043000 +0800" channel="Okey">
   <title lang="zh">Feel Borneo (Ulangan) Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905043000 +0800" stop="20260905050000 +0800" channel="TV_Okey_HD">
+<programme start="20260905043000 +0800" stop="20260905050000 +0800" channel="Okey">
   <title lang="zh">Vintaj Borneo (Ulangan) Ep13</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="TV_Okey_HD">
+<programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="Okey">
   <title lang="zh">ID57 (Ulangan) Ep25</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905060000 +0800" stop="20260905060500 +0800" channel="TV_Okey_HD">
+<programme start="20260905060000 +0800" stop="20260905060500 +0800" channel="Okey">
   <title lang="zh">Klip Video 5 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905060500 +0800" stop="20260905063000 +0800" channel="TV_Okey_HD">
+<programme start="20260905060500 +0800" stop="20260905063000 +0800" channel="Okey">
   <title lang="zh">Local Heroes (Ulangan) Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905063000 +0800" stop="20260905070000 +0800" channel="TV_Okey_HD">
+<programme start="20260905063000 +0800" stop="20260905070000 +0800" channel="Okey">
   <title lang="zh">Hungry for Change (Ulangan) Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905070000 +0800" stop="20260905073000 +0800" channel="TV_Okey_HD">
+<programme start="20260905070000 +0800" stop="20260905073000 +0800" channel="Okey">
   <title lang="zh">Bravo Bellas (Ulangan) Ep03</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="TV_Okey_HD">
+<programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="Okey">
   <title lang="zh">Klip Video 30 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905080000 +0800" stop="20260905090000 +0800" channel="TV_Okey_HD">
+<programme start="20260905080000 +0800" stop="20260905090000 +0800" channel="Okey">
   <title lang="zh">4 Musim Cinta (Ulangan) Ep19</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="TV_Okey_HD">
+<programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="Okey">
   <title lang="zh">Kinabalu Aku Rindu (Ulangan) Ep20</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905100000 +0800" stop="20260905103000 +0800" channel="TV_Okey_HD">
+<programme start="20260905100000 +0800" stop="20260905103000 +0800" channel="Okey">
   <title lang="zh">Chef Backpackers (Ulangan) Ep10</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905103000 +0800" stop="20260905104400 +0800" channel="TV_Okey_HD">
+<programme start="20260905103000 +0800" stop="20260905104400 +0800" channel="Okey">
   <title lang="zh">I-Kadazan</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905104400 +0800" stop="20260905104500 +0800" channel="TV_Okey_HD">
+<programme start="20260905104400 +0800" stop="20260905104500 +0800" channel="Okey">
   <title lang="zh">Klip Video 1 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905104500 +0800" stop="20260905110000 +0800" channel="TV_Okey_HD">
+<programme start="20260905104500 +0800" stop="20260905110000 +0800" channel="Okey">
   <title lang="zh">I-Iban</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905110000 +0800" stop="20260905120000 +0800" channel="TV_Okey_HD">
+<programme start="20260905110000 +0800" stop="20260905120000 +0800" channel="Okey">
   <title lang="zh">STEADEY! 2026 Ep03</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="TV_Okey_HD">
+<programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="Okey">
   <title lang="zh">Wira Negara : Keringat Membina Bangsa Merdeka Ep10</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="TV_Okey_HD">
+<programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="Okey">
   <title lang="zh">Eksotika Etnik (Ulangan) Ep06</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905130000 +0800" stop="20260905133000 +0800" channel="TV_Okey_HD">
+<programme start="20260905130000 +0800" stop="20260905133000 +0800" channel="Okey">
   <title lang="zh">The Singing Chef S2 (Ulangan) Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="TV_Okey_HD">
+<programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="Okey">
   <title lang="zh">13 Hari Miri - Sibuti (Ulangan) Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905140000 +0800" stop="20260905141500 +0800" channel="TV_Okey_HD">
+<programme start="20260905140000 +0800" stop="20260905141500 +0800" channel="Okey">
   <title lang="zh">I- Bajau</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905141500 +0800" stop="20260905143000 +0800" channel="TV_Okey_HD">
+<programme start="20260905141500 +0800" stop="20260905143000 +0800" channel="Okey">
   <title lang="zh">Klip Video 15 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905143000 +0800" stop="20260905153000 +0800" channel="TV_Okey_HD">
+<programme start="20260905143000 +0800" stop="20260905153000 +0800" channel="Okey">
   <title lang="zh">ID57 (Ulangan) Ep26</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905153000 +0800" stop="20260905160000 +0800" channel="TV_Okey_HD">
+<programme start="20260905153000 +0800" stop="20260905160000 +0800" channel="Okey">
   <title lang="zh">Hobipedia Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905160000 +0800" stop="20260905163000 +0800" channel="TV_Okey_HD">
+<programme start="20260905160000 +0800" stop="20260905163000 +0800" channel="Okey">
   <title lang="zh">A Day in Uniform (Ulangan) Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905163000 +0800" stop="20260905170000 +0800" channel="TV_Okey_HD">
+<programme start="20260905163000 +0800" stop="20260905170000 +0800" channel="Okey">
   <title lang="zh">The Travelling Foodie (Ulangan) Ep09</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905170000 +0800" stop="20260905173000 +0800" channel="TV_Okey_HD">
+<programme start="20260905170000 +0800" stop="20260905173000 +0800" channel="Okey">
   <title lang="zh">Kaki Gunung (Ulangan) Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905173000 +0800" stop="20260905180000 +0800" channel="TV_Okey_HD">
+<programme start="20260905173000 +0800" stop="20260905180000 +0800" channel="Okey">
   <title lang="zh">Maimao Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905180000 +0800" stop="20260905183000 +0800" channel="TV_Okey_HD">
+<programme start="20260905180000 +0800" stop="20260905183000 +0800" channel="Okey">
   <title lang="zh">Dive Mission (Ulangan) Ep09</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905183000 +0800" stop="20260905184400 +0800" channel="TV_Okey_HD">
+<programme start="20260905183000 +0800" stop="20260905184400 +0800" channel="Okey">
   <title lang="zh">I-Iban</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905184400 +0800" stop="20260905184500 +0800" channel="TV_Okey_HD">
+<programme start="20260905184400 +0800" stop="20260905184500 +0800" channel="Okey">
   <title lang="zh">Klip Video 1 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905184500 +0800" stop="20260905190000 +0800" channel="TV_Okey_HD">
+<programme start="20260905184500 +0800" stop="20260905190000 +0800" channel="Okey">
   <title lang="zh">I-Dusun</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905190000 +0800" stop="20260905193000 +0800" channel="TV_Okey_HD">
+<programme start="20260905190000 +0800" stop="20260905193000 +0800" channel="Okey">
   <title lang="zh">Dress My Space (Ulangan) Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905193000 +0800" stop="20260905200000 +0800" channel="TV_Okey_HD">
+<programme start="20260905193000 +0800" stop="20260905200000 +0800" channel="Okey">
   <title lang="zh">Trend Hawa (Ulangan) Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905200000 +0800" stop="20260905203000 +0800" channel="TV_Okey_HD">
+<programme start="20260905200000 +0800" stop="20260905203000 +0800" channel="Okey">
   <title lang="zh">Lady Boss (Ulangan) Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905203000 +0800" stop="20260905210000 +0800" channel="TV_Okey_HD">
+<programme start="20260905203000 +0800" stop="20260905210000 +0800" channel="Okey">
   <title lang="zh">Kelentang Kelentung (Ulangan) Ep13</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905210000 +0800" stop="20260905213000 +0800" channel="TV_Okey_HD">
+<programme start="20260905210000 +0800" stop="20260905213000 +0800" channel="Okey">
   <title lang="zh">Klip Video 30 Minit</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905213000 +0800" stop="20260905223000 +0800" channel="TV_Okey_HD">
+<programme start="20260905213000 +0800" stop="20260905223000 +0800" channel="Okey">
   <title lang="zh">Cikguku Paling Ohsem! (Ulangan) Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905223000 +0800" stop="20260905233000 +0800" channel="TV_Okey_HD">
+<programme start="20260905223000 +0800" stop="20260905233000 +0800" channel="Okey">
   <title lang="zh">Cikguku Paling Ohsem! (Ulangan) Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -6394,12 +6390,8 @@
   <title lang="zh">Vanakkam Thamizha</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904083000 +0800" stop="20260904103000 +0800" channel="SUN_TV_HD">
-  <title lang="zh">Kutty Pulli</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260904103000 +0800" stop="20260904113000 +0800" channel="SUN_TV_HD">
-  <title lang="zh">Kayal</title>
+<programme start="20260904083000 +0800" stop="20260904113000 +0800" channel="SUN_TV_HD">
+  <title lang="zh">Kutti Puli</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904113000 +0800" stop="20260904120000 +0800" channel="SUN_TV_HD">
@@ -6431,7 +6423,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904153000 +0800" stop="20260904180000 +0800" channel="SUN_TV_HD">
-  <title lang="zh">Panakkaaran</title>
+  <title lang="zh">Mappillai (1989)</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904180000 +0800" stop="20260904183000 +0800" channel="SUN_TV_HD">
@@ -7311,11 +7303,11 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904133000 +0800" stop="20260904163000 +0800" channel="KTV">
-  <title lang="zh">Amaravathy</title>
+  <title lang="zh">Naan E</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904163000 +0800" stop="20260904193000 +0800" channel="KTV">
-  <title lang="zh">Namma Annachi</title>
+  <title lang="zh">Vasool Raja MBBS</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904193000 +0800" stop="20260904223000 +0800" channel="KTV">
@@ -9130,11 +9122,11 @@
   <title lang="zh">Daddy At Home S3 Ep16</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905074500 +0800" stop="20260905083000 +0800" channel="Astro_QJ">
+<programme start="20260905074500 +0800" stop="20260905083500 +0800" channel="Astro_QJ">
   <title lang="zh">Ye Cheng Fu Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905083000 +0800" stop="20260905093000 +0800" channel="Astro_QJ">
+<programme start="20260905083500 +0800" stop="20260905093000 +0800" channel="Astro_QJ">
   <title lang="zh">The First Jasmine Ep37</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9146,27 +9138,27 @@
   <title lang="zh">Alliance Ep36</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905120000 +0800" stop="20260905134500 +0800" channel="Astro_QJ">
+<programme start="20260905120000 +0800" stop="20260905134000 +0800" channel="Astro_QJ">
   <title lang="zh">Call Me By Fire 2026 Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905134500 +0800" stop="20260905140000 +0800" channel="Astro_QJ">
+<programme start="20260905134000 +0800" stop="20260905140000 +0800" channel="Astro_QJ">
   <title lang="zh">Land Of Rice Noodles Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905140000 +0800" stop="20260905143000 +0800" channel="Astro_QJ">
+<programme start="20260905140000 +0800" stop="20260905143500 +0800" channel="Astro_QJ">
   <title lang="zh">The Story Of Eyes Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905143000 +0800" stop="20260905153000 +0800" channel="Astro_QJ">
+<programme start="20260905143500 +0800" stop="20260905153500 +0800" channel="Astro_QJ">
   <title lang="zh">The First Jasmine Ep37</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905153000 +0800" stop="20260905161500 +0800" channel="Astro_QJ">
+<programme start="20260905153500 +0800" stop="20260905161000 +0800" channel="Astro_QJ">
   <title lang="zh">Journey To The Snack West Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905161500 +0800" stop="20260905175500 +0800" channel="Astro_QJ">
+<programme start="20260905161000 +0800" stop="20260905175500 +0800" channel="Astro_QJ">
   <title lang="zh">Crazy Treasure Hunt S2 Ep12</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9174,15 +9166,15 @@
   <title lang="zh">Yang Sudi Tinggal Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905180000 +0800" stop="20260905183000 +0800" channel="Astro_QJ">
+<programme start="20260905180000 +0800" stop="20260905183500 +0800" channel="Astro_QJ">
   <title lang="zh">The Land Of My Life Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905183000 +0800" stop="20260905190000 +0800" channel="Astro_QJ">
+<programme start="20260905183500 +0800" stop="20260905190200 +0800" channel="Astro_QJ">
   <title lang="zh">An Everlasting Dunhuang Banquet Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905190000 +0800" stop="20260905200000 +0800" channel="Astro_QJ">
+<programme start="20260905190200 +0800" stop="20260905200000 +0800" channel="Astro_QJ">
   <title lang="zh">The First Jasmine Ep38</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9506,11 +9498,11 @@
   <title lang="zh">Gourmet Express Ep211</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905064000 +0800" stop="20260905071000 +0800" channel="TVB_Jade">
+<programme start="20260905064000 +0800" stop="20260905070900 +0800" channel="TVB_Jade">
   <title lang="zh">Scoop 2026 Ep246</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905071000 +0800" stop="20260905081000 +0800" channel="TVB_Jade">
+<programme start="20260905070900 +0800" stop="20260905081000 +0800" channel="TVB_Jade">
   <title lang="zh">Good Morning Hong Kong Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9526,15 +9518,19 @@
   <title lang="zh">Hands up Ep1789</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905101000 +0800" stop="20260905111000 +0800" channel="TVB_Jade">
+<programme start="20260905101000 +0800" stop="20260905110700 +0800" channel="TVB_Jade">
   <title lang="zh">Ratman to the Rescue Ep03</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905111000 +0800" stop="20260905121000 +0800" channel="TVB_Jade">
+<programme start="20260905110700 +0800" stop="20260905121000 +0800" channel="TVB_Jade">
   <title lang="zh">Ratman to the Rescue Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905121000 +0800" stop="20260905124000 +0800" channel="TVB_Jade">
+<programme start="20260905121000 +0800" stop="20260905121400 +0800" channel="TVB_Jade">
+  <title lang="zh">Yes, Boss Ep27</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260905121400 +0800" stop="20260905124000 +0800" channel="TVB_Jade">
   <title lang="zh">Scoop 2026 Ep246</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9550,11 +9546,15 @@
   <title lang="zh">ChatSAT Ep35</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905141000 +0800" stop="20260905164000 +0800" channel="TVB_Jade">
+<programme start="20260905141000 +0800" stop="20260905163900 +0800" channel="TVB_Jade">
   <title lang="zh">Miss Hong Kong Pageant 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905164000 +0800" stop="20260905184000 +0800" channel="TVB_Jade">
+<programme start="20260905163900 +0800" stop="20260905164200 +0800" channel="TVB_Jade">
+  <title lang="zh">Yes, Boss Ep27</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260905164200 +0800" stop="20260905184000 +0800" channel="TVB_Jade">
   <title lang="zh">Eighth Happiness</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -9566,16 +9566,16 @@
   <title lang="zh">News Magazine 2026 Ep36</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905194000 +0800" stop="20260905194500 +0800" channel="TVB_Jade">
+<programme start="20260905194000 +0800" stop="20260905194400 +0800" channel="TVB_Jade">
   <title lang="zh">Yes, Boss Ep27</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905194500 +0800" stop="20260905201000 +0800" channel="TVB_Jade">
+<programme start="20260905194400 +0800" stop="20260905201200 +0800" channel="TVB_Jade">
   <title lang="zh">Scoop 2026 Ep247</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905201000 +0800" stop="20260905204000 +0800" channel="TVB_Jade">
-  <title lang="zh">Health Commitment Letter Ep01</title>
+<programme start="20260905201200 +0800" stop="20260905204000 +0800" channel="TVB_Jade">
+  <title lang="zh">The Health Promises Ep01</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260905204000 +0800" stop="20260905214000 +0800" channel="TVB_Jade">
@@ -9590,7 +9590,7 @@
   <title lang="zh">You Are Not Alone Again Ep16</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905232500 +0800" stop="20260905234000 +0800" channel="TVB_Jade">
+<programme start="20260905232500 +0800" stop="20260905234300 +0800" channel="TVB_Jade">
   <title lang="zh">News Roundup Ep05</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -16307,7 +16307,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904203000 +0800" stop="20260904210000 +0800" channel="Bernama_TV">
-  <title lang="zh">(L) Darah Muda</title>
+  <title lang="zh">Darah Muda</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904210000 +0800" stop="20260904220000 +0800" channel="Bernama_TV">
@@ -27254,12 +27254,8 @@
   <title lang="zh">Sorotan BAJC 2026: Akhir</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904103000 +0800" stop="20260904123000 +0800" channel="Astro_Arena">
+<programme start="20260904103000 +0800" stop="20260904130000 +0800" channel="Astro_Arena">
   <title lang="zh">(L) Lee Chong Wei Cup 2026</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260904123000 +0800" stop="20260904130000 +0800" channel="Astro_Arena">
-  <title lang="zh">Sorotan Bolasepak 2026: Chelsea lwn Johor</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904130000 +0800" stop="20260904140000 +0800" channel="Astro_Arena">
@@ -27270,15 +27266,7 @@
   <title lang="zh">Sorotan Hari ke-2: Asian BMX 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904143000 +0800" stop="20260904143600 +0800" channel="Astro_Arena">
-  <title lang="zh">NSL Klinik 2026: Final Boot Camp</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260904143600 +0800" stop="20260904144500 +0800" channel="Astro_Arena">
-  <title lang="zh">Kisah Di Sebalik Harimau: Masa Depan</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260904144500 +0800" stop="20260904183000 +0800" channel="Astro_Arena">
+<programme start="20260904143000 +0800" stop="20260904183000 +0800" channel="Astro_Arena">
   <title lang="zh">(L) Lee Chong Wei Cup 2026</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -27354,23 +27342,27 @@
   <title lang="zh">(L) Lee Chong Wei Cup 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905124500 +0800" stop="20260905134500 +0800" channel="Astro_Arena">
-  <title lang="zh">Nadi Arena</title>
+<programme start="20260905124500 +0800" stop="20260905125100 +0800" channel="Astro_Arena">
+  <title lang="zh">NSL Klinik 2026: Final Boot Camp</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905134500 +0800" stop="20260905140000 +0800" channel="Astro_Arena">
+<programme start="20260905125100 +0800" stop="20260905130000 +0800" channel="Astro_Arena">
+  <title lang="zh">Kisah Di Sebalik Harimau: Masa Depan</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260905130000 +0800" stop="20260905133000 +0800" channel="Astro_Arena">
+  <title lang="zh">Sorotan Bolasepak 2026: Chelsea lwn Johor</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260905133000 +0800" stop="20260905173000 +0800" channel="Astro_Arena">
   <title lang="zh">(L) Lee Chong Wei Cup 2026</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905140000 +0800" stop="20260905173000 +0800" channel="Astro_Arena">
-  <title lang="zh">Nadi Meledak</title>
-  <desc lang="zh"> </desc>
-</programme>
-<programme start="20260905173000 +0800" stop="20260905183000 +0800" channel="Astro_Arena">
+<programme start="20260905173000 +0800" stop="20260905183200 +0800" channel="Astro_Arena">
   <title lang="zh">Sorotan BAJC 2026: Akhir</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905183000 +0800" stop="20260905190000 +0800" channel="Astro_Arena">
+<programme start="20260905183200 +0800" stop="20260905190000 +0800" channel="Astro_Arena">
   <title lang="zh">Sorotan AFF Hyundai 2026: VIE lwn MAS</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -27390,11 +27382,11 @@
   <title lang="zh">SSR 2026: Premier</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905225000 +0800" stop="20260905225500 +0800" channel="Astro_Arena">
+<programme start="20260905225000 +0800" stop="20260905225400 +0800" channel="Astro_Arena">
   <title lang="zh">NSL Klinik 2026: Final Boot Camp</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260905225500 +0800" stop="20260905230000 +0800" channel="Astro_Arena">
+<programme start="20260905225400 +0800" stop="20260905230000 +0800" channel="Astro_Arena">
   <title lang="zh">Yang Berani Bermimpi Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -28298,16 +28290,16 @@
   <title lang="zh">MotoGP Aragon: Moto2 Race</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904103000 +0800" stop="20260904121500 +0800" channel="Astro_Grandstand">
+<programme start="20260904103000 +0800" stop="20260904130000 +0800" channel="Astro_Grandstand">
   <title lang="zh">(L) LCW Cup 2026 QF Session 1</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904121500 +0800" stop="20260904130000 +0800" channel="Astro_Grandstand">
+<programme start="20260904130000 +0800" stop="20260904140000 +0800" channel="Astro_Grandstand">
   <title lang="zh">Tour De La Provence 2026: Final Program Hls</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904130000 +0800" stop="20260904150000 +0800" channel="Astro_Grandstand">
-  <title lang="zh">PL: Man Utd vs Ipswich</title>
+<programme start="20260904140000 +0800" stop="20260904150000 +0800" channel="Astro_Grandstand">
+  <title lang="zh">MotoGP 2026: Aragon Highlights</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904150000 +0800" stop="20260904183000 +0800" channel="Astro_Grandstand">
@@ -28950,8 +28942,12 @@
   <title lang="zh">BWF German Open: HL</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260904100000 +0800" stop="20260904150000 +0800" channel="Astro_Badminton">
+<programme start="20260904100000 +0800" stop="20260904143000 +0800" channel="Astro_Badminton">
   <title lang="zh">(L) BWF China Masters: QF 1 (Crt1)</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260904143000 +0800" stop="20260904150000 +0800" channel="Astro_Badminton">
+  <title lang="zh">Badminton Weekly 2025 -</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260904150000 +0800" stop="20260904160000 +0800" channel="Astro_Badminton">
