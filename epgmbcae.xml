@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260904160000 +0800" stop="20260904180000 +0800" channel="mbc max">
-    <title lang="en">Sparkle</title>
-    <desc lang="en">Set in Motown's heyday in the 1960s, three sisters form agirl group and become an instant sensation. One of the sisters, Sparkle, faces the challenges of new fame and a new romance as her close-knit family begins to unravel.</desc>
-    <category lang="en">Movie
-               (2012)</category>
-  </programme>
-  <programme start="20260904180000 +0800" stop="20260904193500 +0800" channel="mbc max">
-    <title lang="en">Ricki and the Flash</title>
-    <desc lang="en">Rock star Ricki (Meryl Streep), gave up everything for herdream of rock-and-roll stardom, is now returning home to make things right with her family.</desc>
-    <category lang="en">Movie
-               (2015)</category>
-  </programme>
   <programme start="20260904200000 +0800" stop="20260904213500 +0800" channel="mbc max">
     <title lang="en">xXx: State of the Union</title>
     <desc lang="en">(Darius Stone), a new agent for xXx program, is sent toWashington DC to defuse the power struggle between national leaders.</desc>
@@ -228,17 +216,23 @@
     <category lang="en">Movie
                (2005)</category>
   </programme>
-  <programme start="20260904174500 +0800" stop="20260904180000 +0800" channel="mbc 2">
-    <title lang="en">Scoop Maa Raya</title>
-    <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-    <category lang="en">Program - Normal
-               (2012)</category>
-  </programme>
-  <programme start="20260904180000 +0800" stop="20260904203000 +0800" channel="mbc 2">
-    <title lang="en">Blade Runner 2049</title>
-    <desc lang="en">After learning of a long-kept secret, young Blade Runner Ksets out to find the thirty-year-missing former Blade Runner Rick Deckard.</desc>
+  <programme start="20260907033000 +0800" stop="20260907050000 +0800" channel="mbc max">
+    <title lang="en">All I See Is You</title>
+    <desc lang="en">When a blind wife regains her sight, she finds out how badher relationship with her husband is.</desc>
     <category lang="en">Movie
-               (2017)</category>
+               (2016)</category>
+  </programme>
+  <programme start="20260907050000 +0800" stop="20260907053000 +0800" channel="mbc max">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
+    <category lang="en">Program - Normal
+               (1998)</category>
+  </programme>
+  <programme start="20260907053000 +0800" stop="20260907070000 +0800" channel="mbc max">
+    <title lang="en">How to Train Your Dragon 2</title>
+    <desc lang="en">Hiccup and Toothless embark on an adventure to save theirisland from a dragon hunter who's bent on taking over the world with a dragon army.</desc>
+    <category lang="en">Movie - Cartoon
+               (2014)</category>
   </programme>
   <programme start="20260904203000 +0800" stop="20260904223000 +0800" channel="mbc 2">
     <title lang="en">Jupiter Ascending</title>
@@ -431,5 +425,23 @@
     <desc lang="en">Two star-crossed lovers are torn apart by culturalhostilities and imperialistic aspirations as Pocahontas, the daughter of a Native American chief, falls for an English captain, a romance that both sides of the conflict frown upon.</desc>
     <category lang="en">Movie
                (2005)</category>
+  </programme>
+  <programme start="20260907033000 +0800" stop="20260907050500 +0800" channel="mbc 2">
+    <title lang="en">Mad Money</title>
+    <desc lang="en">Bridget Cardigan has an easy life, until her husband, Don,loses his high-paying job, and she is forced to work to pay off his debts. She finds a job as a cleaner at the Federal Reserve Bank in Kansas, leading her to come up with a plan to steal some money in order to keep her house, together with her colleagues Nina and Jackie.</desc>
+    <category lang="en">Movie
+               (2008)</category>
+  </programme>
+  <programme start="20260907050500 +0800" stop="20260907053000 +0800" channel="mbc 2">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="en">A program that is shown every Sunday, covering news from theworld of Hollywood. It also provides scenes of films, revenues, and many topics and news of interest to cinema lovers around the world.</desc>
+    <category lang="en">Program - Normal
+               (2008)</category>
+  </programme>
+  <programme start="20260907053000 +0800" stop="20260907070000 +0800" channel="mbc 2">
+    <title lang="en">The Winter Lake</title>
+    <desc lang="en">When a troubled teenager makes an awful discovery in anearby lake, he gets in over his head as he uncovers a shocking truth that involves his neighbors who are hiding a dark secret.</desc>
+    <category lang="en">Movie
+               (2020)</category>
   </programme>
 </tv>
