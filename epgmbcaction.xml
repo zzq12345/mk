@@ -3,30 +3,6 @@
   <channel id="mbc action">
     <display-name>MBC Action</display-name>
   </channel>
-  <programme start="20260905083000 +0800" stop="20260905090000 +0800" channel="mbc action">
-    <title lang="en">برنامج the football review</title>
-  </programme>
-  <programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="mbc action">
-    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
-    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Kenshô Ono</actor>
-      <actor>Akio Ôtsuka</actor>
-      <actor>Nobuyuki Hiyama</actor>
-      <actor>Shoya Ishige</actor>
-    </credits>
-    <date>2024</date>
-  </programme>
-  <programme start="20260905100000 +0800" stop="20260905110000 +0800" channel="mbc action">
-    <title lang="en">برنامج Celebrity Car Wars</title>
-  </programme>
-  <programme start="20260905110000 +0800" stop="20260905120000 +0800" channel="mbc action">
-    <title lang="en">برنامج وثائقيات مورشو</title>
-  </programme>
-  <programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="mbc action">
-    <title lang="en">برنامج the inside line</title>
-  </programme>
   <programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="mbc action">
     <title lang="en">برنامج the football review</title>
   </programme>
@@ -362,5 +338,26 @@
   </programme>
   <programme start="20260908180000 +0800" stop="20260908190000 +0800" channel="mbc action">
     <title lang="en">برنامج cars &amp; stars</title>
+  </programme>
+  <programme start="20260908190000 +0800" stop="20260908203000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+    <category lang="en">Program</category>
+    <date>2021</date>
+  </programme>
+  <programme start="20260908203000 +0800" stop="20260908213000 +0800" channel="mbc action">
+    <title lang="en">برنامج get  out a life with bear gryls</title>
+  </programme>
+  <programme start="20260908213000 +0800" stop="20260908223000 +0800" channel="mbc action">
+    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
+    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Kenshô Ono</actor>
+      <actor>Akio Ôtsuka</actor>
+      <actor>Nobuyuki Hiyama</actor>
+      <actor>Shoya Ishige</actor>
+    </credits>
+    <date>2024</date>
   </programme>
 </tv>
