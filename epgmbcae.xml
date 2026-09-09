@@ -6,12 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260909203000 +0800" stop="20260909220000 +0800" channel="mbc max">
-    <title lang="en">The Ledge</title>
-    <desc lang="en">A climbing trip takes an unexpected turn when Kelly's friendis murdered, and she must climb at full speed to escape four killers who are hot on her heels.</desc>
-    <category lang="en">Movie
-               (2022)</category>
-  </programme>
   <programme start="20260909220000 +0800" stop="20260910010000 +0800" channel="mbc max">
     <title lang="en">King Kong</title>
     <desc lang="en">Set in New York, 1933, Carl is planning to work on shootinghis new movie at the mysterious Skull Island, and the moment the crew arrive, strange things start to happen. Leading lady Ann is kidnapped by the island's inhabitants to be presented to their gods, and a giant gorilla suddenly appears to save her life.</desc>
@@ -204,11 +198,17 @@
     <category lang="en">Movie
                (2019)</category>
   </programme>
-  <programme start="20260909210000 +0800" stop="20260909230000 +0800" channel="mbc 2">
-    <title lang="en">Cop Out</title>
-    <desc lang="en">When Jimmy Monroe decides to sell a precious baseball cardin order to get the necessary money for his daughter’s wedding, the card gets stolen, and Jimmy recruits his fellow cop Peter to find the thief who turns out to be a football-memorabilia-obsessed gangster.</desc>
+  <programme start="20260912080000 +0800" stop="20260912100000 +0800" channel="mbc max">
+    <title lang="en">Passengers</title>
+    <desc lang="en">On a spacecraft that is supposed to carry people to a newplanet to colonize it, things go wrong when a technical problem affects the sleeping rooms, prompting two passengers to wake up before the scheduled time for their awakening.</desc>
     <category lang="en">Movie
-               (2010)</category>
+               (2016)</category>
+  </programme>
+  <programme start="20260912100000 +0800" stop="20260912113000 +0800" channel="mbc max">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Dracula runs a high-end resort for monsters far away fromthe human world. The Count's monster-haven bubble is burst when a boy named Jonathan stumbles upon his resort and falls in love with his daughter.</desc>
+    <category lang="en">Movie - Cartoon
+               (2012)</category>
   </programme>
   <programme start="20260909233000 +0800" stop="20260910010000 +0800" channel="mbc 2">
     <title lang="en">Pursuit</title>
@@ -401,5 +401,17 @@
     <desc lang="en">In 1992 Bogota, a small girl Cataleya, witnesses the murderof her parents by one of the terrorists' bands.  Her uncle Emilio, helps her to recover and teaches her to take revenge from her parents killers. After getting prepared and trained on different sorts of weapons Cataleya starts planning for payback.</desc>
     <category lang="en">Movie
                (2011)</category>
+  </programme>
+  <programme start="20260912080000 +0800" stop="20260912100000 +0800" channel="mbc 2">
+    <title lang="en">The Brave One</title>
+    <desc lang="en">The film revolves around Erica, who is raped after herfiancé is killed by unknown people. After recovering,she decides to search for the perpetrators and revenge herself and her late fiancé.</desc>
+    <category lang="en">Movie
+               (2007)</category>
+  </programme>
+  <programme start="20260912100000 +0800" stop="20260912123000 +0800" channel="mbc 2">
+    <title lang="en">The Island</title>
+    <desc lang="en">In a futuristic colony, all the residents live on the hopeof winning the lottery that enables them to go to The Island, a rumored paradise which is the last surviving uncontaminated location. But one of the residents, Lincoln, soon comes to discover the horrifying truth behind The Island.</desc>
+    <category lang="en">Movie
+               (2005)</category>
   </programme>
 </tv>
