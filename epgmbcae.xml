@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260911120000 +0800" stop="20260911133000 +0800" channel="mbc max">
-    <title lang="en">Ninja Assassin</title>
-    <desc lang="en">When his lover Kiriko is murdered, the young ninja Raizoturns his back on the orphanage that raised him and exacts his vengeance on those who killed her.</desc>
-    <category lang="en">Movie
-               (2009)</category>
-  </programme>
-  <programme start="20260911133000 +0800" stop="20260911140000 +0800" channel="mbc max">
-    <title lang="en">Hollywood Buzz</title>
-    <desc lang="en">The program reviews the latest news and developments aboutfilms, interviews with new stars, and fashion in the American film capital.</desc>
-    <category lang="en">Program - Normal
-               (1998)</category>
-  </programme>
   <programme start="20260911140000 +0800" stop="20260911160000 +0800" channel="mbc max">
     <title lang="en">Passengers</title>
     <desc lang="en">On a spacecraft that is supposed to carry people to a newplanet to colonize it, things go wrong when a technical problem affects the sleeping rooms, prompting two passengers to wake up before the scheduled time for their awakening.</desc>
@@ -192,17 +180,11 @@
     <category lang="en">Movie - Cartoon
                (1997)</category>
   </programme>
-  <programme start="20260911103000 +0800" stop="20260911130000 +0800" channel="mbc 2">
-    <title lang="en">Proof of Life</title>
-    <desc lang="en">After her husband gets kidnapped by guerilla fighters inSouth America, Alice hires a negotiator in an attempt to reach a compromise and have him released.</desc>
+  <programme start="20260913230000 +0800" stop="20260914013000 +0800" channel="mbc max">
+    <title lang="en">Hugo</title>
+    <desc lang="en">In 1930's Paris, orphaned Hugo lives in a crowded trainstation. He enters a new adventure with Isabelle, in an attempt to solve the mystery his father has left behind regarding an automaton.</desc>
     <category lang="en">Movie
-               (2000)</category>
-  </programme>
-  <programme start="20260911130000 +0800" stop="20260911150000 +0800" channel="mbc 2">
-    <title lang="en">Edge of Darkness</title>
-    <desc lang="en">Detective Thomas Craven is investigating the murder of hisactivist daughter. He not only exposes sensitive aspects of her secret life, but also clashes with crime organizations that try to erase any thread that may link her to them.</desc>
-    <category lang="en">Movie
-               (2010)</category>
+               (2011)</category>
   </programme>
   <programme start="20260911150000 +0800" stop="20260911170000 +0800" channel="mbc 2">
     <title lang="en">Colombiana</title>
@@ -377,5 +359,17 @@
     <desc lang="en">(Jack Stanfield) , a chief executive of security at a smallbank, is forced to steal the bank he's meant to protect,or else his family would be killed if he refused. Jack has to save his family and bring back the money.</desc>
     <category lang="en">Movie
                (2006)</category>
+  </programme>
+  <programme start="20260913223000 +0800" stop="20260914003000 +0800" channel="mbc 2">
+    <title lang="en">M3GAN</title>
+    <desc lang="en">After Gemma becomes the caretaker of her orphaned niece,Cady, she gives her a specially designed robotic doll named M3GAN to help her overcome the grief of losing her parents, but M3GAN quickly spirals out of control.</desc>
+    <category lang="en">Movie
+               (2023)</category>
+  </programme>
+  <programme start="20260914003000 +0800" stop="20260914030000 +0800" channel="mbc 2">
+    <title lang="en">Cloud Atlas</title>
+    <desc lang="en">Six separate stories, different in time, place and nature,somehow become intertwined in a complicated way. Narrated from a diary of a sea voyage in 1849, some letter from a musician to a lover and a piece of work from the 70's, it revolves around a nuclear power plant, a detained publisher, a Korean girl-clone and a Hawaiian tribe living in a post-apocalypse world.</desc>
+    <category lang="en">Movie
+               (2012)</category>
   </programme>
 </tv>

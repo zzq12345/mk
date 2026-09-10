@@ -703,7 +703,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260911160000 +0800" stop="20260911163000 +0800" channel="Astro30">
-  <title lang="zh">Pokémon Journeys: The Series Ep19</title>
+  <title lang="zh">Pokemon Journeys: The Series Ep19</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260911163000 +0800" stop="20260911170000 +0800" channel="Astro30">
@@ -982,8 +982,12 @@
   <title lang="zh">Yang Berani Bermimpi Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912215500 +0800" stop="20260912235500 +0800" channel="Astro30">
+<programme start="20260912215500 +0800" stop="20260912220000 +0800" channel="Astro30">
   <title lang="zh">KITA</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912220000 +0800" stop="20260912235500 +0800" channel="Astro30">
+  <title lang="zh">The Bad Guys: Reign of Chaos</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260911000000 +0800" stop="20260911003000 +0800" channel="TV1_HD">
@@ -7394,7 +7398,7 @@
   <title lang="zh">8 Mani Seithigal</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911013000 +0800" stop="20260911043000 +0800" channel="KTV">
+<programme start="20260911013400 +0800" stop="20260911043000 +0800" channel="KTV">
   <title lang="zh">Ram Charan</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -8574,15 +8578,15 @@
   <title lang="zh">Sunsets Secrets Regrets Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912003000 +0800" stop="20260912012000 +0800" channel="iQIYI_HD">
+<programme start="20260912003000 +0800" stop="20260912012500 +0800" channel="iQIYI_HD">
   <title lang="zh">Awaken Ep11</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912012000 +0800" stop="20260912024000 +0800" channel="iQIYI_HD">
+<programme start="20260912012500 +0800" stop="20260912024200 +0800" channel="iQIYI_HD">
   <title lang="zh">Mrs. Golden Snake</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912024000 +0800" stop="20260912033000 +0800" channel="iQIYI_HD">
+<programme start="20260912024200 +0800" stop="20260912033000 +0800" channel="iQIYI_HD">
   <title lang="zh">Forging Justice Ep29</title>
   <desc lang="zh"> </desc>
 </programme>
@@ -11258,8 +11262,24 @@
   <title lang="zh">News on the Hour</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911053000 +0800" stop="20260911070300 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911053000 +0800" stop="20260911053300 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911053300 +0800" stop="20260911060200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News Talk</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911060200 +0800" stop="20260911063000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911063000 +0800" stop="20260911063200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911063200 +0800" stop="20260911070300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Zoom in</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260911070300 +0800" stop="20260911080000 +0800" channel="Phoenix_Info_News_HD">
@@ -11270,40 +11290,224 @@
   <title lang="zh">Phoenix Weather Forecast</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911080300 +0800" stop="20260911093000 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911080300 +0800" stop="20260911090000 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Morning Express</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911093000 +0800" stop="20260911133000 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911090000 +0800" stop="20260911090200 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Weather Forecast</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911133000 +0800" stop="20260911143000 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911090200 +0800" stop="20260911093000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911093000 +0800" stop="20260911093300 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Weather Forecast</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911143000 +0800" stop="20260911180300 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911093300 +0800" stop="20260911100200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Financial Journal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911100200 +0800" stop="20260911105900 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911105900 +0800" stop="20260911110200 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911110200 +0800" stop="20260911113000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911113000 +0800" stop="20260911113200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911113200 +0800" stop="20260911120300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Chief Editor&apos;s Time</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911120300 +0800" stop="20260911125700 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Midday Express</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911125700 +0800" stop="20260911130200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911130200 +0800" stop="20260911133000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911133000 +0800" stop="20260911133300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911133300 +0800" stop="20260911140200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Financial Journal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911140200 +0800" stop="20260911143000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911143000 +0800" stop="20260911143300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911143300 +0800" stop="20260911150200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Chief Editor&apos;s Time</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911150200 +0800" stop="20260911155900 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911155900 +0800" stop="20260911160200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911160200 +0800" stop="20260911165900 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911165900 +0800" stop="20260911170200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911170200 +0800" stop="20260911173000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911173000 +0800" stop="20260911173200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911173200 +0800" stop="20260911180300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Financial Journal</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260911180300 +0800" stop="20260911183000 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Focus</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911183000 +0800" stop="20260911233000 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911183000 +0800" stop="20260911183300 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Weather Forecast</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912013000 +0800" stop="20260912023000 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911183300 +0800" stop="20260911190200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News Talk</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911190200 +0800" stop="20260911195800 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">China News Live</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911195800 +0800" stop="20260911200200 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Weather Forecast</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912023000 +0800" stop="20260912033000 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911200200 +0800" stop="20260911202900 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Focus</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911202900 +0800" stop="20260911203200 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Weather Forecast</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912033000 +0800" stop="20260912053000 +0800" channel="Phoenix_Info_News_HD">
+<programme start="20260911203200 +0800" stop="20260911210300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Financial Daily Report</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911210300 +0800" stop="20260911215700 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Evening Express</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911215700 +0800" stop="20260911220200 +0800" channel="Phoenix_Info_News_HD">
   <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911220200 +0800" stop="20260911223200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Chief Editor&apos;s Time</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911223200 +0800" stop="20260911230200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News Talk</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911230200 +0800" stop="20260911233000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Focus</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911233000 +0800" stop="20260911233300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912000200 +0800" stop="20260912005900 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Intercontinental Express</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912005900 +0800" stop="20260912010200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912010200 +0800" stop="20260912013000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912013000 +0800" stop="20260912013300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912013300 +0800" stop="20260912020200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Financial Journal</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912020200 +0800" stop="20260912023000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912023000 +0800" stop="20260912023300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912023300 +0800" stop="20260912030200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Financial Daily Report</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912030200 +0800" stop="20260912033000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912033000 +0800" stop="20260912033300 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912033300 +0800" stop="20260912040200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Chief Editor&apos;s Time</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912040200 +0800" stop="20260912042900 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912042900 +0800" stop="20260912043200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912043200 +0800" stop="20260912045900 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912045900 +0800" stop="20260912050200 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">Phoenix Weather Forecast</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912050200 +0800" stop="20260912053000 +0800" channel="Phoenix_Info_News_HD">
+  <title lang="zh">News on the Hour</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260912053000 +0800" stop="20260912053300 +0800" channel="Phoenix_Info_News_HD">
@@ -16014,8 +16218,12 @@
   <title lang="zh">Agenda Awani</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912113000 +0800" stop="20260912120000 +0800" channel="Astro_Awani_HD">
+<programme start="20260912113000 +0800" stop="20260912115500 +0800" channel="Astro_Awani_HD">
   <title lang="zh">AWANI Pagi</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912115500 +0800" stop="20260912120000 +0800" channel="Astro_Awani_HD">
+  <title lang="zh">Astro 30 Brand Film Ep03</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260912120000 +0800" stop="20260912120100 +0800" channel="Astro_Awani_HD">
@@ -16042,8 +16250,12 @@
   <title lang="zh">Buletin Awani</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912140000 +0800" stop="20260912150000 +0800" channel="Astro_Awani_HD">
+<programme start="20260912140000 +0800" stop="20260912140100 +0800" channel="Astro_Awani_HD">
   <title lang="zh">AWANI Ringkas</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912140100 +0800" stop="20260912150000 +0800" channel="Astro_Awani_HD">
+  <title lang="zh">Dialog Poket Rakyat</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260912150000 +0800" stop="20260912150100 +0800" channel="Astro_Awani_HD">
@@ -16066,8 +16278,12 @@
   <title lang="zh">(L) Buletin Awani</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912163000 +0800" stop="20260912170000 +0800" channel="Astro_Awani_HD">
+<programme start="20260912163000 +0800" stop="20260912165500 +0800" channel="Astro_Awani_HD">
   <title lang="zh">Buletin Awani</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912165500 +0800" stop="20260912170000 +0800" channel="Astro_Awani_HD">
+  <title lang="zh">Astro 30 Brand Film Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260912170000 +0800" stop="20260912170100 +0800" channel="Astro_Awani_HD">
@@ -16098,8 +16314,12 @@
   <title lang="zh">(L) Awani Borneo</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912191500 +0800" stop="20260912194500 +0800" channel="Astro_Awani_HD">
+<programme start="20260912191500 +0800" stop="20260912194000 +0800" channel="Astro_Awani_HD">
   <title lang="zh">Buletin AWANI Khas- Konflik Asia Barat</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912194000 +0800" stop="20260912194500 +0800" channel="Astro_Awani_HD">
+  <title lang="zh">Astro 30 Brand Film Ep04</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260912194500 +0800" stop="20260912200000 +0800" channel="Astro_Awani_HD">
@@ -27571,7 +27791,7 @@
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260912142500 +0800" stop="20260912145000 +0800" channel="HGTV_HD">
-  <title lang="zh">House Hunters: Paradise S1 Ep13</title>
+  <title lang="zh">House Hunters: Paradise S1 Ep02</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260912145000 +0800" stop="20260912151500 +0800" channel="HGTV_HD">
@@ -28732,6 +28952,10 @@
 </programme>
 <programme start="20260912180000 +0800" stop="20260912215000 +0800" channel="Astro_Premier_League_4">
   <title lang="zh">Astro Premier League 4</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911000000 +0800" stop="20260911060000 +0800" channel="Astro_Premier_League_5">
+  <title lang="zh">Astro Premier League 5</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260911060000 +0800" stop="20260911120000 +0800" channel="Astro_Premier_League_5">
@@ -30150,8 +30374,12 @@
   <title lang="zh">LGCT 26</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911143000 +0800" stop="20260911172000 +0800" channel="W-Sport">
+<programme start="20260911143000 +0800" stop="20260911155500 +0800" channel="W-Sport">
   <title lang="zh">Malaysian NSL 26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260911155500 +0800" stop="20260911172000 +0800" channel="W-Sport">
+  <title lang="zh">WSWC 27 Gr. B</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260911172000 +0800" stop="20260911175000 +0800" channel="W-Sport">
@@ -30222,12 +30450,24 @@
   <title lang="zh">Malaysian NSL 26</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260912175000 +0800" stop="20260912235500 +0800" channel="W-Sport">
+<programme start="20260912175000 +0800" stop="20260912182000 +0800" channel="W-Sport">
   <title lang="zh">MP 26</title>
   <desc lang="zh"> </desc>
 </programme>
-<programme start="20260911020000 +0800" stop="20260911030000 +0800" channel="Astro_Golf">
-  <title lang="zh">TOUR Championship Hls</title>
+<programme start="20260912182000 +0800" stop="20260912202000 +0800" channel="W-Sport">
+  <title lang="zh">WSWC 27 Gr. B</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912202000 +0800" stop="20260912205000 +0800" channel="W-Sport">
+  <title lang="zh">LGCT 26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912205000 +0800" stop="20260912225000 +0800" channel="W-Sport">
+  <title lang="zh">Serie a Women&apos;s Cup 26</title>
+  <desc lang="zh"> </desc>
+</programme>
+<programme start="20260912225000 +0800" stop="20260912235500 +0800" channel="W-Sport">
+  <title lang="zh">Paris Marathon 2026 26 HL</title>
   <desc lang="zh"> </desc>
 </programme>
 <programme start="20260911030000 +0800" stop="20260911040000 +0800" channel="Astro_Golf">
