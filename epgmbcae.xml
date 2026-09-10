@@ -6,18 +6,6 @@
   <channel id="mbc 2">
     <display-name lang="zh">mbc 2</display-name>
   </channel>
-  <programme start="20260911140000 +0800" stop="20260911160000 +0800" channel="mbc max">
-    <title lang="en">Passengers</title>
-    <desc lang="en">On a spacecraft that is supposed to carry people to a newplanet to colonize it, things go wrong when a technical problem affects the sleeping rooms, prompting two passengers to wake up before the scheduled time for their awakening.</desc>
-    <category lang="en">Movie
-               (2016)</category>
-  </programme>
-  <programme start="20260911160000 +0800" stop="20260911180000 +0800" channel="mbc max">
-    <title lang="en">Ip Man 4: The Finale</title>
-    <desc lang="en">The Kung Fu master travels to the United States with hisson, where his student, Bruce Lee, has disturbed the local martial arts community by opening a Wing Chun school.</desc>
-    <category lang="en">Movie
-               (2019)</category>
-  </programme>
   <programme start="20260911180000 +0800" stop="20260911200000 +0800" channel="mbc max">
     <title lang="en">In the Earth</title>
     <desc lang="en">A scientist and a park scout travel far into the woods insearch of a cure for a deadly virus. As night falls, the forest around them comes to life, and their journey turns into a terrifying journey through the depths of the night.</desc>
@@ -186,11 +174,17 @@
     <category lang="en">Movie
                (2011)</category>
   </programme>
-  <programme start="20260911150000 +0800" stop="20260911170000 +0800" channel="mbc 2">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">In 1992 Bogota, a small girl Cataleya, witnesses the murderof her parents by one of the terrorists' bands.  Her uncle Emilio, helps her to recover and teaches her to take revenge from her parents killers. After getting prepared and trained on different sorts of weapons Cataleya starts planning for payback.</desc>
+  <programme start="20260914013000 +0800" stop="20260914030000 +0800" channel="mbc max">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Dracula runs a high-end resort for monsters far away fromthe human world. The Count's monster-haven bubble is burst when a boy named Jonathan stumbles upon his resort and falls in love with his daughter.</desc>
+    <category lang="en">Movie - Cartoon
+               (2012)</category>
+  </programme>
+  <programme start="20260914030000 +0800" stop="20260914053000 +0800" channel="mbc max">
+    <title lang="en">Ender's Game</title>
+    <desc lang="en">Seventy years after a horrific war with aliens, anexceptionally gifted child is sent to an advanced military school in space to prepare for the future invasion.</desc>
     <category lang="en">Movie
-               (2011)</category>
+               (2013)</category>
   </programme>
   <programme start="20260911170000 +0800" stop="20260911190000 +0800" channel="mbc 2">
     <title lang="en">Memory</title>
@@ -371,5 +365,11 @@
     <desc lang="en">Six separate stories, different in time, place and nature,somehow become intertwined in a complicated way. Narrated from a diary of a sea voyage in 1849, some letter from a musician to a lover and a piece of work from the 70's, it revolves around a nuclear power plant, a detained publisher, a Korean girl-clone and a Hawaiian tribe living in a post-apocalypse world.</desc>
     <category lang="en">Movie
                (2012)</category>
+  </programme>
+  <programme start="20260914030000 +0800" stop="20260914043000 +0800" channel="mbc 2">
+    <title lang="en">Semi-Pro</title>
+    <desc lang="en">In the 1970s in the state of Michigan, Jackie Moon'sbasketball team is at last place, with few fans in the seats.  Jackie dreams of a merger for his team in the NBA, together with Monix and Clarence they try to pull the team together to achieve their near impossible dream.</desc>
+    <category lang="en">Movie
+               (2008)</category>
   </programme>
 </tv>
