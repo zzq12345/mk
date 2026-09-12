@@ -27,6 +27,9 @@
   <channel id="HOY 78">
     <display-name lang="zh">HOY 78</display-name>
   </channel>
+  <channel id="爱知‧名古屋亚运男子篮球赛 - 中华台北 对 伊朗 (英文评述) (早上8:55)">
+    <display-name lang="zh">爱知‧名古屋亚运男子篮球赛 - 中华台北 对 伊朗 (英文评述) (早上8:55)</display-name>
+  </channel>
   <channel id="阿根廷甲组足球联赛 - 防卫者 对 甘拿斯亚文度沙 (西班牙文评述) (早上6:10)">
     <display-name lang="zh">阿根廷甲组足球联赛 - 防卫者 对 甘拿斯亚文度沙 (西班牙文评述) (早上6:10)</display-name>
   </channel>
@@ -1749,10 +1752,6 @@
   <channel id="Zoomoo">
     <display-name lang="zh">Zoomoo</display-name>
   </channel>
-  <programme start="20260912180000 +0800" stop="20260912200000 +0800" channel="mbc max">
-    <title lang="en">Hugo</title>
-    <desc lang="en">In 1930's Paris, orphaned Hugo lives in a crowded trainstation. He enters a new adventure with Isabelle, in an attempt to solve the mystery his father has left behind regarding an automaton.</desc>
-  </programme>
   <programme start="20260912203000 +0800" stop="20260912220000 +0800" channel="mbc max">
     <title lang="en">Ninja Assassin</title>
     <desc lang="en">When his lover Kiriko is murdered, the young ninja Raizoturns his back on the orphanage that raised him and exacts his vengeance on those who killed her.</desc>
@@ -1840,10 +1839,6 @@
   <programme start="20260914160000 +0800" stop="20260914180000 +0800" channel="mbc max">
     <title lang="en">Crazy Stupid Love</title>
     <desc lang="en">When his seemingly perfect life with his wife starts showingits cracks, Cal is left adrift in the face of their impending divorce. His newfound friend Jacob tries to help him get over his loneliness and get back in the dating scene by being his wingman as he tries to pick up girls at bars.</desc>
-  </programme>
-  <programme start="20260912173000 +0800" stop="20260912190000 +0800" channel="mbc 2">
-    <title lang="en">M3GAN</title>
-    <desc lang="en">After Gemma becomes the caretaker of her orphaned niece,Cady, she gives her a specially designed robotic doll named M3GAN to help her overcome the grief of losing her parents, but M3GAN quickly spirals out of control.</desc>
   </programme>
   <programme start="20260912193000 +0800" stop="20260912220500 +0800" channel="mbc 2">
     <title lang="en">Cloud Atlas</title>
@@ -1948,18 +1943,6 @@
   <programme start="20260914174500 +0800" stop="20260914180000 +0800" channel="mbc 2">
     <title lang="en">Scoop Maa Raya</title>
     <desc lang="en">The Lebanese presenter Raya Abirached reviews the latestfilms shown in American cinema and the changes that occur in them weekly. She also reveals the latest news of Hollywood celebs and their accessories and covers the most important international festivals.</desc>
-  </programme>
-  <programme start="20260912183000 +0800" stop="20260912193000 +0800" channel="mbc action">
-    <title lang="en">Action Ma' Waleed</title>
-    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
-  </programme>
-  <programme start="20260912193000 +0800" stop="20260912203000 +0800" channel="mbc action">
-    <title lang="en">برنامج bricks&amp;brain</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912203000 +0800" stop="20260912212500 +0800" channel="mbc action">
-    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
-    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
   </programme>
   <programme start="20260912212500 +0800" stop="20260912233000 +0800" channel="mbc action">
     <title lang="en">الدوري الألماني</title>
@@ -2170,6 +2153,18 @@
     <desc lang=""/>
   </programme>
   <programme start="20260914030000 +0800" stop="20260914043000 +0800" channel="mbc action">
+    <title lang="en">Action Ma' Waleed</title>
+    <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
+  </programme>
+  <programme start="20260914043000 +0800" stop="20260914053000 +0800" channel="mbc action">
+    <title lang="en">برنامج bear grylls</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260914053000 +0800" stop="20260914063000 +0800" channel="mbc action">
+    <title lang="en">Kinnikuman: Perfect Origin Arc</title>
+    <desc lang="en">Kinnikuman returns to the wrestling ring for an epic battle between the three Chojin factions: Seigi, Akuma, and Perfect. As the conflict unfolds, the true origins of the Chojin fighters are revealed. | Type: Series (2024)</desc>
+  </programme>
+  <programme start="20260914063000 +0800" stop="20260914080000 +0800" channel="mbc action">
     <title lang="en">Action Ma' Waleed</title>
     <desc lang="en">A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League. | Type: Program (2021) | Rating: 5.1/10</desc>
   </programme>
@@ -79673,6 +79668,214 @@
     <title lang="zh">第一首映</title>
     <desc lang=""/>
   </programme>
+  <programme start="20260912005000 +0800" stop="20260912065000 +0800" channel="珠海">
+    <title lang="zh">结束</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912065000 +0800" stop="20260912070000 +0800" channel="珠海">
+    <title lang="zh">公益广告展播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912070000 +0800" stop="20260912070100 +0800" channel="珠海">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912070100 +0800" stop="20260912072300 +0800" channel="珠海">
+    <title lang="zh">珠海新闻(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912072300 +0800" stop="20260912073000 +0800" channel="珠海">
+    <title lang="zh">广告+推介</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912073000 +0800" stop="20260912080000 +0800" channel="珠海">
+    <title lang="zh">湾区会客厅(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912080000 +0800" stop="20260912112500 +0800" channel="珠海">
+    <title lang="zh">电视剧:《东北抗日联军》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912112500 +0800" stop="20260912120000 +0800" channel="珠海">
+    <title lang="zh">纪录片:《奇趣大自然》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912120000 +0800" stop="20260912122200 +0800" channel="珠海">
+    <title lang="zh">珠海新闻(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912122200 +0800" stop="20260912123000 +0800" channel="珠海">
+    <title lang="zh">广告+推介</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912123000 +0800" stop="20260912130000 +0800" channel="珠海">
+    <title lang="zh">湾区会客厅(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912130000 +0800" stop="20260912173000 +0800" channel="珠海">
+    <title lang="zh">电视剧:《什刹海》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912173000 +0800" stop="20260912174500 +0800" channel="珠海">
+    <title lang="zh">珠澳零距离(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912174500 +0800" stop="20260912184000 +0800" channel="珠海">
+    <title lang="zh">七彩阳光</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912184000 +0800" stop="20260912185000 +0800" channel="珠海">
+    <title lang="zh">湾区会客厅(首播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912185000 +0800" stop="20260912190000 +0800" channel="珠海">
+    <title lang="zh">公益广告</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912190000 +0800" stop="20260912193000 +0800" channel="珠海">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912193000 +0800" stop="20260912193300 +0800" channel="珠海">
+    <title lang="zh">广告+推介</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912193300 +0800" stop="20260912195500 +0800" channel="珠海">
+    <title lang="zh">珠海新闻(首播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912195500 +0800" stop="20260912200000 +0800" channel="珠海">
+    <title lang="zh">天气预报</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912200000 +0800" stop="20260912202500 +0800" channel="珠海">
+    <title lang="zh">珠海纪事(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912202500 +0800" stop="20260912220000 +0800" channel="珠海">
+    <title lang="zh">华发剧场:《大博弈》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912220000 +0800" stop="20260912222200 +0800" channel="珠海">
+    <title lang="zh">珠海新闻(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912222200 +0800" stop="20260912223000 +0800" channel="珠海">
+    <title lang="zh">天气预报+广告</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912223000 +0800" stop="20260912230000 +0800" channel="珠海">
+    <title lang="zh">纪录片:《奇趣大自然》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912230000 +0800" stop="20260912235959 +0800" channel="珠海">
+    <title lang="zh">电视剧:《小欢喜》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913005000 +0800" stop="20260913065000 +0800" channel="珠海">
+    <title lang="zh">结束</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913065000 +0800" stop="20260913070000 +0800" channel="珠海">
+    <title lang="zh">公益广告展播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913070000 +0800" stop="20260913070100 +0800" channel="珠海">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913070100 +0800" stop="20260913072300 +0800" channel="珠海">
+    <title lang="zh">珠海新闻(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913072300 +0800" stop="20260913073000 +0800" channel="珠海">
+    <title lang="zh">广告+推介</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913073000 +0800" stop="20260913080000 +0800" channel="珠海">
+    <title lang="zh">珠海纪事(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913080000 +0800" stop="20260913112500 +0800" channel="珠海">
+    <title lang="zh">电视剧:《东北抗日联军》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913112500 +0800" stop="20260913120000 +0800" channel="珠海">
+    <title lang="zh">纪录片:《奇趣大自然》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913120000 +0800" stop="20260913122200 +0800" channel="珠海">
+    <title lang="zh">珠海新闻(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913122200 +0800" stop="20260913123000 +0800" channel="珠海">
+    <title lang="zh">广告+推介</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913123000 +0800" stop="20260913130000 +0800" channel="珠海">
+    <title lang="zh">珠海纪事(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913130000 +0800" stop="20260913173000 +0800" channel="珠海">
+    <title lang="zh">电视剧:《什刹海》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913173000 +0800" stop="20260913174500 +0800" channel="珠海">
+    <title lang="zh">湾区会客厅(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913174500 +0800" stop="20260913184000 +0800" channel="珠海">
+    <title lang="zh">七彩阳光</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913184000 +0800" stop="20260913185000 +0800" channel="珠海">
+    <title lang="zh">珠澳零距离(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913185000 +0800" stop="20260913190000 +0800" channel="珠海">
+    <title lang="zh">公益广告</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913190000 +0800" stop="20260913193000 +0800" channel="珠海">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913193000 +0800" stop="20260913193300 +0800" channel="珠海">
+    <title lang="zh">广告+推介</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913193300 +0800" stop="20260913195500 +0800" channel="珠海">
+    <title lang="zh">珠海新闻(首播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913195500 +0800" stop="20260913200000 +0800" channel="珠海">
+    <title lang="zh">天气预报</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913200000 +0800" stop="20260913202500 +0800" channel="珠海">
+    <title lang="zh">“珠”梦绿茵 (重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913202500 +0800" stop="20260913220000 +0800" channel="珠海">
+    <title lang="zh">华发剧场:《大博弈》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913220000 +0800" stop="20260913222200 +0800" channel="珠海">
+    <title lang="zh">珠海新闻(重播)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913222200 +0800" stop="20260913223000 +0800" channel="珠海">
+    <title lang="zh">天气预报+广告</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913223000 +0800" stop="20260913230000 +0800" channel="珠海">
+    <title lang="zh">纪录片:《奇趣大自然》</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913230000 +0800" stop="20260913235959 +0800" channel="珠海">
+    <title lang="zh">电视剧:《小欢喜》</title>
+    <desc lang=""/>
+  </programme>
   <programme start="20260912000000 +0800" stop="20260912065000 +0800" channel="惠州都市生活">
     <title lang="zh">真情追踪</title>
     <desc lang=""/>
@@ -79931,214 +80134,6 @@
   </programme>
   <programme start="20260914000000 +0800" stop="20260914065000 +0800" channel="惠州都市生活">
     <title lang="zh">真情追踪</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912005000 +0800" stop="20260912065000 +0800" channel="珠海">
-    <title lang="zh">结束</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912065000 +0800" stop="20260912070000 +0800" channel="珠海">
-    <title lang="zh">公益广告展播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912070000 +0800" stop="20260912070100 +0800" channel="珠海">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912070100 +0800" stop="20260912072300 +0800" channel="珠海">
-    <title lang="zh">珠海新闻(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912072300 +0800" stop="20260912073000 +0800" channel="珠海">
-    <title lang="zh">广告+推介</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912073000 +0800" stop="20260912080000 +0800" channel="珠海">
-    <title lang="zh">湾区会客厅(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912080000 +0800" stop="20260912112500 +0800" channel="珠海">
-    <title lang="zh">电视剧:《东北抗日联军》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912112500 +0800" stop="20260912120000 +0800" channel="珠海">
-    <title lang="zh">纪录片:《奇趣大自然》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912120000 +0800" stop="20260912122200 +0800" channel="珠海">
-    <title lang="zh">珠海新闻(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912122200 +0800" stop="20260912123000 +0800" channel="珠海">
-    <title lang="zh">广告+推介</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912123000 +0800" stop="20260912130000 +0800" channel="珠海">
-    <title lang="zh">湾区会客厅(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912130000 +0800" stop="20260912173000 +0800" channel="珠海">
-    <title lang="zh">电视剧:《什刹海》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912173000 +0800" stop="20260912174500 +0800" channel="珠海">
-    <title lang="zh">珠澳零距离(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912174500 +0800" stop="20260912184000 +0800" channel="珠海">
-    <title lang="zh">七彩阳光</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912184000 +0800" stop="20260912185000 +0800" channel="珠海">
-    <title lang="zh">湾区会客厅(首播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912185000 +0800" stop="20260912190000 +0800" channel="珠海">
-    <title lang="zh">公益广告</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912190000 +0800" stop="20260912193000 +0800" channel="珠海">
-    <title lang="zh">转播中央台新闻联播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912193000 +0800" stop="20260912193300 +0800" channel="珠海">
-    <title lang="zh">广告+推介</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912193300 +0800" stop="20260912195500 +0800" channel="珠海">
-    <title lang="zh">珠海新闻(首播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912195500 +0800" stop="20260912200000 +0800" channel="珠海">
-    <title lang="zh">天气预报</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912200000 +0800" stop="20260912202500 +0800" channel="珠海">
-    <title lang="zh">珠海纪事(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912202500 +0800" stop="20260912220000 +0800" channel="珠海">
-    <title lang="zh">华发剧场:《大博弈》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912220000 +0800" stop="20260912222200 +0800" channel="珠海">
-    <title lang="zh">珠海新闻(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912222200 +0800" stop="20260912223000 +0800" channel="珠海">
-    <title lang="zh">天气预报+广告</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912223000 +0800" stop="20260912230000 +0800" channel="珠海">
-    <title lang="zh">纪录片:《奇趣大自然》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912230000 +0800" stop="20260912235959 +0800" channel="珠海">
-    <title lang="zh">电视剧:《小欢喜》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913005000 +0800" stop="20260913065000 +0800" channel="珠海">
-    <title lang="zh">结束</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913065000 +0800" stop="20260913070000 +0800" channel="珠海">
-    <title lang="zh">公益广告展播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913070000 +0800" stop="20260913070100 +0800" channel="珠海">
-    <title lang="zh">中华人民共和国国歌</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913070100 +0800" stop="20260913072300 +0800" channel="珠海">
-    <title lang="zh">珠海新闻(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913072300 +0800" stop="20260913073000 +0800" channel="珠海">
-    <title lang="zh">广告+推介</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913073000 +0800" stop="20260913080000 +0800" channel="珠海">
-    <title lang="zh">珠海纪事(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913080000 +0800" stop="20260913112500 +0800" channel="珠海">
-    <title lang="zh">电视剧:《东北抗日联军》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913112500 +0800" stop="20260913120000 +0800" channel="珠海">
-    <title lang="zh">纪录片:《奇趣大自然》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913120000 +0800" stop="20260913122200 +0800" channel="珠海">
-    <title lang="zh">珠海新闻(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913122200 +0800" stop="20260913123000 +0800" channel="珠海">
-    <title lang="zh">广告+推介</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913123000 +0800" stop="20260913130000 +0800" channel="珠海">
-    <title lang="zh">珠海纪事(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913130000 +0800" stop="20260913173000 +0800" channel="珠海">
-    <title lang="zh">电视剧:《什刹海》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913173000 +0800" stop="20260913174500 +0800" channel="珠海">
-    <title lang="zh">湾区会客厅(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913174500 +0800" stop="20260913184000 +0800" channel="珠海">
-    <title lang="zh">七彩阳光</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913184000 +0800" stop="20260913185000 +0800" channel="珠海">
-    <title lang="zh">珠澳零距离(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913185000 +0800" stop="20260913190000 +0800" channel="珠海">
-    <title lang="zh">公益广告</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913190000 +0800" stop="20260913193000 +0800" channel="珠海">
-    <title lang="zh">转播中央台新闻联播</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913193000 +0800" stop="20260913193300 +0800" channel="珠海">
-    <title lang="zh">广告+推介</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913193300 +0800" stop="20260913195500 +0800" channel="珠海">
-    <title lang="zh">珠海新闻(首播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913195500 +0800" stop="20260913200000 +0800" channel="珠海">
-    <title lang="zh">天气预报</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913200000 +0800" stop="20260913202500 +0800" channel="珠海">
-    <title lang="zh">“珠”梦绿茵 (重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913202500 +0800" stop="20260913220000 +0800" channel="珠海">
-    <title lang="zh">华发剧场:《大博弈》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913220000 +0800" stop="20260913222200 +0800" channel="珠海">
-    <title lang="zh">珠海新闻(重播)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913222200 +0800" stop="20260913223000 +0800" channel="珠海">
-    <title lang="zh">天气预报+广告</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913223000 +0800" stop="20260913230000 +0800" channel="珠海">
-    <title lang="zh">纪录片:《奇趣大自然》</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913230000 +0800" stop="20260913235959 +0800" channel="珠海">
-    <title lang="zh">电视剧:《小欢喜》</title>
     <desc lang=""/>
   </programme>
   <programme start="20260912070100 +0800" stop="20260912073200 +0800" channel="江门综合">
@@ -82453,122 +82448,6 @@
     <title lang="zh">《天气预报》</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260912120000 +0800" stop="20260912122400 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912122400 +0800" stop="20260912130000 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912130000 +0800" stop="20260912132500 +0800" channel="茂名文化生活">
-    <title lang="zh">茂名新闻</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912132500 +0800" stop="20260912135200 +0800" channel="茂名文化生活">
-    <title lang="zh">一线关注</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912135200 +0800" stop="20260912153300 +0800" channel="茂名文化生活">
-    <title lang="zh">午间剧场:国家孩子(36、37)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912153300 +0800" stop="20260912171400 +0800" channel="茂名文化生活">
-    <title lang="zh">午间剧场:国家孩子(38、39)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912171400 +0800" stop="20260912173800 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912173800 +0800" stop="20260912181300 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912181300 +0800" stop="20260912183800 +0800" channel="茂名文化生活">
-    <title lang="zh">民声热线</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912183800 +0800" stop="20260912190800 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912190800 +0800" stop="20260912205200 +0800" channel="茂名文化生活">
-    <title lang="zh">黄金剧场:追光的日子(26、27)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912205200 +0800" stop="20260912213000 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912213000 +0800" stop="20260912215500 +0800" channel="茂名文化生活">
-    <title lang="zh">茂名新闻</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912215500 +0800" stop="20260912222200 +0800" channel="茂名文化生活">
-    <title lang="zh">一线关注</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912222200 +0800" stop="20260912235959 +0800" channel="茂名文化生活">
-    <title lang="zh">晚间剧场:三泉溪暖(22、23)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913120000 +0800" stop="20260913122400 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913122400 +0800" stop="20260913130000 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913130000 +0800" stop="20260913132500 +0800" channel="茂名文化生活">
-    <title lang="zh">茂名新闻</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913132500 +0800" stop="20260913135200 +0800" channel="茂名文化生活">
-    <title lang="zh">一线关注</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913135200 +0800" stop="20260913142700 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913142700 +0800" stop="20260913151500 +0800" channel="茂名文化生活">
-    <title lang="zh">午间剧场:国家孩子(40)(完)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913151500 +0800" stop="20260913174400 +0800" channel="茂名文化生活">
-    <title lang="zh">午间剧场:塞上风云记(1、2、3)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913174400 +0800" stop="20260913183400 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913183400 +0800" stop="20260913191400 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913191400 +0800" stop="20260913205000 +0800" channel="茂名文化生活">
-    <title lang="zh">黄金剧场:追光的日子(28、29)</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913205000 +0800" stop="20260913213000 +0800" channel="茂名文化生活">
-    <title lang="zh">绿野中国</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913213000 +0800" stop="20260913215500 +0800" channel="茂名文化生活">
-    <title lang="zh">茂名新闻</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913215500 +0800" stop="20260913222200 +0800" channel="茂名文化生活">
-    <title lang="zh">一线关注</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260913222200 +0800" stop="20260913235959 +0800" channel="茂名文化生活">
-    <title lang="zh">晚间剧场:三泉溪暖(24、25)</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260912080000 +0800" stop="20260912080100 +0800" channel="茂名综合">
     <title lang="zh">国歌</title>
     <desc lang=""/>
@@ -82799,6 +82678,122 @@
   </programme>
   <programme start="20260913233500 +0800" stop="20260913235959 +0800" channel="茂名综合">
     <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912120000 +0800" stop="20260912122400 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912122400 +0800" stop="20260912130000 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912130000 +0800" stop="20260912132500 +0800" channel="茂名文化生活">
+    <title lang="zh">茂名新闻</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912132500 +0800" stop="20260912135200 +0800" channel="茂名文化生活">
+    <title lang="zh">一线关注</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912135200 +0800" stop="20260912153300 +0800" channel="茂名文化生活">
+    <title lang="zh">午间剧场:国家孩子(36、37)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912153300 +0800" stop="20260912171400 +0800" channel="茂名文化生活">
+    <title lang="zh">午间剧场:国家孩子(38、39)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912171400 +0800" stop="20260912173800 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912173800 +0800" stop="20260912181300 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912181300 +0800" stop="20260912183800 +0800" channel="茂名文化生活">
+    <title lang="zh">民声热线</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912183800 +0800" stop="20260912190800 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912190800 +0800" stop="20260912205200 +0800" channel="茂名文化生活">
+    <title lang="zh">黄金剧场:追光的日子(26、27)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912205200 +0800" stop="20260912213000 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912213000 +0800" stop="20260912215500 +0800" channel="茂名文化生活">
+    <title lang="zh">茂名新闻</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912215500 +0800" stop="20260912222200 +0800" channel="茂名文化生活">
+    <title lang="zh">一线关注</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260912222200 +0800" stop="20260912235959 +0800" channel="茂名文化生活">
+    <title lang="zh">晚间剧场:三泉溪暖(22、23)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913120000 +0800" stop="20260913122400 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913122400 +0800" stop="20260913130000 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913130000 +0800" stop="20260913132500 +0800" channel="茂名文化生活">
+    <title lang="zh">茂名新闻</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913132500 +0800" stop="20260913135200 +0800" channel="茂名文化生活">
+    <title lang="zh">一线关注</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913135200 +0800" stop="20260913142700 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913142700 +0800" stop="20260913151500 +0800" channel="茂名文化生活">
+    <title lang="zh">午间剧场:国家孩子(40)(完)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913151500 +0800" stop="20260913174400 +0800" channel="茂名文化生活">
+    <title lang="zh">午间剧场:塞上风云记(1、2、3)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913174400 +0800" stop="20260913183400 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913183400 +0800" stop="20260913191400 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913191400 +0800" stop="20260913205000 +0800" channel="茂名文化生活">
+    <title lang="zh">黄金剧场:追光的日子(28、29)</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913205000 +0800" stop="20260913213000 +0800" channel="茂名文化生活">
+    <title lang="zh">绿野中国</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913213000 +0800" stop="20260913215500 +0800" channel="茂名文化生活">
+    <title lang="zh">茂名新闻</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913215500 +0800" stop="20260913222200 +0800" channel="茂名文化生活">
+    <title lang="zh">一线关注</title>
+    <desc lang=""/>
+  </programme>
+  <programme start="20260913222200 +0800" stop="20260913235959 +0800" channel="茂名文化生活">
+    <title lang="zh">晚间剧场:三泉溪暖(24、25)</title>
     <desc lang=""/>
   </programme>
   <programme start="20260912000000 +0800" stop="20260912000900 +0800" channel="阳江-1">
@@ -86757,14 +86752,6 @@
     <title lang="zh">法治中国60分</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260912000000 +0800" stop="20260912022500 +0800" channel="睛彩竞技">
-    <title lang="zh">网球世界:美网公开赛女双决赛</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912022500 +0800" stop="20260912030000 +0800" channel="睛彩竞技">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260912030000 +0800" stop="20260912053000 +0800" channel="睛彩竞技">
     <title lang="zh">网球世界:美网公开赛男单半决赛</title>
     <desc lang=""/>
@@ -87031,18 +87018,6 @@
   </programme>
   <programme start="20260914222500 +0800" stop="20260914235900 +0800" channel="睛彩竞技">
     <title lang="zh">全景世界杯:美加墨世界杯1/4决赛</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912015000 +0800" stop="20260912021000 +0800" channel="睛彩篮球">
-    <title lang="zh">荣耀之路</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912021000 +0800" stop="20260912022000 +0800" channel="睛彩篮球">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912022000 +0800" stop="20260912035500 +0800" channel="睛彩篮球">
-    <title lang="zh">NBL城燃之战:杭州经纬-合肥狂风</title>
     <desc lang=""/>
   </programme>
   <programme start="20260912035500 +0800" stop="20260912040500 +0800" channel="睛彩篮球">
@@ -87517,22 +87492,6 @@
     <title lang="zh">我爱女篮:2025/2026赛季总决赛G2</title>
     <desc lang=""/>
   </programme>
-  <programme start="20260912015000 +0800" stop="20260912024000 +0800" channel="睛彩青少">
-    <title lang="zh">青少年健身课</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912024000 +0800" stop="20260912025000 +0800" channel="睛彩青少">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912025000 +0800" stop="20260912035000 +0800" channel="睛彩青少">
-    <title lang="zh">机甲大师赛</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912035000 +0800" stop="20260912040000 +0800" channel="睛彩青少">
-    <title lang="zh">频道宣传</title>
-    <desc lang=""/>
-  </programme>
   <programme start="20260912040000 +0800" stop="20260912052000 +0800" channel="睛彩青少">
     <title lang="zh">户外探险</title>
     <desc lang=""/>
@@ -87995,14 +87954,6 @@
   </programme>
   <programme start="20260914231000 +0800" stop="20260914235900 +0800" channel="睛彩青少">
     <title lang="zh">青少年健身课</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912012500 +0800" stop="20260912030500 +0800" channel="睛彩广场舞">
-    <title lang="zh">经典逆转时刻</title>
-    <desc lang=""/>
-  </programme>
-  <programme start="20260912030500 +0800" stop="20260912035500 +0800" channel="睛彩广场舞">
-    <title lang="zh">英超精华</title>
     <desc lang=""/>
   </programme>
   <programme start="20260912035500 +0800" stop="20260912041000 +0800" channel="睛彩广场舞">
@@ -91702,7 +91653,7 @@
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260912090000 +0800" stop="20260912120000 +0800" channel="Z_Cinema_HD">
-    <title lang="zh">Goodbye</title>
+    <title lang="zh">Jawan</title>
     <desc lang="zh"> </desc>
   </programme>
   <programme start="20260912120000 +0800" stop="20260912150000 +0800" channel="Z_Cinema_HD">
@@ -95121,11 +95072,11 @@
     <title lang="zh">Kutra Pirivu</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260912043000 +0800" stop="20260912073000 +0800" channel="KTV">
+  <programme start="20260912043000 +0800" stop="20260912072300 +0800" channel="KTV">
     <title lang="zh">Thayamma</title>
     <desc lang="zh"> </desc>
   </programme>
-  <programme start="20260912073000 +0800" stop="20260912093000 +0800" channel="KTV">
+  <programme start="20260912072300 +0800" stop="20260912093000 +0800" channel="KTV">
     <title lang="zh">Mythili</title>
     <desc lang="zh"> </desc>
   </programme>
